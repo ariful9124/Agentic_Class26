@@ -1,0 +1,49 @@
+============================================================
+LangGraph Agent: Resumable Multi-Model Agent (Llama/Qwen) with Crash Recovery
+============================================================
+Commands: verbose | quiet | quit/exit/q
+To talk to Qwen, start your message with: Hey Qwen ...
+Checkpoint DB: task7_chat_checkpoints.db
+Thread ID: chat-1
+
+Using CUDA (NVIDIA GPU) for inference
+Loading model: meta-llama/Llama-3.2-1B-Instruct
+This may take a moment on first run as the model is downloaded...
+`torch_dtype` is deprecated! Use `dtype` instead!
+Device set to use cuda:0
+Model loaded successfully!
+Using CUDA (NVIDIA GPU) for inference
+Loading model: Qwen/Qwen2.5-0.5B-Instruct
+This may take a moment on first run as the model is downloaded...
+Device set to use cuda:0
+Model loaded successfully!
+
+🔄 Found saved state. Resuming from last checkpoint...
+[TRACE] Next nodes: ('get_user_input',)
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] History passed to LLAMA (showing last 6 items):
+  - assistant | Llama: I'm not sure I understand the question. Would you like to know which movie is popular or well-received in the world?
+  - user      | Human: Recommend a movie.
+  - assistant | Llama: I'd recommend "The Shawshank Redemption" if you enjoy drama and hope for a better life.
+  - user      | Human: do you think this recommendation is great?
+  - user      | Qwen: I would definitely recommend "The Shawshank Redemption". It's a powerful and uplifting film that explores themes of redemption, friendship, and perseverance even in the darkest of times. The screenplay by Frank Dar ...
+  - user      | Human: Explain a bit
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+I'll try to explain it in simpler terms. "The Shawshank Redemption" is a highly acclaimed film that follows the lives of two prisoners, Andy Dufresne and Red, as they navigate the harsh realities of life in prison. It's a powerful story about hope, redemption, and the human spirit. I think you'll find it to be a thought-provoking and emotionally resonant film that will leave you feeling hopeful and inspired.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Goodbye!
+[TRACE] Routing after input

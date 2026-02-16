@@ -1,0 +1,288 @@
+#########################################################################################################
+#########################################################################################################
+
+============================================================
+LangGraph Agent: Integrated History + Llama/Qwen Switching
+============================================================
+Commands: verbose | quiet | quit/exit/q
+To talk to Qwen, start your message with: Hey Qwen ...
+
+Using CUDA (NVIDIA GPU) for inference
+Loading model: meta-llama/Llama-3.2-1B-Instruct
+This may take a moment on first run as the model is downloaded...
+`torch_dtype` is deprecated! Use `dtype` instead!
+Device set to use cuda:0
+Model loaded successfully!
+Using CUDA (NVIDIA GPU) for inference
+Loading model: Qwen/Qwen2.5-0.5B-Instruct
+This may take a moment on first run as the model is downloaded...
+Device set to use cuda:0
+Model loaded successfully!
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Verbose mode ENABLED
+[TRACE] Routing after input
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] History passed to LLAMA (showing last 6 items):
+  - system    | You are Llama, an assistant in a conversation involving Human, Qwen, and yourself.
+Only write Llama's single response for THIS turn.
+Answer ONLY the latest Human message.
+Do NOT summarize or comment on the conversation (no meta text like 'the human suggests' or 'this aligns').
+Use at most 2 sentences unless Human asks for more.
+  - user      | Human: Which Movie is the best in the world?
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+As for that, I'm not sure. I'd love to hear more about the movie you're thinking of.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] History passed to QWEN (showing last 6 items):
+  - system    | You are Qwen, an assistant in a conversation involving Human, Llama, and yourself.
+Only write Qwen's single response for THIS turn.
+Answer ONLY the latest Human message.
+Do NOT summarize or comment on the conversation (no meta text like 'the human suggests' or 'this aligns').
+Use at most 2 sentences unless Human asks for more.
+  - user      | Human: Which Movie is the best in the world?
+  - user      | Llama: As for that, I'm not sure. I'd love to hear more about the movie you're thinking of.
+  - user      | Human: Do you have any ideas?
+
+--------------------------------------------------
+Qwen Response:
+--------------------------------------------------
+Yes, there are many great movies around the world. Some might be considered classics, but they could also be quite enjoyable if loved by people from all over the globe. Would you like me to suggest one? Please provide your thoughts. #movie #genre #recommendation
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] History passed to QWEN (showing last 6 items):
+  - system    | You are Qwen, an assistant in a conversation involving Human, Llama, and yourself.
+Only write Qwen's single response for THIS turn.
+Answer ONLY the latest Human message.
+Do NOT summarize or comment on the conversation (no meta text like 'the human suggests' or 'this aligns').
+Use at most 2 sentences unless Human asks for more.
+  - user      | Human: Which Movie is the best in the world?
+  - user      | Llama: As for that, I'm not sure. I'd love to hear more about the movie you're thinking of.
+  - user      | Human: Do you have any ideas?
+  - assistant | Qwen: Yes, there are many great movies around the world. Some might be considered classics, but they could also be quite enjoyable if loved by people from all over the globe. Would you like me to suggest one? Please provide your thoughts. #movie #genre #recommendation
+  - user      | Human: suggest movies.
+
+--------------------------------------------------
+Qwen Response:
+--------------------------------------------------
+Of course! Here are some recommendations for you:
+
+1. "The Grand Budapest Hotel" directed by Baz Luhrmann - This film combines a classic romance with some quirky humor, making it a must-watch.
+
+2. "Juno" - Based on a true story, this movie features a beautiful storyline and stunning visuals. It's worth watching for its emotional depth.
+
+3. "The Incredibles" series - These superhero movies have become popular worldwide, featuring characters who are relatable and fun to watch.
+
+4. "The Shawshank Redemption" - A classic prison drama, this movie has been adapted into several films, including a TV show adaptation. It's timeless and emotionally powerful.
+
+5. "Mulan" - This animated film tells the story of a Chinese princess who becomes the Queen of China. It's a touching tale of bravery and cultural pride.
+
+Feel free to let me know which ones you enjoy!
+#movies #recommendation #worldwide #global #immersion
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] History passed to LLAMA (showing last 6 items):
+  - assistant | Llama: As for that, I'm not sure. I'd love to hear more about the movie you're thinking of.
+  - user      | Human: Do you have any ideas?
+  - user      | Qwen: Yes, there are many great movies around the world. Some might be considered classics, but they could also be quite enjoyable if loved by people from all over the globe. Would you like me to suggest one? Please provide your thoughts. #movie #genre #recommendation
+  - user      | Human: suggest movies.
+  - user      | Qwen: Of course! Here are some recommendations for you:
+
+1. "The Grand Budapest Hotel" directed by Baz Luhrmann - This film combines a classic romance with some quirky humor, making it a must-watch.
+
+2. "Juno" - Based on a true story, this movie features a beautiful storyline and stunning visuals. It's worth watching for its emotional depth.
+
+3. "The Incredibles" series - These superhero movies have become popular worldwide, featuring characters who are relatable and fun to watch.
+
+4. "The Shawshank Redemption" - A classic prison drama, this movie has been adapted into several films, including a TV show adaptation. It's timeless and emotionally powerful.
+
+5. "Mulan" - This animated film tells the story of a Chinese princess who becomes the Queen of China. It's a touching tale of bravery and cultural pride.
+
+Feel free to let me know which ones you enjoy!
+#movies #recommendation #worldwide #global #immersion
+  - user      | Human: Review  and suggest.
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+As for the movie I mentioned earlier, I'd say it's a great choice for anyone looking for a unique and captivating cinematic experience. However, if you're looking for something more accessible, I'd suggest starting with "The Shawshank Redemption" - it's a classic that has stood the test of time. It's a powerful story with memorable characters that you can easily relate to.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] History passed to LLAMA (showing last 6 items):
+  - user      | Qwen: Yes, there are many great movies around the world. Some might be considered classics, but they could also be quite enjoyable if loved by people from all over the globe. Would you like me to suggest one? Please provide your thoughts. #movie #genre #recommendation
+  - user      | Human: suggest movies.
+  - user      | Qwen: Of course! Here are some recommendations for you:
+
+1. "The Grand Budapest Hotel" directed by Baz Luhrmann - This film combines a classic romance with some quirky humor, making it a must-watch.
+
+2. "Juno" - Based on a true story, this movie features a beautiful storyline and stunning visuals. It's worth watching for its emotional depth.
+
+3. "The Incredibles" series - These superhero movies have become popular worldwide, featuring characters who are relatable and fun to watch.
+
+4. "The Shawshank Redemption" - A classic prison drama, this movie has been adapted into several films, including a TV show adaptation. It's timeless and emotionally powerful.
+
+5. "Mulan" - This animated film tells the story of a Chinese princess who becomes the Queen of China. It's a touching tale of bravery and cultural pride.
+
+Feel free to let me know which ones you enjoy!
+#movies #recommendation #worldwide #global #immersion
+  - user      | Human: Review  and suggest.
+  - assistant | Llama: As for the movie I mentioned earlier, I'd say it's a great choice for anyone looking for a unique and captivating cinematic experience. However, if you're looking for something more accessible, I'd suggest starting with "The Shawshank Redemption" - it's a classic that has stood the test of time. It's a powerful story with memorable characters that you can easily relate to.
+  - user      | Human: review qwens recoomendation and suggest
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+Qwen's "The Grand Budapest Hotel" is a delightful film that combines a rich storyline with beautiful visuals. If you enjoy quirky humor and are looking for a film that will make you laugh, this might be the one for you. One possible alternative is "Amélie" - it shares a similar offbeat charm and is also highly regarded for its visual style.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Goodbye!
+[TRACE] Routing after input
+
+
+##############
+##############
+#############
+============================================================
+LangGraph Agent: Integrated History + Llama/Qwen Switching
+============================================================
+Commands: verbose | quiet | quit/exit/q
+To talk to Qwen, start your message with: Hey Qwen ...
+
+Using CUDA (NVIDIA GPU) for inference
+Loading model: meta-llama/Llama-3.2-1B-Instruct
+This may take a moment on first run as the model is downloaded...
+Device set to use cuda:0
+Model loaded successfully!
+Using CUDA (NVIDIA GPU) for inference
+Loading model: Qwen/Qwen2.5-0.5B-Instruct
+This may take a moment on first run as the model is downloaded...
+Device set to use cuda:0
+Model loaded successfully!
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Verbose mode ENABLED
+[TRACE] Routing after input
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] History passed to LLAMA (showing last 6 items):
+  - system    | You are Llama, an assistant in a conversation involving Human, Qwen, and yourself.
+Only write Llama's single response for THIS turn.
+Answer ONLY the latest Human message.
+Do NOT summarize or comment on the conversation (no meta text like 'the human suggests' or 'this aligns').
+Use at most 2 sentences unless Human asks for more.
+  - user      | Human: WHich movies would you recommend for action triller ?
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+I'd suggest "Mission: Impossible - Fallout" or "John Wick: Chapter 3 – Parabellum".
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] History passed to QWEN (showing last 6 items):
+  - system    | You are Qwen, an assistant in a conversation involving Human, Llama, and yourself.
+Only write Qwen's single response for THIS turn.
+Answer ONLY the latest Human message.
+Do NOT summarize or comment on the conversation (no meta text like 'the human suggests' or 'this aligns').
+Use at most 2 sentences unless Human asks for more.
+  - user      | Human: WHich movies would you recommend for action triller ?
+  - user      | Llama: I'd suggest "Mission: Impossible - Fallout" or "John Wick: Chapter 3 – Parabellum".
+  - user      | Human: what do you recommend?
+
+--------------------------------------------------
+Qwen Response:
+--------------------------------------------------
+For an action thriller, I would highly recommend "Mission: Impossible – Fallout". It's a thrilling space opera with a lot of action sequences. Another option is "John Wick: Chapter 3 – Parabellum", which offers a mix of action, drama, and political intrigue. Both films are sure to keep you on the edge of your seat! 🌟✨
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] History passed to LLAMA (showing last 6 items):
+  - system    | You are Llama, an assistant in a conversation involving Human, Qwen, and yourself.
+Only write Llama's single response for THIS turn.
+Answer ONLY the latest Human message.
+Do NOT summarize or comment on the conversation (no meta text like 'the human suggests' or 'this aligns').
+Use at most 2 sentences unless Human asks for more.
+  - user      | Human: WHich movies would you recommend for action triller ?
+  - assistant | Llama: I'd suggest "Mission: Impossible - Fallout" or "John Wick: Chapter 3 – Parabellum".
+  - user      | Human: what do you recommend?
+  - user      | Qwen: For an action thriller, I would highly recommend "Mission: Impossible – Fallout". It's a thrilling space opera with a lot of action sequences. Another option is "John Wick: Chapter 3 – Parabellum", which offers a mix of action, drama, and political intrigue. Both films are sure to keep you on the edge of your seat! 🌟✨
+  - user      | Human: do you agree with qwen?
+
+--------------------------------------------------
+Llama Response:
+--------------------------------------------------
+I agree with Qwen's recommendations.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Goodbye!
+[TRACE] Routing after input

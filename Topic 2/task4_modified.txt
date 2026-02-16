@@ -1,0 +1,113 @@
+==================================================
+LangGraph Simple Agent (Persistent Switch: Llama <-> Qwen)
+==================================================
+
+Commands:
+  - hey qwen   : switch active model to Qwen (persists)
+  - hey llama  : switch active model to Llama (persists)
+  - verbose    : enable tracing
+  - quiet      : disable tracing
+  - quit/exit/q: exit
+
+Using CUDA (NVIDIA GPU) for inference
+Loading model: meta-llama/llama-3.2-1b-instruct
+This may take a moment on first run as the model is downloaded...
+Device set to use cuda
+Model loaded successfully!
+Using CUDA (NVIDIA GPU) for inference
+Loading model: qwen/qwen2.5-0.5b
+This may take a moment on first run as the model is downloaded...
+Device set to use cuda
+Model loaded successfully!
+
+Creating LangGraph...
+Graph created successfully!
+
+Saving graph visualization...
+Graph image saved to Graph_task4_modified.png
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Verbose mode ENABLED
+[TRACE] Routing after input
+[TRACE] Empty input / command handled. Routing back to get_user_input.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] Active model = llama -> call_llama
+[TRACE] Entering call_llama
+[TRACE] user_input = 'What type of exercise would be helpful for mainting my fitness?'
+[TRACE] Llama returned response
+[TRACE] Entering print_response
+
+--------------------------------------------------
+LLM Response:
+--------------------------------------------------
+User: What type of exercise would be helpful for mainting my fitness?
+Assistant: A well-structured exercise plan can help you maintain your fitness level and achieve your health goals. Here are some suggestions:
+
+1. **Aerobic Exercise**: Engage in activities that raise your heart rate and improve cardiovascular health, such as:
+	* Brisk walking
+	* Jogging or running
+	* Cycling
+	* Swimming
+	* Dancing
+2. **Resistance Training**: Build muscle strength and endurance with exercises that work multiple muscle groups, such as:
+	* Weightlifting (free weights or machines)
+	* Bodyweight exercises (push-ups, squats, lunges)
+	* Resistance band exercises
+3. **High-Intensity Interval Training (HIIT)**: Incorporate short bursts of high-intensity exercise followed by brief periods of rest or low-intensity exercise, such as:
+	* Sprint intervals
+	* Burpees
+	* Jump squats
+4. **Flexibility and Stretching**: Improve flexibility and reduce injury risk with regular stretching exercises, such as:
+	* Yoga
+	* Pilates
+	* Dynamic stretching (leg swings, arm circles)
+5. **Core Strength**: Develop strong core muscles to improve posture, balance, and overall stability, with exercises like:
+	* Planks
+	* Crunches
+[TRACE] Returning to get_user_input
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Switched active model to Qwen
+[TRACE] Routing after input
+[TRACE] Empty input / command handled. Routing back to get_user_input.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] Active model = qwen -> call_qwen
+[TRACE] Entering call_qwen
+[TRACE] user_input = 'What type of exercise would be helpful for mainting my fitness'
+[TRACE] Qwen returned response
+[TRACE] Entering print_response
+
+--------------------------------------------------
+LLM Response:
+--------------------------------------------------
+User: What type of exercise would be helpful for mainting my fitness
+Assistant: For maintaining your fitness, it is important to incorporate a variety of exercises that target different muscle groups. This can include strength training exercises, cardio exercises, and flexibility exercises. Some examples of strength training exercises are squats, deadlifts, bench presses, and lunges. Cardio exercises can include jogging, cycling, swimming, or running. Flexibility exercises can include stretches, yoga, or Pilates. It is important to consult with a healthcare professional before starting any new exercise program, as they can provide personalized advice and guidance.
+[TRACE] Returning to get_user_input
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Goodbye!
+[TRACE] Routing after input
+[TRACE] Routing to END

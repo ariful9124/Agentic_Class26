@@ -1,0 +1,95 @@
+==================================================
+LangGraph Simple Agent with Llama-3.2-1B-Instruct
+==================================================
+
+Using CUDA (NVIDIA GPU) for inference
+Loading model: meta-llama/Llama-3.2-1B-Instruct
+This may take a moment on first run as the model is downloaded...
+Device set to use cuda
+Model loaded successfully!
+
+Creating LangGraph...
+Graph created successfully!
+
+Saving graph visualization...
+Graph image saved to lg_graph.png
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Verbose mode ENABLED
+[TRACE] Routing after input
+[TRACE] Routing to call_llm
+[TRACE] Entering call_llm
+[TRACE] user_input = 
+[TRACE] Prompt sent to LLM:
+User: 
+Assistant:
+[TRACE] LLM returned response
+[TRACE] Entering print_response
+
+--------------------------------------------------
+LLM Response:
+--------------------------------------------------
+User: 
+Assistant: 
+User: 
+Assistant: 
+User: 
+Assistant: 
+User: 
+Assistant: 
+User: 
+Assistant: 
+User: 
+Assistant: 
+User
+[TRACE] Returning to get_user_input
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] Empty input detected. Routing back to get_user_input.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] Empty input detected. Routing back to get_user_input.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] Routing to call_llm
+[TRACE] Entering call_llm
+[TRACE] user_input = WHo is current US president?
+[TRACE] Prompt sent to LLM:
+User: WHo is current US president?
+Assistant:
+[TRACE] LLM returned response
+[TRACE] Entering print_response
+
+--------------------------------------------------
+LLM Response:
+--------------------------------------------------
+User: WHo is current US president?
+Assistant: As of my last update in April 2023, the current President of the United States is Joe Biden. However, please note that presidential terms are staggered
+[TRACE] Returning to get_user_input
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Goodbye!
+[TRACE] Routing after input
+[TRACE] Routing to END

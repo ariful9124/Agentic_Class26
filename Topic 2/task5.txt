@@ -1,0 +1,71 @@
+============================================================
+LangGraph Simple Agent (Chat History via Message API) - Llama only
+============================================================
+Commands: verbose | quiet | quit/exit/q
+
+Using CUDA (NVIDIA GPU) for inference
+Loading model: meta-llama/Llama-3.2-1B-Instruct
+This may take a moment on first run as the model is downloaded...
+Device set to use cuda
+Model loaded successfully!
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> 
+--------------------------------------------------
+LLM Response:
+--------------------------------------------------
+There are many amazing routes to experience America's beauty. Some popular options include:
+- Pacific Coast Highway (California): Stunning coastal scenery, iconic Big Sur, and iconic Santa Barbara.
+- Grand Teton Scenic Byway (Wyoming): Breathtaking mountain vistas and pristine lakes.
+- Blue Ridge Parkway (North Carolina and Virginia): Scenic drives through the Blue Ridge Mountains, with stunning fall foliage.
+- Route 66 (Illinois to California): The original "Mother Road" offers a nostalgic and nostalgic drive through the heartland.
+- National Parks: Explore America's most iconic national parks, such as Yellowstone, Yosemite, and the
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Verbose mode ENABLED
+[TRACE] Routing after input
+[TRACE] Empty input / command handled. Routing back to get_user_input.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] Empty input / command handled. Routing back to get_user_input.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> [TRACE] Routing after input
+[TRACE] Entering call_llm
+[TRACE] messages in history = 4
+[TRACE] Prompt built from message history (first 300 chars):
+System: You are a helpful assistant. Keep answers concise.
+User: Explain the best route to experience USA beuty
+Assistant: There are many amazing routes to experience America's beauty. Some popular options include:
+- Pacific Coast Highway (California): Stunning coastal scenery, iconic Big Sur, and i
+[TRACE] LLM returned response
+[TRACE] Entering print_response
+
+--------------------------------------------------
+LLM Response:
+--------------------------------------------------
+I recommend exploring the Pacific Coast Highway (California) and Grand Teton Scenic Byway (Wyoming) for a mix of coastal and mountain scenery, as well as iconic national parks like Yosemite and Yellowstone. This route offers a great balance of natural beauty, culture, and outdoor activities.
+[TRACE] Entering get_user_input
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> Goodbye!
+[TRACE] Routing after input
+[TRACE] Routing to END
