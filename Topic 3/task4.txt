@@ -1,0 +1,42 @@
+================================================================================
+DEMO A: Multiple tool calls in a single assistant turn
+================================================================================
+USER: Are there more i's than s's in 'Mississippi riverboats'? Use tools and give both counts.
+ASSISTANT: In the phrase "Mississippi riverboats," there are 5 occurrences of the letter 'i' and 5 occurrences of the letter 's'. Therefore, there are not more 'i's than 's's; they are equal.
+
+================================================================================
+DEMO B: Sequential chaining (count -> count -> (calc) -> sin)
+================================================================================
+USER: What is the sin of the difference between the number of i's and the number of s's in 'Mississippi riverboats'? Use tools.
+ASSISTANT: The sin of the difference between the number of i's and the number of s's in "Mississippi riverboats" is 0.0.
+
+================================================================================
+DEMO C: Query that uses ALL tools
+================================================================================
+USER: Using tools only:
+1) Compute distance (miles) between Richmond, VA and Charlottesville, VA.
+2) Count i's and s's in 'Mississippi riverboats'.
+3) Let k = i_count - s_count. Use calculator_tool to compute k.
+4) Compute sin(k) using sin_tool.
+Return a short summary with distance, counts, k, and sin(k).
+ASSISTANT: Here's the summary of the computations:
+
+1. **Distance between Richmond, VA and Charlottesville, VA**: 66.1 miles
+2. **Count of 'i' in 'Mississippi riverboats'**: 5
+3. **Count of 's' in 'Mississippi riverboats'**: 5
+4. **k (i_count - s_count)**: 0
+5. **sin(k)**: 0.0
+
+If you need any further information, feel free to ask!
+
+================================================================================
+DEMO D: Try to hit 5-turn outer loop limit (one tool per step + recursion_limit=5)
+================================================================================
+USER: Do this strictly one step at a time, using exactly ONE tool call per step, and wait for results:
+1) Count letter 'i' in 'Mississippi riverboats'
+2) Count letter 's' in 'Mississippi riverboats'
+3) Use calculator_tool to compute k = i_count - s_count
+4) Compute sin(k) using sin_tool
+5) List I-64 cities
+If you get cut off, say where you stopped.
+ASSISTANT: [Stopped] Hit recursion limit = 5 before finishing.

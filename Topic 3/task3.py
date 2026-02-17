@@ -33,20 +33,6 @@ def calculate_distance(lat1, lon1, lat2, lon2):
     a = math.sin(dphi/2)**2 + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda/2)**2
     return 2 * R * math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
-def haversine_distance_between_cities(city1: str, city2: str) -> str:
-    """
-    Calculate the Haversine distance between two I-64 cities by name.
-    Returns a formatted string with the distance in miles.
-    """
-    try:
-        lat1, lon1 = get_coords(city1)
-        lat2, lon2 = get_coords(city2)
-        dist = calculate_distance(lat1, lon1, lat2, lon2)
-        return f"The distance between {city1} and {city2} is {dist:.2f} miles."
-    except ValueError as e:
-        return str(e)
-
-
 
 # %%
 # This is the JSON schema that tells the LLM what tools exist
@@ -128,7 +114,8 @@ def run_agent(user_query: str):
             tool_choice="auto"
         )
         assistant_message = response.choices[0].message
-
+        # If the model needs a tool, it returns assistant_message.tool_calls.
+        # If it can answer directly, assistant_message.tool_calls is empty and it returns text.
         if assistant_message.tool_calls:
             print(f"LLM wants to call {len(assistant_message.tool_calls)} tool(s)")
             # Reformat the assistant message to classic dict format for OpenAI API

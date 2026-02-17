@@ -1,0 +1,75 @@
+======================================================================
+LangGraph: Tool-Using Chat Agent (Single Long Conversation)
+======================================================================
+Checkpoint DB: tool_chat_checkpoints.db
+Thread ID:     chat-1
+Model:         gpt-4o-mini
+
+Graph image saved to Topic3_task5.png
+▶️  Starting a new conversation...
+
+
+============================================================
+Tool-Using Chat Agent (LangGraph) - Single Long Conversation
+============================================================
+Commands: verbose | quiet | quit/exit/q
+
+Verbose mode ENABLED
+[TRACE] Entering get_user_input
+
+============================================================
+Tool-Using Chat Agent (LangGraph) - Single Long Conversation
+============================================================
+Commands: verbose | quiet | quit/exit/q
+
+
+------------------------------------------------------------
+Assistant:
+------------------------------------------------------------
+The coordinates of Richmond, VA are approximately 37.5407° latitude and -77.436° longitude.
+[TRACE] Entering get_user_input
+
+============================================================
+Tool-Using Chat Agent (LangGraph) - Single Long Conversation
+============================================================
+Commands: verbose | quiet | quit/exit/q
+
+
+------------------------------------------------------------
+Assistant:
+------------------------------------------------------------
+The distance between Richmond, VA and Charlottesville, VA is approximately 66.1 miles.
+[TRACE] Entering get_user_input
+
+============================================================
+Tool-Using Chat Agent (LangGraph) - Single Long Conversation
+============================================================
+Commands: verbose | quiet | quit/exit/q
+
+
+------------------------------------------------------------
+Assistant:
+------------------------------------------------------------
+The distance between Wentzville, MO and Charlottesville, VA is approximately 671.3 miles.
+[TRACE] Entering get_user_input
+
+============================================================
+Tool-Using Chat Agent (LangGraph) - Single Long Conversation
+============================================================
+Commands: verbose | quiet | quit/exit/q
+
+
+------------------------------------------------------------
+Assistant:
+------------------------------------------------------------
+In the phrase "Mississippi riverboats," there are 5 occurrences of the letter 'i' and 5 occurrences of the letter 's'. The difference between the counts is 0. 
+
+The sine of this difference (0) is also 0.
+[TRACE] Entering get_user_input
+
+============================================================
+Tool-Using Chat Agent (LangGraph) - Single Long Conversation
+============================================================
+Commands: verbose | quiet | quit/exit/q
+
+Goodbye!
