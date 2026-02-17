@@ -1,0 +1,96 @@
+============================================================
+======================== Test run 1 ========================
+============================================================
+
+
+============================================================
+TEST 1: I-64 city coordinates
+============================================================
+User: What are the coordinates of Chesapeake, VA?
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: get_coords
+  Args: {'city_name': 'Chesapeake, VA'}
+  Result: (36.819, -76.2749)
+
+--- Iteration 2 ---
+Assistant: The coordinates of Chesapeake, VA are approximately 36.819° N latitude and -76.2749° W longitude.
+
+
+============================================================
+TEST 2: I-64 city coordinates
+============================================================
+User: What are the coordinates of Louisville, KY?
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: get_coords
+  Args: {'city_name': 'Louisville, KY'}
+  Result: (38.2527, -85.7585)
+
+--- Iteration 2 ---
+Assistant: The coordinates of Louisville, KY are 38.2527° N latitude and -85.7585° W longitude.
+
+
+============================================================
+TEST 3: I-64 city coordinates
+============================================================
+User: Give me the coordinates for St. Louis, MO.
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: get_coords
+  Args: {'city_name': 'St. Louis, MO'}
+  Result: (38.627, -90.1994)
+
+--- Iteration 2 ---
+Assistant: The coordinates for St. Louis, MO are:
+- Latitude: 38.627
+- Longitude: -90.1994
+
+
+============================================================
+TEST 4: Route spanning two states
+============================================================
+User: What is the distance from Charleston, WV to St. Louis, MO?
+
+--- Iteration 1 ---
+LLM wants to call 2 tool(s)
+  Tool: get_coords
+  Args: {'city_name': 'Charleston, WV'}
+  Result: (38.3498, -81.6326)
+  Tool: get_coords
+  Args: {'city_name': 'St. Louis, MO'}
+  Result: (38.627, -90.1994)
+
+--- Iteration 2 ---
+LLM wants to call 1 tool(s)
+  Tool: calculate_distance
+  Args: {'lat1': 38.3498, 'lon1': -81.6326, 'lat2': 38.627, 'lon2': -90.1994}
+  Result: 463.5394993685097
+
+--- Iteration 3 ---
+Assistant: The distance from Charleston, WV to St. Louis, MO is approximately 463.54 miles.
+
+
+============================================================
+TEST 5: Just conversation
+============================================================
+User: List three cities along I-64 in the US.
+
+--- Iteration 1 ---
+Assistant: Three cities along I-64 in the US are:
+
+1. Charlottesville, Virginia
+2. Richmond, Virginia
+3. St. Louis, Missouri
+
+
+============================================================
+TEST 6: Bad city
+============================================================
+User: What are the coordinates of Atlantis?
+
+--- Iteration 1 ---
+Assistant: Atlantis is a legendary city that is said to have sunk into the ocean and is commonly considered a myth. There are no real-world coordinates for Atlantis, as it is not an actual place that can be found on maps. If you have another city in mind or would like information about a real location, please let me know!
