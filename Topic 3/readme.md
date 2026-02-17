@@ -90,10 +90,10 @@ I rewrote the program to run as a single continuous conversation (persistent cha
 
 This portfolio includes:
 
-- A Mermaid diagram showing the graph structure 
-![Mermaid diagram](Topic3_task5.png)
+- A Mermaid diagram showing the graph structure. 
 - Example conversations demonstrating tool calls, context carry-over across turns, and recovery after restart (resume using the same thread_id).
 
+![Mermaid diagram](Topic3_task5.png)
 ---
 # ⏱ Task 6:
 ---
