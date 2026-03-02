@@ -1,0 +1,1050 @@
+              @.
+     GATES LEARJET CORPORATION
+
+■ain1ena111e ■anual
+
+    CHAPTER
+
+
+
+
+POWER PLANT
+                       ·          Gates Learjet Corporation@
+                       ■ain1enanIe                         manual
+                                                                 RECORD OF TEMPORARY REVISIONS
+
+
+
+
+  Rev.        Date           Date         Page      Rev.      Date         Date       Page
+  No.       Inserted        Removed      Number     No.     Inserted      Removed    Number
+
+                           Apr 30/82    ·71-20-00
+ 71-1     Nov 16/79         Rev #14       PE 201
+                           Apr 30/82.   71-20-00
+ '!~--~   -Jun 12/81                      Pg 203
+                            R~v #14
+
+
+
+
+MN-08
+                                          Gates Learjet Corporation@>
+
+                             ■ai■I■■•••• ■a-■11al
+~      Chapter                                                        Chapter
+       Section                                                        Section
+       Subject                    Page             Date               Subject                    Page              Date
+
+        71-Title
+      •11-Record of Temp.
+           Revisions                             Apr 30/82
+      ·n-List of
+           Effective Pages           1           Apr 30/82
+        71-Contents                  1            Dec 2/77
+        71-00-00                     1            Dec 2/77
+        71-00-00                   201            Dec 2/77
+        71-00-00                   202            Dec 2/77
+        71-00-00                   203            Dec 2/77
+        71-00-00                   204            Dec 2/77
+        71-00-00                   205            Dec 2/77
+        71-00-00                   206            Dec 2/77
+        71-00-00                   207            Dec 2/77
+      · 71-00-00                   208            Dec 2/77
+     . 71-00-00                    209           Aug 27n9
+        71-00-00                   210           Aug 27/79
+        71-00-00                   211           Aug 27/79
+        71-10-00                   201            Dec 2/77
+        71-10-00                   202            Dec 2/77
+        71-10-00                   203            Dec 2/77
+     ·11-20-00                     201           Apr 30/82
+      ·11-20-00                    202           Apr 30/82
+      ·11-20-00                    203           Apr 30/82
+     ·11-20-00                     204           Apr 30/82
+     ·11-20-00                     205           Apr 30/82
+
+
+
+
+      Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+    • Asterisk indicates pages revised, added, or deleted by current revision.
+     The portion of the text affected by the current revision is indicated by a vertical Une in the outer margin of the page.
+
+
+                                                                                         71-UST OF EFFECTIVE PAGES
+                                                                                                              Page 1
+    MM-98                                                                                                · Apr 30/82
+                                                 ~
+                             •        GATES LEARJET CORPORATION
+
+                     ■a1■ll!■a111 .■ a■■al
+                                                                           Chapter
+                                                                           Section
+Subject                                                                    Subject        ~
+
+GENERAL - DESCRIPTION AND OPERATION••••••••••                              '11-00-00
+   General· ••••••••••••••••••••••••••••••••                               '11-00-00         1
+   General - Maintenance Practices • • • • • • • • • • • • • • •           '11-00-00
+     General ••••••••••••••••••••••••••••••                                '11-00-00       201
+      Maintenance Precautions • • • • • • • • • • • • • • • • • • •        '11-00-00       201
+      Tools and Equipment. • • • • •. • • • • • • • • • • • • • • • •      '11-00-00       202
+     Removal/Installation. • • • • • • • • • • • • • • • • • • • • •       '11-00-00       202
+      Adjustment/ Test • • • • • • • • • • • • • • • • • • • • •_• • •     '11-00-00       209
+COWLING - MAINTENANCE PRACTICES ••••••••••-•• ~                            '11-10-00
+   General ••••••••••• ~ .•••••••••••••••••••                              '11-10-00       201
+   Removal/lnstal.lati on. • • • • • • • • • • • • • • • • • • • • • • •   '11-10-00       201
+   Adjustment/Test •••••.••••••••••••••••••••                              '11-10-00       201
+ENGINE MOUNT·- MAINTENANCE PRACTICES ••••••••                              '11-20-00
+   General ••••••••••••••••••••••••••••••••                                '11-20-00       201
+
+
+
+
+EFFECTIVITY: ALL                                                                 '11 - CONTENTS
+                                                                                           Page 1
+                                                                                        Aug 2'1/'19
+                                      ~
+                       •     GRES LEARJET CORPOR'°1ON        .
+
+                ■a1n1enan1e ■an■al
+                 GENERAL - DESCRIPTION AND OPERATION
+
+1.   Gene.ral
+     A. The aircraft is powered by two General Electric CJ610 single-rotor
+         axial-flow turbojet engines. The engines are installed in pylon-
+         mounted nacelles, one located on each side of the aft fuselage. The
+         engine assembly consists of an eight-stage axial flow compressor,
+         driven by a two stage turbine, an annular combustion section, a fixed-
+         area concentric exhaust cone, and an integrated control system. Each
+         engine is attached to two engine beams at three attachment points.
+         Individual thrust levers, located on the cockpit center pedestal, govern
+         engine power by regulating each engine fuel control unit. · Each engine
+        .exhaust system incorporates a stainless steel shroud to provide in-
+         creased cooling throughout the nacelle in all flight conditions and
+         ground ·operation... Eight chromel-alumel thermocouples, at two dif-
+         ferent immersion depths in the exhaust stream, generate an average
+         value of exhaust gas temperature which is indicated on the EGT indi-
+         cators in the cockpit. An engine-driven starter~generator is in-
+         stalled on each engine to provide engine starting and furnish 30-volt
+         400-amp DC power·to the ·aircraft electrical system. Compressor
+         discharge air (bleed air), released through tw9 main frame ports on
+         each engine, is used for cabin air conditioning, cabin pressurization,
+         windshield defogging, engine inlet anti-icing, and wing anti-icing.
+     B. Basic engine maintenance and instructions relative to trouble shooting,
+         removal, installation, and adjustment of basic engine components are
+         not· included in.this service manual. For detail engine component
+         maintenance instructions, refer to the following applical;)le General
+         Electric Publications:
+                           Title                            Publication No.
+         CJ610 Turbojet Engine Ma"intenance Manual               SEI-186
+         CJ610 Turbojet Engine Overhaul Manual                   SEI-136
+         CJ610 Turbojet Engine Illustrated Parts Catalog         SEI-137
+
+
+
+
+EFFECTIVITY: ALL                                                           71-00-00
+                                                                             Page 1
+                                                                           Dec 2/77
+                                      ~
+                             GAlEB LEARJET CORPORATION
+
+                ■ai■ll!■a■II!· ■a■■al
+                  GENERAL - MAINTENANCE PRACTICES
+
+1.   General
+     A. Maintenance practicea consist of servicing, removal and installation
+        for engine overhaul and engine replacement procedures.
+2.   Maintenance Precautions
+     A. The following maintenance precautions should be followed to prolong
+         the life of the engine. Maintenance personnel should read and tho-
+         roughly understand these precautions.
+         (1) Use.extreme care to prevent dirt, hardware, tools or other
+              foreign material from entering the engine.
+         (2) Handle. fuel and oil lines carefully to avoid denting or kinking. Be
+              especially careful not to damage threads of fittings and line coup-
+              ling nuts.
+          (3) All lines, ducts and electrical connectors that terminate with
+              open ends should be capped or covered in a suitable manner to
+              exclude the entrance of dirt and foreign matter.
+          (4) Caps or covers should not be removed until immediately before
+              installation.
+          (5) Prior to installing any part, assure that it is thoroughly clean.
+          (6) Do not remove 0-rings and gaskets from their packages until
+              needed for assembly.
+          (7) Clean 0-ring and gaskets, if necessary, prior to installation with
+              dry air under pressure or with clean, lint-free rags. Do not use
+              solvents.
+          (8) Visually inspect all 0-rings and gaskets for cuts, nicks and other
+              flaws prior to installation.
+          (9) Lubricate 0-rings, backup rings and gaskets with appropriate
+              system fluid prior to installation.
+        (10) Do not twist hose assemblies when installing. The stripe on the
+              side of the hose will show if any twist exists. A twisted hose
+              under pressure may fail or loosen itself.
+        (11) It is important to use correct size and type of clamps when secur-
+              ing various hoses, tubing and wire bundles directly to the engine
+              or engine brackets. If clamps of insufficient size are used and
+              tightened excessively, the ·line may be damaged by not being able
+              to slip through the clamp when the engine thermally expands.
+        (12) Route and clamp all lines and electrical wiring as shown. 'rhis
+              will keep chafing to a minimum.
+        (13) All electrical bonding, grounding and mating surfaces shall be
+              clean, metal surfaces free of grease, paint or other high resist-
+              ance film. Whenever paint has been removed to make connec-
+              tions, the connection should be refinished to prevent corrosion.
+        (14) Use safety wire to secure bolts and fittings as required.
+
+
+EFFECTMTY: ALL                                                         71-00-00
+                                                                       Page 201
+                                                                       Dec 2/77
+                                           ~
+                         •        GATES LEARJET CORPORATION
+
+                   ■a1n11na■a1. ■a■ual      .   .          .
+
+
+3.    Tools and Equipment
+
+     NAME             PART NUMBER                   MANUFACTURER        USE
+Engine Stand          Tool No. 32443                Gates Learjet      General
+
+Engine Hoist              2-136                     WARDAERO, Three    General
+                                                    Rivers, Michigan
+                                                    Subsidiary of
+                                                    Medalist Ind.
+Engi'ne Sling            2C5327                     General Electric   General
+
+4.    Removal/Installation
+
+      NOTE:     The removal and installation procedures for the left and right
+                engines are identical unless otherwise noted.
+
+      A.    Remove Engine (See figure 201)
+            (1) Set Battery Switches to BAT 1 and BAT 2 and depress the LH and
+                RH FffiE Switches on the glareshield to close the fuel and hydrau-
+                lic firewall shutoff valves. Check that armed lights are lighted.
+            (2) Set Battery Switches. to OFF and pull and tag LH and RH fire
+                extinguisher circuit -breakers.                                          _, _· · · · •"·./)
+            (3) Disconnect aircraft batteries.                                               -..J
+            (4) Remove lower engine nacelle.
+            (5) Release clamps securing fire sensing element to rear nacelle.
+
+                NOTE:    The fire detection elements are removed with the
+                         upper nacelle.
+
+            (6) Remove upper nacelle.
+            (7) Disconnect throttle cable from fuel control unit bellcrank.
+            (8) Remove bolts attaching throttle cable bracket to fuel-oil cooler.
+            (9) Remove clamps attaching throttle cable to engine.
+           (10) Loosen hydraulic supply and return hoses at hydraulic pump suf-
+                ficiently to bleed off hydrauli~ pressure. When all pressure is
+                released, disconnect hoses from pump.
+           (11) Disconnect and cap the following at the pylon firewall:
+                (a) Exhaust pressure line
+                (b) Main fuel hose.
+
+                CAUTION: ENGINE BLEED AIR DUCTING DAMAGE COULD RE-
+                         SULT FROM EXCESSIVE BENDING. DISCONNECT
+                         ENGINE BLEED AIR DUCTING AT BOTH ENDS AND
+                         REMOVE FROM AffiCRAFT.
+
+
+EFFECTIVITY: ALL                                                              71-00-00
+                                                                              Page 202
+                                                                              Dec 2/77
+                                                          ~
+                                  •       ·    GA1ES LEARJET CORPORATION
+
+                       ■a1n1enan■e ■1n11al
+
+                                                                *   Do not bend engine bleed air ducting. Dis-
+                                                                    connect· ducting at the bleed air connector
+                                                                    and at the -engine.
+
+
+
+
+                                                      *-B~eed Air Connecto~
+                       Throttle Cable Feedthru
+                     Upper Engine Mount Bolt
+                    Hydraulic Connector
+
+
+
+
+      Yoke Assembl ----:>4::......._
+                                      _,.~--
+
+
+    Aft Inboard Engin
+    /4···   ~                                                                                            A
+B                                                                                           \ · \.. Top Engine
+                                                                                             L      MoW1t
+                                                                                             .     Mounting Pad
+
+
+
+                                                                 ~ . Exhaust Pressure Connector (PT5)
+
+                                                                              Aft Inboard Engine
+                                                       "\..         .         Mount Bolt
+                                                         " - - Front Ring· Support
+                                                  .        Forward Inboard Engine Mount ·
+    Motive Flow Connector                        Fire Extinguisher Connector
+
+
+
+
+                                                  Engine Installation
+                                               Figure 201 (Sheet 1 of 4)
+
+EFFECTIVITY: ALL                                                                                       71-00-00
+                                                                                                       Page 203
+                                                                                                       Dec 2/77
+                                              ~
+                        •         GAlEi LEARJET CORPORATION
+
+                ■a1n1ena■■•· ■anaal
+
+                                    f
+                             1. 65:t:. 0
+
+
+
+
+                            TOP ENGINE MOUNT.INSTALLATION
+
+                                           Detail A
+
+
+
+
+                                Shock Mount
+                               Outer Ring
+                              Shock Mount
+                              Inner Ring                                   ""'----Engine Mount
+                                                      ·· ·----------------- ·       Flange*
+
+                                I                                                  Engine Mount
+
+
+
+  Shock
+  Mount   J 11------~
+            J--
+                             Front Ring
+               0.10" Minimwn Support
+                                                              *Engine mount must be installed
+                                                                with flange on aft side or yoke.
+
+FORWARD INBOARD ENGINE MOUNT INSTALLATION
+
+             Detail B                                              Detail C
+
+
+
+
+                                 Engine Installation
+                              Figure 201 (91.eet 2 of-4)
+
+EFF:ECTIVITY: ALL                                                                        71-00-00
+                                                                                         Page 204
+                                                                                         Dec 2/'17
+                              ®.
+                     GATED LEARJET CORPORATION
+
+             mainlenanae manual
+)
+
+
+
+                                                      Anti-Ice Pressure Switch
+                                                                                        /     Engine Mounting
+                                                                                    /         Pad
+
+
+                                         Afr Intake                                                  , - - - - Fuel Nozzle
+
+
+
+
+                                                                                                        ~ - - - Starter -Generator
+                                                                                  erspecd Governor
+
+
+                                                                       Motive Flow Hose
+
+
+
+
+                         Engine Installation
+                      Figure 201 (Sheet 3 of 4)
+
+    EFFECTMTY: ALL                                              71 - 00-00
+                                                                Page 205
+                                                                Dec 2/77
+                                @.
+                  -   OA"TB) l.EAAJET conPORATION
+
+
+             ma1n1ena■ae ■anaal
+                                                                                                                                                                      )'
+
+
+
+                                                                            Alt Inboard Engine               Engine Bleed Air Duct~ (Do Not Bend)
+                                                                            Mount
+
+
+
+
+                                                                                                                                                    Forward Inboard
+                                                                                                                                                    Engine Mount
+
+
+
+
+                                                    "   Oil Tank Filler Cap _ _ __,
+
+
+                                                                  OU Taruc Vent
+
+
+                                                                         1   0
+                                                                  T aeho~ ~1~- ;:~erator
+                                                                                           J{j
+                                                                                           -!/      J
+
+                                                                                  011 Tank
+
+                                                                                      Oil Temperature Bulb
+
+
+
+
+                         Engine Ins tallation
+                      Figure 201 (Sheet 4 of 4)
+
+E FFECTMTY: ALL                                                            71-00-00
+                                                                           Page 206
+                                                                           Dec 2/77
+                                    ~
+                          GA11:8 LEARJET CORPORATION
+
+               ■alnlena••• ■an■al
+            (c) Bleed air ducting.
+            (d) Motive flow line. ·
+            (e) Fire extinguisher line.
+     (12) · Disconnect bonding cables from aft engine mount bracket.
+     (13) Disconnect cooling duct from starter-generator.
+     (14) Disconnect hoses from oil pressure transmitter.
+     (15) Disconnect fuel control sensing hose.
+     (16). Disconnect and free electrical wir~g connected to the following
+            units:
+            (a) Fuel flowmeter
+            (b) Oil pressure transmitter
+            (c) Starter-generator
+            (d) Ignition exciter
+          · (e} Anti-ice relay
+            (f} Anti-ice pressure switch
+            (g} Oil temperature bulb
+            (h} Tachometer-generator
+            (i) Anti-ice valve
+            (j) . EGT thermocouple harness
+      (17) Support nose cap air intake and remove engine intake seal clamp.
+      (18) Attach engine sling (General Electric P/N 2C5327,. or equivalent
+            and hoist to engine. )
+      (19) Remove engine mounting bolts and lower engine to an engine stand.
+   B. Install Engine (See figure 201)            ·
+
+       NOTE:   This procedure is applicable· to either engine.
+
+       (1) Attach engine sling and hoist to engine and raise engine to align
+           with engine mounts.
+       (2) If replacing top engine mount, adjust eyebolt as shown in detail A.
+       (3} Install and torque ~ngine mounting bolts.
+
+           NOTE:    Torque upper engine mount bolt to 95 to 110 inch-pounds.
+                    Torque forward inboard engine mount bolt to 20 to 25
+                    inch-pounds. Torque aft inboard engine mount bolt to
+                    290 to 410 inch-pounds.         ·
+
+       (4) Check clearance between forward face of engine shock mount
+           outer ring and front ring support fitting as shown.
+           NOTE:    The shock mount outer ring may be shifted aft until its
+                    forward face is flush with the forward face of the front
+                    support ring. This is acceptable provided the minimum
+                    clearance between the forward face of the front support
+                    ring and the front ring support fitting is 0.10 inch. The
+
+
+EFFECTIVITY: ALL                                                     71-00-00
+                                                                     Page 207
+                                                                     Dec 2/77
+                                    @.
+                    •      GATES LEARJET CORPORATION
+
+             ■a1nIe11a11■e .·■ an■al
+                   shock mount outer ring forward face shall not be less
+                   than flush with the front ring support.
+
+          CAUTION: REPLACE ALL SAFETY WIRES REMOVED DURING
+                   ENGINE REMOVAL.
+
+                        PRIOR TO INSTALLING NOSE CAP. AIR INTAKE ·
+                        CLAMP, CHECK GAP AND ALIGNMENT DIMEN-
+                        SIONS BETWEEN NOSE CAP AIR INTAKE AND
+                        ENGINE INTAKE; REFER TO FIGURE 201. EXCES- · ·
+                        SIVE GAP OR :MISALIGNMENT MAY RESULT IN THE
+                        INGESTION OF THE INTAKE SEAL BY THE ENGINE.
+
+      (5) Install nose cap air intake clamp and torque T-bolt 12 to 15 inch-
+           pounds. Do not install clamp with T-bolt over horizontal weld
+           seam of inlet duct:
+       (6) Connect and clamp electrical wiring to the following units and
+           safety all electrical connectors.
+           (a) EGT thermocouple harness
+           (b) Anti-ice valve
+           (c) Tachometer-generator
+           ( d) Oil temperature bulb
+           (e) Anti-ice pressure switch
+           (f} Anti-ice relay
+           (g) Ignition exciter
+           (h) Starter-generator
+           (i} Oil pressure transmitter
+           {j) Fuel fiowmeter
+       (7) Connect hoses to oil pressure transmitter.
+       (8) Connect fuel control sensing hose.
+       (9) Connect cooling duct to starter-generator.
+     {10) Connect bonding cables to aft engine mount bracket.
+     (11) Connect the following at the pylon firewall:
+           (a) Bleed air ducting (also connect to engine)
+           (b) Main fuel hose
+           ( c) Exhaust pressure line
+           (d) Motive flow line
+           ( e} Fire extinguisher line
+     ( 12) Connect throttle cable to fuel control bellcrank.
+     (13) Install bolts attaching throttle cable bracket to fuel-oil cooler.
+      (14) Install clamps securing throttle cable to engine.
+      (15) Install upper and rear engine nacelle.
+      (16) Secure rear fire detect element to rear nacelle.
+      (17) Check throttle cable rigging.
+      (18) Connect aircraft batteries and open engine main shutoff valves.
+            Inst'lll lower engine nacelle.
+
+EFFECTIVITY: ALL                                                       71-00-00
+                                                                       Page 208
+                                                                       Dec 2/77
+                                         ~
+                        •       GATES LEARJET CORPOARlON
+
+                 ■a1n11nan11 ■an■al
+        (19) Bleed the hydraulic system. (Refer to 29-00-00).
+        (20)  Perform engine motoring check. (Refer to Engine Maintenance Manual
+              SEI-186).
+        (21)  Perform engine operational check.
+     C. Engine Ground Operation
+         (l)  Refer to Engine Operating Instructions Manual SEI-188.
+     D. Activating Engine After Storage
+         (1)  Prime the·lube and scavenge pump as outlined in General Electric
+              CJ610 Maintenance Manual SEI-186 if any of the following conditions
+              exist: (1) Engine has not been operated within 14 days or longer,
+              (2) engine is being tested for first time since installation, (3) engine is
+              being tested for first time since preservation, or (4) engine is being
+              ~sted suice replacement of lube and scavenge pump.
+
+5.   Adjustment/Test (Aircraft Certified at 51, 000 feet Operation)
+     A. Maximum Altitude (51, 000 feet) Engine Flight Test
+
+         NOTE:      Flight testing is required following: (1) an engine change (2) a
+                    periodic inspection, if the engine has been subjected to maintenance
+                    that affects performance (3) a hot section inspection (4) a fuel
+                    control change (5) variable geometry system adjustment. This
+                    check is also recommended if the pilot's post. flight report indicates
+                    there may be an engine operational problem.
+
+         WARNING:        OBSERVE ALL FLIGHT LIMITATIONS (REFER TO THE
+                         APPROVED AIRPLANE FLIGHT MANUAL).
+
+         (l)   Perform the Maximum Altitude, Maximum Power Check as follows:
+               (a) Ensure that fuel control density set to nominal for the fuel in use.
+                   (Refer to the Approved Airplane Flight Manual.)
+               (b) Establish stabilized flight parameters within the aircraft flight
+                   envelope (refer to Approved Airplane Flight Manual). Any air-
+                   craft flight problems encountered shall be corrected before
+                   continuing the check.
+               (c) Turn "off" anti-ice systems.
+               (d) Establish airspeed at • 76 Mach.
+               (e) Advance test engine p.ow..e;r lever to maximum stop on throttle
+                   quadrant, retard opposite engine as required to maintain airspeed
+                   at • 76 Mach. Stabilize engine power and ram air temperature
+                   (RAT).
+               (f) Record test engine parameters: % RPM, EGT, RAT, fuel flow,
+                   airspeed (Mach No.) and EPR.
+
+
+
+
+EFFECTMTY: NOTED                                                                 71-00-00
+                                                                                 Page 209
+                                                                                Aug 27/79
+                                          ~
+                     •          GATES LEARJET CORPORATION
+
+              ■illRll!RilRIII! ■il·■llill
+             (g) Determine the minimum power requirements at 51, 000 feet.
+                 (Refer "Engine Power Requirements vs Compressor Inlet Tem-
+                 perature, Anti-ice Off, Maximum Continuous Power Chart" in the
+                 Approved Airplane Flight Manual. )
+             (h) If engine fails power requirements at altitude, trouble shoot and
+                 repair engine. (Refer to the General Electric Maintenance Manual,
+                 SEI-186.)
+       (2)   Perform the Maximum Altitude Acceleration Check as follows:
+
+             NOTE:       Engine fuel control density should be set one adjustment lower
+                         in density than the fuel in use.(Refer to Approved Airplane
+                         Flight Manual. )
+
+             (a) Establish stabilized flight parameters within the flight envelope
+                 (refer to Approved Airplane Hight Manual). Any aircraft flight
+                 problem encountered shall be corrected before continuing this
+                 check.
+             (b) Turn "off" anti-icing systems.
+
+                 WARNING:         AT ALTITUDE, AIRSPEED SHALL NOT FALL
+                                  BELOW • 65 MACH (REFER TO APPROVED AIR-
+                                  PLANE FLIGHT MANUAL FOR FLIGHT Lll\llTA-
+                                  TIONS).
+
+             (c) Establish airspeed at. 65 Mach. Stabilize engine power and ram
+                 air temperature (RAT).
+             (d) Record test engine parameters: %RPM, EGT, RAT, fuel flow,
+                 airspeed (Mach No.), and EPR.
+
+                 NOTE:       Make throttle movements in a smooth and normal manner.
+                             Quick throttle retard followed by immediate advance will
+                             make the check invalid.
+
+                             While performing this check, it is permissible to exceed
+                             maxi.mum continuous EGT up to the levels and times
+                             specified in the EGT curves in the .Approved Airplane
+                             Flight Manual. Reset throttle at or below maximum con-
+                             tinuous power as soon as practical.
+
+
+
+
+                                                                                          -.
+EFFECTMTY: AIRCRAFT CERTIFThD AT f,1,000 FEET                                  71-00-00
+           OPERATION                                                           Page 210
+                                                                              Aug 27/79
+                                      @
+                    •       GATI:8 LEARJET CORPORATION
+
+             ■a11111a111 ■anual
+                WARNING:      FLIGHT CHARACTERISTICS OF THE AIRCRAFT
+                              MAY CHANGE IF THE TEST ENGINE FAILS
+                              (ENGINE STALL) THE ACCELERATION CHECK. IF
+                              ENGINE FAILS (ENGINE STALL) THE THROTTLE
+                              ON THE OPERA TING ENGINE SHOULD NOT BE
+                              MOVED UNTIL A LOWER ALTITUDE IS ATTAINED
+                              (REFER TO THE APPROVED AIRPLANE FLIGHT
+                              MANUAL FOR ENGINE AIRSTART PROCEDURES).
+
+            (e) Retard test engine throttle to 2% below maximum. turbine speed
+               . (% RPM), while maintaining aircraft altitude and airspeed with the
+                 other engine.
+            (f) Stabilize turbine speed (% RPM) at 2% below maximum for 25 to
+                 35 seconds.
+            (g) Advance the test engine throttle (in a smooth and normal manner)
+                 in one second or less to the maximum throttle stop on the quad-
+                 rant. Record maximum% RPM obtained and RAT.
+            (h) Repeat steps (e) thru (g) for 5% below maximum turbine speed
+                 (% RPM).·
+            (i) Repeat steps (e) thru (g) for 85% RPM turbine speed.
+            (j) If engine fails altitude acceleration test at 51·, 000 feet, trouble
+                 shoot and repair. (Refer to General Electric Maintenance Manual,
+                 SEl-186.)
+
+
+
+
+EFFECTMTY: AIRCRAFT CERTIFIED AT 51,000 FEET                               71-00-00
+           OPERATION                                                       Page 211
+                                                                          Aug 27/79
+                                      ~
+                             GATES LEARJET CORPORATION
+
+                ■aln11nan■1 ■anaal
+                   COWLING - MAINTENANCE PRACTICES
+
+1.   General
+     A. Each engine nacelle assembly consists of four sections; a nose cap air·
+         intake, a lower section, an upper section, and a rear nacelle. Each
+         section, interlocked and secured with fasteners, is easily removed
+         for engine maintenance and inspection. Airscbops are installed in the
+         nacelles for starter-generator and engine cooling. An access door,
+         secured by fasteners, is installed in the upper nacelle section for·
+         access to the engine oil filler and dipstick.
+
+2.   Removal/Installation
+     A. Remove Nacelle Covers (See figure 201)
+        (1) Support lower nacelle cover and release quick-release fasteners.
+        (2) Lower nacelle ·cover clear of drain lines and remove from engine.
+        (3) Remove screws securing upper nacelle· cover and remove cover
+             from engine.
+        (4) Loosen clamp securing seal to nose cap and air intake.
+        (5) Remove attaching parts and nose cap and air intake from engine.
+        (6) Remove attaching parts and rear nacelle from engine.
+     B. Install Nacelle Covers (See figure 201)             ·
+        (1) Install rear nacelle and secure with attaching parts.
+        (2) Install nose cap and ·air intake with attachi'ng parts. Place block
+            between bottom of intake and wing for support.
+        (3) Install upper nacelle and secure with attaching parts.
+        (4) Install lower nacelle and secure with quick-release fasteners.
+        (5) Remove block from beneath intake.
+        (6) Check nacelle installation.
+
+3.   Adjustment/Test
+     A. Nacelle Installation Check
+         (1) Upper nacelle screws are properly secured.
+
+               CAUTION: AVOID APPLYING EXCESSIVE FORCE IN CLOSING
+                        THE LATCHES AS DISTORTION OR DAMAGE TO
+                        THE U-BOLT FASTENERS AND LATCHES COULD
+                        RESULT POSSIBLY CAUS1NG THE LOSS OF THE
+                        LOWER NACELLE IN FLIGHT.
+         (2) Sufficient tension for positive engagement of the latches by using
+             thumb pressure.
+         (3) A gap of 0. 03 to 0. 09 inch between upper nacelle and lower nacelle
+             skin. Adjustment for this dimension can be achieved by adjusting
+             the nacelle alignment clip spacers, one serration at a time (O. 06
+             inch), and adjusting the U-bolt fastener j amnuts.
+
+
+EFFECTIVITY: ALL                                                        71-10-00
+                                                                        Page 201
+                                                                        Dec 2/77
+                           .        ~
+                   •     GATES LEARJET CORPORATION
+
+            ■a1n11nan11 ■an11al
+      (4) A dimension ~etween the upper nacelle rolled flange and nacelle
+          alignment clip spacer should be 0. 06 inch maximum. Check this
+          dimension by inserting a short piece of wire with a 0. 06 inch
+          diameter into the inspection holes located at each nacalle align-
+          ment clip.
+      (5) Assure that lower nacelle camloc and screw fasteners are proper-
+          ly secured.
+
+
+                         Oil Dipstick
+                         Access Door
+
+
+
+
+                                                     ar Nacelle
+
+                                                     per Nacelle
+
+
+
+
+                           *   Torque T-bolt 12 to 15 inch- pounds
+                               1&.nQt install clamp with T-bolt
+                               over horizontal weld seam of inlet
+                               duct.
+
+                         Engine Nacelle Installation
+                          Figure 201 (Sleet 1 of 2)               ')
+
+EFFECTIVITY: ALL                                                       71-10-00
+                                                                       Page 202
+                                                                       Dec 2/77
+                                            ~
+                      •           GATI:B LEARJET CORPORATION
+
+                   ■a1n1enan1e ■an■al
+
+                                                          Intake Seal
+                                                      Clamp
+
+
+
+                                           Nose Cap - - - - ~
+                                           Air Intake o. 20 (±0. 05) Gap-+-   -+-              Engine
+                                                                                               Intake
+                                                      * 0. 125 Maximwn Misalignment
+
+
+
+
+           LATCH INSTALLATION                            ENGINE INLET SEAL INSTALLATION
+
+  ------A------                                 --------a-------
+                                                                        Upper Nacelle
+                                                                        Rolled Flange
+                                                        Upper Nacelle
+
+
+
+
+                                                                               acelle
+                                                                               lignment
+                          Clamp                                                lip
+
+
+   Fire Detector
+                                                                        Nacelle Alignment Clip Spacer
+  TYPICAL FIRE DETECTOR CLAMP
+
+   ----c----
+                                     Engine Nacelle Installation
+                                      Figure 2 01 (Sheet 2 of 2)
+
+
+EFFECTIVITY: ALL                                                                          71-10-00
+                                                                                          Page 203
+                                                                                          Dec 2/77
+                                Gates Learjet Corporation~
+                       ■ai1111·11a1111 ■a11.ual
+                        ENGINE MOUNT - MAINTENANCE PRACTICEH
+
+1.        General
+          A.   Engine mounts are installed to minimize transfer of engine vibration to the
+               fuselage.
+          B.   In accordance with the current inspection intervals specified in Chapter 5,
+               the engine mounts must be inspected. This inspection will coincide with the
+               engine hot section inspection.
+
+2.        Removal/Installation
+          A.  Remove Top Engine Mount
+              (1)   Wltli the engine removed from the aircraft, remove the bolts which
+                    secure the mounting pad to the engine. Remove mounting _pad from
+                    engine •.
+              (2)   Cut and remove safety wire from jamnut and bolt.
+              (3)   Loosen the smaller jamnut and unscrew eyebolt from the assembly.
+              (4)   Loosen the larger jamnut and remove nut, bolt, upper bonded sand-
+                    _wich, lower bonded sandwich an,;) center spacer.
+
+                       NOTE:    Inspect or discard the upper bonded sandwich, lower bonded
+                                sandwich and center spacer as dictated in Chapter 5.
+
+        , B.   Install Top Engine Mount
+
+                NOTE:    The top sandwich is ink stamped "TOP" and the lower sandwich is
+                         ink stamped "BOTTOM".
+
+                (1)    Position bottom sandwich on engine mounting pad, insert center
+                       spacer and position top sandwich over center spacer.
+
+                       NOTE:    The sandwich assembly must be compressed 1n order to
+                                start nut on bolt. C-clamps may be used to compress
+                                sandwich assembly.
+
+                (2)    With the sandwich assembly compressed, insert bolt Into bottom
+                       sandwich and thread nut. onto bolt.
+                (3)    Remove clamps and tighten nut. until the sandwich assembly ls com-
+                       pressed to the dimension· shown.
+                ( 4)   Thread small j amnut fully onto eyebolt.
+                (5)    Screw eyebolt into bolt and adjust to the dimension shown. Position
+                       hole in eyebolt so that its centerline is parallel with the engine center-
+                       line and tighten j amnut.
+                (6)    Safety wire large jamnut and bolt head.
+                (7)    Position mounting pad on engine, install bolts and nuts and tighten.
+
+
+EFFECTIVITY: ALL                                                                      71-20-00
+MM-98
+                                                                                      Page 201
+                                                                                     Apr 30/82
+                               Gates Learjet Corporation~
+
+                    ■ainl1na■■1 ■a:■aal
+        C.    Remove Forward Inboard Engine Mount
+              (1)   With the engine removed from the aircraft, remove attaching parts
+                    and front ring support from engine.
+              (2)    Press the engine mount from the front ring support. Discard mount.
+              (3)    Clean engine mount cavity of front ring support.
+        D.    Install ·Forward Inboard Engine Mount
+              (1)   Apply zinc chromate primer to and press fit engine mount into front
+                    ring support while primer is still wet. Engine mount· should protrude
+                    0. 220 (±. 010) inch (5. 588 ±. 254 mm) beyond the front face of the ring
+                    support.
+              (2)   Install front ring support on engine and secure with attaching parts.
+        E.    Remove Aft Inboard Engine Mount
+              (1)   With the engine removed from the aircraft, remove attaching parts
+                    and yoke assembly from pylon.
+              (2)   Preijs aft inboard engine mount out of yoke assembly from the forward
+                    side of the yoke assembly.
+
+                    NOTE:    The aft inboard engine mount has a flange on the aft end and
+                             can only be pressed out of the yoke assembly from the forward
+                             side.
+                                                                          I
+
+              (3)    Clean inside of engine mount cavity in the yoke assembly.
+        F.    Install Aft Inboard Engine Mount
+              (l)   Apply zinc chromate primer to and press fit engine mount into yoke
+                    assembly from aft side while primer is still wet.
+
+                    NOTE:    The inboard engine mount has a flange on one end. This
+                             flange must be on the aft side of the yoke assembly after
+                             installation.
+
+              (2)   Install yoke assembly on pylon and secure with attaching parts.
+
+3.      Inspection/ Check
+        A.    Inspect Engine Mounts as follows:
+              (1)   Remove top engine mount from engine and disassemble the two bonded
+                    sandwiches from the center spacer.
+              (2)   Wipe all oil and dirt from the bonded .parts with a clean, dry cloth.
+              (3)   Wash unbonded metal parts in dry cleaning sol vent. Do not clean
+                    rubber parts in solvent.
+              (4)   Inspect the unbonded center spacer of the top main mount for nicks,
+                     scratches, gouges or cracks and replace if any are evident.
+
+
+
+
+EFFECTMTY: ALL                                                                     71-20-00
+                                                                                   Page 202
+MM•98
+                                                                                  Apr 30/82
+                         Gates Learjet Corporation@
+               ■a·in11·nan11 ■an■al
+        (5)    Inspect both top main mount bonded rubber sandwiches as follows:
+               (a)    Inspect for metal to rubber bond separation and replace if
+                      separation has progressed 180° around circumference or has
+                      reached a depth of 0.10 inch (2. 54.mm) or more.
+               (b)    Inspect for surface cracks on rubber caused by flexing aro·re-
+                      place if they have reached a depth of O.12 inch (3. 04 mm) or
+                      more.
+               (c) Inspect to see tha~ rubber has retumed to its original shape
+                      after load was removed. Replace sandwich if thickness ls less
+                       than o. 65 inch (16. 51 mm).·
+               (d)     Visually inspect the end plates for nicks, scratches, gouges or
+                       cracks. Replace if any are. evident.
+         (6)   Inspect the forward inboard and aft inboard mounts as follows:
+               (a)     Inspect for metal to rubber bond separation and replace if sepa-
+                       ration has progressed .90° around circumference or has reached
+                      ·a depth of • 06 inch (1. 52 mm) ·or more.
+                (b) · Inspect for surface cracks on the rubber caused from flexing
+                       and replace if they have reached a depth of • 06 inch (1. 52 mm).
+                       or more.
+                (c) Inspect to see that rubber has retumed to its original. shape
+                       after load was removed. Replace aft inboard mount if-radius is
+                       less than 0.88 inch (22.35 mm) at any given point. Replace
+                       forward inboard mount if the radius is less than O. 67 inch
+                        (17. 01 mm) at any given point.
+
+
+
+
+EFFECTIVITY: ALL                                                               71-20-00
+MM-98                                                                          Page 203
+                                                                              Apr 30/82
+                                                           Gates Learjet Corporation@
+
+                                 ■ain1enanIe .■ anual
+
+
+
+
+                                                                      0. 88" Minimwn
+
+
+
+
+                             FORWARD INBOARD ENGINE MOUNT
+
+
+
+                              @
+                   ...                                .·   Top Sandwich
+                   :=::\\::\;:\\:\:~)(:~:::\:!}\::!::/::
+
+
+
+                            U---                           Cente, Space,
+
+
+
+
+                                                           Bottom Sandwich
+
+
+
+
+                                                                                               0. 67" Minimum
+
+
+
+
+                                -t
+            TOP ENGINE MOUNT ASSEMBLY                                                  AFT INBOARD ENGINE MOUNT
+                                                    Engine Mount Inspection Requirements
+                                                                Figure 201
+
+I   EFFECTIVITY: ALL                                                                                         71-20-00
+                                                                                                             Page 204
+    MM-98                                                                                                   Apr 30/82
+                                      Gates Learjet Corporation@
+                     •ainlenan■e •an■al
+4.      Approved Repairs (See figure 202)
+        A.   Engine yoke assembly ~stener hole approved repairs are as follows:
+
+             NOTE:         The following approved repairs are to be used in conjunction
+                           with the 6000-hour inspection and Special Inspection - Engine
+                           Change (Chapter 5).
+
+             (1)     Remove existing bolts, washers and nuts one at a time and measure
+                     the hole diameter. Holes should measure 0. 3117 to 0. 3127 inch.
+             (2)     If an existing bolt hole measures greater than o. 3127, enlarge hole to
+                     0. 3276 to 0. 3286 inch diameter. Replace existing attaching parts with
+                     an NAS2905-5 bolt, AN960-C516 washer and MS20364-524C nut.
+                     Torque·nut 100 to 140 inch-pounds. Bolt head direction is optional.
+              (3)    If an existing bolt hole measures greater than O. 3286, enlarge hole to
+                     0. 3482 too. 8442 inch diameter. Replace existing attaching parts with
+                     NAS3005-5 bolt, AN960-C616 washer and MS20864-524C nut. Torque
+                     nut 100 to 140 inch-pounds. Bolt head direction is optional.
+              (4)    If an existing bolt hole measures greater than O. 3442 inch diameter,
+                     contact Gates Learjet Field Servipe Department for disposition.
+
+
+         *Remove Bolts, Washers and Nuts one at a time.
+
+
+
+                                                                ~--Engine Yoke
+                                                                         Assembly
+
+
+
+
+                    ~ p.
+
+
+                      '   .. :.:, .   '
+                            .•.                ~
+
+
+
+
+     I
+       rt''                                  /·                    ~oke Assembly Attach
+                                                                    Bolts (Turque 1 (l? to
+                                                                   140 inch-pounds)
+
+
+                    Engine Yoke Assembly Fastener Hole Approved Repairs
+                                        Figure 202
+
+
+E FFECTIVITY: ALL                                                                    71-20-00
+MM-98                                                                                Pag~ 205
+                                                                                    Apr 80/82
+

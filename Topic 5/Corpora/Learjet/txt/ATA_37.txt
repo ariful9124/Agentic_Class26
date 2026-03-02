@@ -1,0 +1,527 @@
+               @.
+  •   GATES LEARJET CORPORATION
+
+-a1n1enanae -a■ual
+
+ . CHAPTER
+
+
+
+
+      VACUUM
+                                        Gates Learjet Corporation•
+                          ■ai1111a111 ■an■al
+   Chapter                                                    Chapter
+   Section                                                    Section
+   Subject                    Page              Date          Subject                    Page              Date
+
+  37-Title
+ •37-List of
+     Effective Pages             1           Apr 30/82
+  37-Contents                    1           Jul 17/81
+  37-10-00                       1           Jul 17/81
+  37-10-00 ·                     2           Jul. 17/81
+  37-10-00                       3           Jul 17/81
+  37-10-00                       4           Jul 17/81
+  37-10-01                     201           Jul 17/81
+  37-10-01                     202           Jul 17/81
+  37-10-01                     203           Jul 17/81
+  37-10-01                     204           Jul 17/81
+  37-10-02                     201           Jul 17/81
+
+
+
+
+  Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+• Asterisk indicates pages revised, added or .deleted by current revision.
+ The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                      37-LIST OF EFFECTIVE PAGES
+                                                                                                            Page 1
+MM-98                                                                                                   Apr 30/82
+                                                       ~
+                                           GA11:8 LEARJET CORPORATION
+
+                         ■ain11nan11 ■anual
+                                                                                  Chapter
+                                                                                  Section
+Subject                                                                           Subject        Page
+
+DJSTRIBUTION - DESCRIPTION AND OPERATION • • • • • •                              37-10-00
+        Description • • • • • • • • • . • • • • . • . • • . . . • . • • • • •     37-10-00         1
+        Opera.tion ••.••.•••••••.••••••.•••.•..••                                 37-10-00         1
+        Vacuum Regulator - Maintenance Practices . • . • • • • .                  37-10-01
+          Removal/Installation •••••••••.••••••.••••                              37-10-01       201
+          Clea.nillg'/Pafn.tiilg • • . • • • • • • . • • • • • • .. • • • • • •   37-1.0-01      201
+        Vacuum Regulator Filter - Maintenance Practices, •.•                      37-10-02
+           Removal/Installation • • . . . • • • • . . . . • • • • . • • •         37-10-02       201
+           Cleanin.,g/Pam:tfng ••.•••••••••••••.••••••                            37-10-02       201
+
+
+
+
+EFFECTIVITY: ALL                                                                            37 - CONTENTS
+                                                                                                    Pagel
+MM-98
+                                                                                                  Jul 17/81
+                              Gates Learjet Corporation~
+
+                    ■ain1IIan-■I ■an11al
+                      DISTRIBUTION- DESCRIPTION AND OPERATION
+
+ 1.     Description (See figure 1)
+        A.   A vacuum regulator, installed in the tailcone equipment section, is utilized
+             to provide a regulated vacuum for pressurization cont~l system operation.
+        B.   The vacuum regulator filter must be removed and cleaned or replaced in
+             aceordance with the time interval specified in Chapter 5.
+
+              NOTE:      On Aircraft 25-061 2 25-0'10 thru .25-196, 25-198 thru 25-203 not
+                         modified per SSK 93'1 (Installation of Cabin Pressurization Vacuum
+                         Regulator), the mters and jet pump are cleanable.
+                       - On Aircraft 25-19'1, 25-204 and Subsequent and earlier aircraft
+                         modified per SSK 93'1 (Installation of Cabin Pressurization Vacuum
+                         Regula~r), the vacuum. regulator cabin filter must be cleaned or
+                         replaced.
+
+ 2.     Ooeration (See figure 2)
+        A.   When bleed air pressure is applied t.o the vacuum regulator, the regulator
+             creates a regulated vacuum of 4. 0 (±0. 75) inches of Hg below the existing
+             cabin pr~_~su;r_e. . ri,ie regulated vacuum is sensed by the pressurization
+             module via a sense line. For further information or pressurization control
+             system operation, refer.to Chapter 21.
+                                                              --vacuum Regulator
+                                                                     (3'1-10-01)
+        --Tube Ass~bly
+            (Vacuum to Pressurization
+            Module)
+
+
+
+
+                                                        Vacuum Regulator Cabin Filter
+                                                        (37-10-02)
+
+
+                                  ---Pressurization Module
+                                        (Chapter 21)
+                           Vacuum System Components Locator
+                                          Figure 1
+
+
+EFFECTIVITY: ALL                                                                   37-10-00
+                                                                                     Page 1
+MM-98
+                                                                                   Jul 17/81
+                             Gates Learjet Corporation@
+                   ■ai·n1enan■■ ■an■a·-1.            ·_
+        B.   Component Operation (See figure 3)                        .
+             (1) On Aircraft 25-0'10 thru 25-196 1 25-198 thru 25-203 not modified per
+                 SSK 93'1 (Installation of Cabin Pressurization Vacuum Regulator Assem-
+                 bly), the jet pump utilizes the venturi principle with two spring-loaded
+                  ball-type relief valves. One of the spring..;.loaded relief valves relieves
+                  vacuum above 4. 0 (±0. '15) inches Hg (approxim~tely 2 psi) differential
+                  while the remaining relief valve 'relieves any.pressure injected into the
+                  vacuum line tbru any system component malfunction. Filters, in-
+                  stalled in the cabin pressure sense port and the vacuum port, are
+                  easily removed for cleaning.
+                                        Bleed Air ~~~~-.,
+                                                                     Vacuum
+                                                                    -Regulator.
+
+                 Filter
+
+                               Pressurization
+                               Module
+                                                                Cabin
+                                                               Ambient
+                                  25-0'10 thru 25-226
+                                        Bleed Air ~~~-__-.,
+                                                                      Vacuum
+                                                                      Regulator
+
+                 Filter
+
+                               Pressurization
+                               Module                                      vacuum
+                                                                           Shutoff
+                                                                           Solenoid
+                             Cabin                                         Valve
+                             Altitude                                    Orifice
+
+                                                            Differential
+                                                            Pressure
+                                            - - - - - - - - Relief
+                                                            Valve
+                                                                Cabi.~
+                                                               Ambient
+                                  25-22'1 and SUbsequent
+                                 Vacuum System Schematic
+                                          Figure 2
+
+E·FFECTIVITY: ALL                                                                  3'1-10-00
+                                                                                      Page 2
+                                                                                  Jul 1'1/81
+MM-98
+                         Gates Learjet Corporation@
+               ■ain1anan1a ■an■al
+         (2)   On Aircraft 25-197, 25-204 and Subsequent and earlier aircraft modi-
+               fied per SSK 937 (Installation of Cabin Pressurization Vacuum Regula-
+               tor Assembly), the vacuum regulator utilizes the venturi principle to
+               create a vacuum for the pressurization control system. The vacuum
+               is regulated to 4.0 .(±0. 75) inches of Hg below existing cabin pressure.
+               The regulator is shown static (no ble.ed air thru the venturi nozzle).
+               When bleed air passes thru the venturi nozzle, a vacuum is cr_eated in
+               the regulated vacuum chamber~ The vacuum (negative pressure) flow
+               is from the pressurization module, thru the -regulated vacuum chamber,
+               and th.en overboard thru the .bleed air discharge. As the vacuum
+               reaches.the regulated ·setting; 4. 0 (±0. 75) inches of Hg, the pressure
+               in the cabin pressure chamber combined with the negative pressure in
+               the regulated vacuum chamber overrides the spring and moves the dia-
+               phragm and ball seat to close the opening. This restricts the flow of
+               air at negati~e pressure and provides a constantly regulated vacuum
+               for the pressurization module.
+
+
+
+
+EFFECTIVITY: ALL                                                             37-10-00
+                                                                               Page 3
+MM-98
+                                                                             Jul 1'1/81
+                                Gates Learjet Corporation@
+
+                    ■ainlenanae ■anual
+
+
+        Cabin Pressure                                                      Vacuum
+
+
+
+                Bleed Air                                           Exhaust (Into
+                                                                    Tailcone)
+
+
+
+
+        25-061, 25-070 thru 25-196, 25-198 thru 25-203 Not Modilied per SSK 937
+                (Installation of cabin Pressurization Vacuum Regulator)
+
+
+                            Vacuum (Neg. Pressure)     Bleed Air in from
+                            Flow from Pressurization   Bleed Air Ducts
+                            Module
+
+
+
+
+                 Spring--....
+
+                                                                !~ j---Venturi Nozzle
+         Diaphragm---.
+
+                                                                     LI
+                                                                         i
+                                                                ~:_:,:_.),:
+                                                                    ., .'<..:.
+                                                                I
+
+                                                               I
+                                                       Bleed Air Discharge
+                                                       into Tailcone
+    Cabin Pressure                                       Spring
+    Chamber
+                                 Cabin Pressure
+    Regulated Vacuum
+    Chamber
+          25-197, 25-204 and Subsequent and Earlier Aircraft Modified per SSK 937;
+          (Installation of Cabin Pressurization Vacuum Regulator)
+
+                                Vacuum Regulator Schematic
+                                        Figure 3
+
+
+EFFECTIVITY: NOTED                                                                   37-10-00
+                                                                                       Page 4
+MM-98                                                                                Jul 17/81
+                              Gates Learjet Corporation@>
+                    ■ainlenanae ■anllal
+                  VACUUM REGULATOR - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+        A.  Remove Vacuum Regulator (See figure 201)
+            (l)   Lower tailcone access door.
+            (2)   Disconnect bleed air, regulated pressure and cabin pressure lines
+                  from vacuum regulator. Cap all exposed openings.
+            (3)   Remove attaching parts and vacuum regulator from aircraft.
+        B.  Install -Vacuum Regulator (See figure 2()1)
+            (1)   Install vacuum regulator and secure with attaching parts.
+            (2)   Remove caps and connect bleed air, regulated vacuum, and cabin
+                  pressure lines.
+            (3) . Perform operational check of pressurization control system. (Refer
+                  to Chapter· 21. )
+            (4)    Secure. tailcone access door.
+
+ 2.     Cleaning/Painting
+        A.   Clean Vacuum Regulator and Filters (Aircraft 25-061, 25-070 thru. 25~196,
+             25-198 thru 25-203 modified per SSK 937, (Installation ·of Cabin Pressuriza-
+             tion Vacuum Regulator).
+             (l)   Remove vacuum regulators from aircraft.
+             (2)   Remove filters from vacuum ~egulator assembly.
+             (3)   Cle~ filters with MEK and dry with clean, dry air.
+             (4)   Clean vacuum regulator assembly with methyl alcohol and dry with
+                   clean, dry air.
+             (5)   Install filters on vacuum regulator assembly.
+             (6)   Install vacuum regulator assembly.
+
+
+
+
+ EFFECTIVITY: ALL                                                               37-10-01
+                                                                                Page 201
+                                                                                Jul 17/81
+MM-98
+                                    Gates Learjet Corporation@
+
+                       ■ai■ll!■a■■I! ■a■ual._
+
+
+
+         Test P o r t ~ .
+
+     Frame 1 8 - - - -
+
+
+
+  To Pressurization~
+  Module
+  (Chapter 21)                 Bleed Air Duct                                                          Vacuum.
+                               (Ch~pter 36)                                                            Regulator
+                                         Vacuum
+                                         Regulator                                              Bleed Air Line
+                                          Filter
+                             25C Aircraft 25-061, 25-070 thru 25-226-
+
+
+
+
+                                           Frame267
+                                                  ...
+            Vacuum Shutoff
+                                \      Fr8.Dle 18 . .       ,,,,,,        _.,,.,,_;~HI._   ~----Regulated
+                                                                                                   Vacuum Line
+                                             .....
+
+
+                                                                                                  Cabin Sense
+
+
+
+                             Vacuum Regulator                             ,·.
+                                                                                               ·:•···\ /Screw
+                             Filter     .                            -.                           ~ Vacuum· ·
+                                                                                                       Regulator·
+                                                                                   ,,
+
+Test Port          \                                                                                   Bleed Air
+                                                     (Refer to Chapter 36)                             Llne
+                ,..,dLTo Pressurization              Bleed Air Connection
+          ~'fl"
+ I        lf'
+                        Module
+                        (Chapter 21)
+
+                               25F Aircraft 25-227 and Subsequent
+
+                                     Vacuum Regulator Installation
+lS-lMC                                 Figure 201 (Sheet 1 of 3)
+
+
+ EFFECTIVITY: ALL                                                                                      37-10-01
+                                                                                                       Page 202
+                                                                                                       Jul 1'1/81
+MM-98
+                                   Gates Learjet Corporation@
+                       ■ainl■nan■a ■an■al
+   --Vacuum Regulator Filter
+
+                 -     Test Port                                                   ~Frame26
+                                                                              ·, .., ..
+
+
+                                       //   ./
+                            ~~~~~·- ..
+                              :\
+                                                                                          ~~-----Cabin Sense
+                                            '>                                                     Line
+                            r      Regulated Vacuum
+                                                                                                        ,---Screw
+    To Pressurtzation_J            Line     -~,         . .               /
+    Module                         Bleed Air D u c t _ / ' _ /
+    (Chapter 21)                   (Chapter 36) ,.
+                     II)                     Bleed Air Line
+                 ,-                              Vacuum Regulator                                                A
+           41'              25B Aircraft 25-061 1 25~070 thru 25-226
+
+
+
+              Vacuum Regulator
+                                                   =" - ~ F r a m e 26
+              Filter
+                                                    .    ·--..~..,, ...
+                           Test Port
+
+                                                                                               ---Cabin Sense
+
+
+
+  ~,-~                      - - · ~ Regulated Vacuum
+                                    Line
+                                                                                                    Line
+
+
+                                                                                                  · ~ Screw
+                                                                                                  ;,,
+
+
+
+
+                                                 j:
+To Pressurization                            '-~-
+Module                                          --:.~ Vacuum
+(Chapter 21)                                          Regulator
+                                                                                                         Bleed Air
+         Vacuum Shutoff__/ F            ·              .                                                 Line
+         Solenoid            rame 22
+         (Chapter 21)    25D Aircraft 25-22'1 and Subsequent
+
+
+                                    Vacuum Regulator Installation
+ 13-l&IC                              Figure 201 (Sheet 2 of 3)
+
+. EFFECTIVITY: ALL                                                                                          3'1-10-_01
+                                                                                                            Page 203
+                                                                                                           Jul 1'1/81
+ MM-98
+                            Gates Learjet Corporation@
+                  ■ain·1■-nan■■ - ■a■:11.a:I
+
+
+
+
+                                                         Vacuum Regulator
+                                               /
+                                      /
+                                          /'
+  Frame 26 (LH Side)             .✓
+
+                            ,/
+
+                         <  '"
+                                                                Cabin Sense Hose Assembly
+
+
+
+
+        Bleed Air Line                      ~ Vacuum Hose .Assembly.
+
+
+                  View Looking Forward at LH Aft Side of Frame 26
+
+
+         25B/ C Aircraft 25-061, 25-070 thru 25-196 and 25-198 thru 25-203
+         Modified per SSK 937 (Installation of Pressurization VacUUJA· Regulator)
+
+
+                                          Detail A
+                             Vacuum Regulator Installation
+                               Figure 201 (Sheet 3 of 3)
+
+EFFECTIVITY: ALL                                                                37-10-01
+                                                                                Page 204
+                                                                               Jul 17/81
+MM-98
+                                 Gates Learjet Corporation@
+                       ■iliDll!RilRII! ■ilR■ill
+                 VACUUM REGULATOR FILTER - MAINTENANCE PRACTICES
+
+ 1.        Removal/Installation
+           A.  Disassemble Filter (See figure 201)
+               (1)   Remove equipment as necessary to galn access to filter installation.
+               (2)   Remove snap ring, retainer, top cap, and filter element from filter.
+                      stud.
+                (3)  Clean and/or replace filter element.
+           B.   Assemble Filter (See figure 201)
+                (1)  Install filter element, top cap, retainer, and snap ring on filter stud.
+                (2)  Install previously removed equipment.       .
+
+ 2.        Cleaning/Painting
+           A.   Clean Filter Element
+                (1)  Remove· filter element.
+                (2)  Wash element with water and a mild detergent.
+                (3)  Dry filter element with compressed air.
+                (4)  Install filter element.
+
+
+
+
+                  25O/F Aircraft                                 25 B/D Aircraft
+
+
+
+
+                               Vacuum Regulator Filter Installation
+ ·11-lMC
+AlMKD                                     Figure 201
+
+EFFECTMTY: ALL                                                                      37-10-02
+                                                                                    Page 201
+                                                                                    Jul 17/81
+MM-98
+                                                                                                   -~-
+
+
+
+
+                                                                              ·~, ... -.........
+
+
+
+
+    '::..
+
+
+                                                  ~<
+                                                                                 . -~ ..,
+                                                                                                           :;
+                                        ,.,....                           :-.-:--- . ;
+
+                                                                                                     ._   -·~
+
+                                                                                                     ;::.;
+
+                                                                                       •;.
+
+
+
+
+                   ) .
+
+                         . ,   .
+                                                                 : ...
+                                                       ;:-·.'.
+                                   ;'
+                           ·=~
+
+
+
+
+                                                         ;--:
+
+
+
+
+              '\
+C           .c\
+            ~                                                            CJ
+

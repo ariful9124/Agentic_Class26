@@ -1,0 +1,492 @@
+ih
+
+Aale Housing Bolt
+
+Diferensial Gear Cave Boh Nut
+Ditforensal Gear Case Bolt Cont
+Differential Gear Case Bolt
+Differernst:Geat Care
+Axte'Shat Bearing Cone
+A” Rea Se heee Axle Stats Bearing Balt
+‘Axle Sah Dus Axle Shalt Ball Bearing Cup \
+= Rear Hub Ale Shaty Felt Rerawer Plne\,
+Anke ‘Shot: TB evig ‘Axe Shale t Eel Retuner Cup
+
+Aste Hersing Tube yen Howung tlefp..
+Ante Shaft .
+
+be tas > a ee 3 ee
+
+Axle Shalt Bearing Retaner
+‘Axle Shati Beanng Felt
+= fst Shaft Bearing Re lamer Wanker
+aig oe ee Lever
+Beate ec a
+
+pander Nia
+Bate pander Ba Caner
+eae E oak Aa Ad Collar
+‘Bre Aa or: Adasstinernn
+Bone xparuder’ kn Fie
+
+pander
+Brake Expareder
+
+Hous Plate-tLefiy
+
+Truck Rear Axle—Longitudinal View. (Cut No. 20)
+
+‘
+
+ee
+
+a
+
+Aale Fouvwng. Gasker ¢
+Ade Houng Bol eee ‘
+= Anie Mousey Bolt "Cottee:
+
+Ez,
+
+Daterena fen inven Shaft
+ale Houser
+
+_ Differerina ‘on
+
+- Differennel Gear
+
+
+
+a - : '
+
+[a . Dine Sha Tube Pl Sc
+
+\ Owe Shafi
+_ Drove Shaft Tube
+
+-Drive Shaft Tube Flange
+\- Dre Shafi Tube Flange Rwvet ;
+ave Shaft 1. Worn Coupling oe
+‘Shaft so Weer Coupling Fin on a
+
+WN Wear
+. Pier t ar-sey sel
+
+Differential. Gear Case -
+Wore Ger vo
+meal t
+% . = ar a 1
+; : * “tes '
+
+Truck Rear Axle—Cross Section showing Worm and Worm Gear. (Cut No. 21)
+
+
+
+Starter and Generator Units.
+
+(Cut No. 22)
+
+Armature Shaft
+
+Generator Driving
+Pinion
+
+__ ee ol
+
+
+Of what does the Starting anal ,
+Lighting System consist? Answer No. 1 Dp
+motor, generator, » anmeter, and » together with the neces,
+sary wiring and connections, ey ‘
+Where is the 7
+Starter located? . Answer No. 118
+The starting motor is mounted on the left-hand side of the engine and bolted to
+the transmission cover. When in operation the phtion oti the Bendix drive shaft
+engages with the teeth on the flywheel.
+
+What if the Engine ;
+
+Sails to, start? Answer No. 119
+
+If the: starting motor is turning the crank shaft over and the engine fails to start,
+
+the trouble is not in the starting system. In this event release the button at once
+
+sO as Not to unnecessarily discharge the battery and inspect the carburetor and:
+
+ignitién system to determine the trouble. . .
+
+What ¥ the Starting _ 7
+
+Motor fails to act? Answer No. 120
+
+If the! starting motor fails to act, after pushing the button, firet inspect the tere
+
+minal‘on the starting motor, the twe terminals on the battery and the two. ter-
+
+minalg on starting switch, making sure all of the connections are tight; thew ‘
+cxamine the wiring for a break in the insulation that would cause a short circuit,
+If the wiring and connections are O. K. and the starting motor fails to act, test t
+the battery with a hydrometer. If the hydrometer reading is less than 1.225) ’
+the trouble is no doubt due to a weak or discharged battery. . *
+
+What if the driver steps on Starting ,
+Button when engine is running? Answer No. 1h :
+
+Should, the driver accidentally step on the starting button while the engine oY “x
+
+running, no harm will result, The pinion, merely touches the revolving Sywheel .- *
+* pear once and immediately rotates with the threaded shaft out of contact withthe ,
+
+flywheel, inthe same manner as when it has been disengaged by the engine’s
+
+starting. : : .
+
+’
+{
+How is the Ganerator ee og oot *
+The generator is mounted on the right-hand side of the engine and bolted ta
+cylinder front end cover. It.is operated by the pinion ost © sématre
+
+operation of cutting 2 in-and cutting cut at suitable speeds is accomifiished by the __
+cut-out, which is mounted on the generator. This cat-out is, property st the, ‘
+
+. : , , S87
+
+t a .
+* _ 3 alder é ‘ .
+ae” ae, a oe ee . eg a an
+
+
+
+
+
+THE FORD STARTING AND LIGHTING
+What about
+Oiling? Answer No. 123
+
+The starting motor is lubricated by the Ford splash system, the same aa the
+engine and transmission. The generator ie lubricated by a splash of oil from the
+time gears. In addition an oil cup is located at the end of the generator housing
+and a few drope of oil should be applied occasionally.
+
+What should be done when
+repairing the Ignition? Answer No. 124
+
+The introduction of a battery current into the magneto will discharge the magnets
+and whenever working on the ignition system or wiring do not fail to discontiect
+the positive wire from the battery. The end of this wire should be wound with
+tape to prevent its coming in contact with the terminal again.
+
+How does the
+Ammeter operate? Answer No. 125
+
+The ammeter is located on the instrument board. This indicator registers
+“‘charge”’ when the generator is charging the battery and ‘‘discharge” when the
+lights are burning and the engine not running above 10 miles per hour. At an
+engine speed of 15 miles per hour or more the ammeter should show a reading
+of from 10 to 12. If the engine is running above 15 miles per hour and the
+ammeter does not show a proper reading, first inspect the terminal posts on the
+ammeter, making sure that the connections are tight, then disconnect the wire
+from the terminal on generator, and with the engine running at a moderate
+speed, take a pair of pliers or a screw-driver and short-circuit the terminal stud
+on the generator to the generator housing. If the generator is O. K., a good live
+spark will:be noted. (Do not run the engine any longer than is necessary
+with the terminal wire disconnected.) Next inspect the wiring from the generator
+
+; through the ammeter, to the battery for a break in the insulation that would
+. result in a short-circuit. If the trouble is not located, then remove the dust’
+
+cap from the end of generator and thoroughly clean the generator commutator,
+using for this work a fine grade of sandpaper which has been slightly oiled.
+With the motor running hold the sandpa; against the commutator with
+the fingera until all dirt h&s been removed a bright surface attained.
+
+How are the Lights |
+operated? . Answer No. 126
+
+The lighting system consists of two headlights and a tail light operated by a
+combination lighting and ignition switch located on the instrument board:
+headlamp bulbs are of 6-8 volt, double filament type. The major filament is
+18 candle-power, and the minor filament is 234 candle-power. The small bulb
+used in the-tail light is of 6-8 volt, single contact, two candle-power type. All
+of the lamps are connected in parallel so that the burning out or removal of any
+one of them will not affect the other. Current for the lamps is supplied by the
+battery. Do not connect the lights to the magneto as it will reault in burning
+out the bulBs and might discharge the magnets, Cut No, 23 shows the different
+circuita and the course of the current.
+
+What about repairing '
+Starter and Generator Answer No. 127
+
+If either the starter or generator fails to give proper service, the owner should at
+once consult an authorized Ford dealer. Owners should not attempt to
+repair or adjust the mechanism of the starter and generator. :
+
+¥
+
+a | a ~_ ae : i
+
+
+
+5 _ _— 3
+2 _ . THE FORD MANUAL oo, {
+How is the Starter
+. removed? Answer No. 128
++ ‘When removing the starter to transmission bands, or for any other reason,
+y first remove the engine pan on left-hand side of the engine and with a screw- ~
+. deiver remove the four emall screws holding the shaft cover to the transmission
+edver. Upon removing cover and gasket, turn the Bendix drive shaft around
++ +0 that the eet screw ori the’end of the shaft is at the top. Immediately gy
+. the set screw is placed a lock washtr, designed with lips or
+2 _Ofiposite each other. One of these is turned against the collar a
+“other ‘fs turned up against the side of the screw head. Bend back
+- 5 which has been forced against the screw and remove the set-screw. As
+washer will no doubt be broken or weakened in removing the starter, an
+
+housing to the transmission cover, and/pull out the
+
+same down through the chassis this ie why it was necessary to
+
+the engine pan. Extreme care should be used in removing the Bendix
+
+misplaced nor lost and that they aré replaced
+
+fn thelr forms former position. In replacing the starter, be sure that the terminal
+
+connection is placed at the top. If the car is to be operated with the starter
+
+.. removed, be sure to put the transmission cover plates in position. These plates
+may be obtained from the nearest dealer.
+
+atl
+ik
+i
+ap
+4
+
+How is the Bendix sprive
+assembled to the Start-
+* ing Motor? Answer No. 129
+
+too tight; also chat the Dosing ie be rene, atten
+- -with the bracket. The bearing itiahd be cles end then Sted so that it can be 4
+. tgrned readily with the fingers. If the bearing is too tight, it should be dressed
+doen with an oil stone. Too tight 2 fit will cause the bearing to freeze to the |
+bracket, resulting in serious damage to the starter. ' :
+
+-i{6w is the Generator ;
+eel - Answer No. 130
+‘ahit is found necemary to remove the-eenerator, Sat 'take ont the ches cap
+Genes! thal generator and feent end cover, Sos toontotor maybe forced of te
+poiand snerator and front end cover, the generator may be forced off the
+: ‘Alwaya start at the top of the generator and force it backward
+
+‘at tie-same time. Plates maybe obtained from the negrest dealer
+be time gear if the car is to be operated with the generator removed.
+
+' i sl oe te Answer No. 131
+
+When installing the, generator, the drive pinién must be properly meshed with
+
+the large time gear. The generator Peder Uletk ead the rashine at the
+
+generator is bolted is separate from the block and the meshing of the
+
+generator driving pinion with the large.time gear can be regulated by the use of h
+
+one or more paper gaskets between the bracket ard the cylinder block. The ;
+bracket should rest tightly on the crankcase gasket add line up with the fate of
+
+J
+
+_
+
+a +} 1 : cy Lee gh . _ 7 an? ae -d
+
+
+Can pEngine be run with the n
+Genergtor disconnected from ,
+the battery? Answer No. .132
+
+“If for aty. reason the engine is run with the generator disconnected from from the bet-
+
+tery, as or. a block test, or when battery been removed for repair or retharging,
+be sure that generator is grounded bg running-a wire from the terminal on.
+generator to one of-the dust cover the yoke. Two strands of shipping
+tag wire be ufled for this p sure that the cannections at ‘beth
+ends of the wire are tight. Fal oho nag ct th
+generator disconnected from the -battiry will result in serious injury to the
+
+ator. Never ground the genevator through the cut-out.
+
+Whai ¢: Botte ‘’
+is used? a ~ y. . Answer No. 133
+
+The Ford, ing System pses a six-volt, three-cell battery.
+
+Answer No. 134
+
+%, gee
+ai
+
+gee
+
+ae ae
+
+Raysere
+
+?)
+5
+$
+
+indicate “complete
+
+hydrometer shows the lesa
+than one-half , it should be taken
+to the nearest authorized Battery Service
+Station for opera-
+half-charged condition is injurious to the Beles ty somewhat
+or deflated tire is injurious to the tire, Before. replacing the
+
+of the discharged condition should be removed. "Tt may may be"
+
+nds in the car wiring or to the electri having gotten
+that the battery is ot keene ied with the proper
+the generator. If the reading ix ceil is mote than
+
+ae gy" ee
+—" ‘e/ tam. om a an
+
+beter
+*
+
+
+
+THE FORD MANUAL
+
+50 points different from the others, it indicates that the cell is not in good ofiter
+and the tyatiery should be taken to a skilled service man for attention.
+
+ms stat water be an Answer No. 135.
+
+Aa nething but pure wate othe ces and doit often enough to keep the plates
+covered at all times. The solution (electrolyte) should be maintained
+level with the bottom of the filling tube. Distilled water, melted arti
+(but not natural) ice and rain water, if obtained in the open country from.
+clean slate or shingle-covered roof, are generally satisfactory. All water
+battery use should be kept in clean, covered vessels of glass, china, earthenw@
+rubber or lead. In cold weather add water only immediately before
+engine so that the charging will mix the water and electrolyte, and avoid
+ing. Hf, for any reason, it is necessary to add acid, the battery should. be t
+to an authorized Servi ice Station.
+
+He
+
+What care should be given the . - gas
+Filling Plugs and Connections? Answer No. 136
+
+Keep the filling plugs and connections tight and the top of the battery
+Wiping the battery with a rag moistened with ammonia will counteract the effe
+of. any of the sohution which may be on the dw of the’ A
+
+of heavy oil or vaseline will protect the cofinectors from
+
+battery firmly secured in position. If clanipe. aré-loose, the
+about in the compartment and résult in loos¢ connections, broken cells and o
+
+tranble. If repairs are necessary or if the & fo be laid up for the
+take the battery to a skilled : man for. attention and. storage.
+‘net entrust the battery to in or willed band ;
+
+
+
+THE FORD MANUAL
+
+Summary of Engine Troubles and Their Counta
+
+ENGINE FAILS TO START
+
+-2, Water in gasoline.
+
+3.° Vibrators adjusted too close.
+
+4.. ‘Water or congealed oil in commu-
+| tator.
+
+'§, Magneto contact point (in trans.
+Meee obstructed with foreign
+matter.
+
+6. Gasoline supply shut off.
+7. Carburetor frozen (in zero weather).
+
+‘8. Water frozen in gasoline tank
+sediment bulb.
+
+oo Coil switch off.
+
+ENGINE LACKS | POWER—RUNS
+-IRREGULARL
+
+; At Low Speeds.
+
+1. Poor compression—account leaky
+‘valves.
+
+2. Gas mixture too rich or too lean.
+3. Spark plugs dirty.
+4. Cbdil vibrator improperly adjusted.
+| S Air leak in intake manifold.
+6. Weak exhaust valve spring.
+
+, 7. Too great clearance between valve
+, eter and push rod.
+
+| 8. Too close gap between spark plug
+
+‘At High Speeds.
+1. ‘Commutator contact imperfect.
+3. Too much gap in spark plug.
+4, Imperfect gas mixture,
+
+ENGINE STOPS SUDDENLY ~, |
+
+1. Gasoline tank empty...
+Water in gasoline.
+3. Flooded carburetor.
+4. Dirt in carburetor or feed pips:
+5. Magneto wire foose at either
+terminal.
+
+6. Magneto contact point obstructed.
+Overheated—account lack of oil
+
+or water.
+8 Gas mixture too lean. ta
+@ @
+ENGINE OVERHEATS
+1. Lack of water.
+2. yack of oil.
+
+3. Fan belt torn, loose or slipping.
+
+4. Carbon deposit in combustion
+chamber.
+
+5. Spark retarded too far.
+6. Gas mixture too rich.
+
+7. Water circulation retarded ‘by
+sediment in radiator. .
+
+8 Dirty spark plugs.
+
+ENGINE KNOCKS
+
+1. Carbon deposit on piston heads.
+2. Loose connecting rod bearing.
+3. Loose crank shaft bearing.
+
+4. Spark advanced too far.
+

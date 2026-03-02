@@ -1,0 +1,641 @@
+_,,,,;,....   -
+
+
+
+                                                                     Gateslearjet9
+                          mid-continent airportp.o. box 7701 wichita, kansas 67277 (316) 946-2000 telex 417441
+
+
+
+
+                  .i'O:              Holders of Model 25B/C /D/F Maintenance Manual
+
+                  SUBJECT:           Revision No. 23 dated.March 13, 1987
+
+
+                  Revision No. 23 revises Chapter 5 only.
+
+                  Revise this chapter by inserting changed pages and removing superseded .
+                  pages in accordance with the LIST OF EFFECTIVE PAGES. Direct any
+                  questic1s concerning distribution (change in address, quantities, etc.)
+                  to Gates Learjet Corporation, P.O. Box 7707, Wichita, Kansas 67277-7707.
+                  Att: Technical Data Co~trol Center, Ms· 71. Telephone.(316) 946-2393.
+
+
+
+
+                  ManRJr,er,
+                  'i ech, :ical Publications
+
+
+
+
+                                                                                   Gatesl.eaJ1etCorporation
+           lillTEI LEARJET
+                !Ii ll/a/11/1
+         mainlenanae man■al
+
+
+
+
+                                                         .   December 2, 1977
+                                                   Revised March 13, 1987 (Rev. 23)
+
+
+
+                    Gates Learjet Corporation@®
+          P.O. BOX 7707, MID-CONTINENT AIRPORT, WICHITA, KANSAS 67277-7707
+
+
+
+
+MM- 98
+TECHNICAL PUBLICATIONS SQUAWK SHEET
+   We are constantly striving to make our publications more usable in the field. In order
+   to do this, we need your comments, criticism, and suggestions concerning any Gates
+   Learjet aircraft publication. The action taken on your Squawk Sheet will be noted
+  .below and a copy will be returned to you. Be sure that your orrect mailing address
+   and business phone nu.mber are provided.
+
+                                             Chuck Scott, Manager
+                                             Technical Publications
+                                             Gates Learjet Corporation
+
+
+  PLEASE FURNISH THE FOLLOWING:
+  PUBLICATION TITLE: ___________                YOUR NAME: _ _ _ _ _ _ _ __
+
+  PUBLICATION DATE: _ _ _ _ _ __                MAILING ADDRESS: _ _ _ _ _ _ __
+
+  PAGE AND/OR FIG. NO.: _ _ _ _ _ __
+                                                BUSINESS PHONE NO.: _ _ _ _ __
+
+
+   COMMENTS: ~riefly describe any errors you may have encounte_red or suggestions
+             as to type of additional coverage you feel is needed.·
+
+
+
+
+   ACTION T A K E N · - - - - - - - - - - - - - - - - - -
+                                                                                                                      '
+                                                                                                                          ~
+                                                                                                                          I
+
+
+
+
+-------------------·--------------·-•-----·--·----'!"'~-·
+                                                                                                         FIRST CLASS
+                                                                                                        PERMIT NO. 2928
+                                                                                                           WICHITA.
+                                                                                                           KANSAS
+
+
+
+                                     BUSINESS REP·LY MAIL
+                                    NO POSTAGE STAMP NECESSARY IF MAILED IN UNITED STATES
+
+
+
+                              --------------✓
+                                       .. ... ~
+                                              .
+                                  POSTAGE WILL BE PAID BY -
+                                                                              '.:':'   ..- ;:.-;   •.                     .'
+
+
+
+
+                                  GAJES.LEARJET CORPORATION
+                                  P.O.·-Box :7707
+                                  Wichita, Kansas 67277-7707
+   ATTN: Technical Publications
+
+
+
+------------------------------------------
+                      MODEL 258/C/D/F                   RECORD OF REVISIONS
+ Rev
+ No.
+       j Issue
+             Date
+                      I. Insertion
+                           Date
+                                   :    Rev
+                                     By No.
+                                              Issue j Insertion
+                                               Date I      Date     . By
+                                                                           Rev
+                                                                           No.
+                                                                                 I Issue
+                                                                                    Date
+                                                                                                Insertion
+                                                                                                  Date
+                                                                                                            IBy
+   Reprinted Dec/81 .
+   Thru Revision No. 10
+
+  11       Dec 18/811
+
+  12   rFeb 5/82
+       !
+
+  13       Apr 2/82
+
+  14   . Apr 30/82
+       .
+       I
+                             -
+  15       Aug 6/82
+
+ 16  Dec 10/82
+               1
+--------------+--+-------~--...J------+---+---------+------+----t
+ 17  Jul 5/83 j
+_____1 _ _ _ _1 - - - + - - - + - - - - - + - - - - - - + - - + - - - 1 - - - - - - + - - - - - - + - - - t t
+                       i
+  18       Apr.27/84 i
+--------------------------------------
+  19 :May 25/84·
+
+-;;;-j     Jul 16/84 ;
+       I
+  21       Dec 6/85
+
+  22       Nov 21/86 1
+
+  23       Mar 13/87
+
+
+
+
+                                                                                            I
+                                                                                            I
+
+
+
+
+                                                       I
+RETAIN THIS RECORD IN THE FRONT OF MANUAL ON RECEIPT OF REVISIONS, INSERT REVISED PAGES IN THE MANUAi.. AND ENTER
+REVISION NUMBER. ~ssue D~TE, INSERTION DATE. AND INITIALS. . .           .  .            .         .    .    .
+
+
+
+
+MM-98
+                                           Gates Learjet Corporation•
+                               ■a11111a111 ■anaal
+~
+      Chapter                                                     Chapter
+      Section                                                     Section
+      Subject                     Page              Date          Subject                    Page               Date
+    • introduction - List of
+           Effective Pages            1         May 25/84
+      Introduction                     l         Dec 2/77
+      Introduction                    ii         Dec2/77
+      Introduction                   Ill         Dec 2/77
+      Introduction                   iv          Dec 2/77
+      Introduction                    V          Dec 2/77
+      Introduction                   vi          Dec 5/77
+    • introduction                  vii         May 25/84
+    • introduction                  viii        May25/84
+
+
+
+
+    Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+    • Asterisk indicates pages revised, added or deleted by cunent revlslon.
+     The portion of the text affected by the current revision ls indicated by a vertical line in the outer margin of the page.
+
+
+                                                                     INTRODUCTION - LIST OF EFFECTIVE PAGES
+                                                                                                                    Page 1
+                                                                                                                 May 25/84
+                                            §).
+                           •       BATES LEARJET CORP0RA110N
+
+                    ■a11111a111 ■a■11al
+                                       INTRODUCTION
+
+1.    Coverage .
+      A.   This maintenance manual has been prepared by the Technical Publications
+           Section of GATES LEARJET CORPORATION. It contains information neces-
+           sary to enable a -trained mechanic to service, tre>uble shoot, functionally test,
+           and repair ·systems and equipment in the LEARJET. It also includes informa-
+           tion necessary for the mechanic to perform maiiltenance or make minor repair
+           to units ~ the aircraft normally requiring such action on the flight line or in
+           the maint~e hangar~ It covers the standard aircraft configuration as de-
+           livered to the customer~
+      B.   This maintenance rnarn1al does not r~ect part. ~.ers and should not be used
+           for ordering replacement parts. Spares and r~pl~cement parts should be
+           ordered using the current GATES LEARJET PARTS CAl'ALOG.
+
+2.      Temporary Revisions
+     . .A.   Te~porary revisio~ are used to provide additional information and changes
+             as_ they become available.· Temporary revisions provide, with the least pos--
+             sible delay,·· new information which assists in maintaining safe and efficient
+             flight/ ground operations.
+        J3-. Temporary revisions are incorporat~d at the next regularly schedtµ_ed revision
+             and become a permanent part of the .maintenance ,manual.
+        C.   Upon ~eceipt of a temporary revi~on' it should be.filed in the.applic~ble
+             chapter. in accordance ~th its flling ·1nstructions·. . ·
+        D.   Temporary'· revisi~ns should be removed front. this. maintenance manual only
+             when removal .ins1:ructio~ are .noted on· the regular reviSion cover letter or
+             by instructions noted on ~- ~pers·ec;ling temporary revision.
+
+3.    ·Serialization
+      A.. Serial numbers are placed in the effectivity block in the lower· left corner of
+             each pa.ge·and denote that the maintenance data on that individual page relates
+             to the ~st,e~ serial ~umber on that. page.
+
+4.    Using the Maintenance Manual
+      A.    This main~~ce manual is ~vided into four major sections, each of which is
+            separated into chapters. Each chap~er contains its own effectivity page and.
+           table of contents.
+      B.    Maintenari.ce Manual division is as follows:
+                              Major Section l - Aircraft General
+                   ·Chapter                              Title
+                       4                    Airworthiness Limitations
+                       5                    Time Limits/Maintenance Cb~ks
+                       6                    Dimensions and Areas
+                       7                    Lifting and Shoring
+                       8                    Leveling and Weighing
+                       9                    Towing and Taxiing
+
+
+EFFECTMTY: ALL                                                               INTRODUCTION
+                                                                                    Page i
+                                                                                   Dec 2/77
+                                   ~
+                    •     GAlE8 LEARJET CQRPDRA110N
+
+            ■al■ll!■IN.I!. ■a:■■al.
+            Chapter                         Title
+               10                  Parking and Mooring
+               11                  Required Placards
+               12                  Servicing
+                   Major Section 2 - Airframe Systems
+            Chapter                   ,.. . Title
+               20                  standard Practices - Airframe
+               21                  Air Conditioning
+               22                  Auto Flight
+               23                  Communications
+               24                  Electrical Power
+               25                  F4Ufpment/Furnishings
+               26                  Fire Protection
+               27                  Flight .Controls
+               28                  Fuel
+                29                 Hydraulic Power
+            .. 30                  Ice and Rain Protection
+                31                 Indicating/Recording Systems
+                32                 Landing Gear
+                33                 Lights
+                34                 Navigation
+                35                 Oxygen
+                36                 Pneumatic
+               37                   Vacuum
+               38                   Water/Waste
+              39                    Electrical/ Electronic Panels &
+                                       Multipurpose Parts
+                   Major Section 3 - Structures ·
+             Chapter                       Title
+               51                 . Structures
+              52                    Doors
+               53                   Fuselage
+               54                   Nacelles/Pylons
+               55                   Stabilizers
+               56                  Windows
+              57                   Wings
+                   Major Section 4 - Power Plant
+             Chapter                     Title
+               71                  Power Plant
+               73                   Engine Fu.el and Control
+               74                   Ignition
+               76                   Engine Controls
+               77                   Engine Indicating
+               78                   Exbaust
+               79                   Oil
+               80                   Starting
+
+EFFECTIVITY: ALL                                                      INTRODUCTION
+                                                                             Page ii -
+                                                                           Dec 2/77
+                                          -~
+                           •       G ~ LEARJET CORPORmlON
+
+                  ■a1n11nan■1- ■anaal
+   C.   Page Numbering System
+        (l) Page numbers used in this maintenance manual consist of three-element
+            munbers separated by dashes. under which the page number and date are
+            printed.
+
+                       I
+                Chapter/System            26-2r01         _        SUbjecl/unit
+              ( Fire Protection)                            ( Extinguisher Container)
+                                     Section/Stibsystem
+                                       ( Extinguishing)
+
+        (2) Whenever the chapter/ system element number is· followed by zeros in the
+            section/subsystem and subject/unit positions (26-00-00) th~ information
+            is applicable to the entire system.
+        (3) Whenever the section/subsystem element number is followed by zeros in
+            the subject/unit position (26-20.:..00) the information is applicable to the
+            subsystems w~thin. the system.
+        (4) The subject/unit element number is used to identify information applicable
+            to units within. The subject/unit element number progresses from the
+            number -·01 in accordance with.the number of subsystem units covered.
+        (5) All system/subsystem/unit data is separated into specific ty.p~s of infor-
+            maµ~n. Bl~cks of page numbers are used· to identify the type of. infor~
+            mation:
+
+               Pages 1 thru 100      - ·Description and Operation
+
+               Pages 101 thru 200 - Troubleshooting
+
+               Pages 201 thru 300 - Maintenance Practices
+
+        (6) Some units may. not require all the information listed in these three blocks
+            of'-numbers, in ·which case those blocks of numbers are omitted.
+        (7) The following is. a breakdown of a typical page number:·
+
+                                      Extinguishing Subsystem
+
+                    Fire ·Protection System               Extinguisher Container Unit
+                               1
+                               - - - - - 2 6 - 2 0 - 0 1 - - - -1
+               Second Page of Fire - - - Page 202
+               Extinguisher Container
+               Maintenance Practices        ...__ _ .Date of Issue
+
+        (8)    mustrations use the same figure number as the page block 1n which they
+               appear. As an example figure 202 will be the second illustration appear-
+               ing in the maintenance practices section.
+
+
+EFFECTIVITY: ALL                                                             INTRODUCTION
+                                                                                   Page iii
+                                                                                    Dec 2/77
+                                           §)
+                          •      GA1E8 LEARJET CORPORA110N
+
+
+                  ••11111!·■••·· .••·••··
+5.   Revision FiJing Instructions
+     A.    Each regular maintenance manual revision will include a cover letter. The
+           cover letter will include a list of ·temporary revisions which are incorporated
+           and any other pertinent information concerning this revision.
+     B.    Pages are listed in manual sequence by chapters/section/subject number and
+           page block.
+
+6.   Revision Bars
+     A.    Changes to data in an existing section will be identified by a revision bar in
+          the outer margin of the page.
+
+7.   supplementary Publications
+     A.    The following list of publications provide servicing, overhaul, and parts infor-
+           mation on various components on .the Learjet•. You may--want to obtain these
+           documents from the companies listed below to supplement the Learjet Manuals.
+           Since a wide variety of radio equipment "is available and because radio manu-
+          facturer! s normally supply parts and servicing manuals with each set, radio
+          publications have not been included. As publications on additional components
+          become available, they will be added to this list. Basic issues of Jet Elec- .
+          tronics and Technology, Inc. , publications should be· obtained ·at. Gates Learjet
+           Corporation and the Revision Service from J. E. T. in Grand Rapids, Michigan.
+           (1) Anti-Ice
+               (a) Installation and Maintenance Instructions, Electro~Thermal Ice
+                    Guards, Publication No.: AP-343; The Goodyear Tire and Rubber
+                    Company, Aviation Products Division, 1144 E. Market St. ,
+                    Akron, Ohio 44305.
+           (2) Avionics
+               (a) Instruction Manual, Directisyn, Model DN-101, Publication No.:
+                    TP-212; Jet Electronics and Technology, Inc. , 5353 52nd Street, s. E. ;
+                    Grand Rapids, Michigan 49508
+               (b) Overhaul Manual and Parts Breakdown, Directional Gyro (Part No.
+                    4-8020 for DN-101 Directisyn), Publication No. TP-233; Jet Elec-
+                    tronics and Technology, Inc. , 5353 52nd Street, ...s. E. ; Grand. Rapids,
+                    Michigan 49508
+               (c) Overhaul Manual and Parts Breakdown, Directional Gyro (Part No.
+                    501-1149 for DN-101 Directisyn), Publication No. TP-255; Jet Elec-
+                    tronics and Technology, Inc. , 5353 52nd street, S. E. ; Grand Rapids,
+                    Michigan 49508
+               (d) Maintenance Manual, INS-61B Inertial Navigation System - Publica-
+                    tions No. 523-0763768-201114, Collins Radio Company.
+               (e) Operations Mam.la.I, INS-61B Inertial Navigation System - Publica-
+                    tions No. 523-0764097-101111, Collins Radio Company.
+               (f) Instruction Manual, Vertisyn, Model VN-202, Publication No. :
+                    TP-213; Jet .Electronics and Technology, Inc., 5353 52nd street,
+                    S. E.; Grand Rapids, Michigan 49508.
+
+
+
+EFFECTIVITY: ALL                                                           INTRODUCTION
+                                                                                 Page iv
+                                                                                  Dec 2/77
+                                     ~.
+                    •       GAl&I LEARJET CDRPORIOlDN
+
+             ■a1n11n1n11· ■·anual
+           (g) · Overhaul Manual and Parts Breakdown, Vertie~! Gyro (Part No.
+                   501-1005 for VN-202 Vertisyn), Publications No. TP~234; Jet Elec-
+                   tronics and Technology, Inc. , 5353 52nd Street, s. E~ ; Grand Rapids,
+                   Michigan 49508.
+           (h) Overhaul Manual and Parts Bre~down, Vertical Gyro Indicator,
+                   Model VG-301, Publications No.: TP-232; Jet Electronics and
+                   Technology, Inc., 5353 52n~ street, S. E.; Grand Rapids, Michigan
+                   49508.                                                 ·
+           (i) Instruction Manual, Vertical Gyro Indicator, Model VG-301, Publi-
+                   cation No. : TP-214; Jet Electronics and Technology, Inc. , 5353
+                 · 52nd streets. E. Grand Rapids, Michigan 49598.             .
+           (j) Overhaul Manual and Parts Brea.k~own, Attitude Indicator, Model_
+                   AI-804, Publication No.: TP-218; Jet Electronics and Techri.ology,
+                   Inc., 5353 52nd street, S. E.; Grand Rapids, Mi~higan 49508.
+           (k) Overhaul ~ual and Parts Breakdown, Attitude Indicator, Model
+                   AI-904, .Publication No.: TP:..216; Jet Electronics and Technology,
+                   Inc., 5353 52nd street, S. E.; Grand Rapids, Michigan 49508.
+            (l) . Instruction Manual, Automatic Flight Control System, ·Model FC-11 O
+                   A _thru H, Publication No. : TP-203; Jet· Electronics and Technology,
+                   Inc.: 535a 52nd street, S. E.; Grand Rapi~," Mlchigan 49508.
+           (m) Instruction Manual, Automatic Flight ~ntrol System, Model FC-11~
+                   Hand J, Publications No.: TP-231,. Jet ~ectronics and Technology,
+                   Inc.: 5353 52nd street, S. E.; Grand Rapids, Michigan 49508.
+            (n) Pilot's Manual, Automatic Flight Controt.Bystein, Model FC-110,
+                ' Publication No. TP-223; Jet Electronics· and :Technology, Inc. ,
+                   5353_ 52nd Street, s. E.; Grand Rapids, Michigan 49508.
+            (o) Overhaul Manual and Parts Break4own, Vertie~ Gyro, M(?del VG-
+                   206, · Publication No. TP-224; Jet Electronics and Technology, Inc.
+                   5353 .52nd street S. E., Grand llapids, Michigan,·· 49508. ·
+           _(p) Instruction Manual, Servo Amplifier, M~d~l AM~101,. Publication
+                    No. n,~236; Jet Electronics and Technology," inc., ·5353 52nd street,
+                   S. E.·., Grm:id Rapids, Michigan· 4~508.     .      .
+            (q). Overhaul Manual, Rate Gyroscope, Model ~G-227, .Publication No.
+                   TP-264; Jet Electronics and Technology, Inc. , 5353 52nd street,
+                   S.- E. , Grand Rapids, Michigan 4950_8~
+            (r) Pilot's Guide, 3-D Digital Airborne Computer/~ ~ V System,
+                    Model DAC-2000, Publication No.:. TP-257; Jet Electronics and
+                    Technology, Inc., 5353 52nd street, S. E., _Grand Rapids, Michigan
+                    49508.
+            (s) Instruction Manual, 3-D Digital Airborne Computer/R NAV System,
+                    Model DAC-2000, Publication No.: TP-258; Jet Electronics and
+                    Technology, Inc. , 5353 52nd street, S. E. , Grand Rapids, Michigan
+                    49508.
+
+
+
+
+EFFECTIVITY: ALL                                                       INTRODUCTION
+                                                                              Pagev
+                                                                            Dec 2/77
+                                     ~
+                            BA1E8 LEARJEr CORPORATION
+
+              ■aln1e•■■1 ■a■·11al
+        (3) Electrical
+            (a) Instruction Manual, Marathon Battery, Publication No.: BA-89;
+                Marathon Battery Co., 8301 Imperial Drive, P. o. Box 8233, Waco,
+                Texas 76710.
+            (b) Instruction Manual, Gulton Battery, Publication No.: ABD 1100,
+                Gulton Industries, Inc. , Metuchen, New Jersey 08840.
+
+
+I           (c) Service Mallual, Gill Aircraft Batteries, Teledyne -Battery Products,
+                840 W. Brockton Avenue, P.O. Box 431, RecDands, calif. 92373.
+            (d) Installation and Maintenance Manual, Twil.ighter ?dk. m, Publication
+                No.: None; Hoskins, Inc., 34 N. Bennet, Geneva, filinois 60134.
+            (e) Instruction Manual, Fuel Monitoring System Computer-Amplifier,
+                Model CA-260, Publication No.: TP-210; Jet Electronics and Tech-
+                nology, Inc., 5353 52nd street S. E., Grand Rapids, Michigan 49508.
+            (f) Instruction Manual, Nose Gear/Stall Warning Computer Amplifier,
+                Model CA-250, Publication No.: TP-209; Jet Electronics and Tech-
+                nology, Inc., 5353 52nd street S. E., Grand Rapids, Michigan 49508.
+            (g) Instruction Manual, Emergency Power SU.pply, Model PS-823, Pub-
+                lication No. : TP-202; Jet Electronics and Technology, Inc. , 5353
+                52nd Street S. E., Grand Rapids, Michigan 49508.
+            (h) Maintenance Instructions, Bendix Starter-Generator, Publication
+                No.: R709-18; Bendix Corporation, Electrical Power Division,
+                DLtontown, New Jersey.
+            (i) mustrated Parts List, Bendix Starter-Generator, Publication No. :
+                R702-11; Bendix Corporation, Electrical Power Division, Eatontown,
+                New Jersey.
+            (j) Instruction Manual, DC Torquer Actuator, Model SA.-142, Publica-
+                tion No.: TP-201, Jet Electronics and Technology, Inc., 5353 52nd
+                street S.E., Grand Rapids, Michigan 49508.
+        (4) Engine
+            (a) General Electric "CJ610-l tbru -9 and CF700-2C and-2D and-202
+                'l\trbojet Engines illustrated Parts catalog,'' Publication No.: SEI-
+                137; General Electric Company, Commercial Engine Division,
+                Product Support Division, Lynn, Mass. 01910.                      .
+            (b) General Electric "CJ610-l thru -9 Turbojet Engine Operating In-
+                structions, 11 Publication No. : SEI-188; General Electric Company,
+                Commercial Engine Division, Product SUpport Division, Lynn,
+                Mass. 01910.
+            (c) General Electric "CJ610-l tbru -9 Turbojet Engines Maintenance
+                Manual," Publication No.: SEI-186; General Electric Company,
+                Commercial Engine Division, Product SU.pport Division, Lynn,
+                Mass. 01910.
+
+
+
+
+EFFECTIVITY: ALL                                                    INTRODUCTION
+                                                                          Page vi
+                                                                         Dec 5/77
+                                      ~
+                             GATES LEARJET C0RPORA110N
+
+               ■ai111ena■11 ■a■11al
+              .(d) General Electric "CJ610-l thru-9 Turbojet Engmes Overhaul Manual,"
+                   Publication No.: SEI-136; General Electric Company, Commercial
+                   Engjne Division, Product Support Division, Lynn, Mass. 01910.
+              (e) General Electric "CJ610-l thru -9 and CF700-2C Turbojet Engines
+                   Accessory Overhaul Manual, Publication No. : SEI-154; General
+                   Electricl Company, Commercial Engine Division, Product Support
+                   Division, Lynn, Mass. 01910.
+               (f) Handbook of Overhaul Instructions, Pressure Ratio Indicator,
+                   Publication No.: 5560-200-859; Kollsman Instrument Corp.,
+                   80-08 45th Ave. , Elmhurst, New York 11373•.
+               (g) Handbook of Overhaul Instructions, Pressure Ratio Syncbrotel
+                   Transmitter, Publication No.: 5695A-500-961; Kollsman Ins~ent
+                   Corp. , 80-08 45 Ave. , Elmhurst, New York 1137 3~
+               (h) Installation Manual, Woodward Electronic Synchronizer (STC
+                   SA412CE), Publication No.: Bulletin 33071; Woodward Governor
+                   Co., ·5001 N. Second St,, Rockford, Illinois 61100.     ·
+               (i) Installation Manual, Woodward Electronic Synchronizer (STC
+                   SA30GL), Publication No.: Bulle~ 33104, Woodward Governor Co.,
+                   5001 N, Second st., Rockford, Illinois 61100.
+               (j) Installation Manual, Woodward Electronic Synchroni-zer (STC
+                    SA30GL), Publication No.: BUlletln 33144, Woodward Governor
+                    Cq. , 5001 N. Second st~ , Roc~ord, ·illinois 61100.
+               (k) ~ction Manual, Fire Extinguisher Cartridges and Fire Ex-
+                   ting;uisher Actuator, Publication No. : F~0712B; Walter Kidde & Co. ,
+                   Inc., Belleville, New Jersey 07109.
+               (l) Instruction Manual, Double Check Valve Tee (Fire Extinguisher),
+                   Publication No.: F-40671; Walter Kidde & Co. , Inc., Belleville .9,
+                   New Jersey.
+              (m) Overhaul Manual and illustrated Parts C~talog, 86 Cubic Inch Fire ·
+                   Extinguisher Container Assemblies, ·Publication No. 26.:..20-00. and
+                   Bulletin No. 30402102; American Standard, Advanced Technology
+                   Division, 1900 Walker Avenue, Monrovia, California 91016.
+         ( 5) Miscellaneous
+               (a) Service and Maintenance Manual Flush Type Toilet, Publication No.
+                   107A; Monogram. Industries, Inc., Venice Division~ Venice,
+                   California 90291.
+               (b) Service Instructions Manual, Sherwood Clean Flush Aircraft Toilets;
+                   Sherwood Products, P. o. Box 32583, San Antonio, Texas 78216.
+               (c) Operation and Maintenance Instructions for Aircraft Electronic
+                    Weighing Kits, Publication No. C-40468, Cox and stevens Electronic
+                    Scales Division, Revere Corporation of America, Wa11ingford,
+                    Connecticut.
+               (d) Service Manual Maintenance Instructions with illustrated Parts
+                   Breakdown and Circuit Diagrams for Dee Howard Company Thrust
+                    Reverser System used on Gates Learjet Aircraft. The Dee Howard
+                   Company, San Antonio, Texas 78201.
+
+
+EFFECTIVITY: ALL                                                     INTRODUCTION
+MM-98                                                                      Page vii
+                                                                         May 25/84
+        (6)
+              ••••,...... . •••••   ~
+                           BA1E8 LEARJET C0RPORA110N
+
+
+
+              Wheels, Tires, Brake, and Anti-Skid
+              (a)  Nase Wheel Assembly; •Main ~heel Assembly, and Brake
+                   Assembly Overhaul Manual and Illustrated Parts Catalog, Pub-
+                   llcatt.on No.: AP-319, The Gaodyear Tire and Rubber Company,
+                   Aviation Products Division, 1144 E. Mai;ket Street, Akron,
+                   Ohio 44300.
+              (b)  Wheel. Speed Transducer Assemblies Overhaul Manual, Pub. No.
+                   32-40-02 (Report 8155), Camponent P/N 40-433L; Hydro-Aire
+                   Company, Division of. Crane Company, 3000 Winona Ave~u~,
+                   Burbank, California 91510.
+              (c)  Wheel Speed Tra~sducer Assembly Overhaul Manual, Pub. No.
+                   32-40-'1'7 (Report s:..29'7), Component P/N 40-911; Hydro-Aire
+                   Company, Divisioµ of Crane Company, 3000 Winona Avenue,
+                   Burbank, California 91510.
+              (d)  Anti-Skid Control Box Overhaul Manual, Pub. No. 32-4()-'76
+                   (Report 815'1), Component P/N 42-201; Hydro-Aire Company,
+                   Division af Crane Company, 3000-Wi~ona Avenue, Burbank,
+                   California 91510 ~
+              (e)  Anti-Skid Control Box Overhaul Manual, Pub. No. 32-42-32
+                   (Report 8-300) Cc;>mponent P/N 42-3'79-l; Hydro-Aire Company,
+                   Division of. Crane Company, 3000 Winona Avenue, Burbank,
+                   California 91510.
+              (f)· Du.al Pressure Control Valve OverhaJ,1]. Manual, Pub. No.
+                   32-42-28 (Report 8-151), Component P/N 39-149; Hydro-Aire
+                   Company, Division of Crane Company, 3000 Winona Avenue,
+                   Burbank, California 91510.
+              (g)  Dual Pressure Control Valve Overhaul Manual, Pub •. No.
+                   32-43~33 (Report 8-301), Camponent P/N 39-309-1; Hydro-Aire
+                   Company, Division od Crane Company, 3000 Winona Avenue,
+                   Burbank, California 9151 O~                                ·
+
+
+
+
+EFFECTIVITY: ALL                                                  INTRODUCTION
+                                                                        Page viii
+                                                                       May 25/84
+

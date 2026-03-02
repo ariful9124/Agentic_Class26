@@ -1,0 +1,429 @@
+                @.
+       GAlES LEARJET CORPORATION
+
+  ■ai■1111anc1 ■a1111al
+
+      CHAPTER
+
+
+
+
+LIFT1N.G. & SHORING
+                                               Gates Learjet Corporation•
+                                 ■alnlenan■e ■an■al
+       Chapter                                                        Chapter
+       Section                                                        Section
+       Subject                     Page              Date             Subject                    Page               Date
+        7-Title
+      •1-List of
+          Effective Pages               1          Apr30/82
+       7-Contents                       1           Dec 2/77
+       7-10-00                       201            Dec 2/77
+       7-10-00                       202            Dec-2/77
+     · 7-10-01                       201           Dec 2/77
+       7-10-01                       202           Dec 2/77
+       7-10-01                       203           Dec 2/77
+       7-10-01                       204           Dec 2/77
+       7-10-01                       205           Dec 2/77
+
+
+
+
+       Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+
+·L   • Asterisk indicates pages revi~d, added or deleted by current revision.
+       The portion of the.te>rt affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                             7-LIST OF EFFECTIVE PAGES
+                                                                                                                  Page 1
+                                                                                                               Apr 30/82
+     MM-98
+ I\.
+Jt L./
+                                         ·p
+
+
+
+
+         :
+     '
+ .
+
+~
+
+
+
+
+             :1 : . ~
+
+
+
+
+~-
+1t. )
+                        1 .-;. =
+
+
+
+
+                                   . . .: :
+                                         ~
+                                              ;''"'
+                                               ~
+                           ·•       OAl& LEARJET CORPORATION
+
+                   ■11■11!■1■81! ■1■■11
+                                                                        Chapter
+                                                                        Section
+Subject                                                                 Subject        Page
+
+LIFTING   .. . . . . . . .. ... .. . . . . . . . .. . . ....... . 7-10-00
+    General ••••••••.•••••••••••••••••..••••                      7-10-00              201
+    Tools and Equipment • • • • • • • • • • • • • • • • • • • • • • •   7-10-00        201
+    Jacking •••.•••••••••••••.•••••••••••.• ·•                          7-10-00        201
+    Emergency Lifting - Maintenance Practices •.••••.                   7-10-01
+        General ••••••••••.••.••••.•••••...••                           7-10-01        201
+        Tools and Equipment • • • • • • • • • • • . • • • • • • • •     7-10-01        201
+        Lifting Aircraft •••.•••.•••••••..••••.•                        7-10-01        201
+
+
+
+
+EFFECTIVITY: ALL                                                                  7 - CONTENTS
+                                                                                        Page 1
+                                                                                      Dec 2/77
+                                           .\
+
+                                       ~
+                  ,··.
+
+
+
+
+                                ·-.:
+
+
+
+
+                         ··,•
+
+
+
+
+           ; ~.
+
+
+
+
+      . ;•,-::
+
+
+     \•_
+
+
+
+
+-:
+                                           ~
+                          •   .   GA1EB LEARJET CORPORAllON
+
+                   ■a1■11■1■11 ·. ■a■ual
+                       LIFTING - MAINTENANCE PRACTICES
+
+1.    General
+      A. Lifting (jacking) is accomplished by using conventional tripod jacks to
+         raise the aircraft at three points. The nose or fuselage jackpoint is
+         locatedjust aft of the nose wheel well. The·. wing jackpoints are lo-
+         cated on the wing, just aft of the main landing gear.· Holes are pro-
+         vided in the aircraft structure at the j ackpoints for installation of the
+         jack pads. The jack pads and attaching parts are stored in the loose
+         equipment kit in the baggage compartment.
+      B. The entire aircraft may be lifted by wing and fuselage jack points to -
+         perform landing gear tests, removal and installation of nose and main
+         landing gear, leveling and for other major repairs.
+      C. The aircraft should be on a level surface and protected from wind
+         gusts, preferably in a hangar.
+2.    Tools and Equipment
+     NAME               NU:MBER.                    MANUFACTURER       USE
+Jack Pad             2370102-4 (1 ea.)               Gates Learjet   General
+
+Jack Pads            2572006-3 (2 ea. )              Gates Learjet   General
+
+Tail stand          -2471016-1                       Gates Learjet   General
+
+Tripod Jacks                                         Commercially    · General
+                                                      Available
+
+3.     Jacking
+      •A. Jacking·the Aircraft (See figure 201)
+            NOTE:     Do not raise the aircraft more than required to·perform
+                      maintenance.
+            (1) Attach electrical grounds to aircraft.
+            (2) Remove screws from jack pad locations and secure jack pads to
+                structure.
+            (3) Place jacks at jack pad locations.
+            (4) Attach tail stand to ventral fin.
+            (5) Simultaneously ·raise wings and fuselage jacks to prevent side
+                loads on structure and jacks.                      ·
+
+
+
+
+EFFECTIVITY: ALL                                                              7-10-00
+                                                                             Page 201
+                                                                             Dec 2/7'1
+                                      ~                  .
+
+
+                                                ·
+                     •       8A1ES LEARJET CORPORATION
+
+              •a1■1e■ana■ ■·a■a·a1···
+    B. Removing Aircraft from Jacks (See figure 201)
+       (1) Remove tail stand.
+       (2) Simultaheously lower wing and fuselage jacks until aircraft rests
+           on gear.
+       (3) Remove jack pads from aircraft and stow in loose equipment kit.
+       (4) Install ·previously removed screws where jack·pads .were -installed.
+
+
+
+
+                                                                       Nose Jack Pad·
+•   ~ ~ing Jack Pad
+
+    ~            (TYPICAL)
+                                                    *              ~
+
+
+
+
+                                                             : ~ Jack·Pad Bolt
+
+            , WING JACKPOINT
+                                                             i
+                                                                 NOSE JACR9INT
+
+
+
+
+                         Aircraft Jacking Provisions
+                                  Figure 201
+
+EFFECTIVITY: ALL                                                                    7-10-00.
+                                                                                   Page 202
+                                                                                   Dec 2/'i't
+                                          ~
+                         •       GATES LEARJET CORPORATION
+
+                 .■a1n1enan1e ■an■al
+             EMERGENCY LIFTING -·MAINTENANCE PRACTICES
+
+1.    General
+      A. For emergency lifting, it may be necessary to use a sling or inflatable
+         pneumatic bags for the initial lift to be followed up with conventional
+         tripod jacks.
+
+2.    Tools and Equipment
+
+     NAME           NUMBER               MANUFACTURER                  USE.
+Sling               2471008--1           Gates Learjet               Lift aircraft.
+
+Pneumatic Bag                            Firestone Tire &            Lift aircraft.
+                                         Rubber Co.
+                                         Los Angeles, Calif.
+
+Pneumatic Bag                            Goodyear Tire & .           Lift aircraft.
+                                         Rubber Co..   ·
+                                         Los Angeles, CaHf.
+
+Pneumatic Bag                            General Tire & Rubber Co.   Lift aircraft.
+                                         Akron, Ohio
+
+
+3•    Lifting Aircraft
+      A. Sling Method (See figure 201)
+           (1) Using a large phillips head screwdriver, remove two bolts from
+               each wing ..
+           (2) Attach wing lugs to wing using bolts P/N AN6-10A and attach
+               cables to wing lugs andspreader bar.                         ·
+           (3) Slip belt under aircraft to the position shown and attach
+               cables to belt and spreader bar assembly.
+           (4) Adjust chain ends to align spreader bar parallel with the aircraft
+               W.L.      .
+
+                CAUTION: AVOID IMPACT LOADING DURING LIFTING.
+
+            (5) As the aircraft is lifted, watch center of balance. The chain
+                adjuster may have to be repositioned to keep the aircraft from
+                tipping.
+            (6) Stabilization ropes should be attached to each wing tip and either
+                the nose or tailcone for guidance.
+            (7} The cabin doors should be closed and the airplane transported as
+                smoothly as possible to prevent further damage.
+
+
+
+EFFECTIVITY: ALL                                                            7-10-01
+                                                                           Page 201
+                                                                           Dec 2/77
+   B.
+                ............. •••••.•.
+                     -
+                                      ~-
+
+                           . GAlBI LEARJET COAP0AA11ON. .
+                                                  ,
+                                                             .
+
+
+
+
+        Pneumatic Bag Method (Aircraft For'Yard Fuselage) (See figure 202)
+        NOTE:    The pneumatic bag method may be used when sling is not
+                 available.
+
+        (1) Place pneumatic bag beneath aircraft just .aft of rio~e jack
+             point.
+        (2) Slowly inflate bag until jack can be placed unde:r ~selage.
+        (3). Raise jack until load is removed from bag and nose gear can be·
+             lowered.
+   C.   Pneumatic Bag Method (Aircraft Wi~) (See figure 202)
+
+        NOTE:    The following procedure may be used fo :raise. either wing
+                 or both.
+
+        (1) Place pneumatic bag beneath wing just outboard of main gear and
+            just forward of jackpoint.
+        (2) Slowly inflate bag until jack can be placed beneath the wing.
+        (3) Raise jack until load is removed from pneumatic bag and main
+            gear can be lowered.
+
+
+
+
+EFFECTIVITY: ALL                                                      7-10~01
+                                                                     Page 202·
+                                                                     Dec 2/77
+                                     ~
+                   •        GATES LEARJET CORPORATION   .    .
+
+           ■IIRIIRIIII ■1·81111
+
+
+
+
+       Detail D
+
+
+                                                            Detail· C
+                        /"Chain                                  Wing Lug.
+
+
+                                  Cable                           Bolt (AN6-10A)
+
+
+
+
+        Detail A
+
+             C
+                              DD
+
+
+
+                          L    Center Belt over
+                               Sta. 321.23
+
+
+
+
+                       Lifting Aircraft by Sling Method
+                                  Figure 201
+
+EFFECTIVITY: ALL                                                           7-10-01
+                                                                          Page 203
+                                                                          Dec 2/'77
+                                               @
+                             •        GATES LEARJET CORPORATION
+
+                    ma1■1■■•••• .ma■■al
+
+
+                                                                  Wing Jack Point (Ref)
+Place Pneumatic Bag beneath Aircraft just
+Aft of Nose Jack Point. Slowly Inflate until
+Jack can be Placed in Position.
+
+
+
+
+                 Nose Jack Point (Ref)
+
+                                                                     Wing Jack Point (Ref)
+
+
+
+
+                                 Lifting Aircraft by Pneumatic Bag
+                                       Figure 202 (Sheet 1 of 2)
+
+EFFECTIVITY: ALL                                                                    7-10-01
+                                                                                   Page 204
+                                                                                   Dec 2i'l1
+                                             ~
+                           •        GATES LEARJET CORPORA11DN
+
+                   ■a1n11nan11 ■a■■al
+
+
+
+                                                                  Wing Jack Point (Ref)
+
+
+
+
+Place Pneumatic Bag Beneath Aircraft                            Wing·Jack Point (Ref)
+just Outboard of Wing Jack Point. Assure
+Pneumatic Bag Will Not Exert Pressure
+on Any Control· Surface. Slowly Iilflate
+Both Bags until Jacks can be Placed in
+Position.
+
+
+
+
+                               0 0 0 0
+
+
+
+
+                           Lifting Aircraft by Pneumatic Bag
+                                 Figure ·202 (Sheet 2 of 2)
+
+EFFECTIVITY: ALL                                                                    7-10-01
+                                                                                   Page_205
+                                                                                   Dec 2/77
+·_·:r:r:r                  ......   ,-•:.
+
+  '~   :
+
+
+
+
+                                                                                 :   ':
+
+
+
+                                                  ~   . . : ; :,~ .-~       ·,
+
+
+                           .. :.. :,:· :' ; ·. J >/~::_.:.
+            ' :   ~,   I             : : _\   ~         1,' •   •
+
+
+
+
+                                                                    : .-.
+

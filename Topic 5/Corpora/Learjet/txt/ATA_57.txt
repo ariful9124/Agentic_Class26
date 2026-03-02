@@ -1,0 +1,2279 @@
+         @
+main1iiii1iPORAiianual
+    CHAPTER
+
+
+
+
+     WINGS
+                               Gates Learjet Corporation~
+
+                        ■ain1enan1e ■anual
+                                                            RECORD OF TEMPORARY REVISIONS
+
+
+
+
+ Rev.          Date       Date          Page     Rev.     Date        Date          Page
+ Na.         Inserted    Removed      Number     No.    Inserted     Removed       Number
+
+                                     5'1-00-00                                 ,
+                         Apr 30/82
+,5'1-1       Feb 1/80     Rev#l4        Pg 1
+                         Apr 30/82   5'1-20-00
+5'1-2        Feb 1/~0     Rev #14       J-lg 4
+                         Apr 30/82   5'1-30-02
+57-3         Feb 1/80     ;Rev #14    Pg 201
+                         Apr 30/82   57-30-02
+~7:-:4   ~   Feb 1/80     Rev #14     Pg 204
+
+
+
+
+                                      ::.
+                                             Gates Learjet Corporation@
+                               ■aln11nan11 ■an1al
+~.     Chapter                                                       Chapter
+       Section                                                       Section
+       Subject                    Page               Date            Subject                     Page              Date.
+
+       57-Title                                                      •51-00-04                      201              Ju15/83
+       57-Record of Temp.                                            •51-10-00                        1              JulS/83
+          Revisions                                Apr 30/82         • 57-10-00                         2            JulS/83
+      ·s7-List of                                                    ·51-10-00                        3              Jul5/83
+          Effective Pages              1             JulS/83         •57.20-00                        1              Ju15/83
+      •57-Contents                     1             Jul5/83         •57.20-00                        2              Ju15/83
+     •51-00-00                         1             Ju15/83         •51-20-00                        3              Ju15/83
+     •51-00:.00                        2             Jul5/83         •57.20-00                        4              Jul5/83
+     •51-00-00                         3             Jul5/83         •57.20-01                      201              Jul5/83
+     ·s1-oo-oo ·                       4             Jul5/83         ·s1-20-01                      202              JulS/83
+     •51-00-00                      201              Jul5/83         ·s1-3o-oo                        1              Jul5/83
+     •51-00-00                      202              Jul~/83         •51-30-00                        2              Jul 5/83 ·
+     •57.00-00                      203              Jul5/83         •51-30~01                      201              JulS/83
+     •57.00-00                      204              Jul5/83         ·s1-30-01                      202              Jul5/83
+     •51-00-00                      205              Jul5/83         •51-30-02                      201                Deleted
+     •57.00-00                      206              Jul 5/83 ·      • 57-30-02                     202                Deleted
+     *57-00-00                      207              Jul5/83         •57.30.02                      203                Deleted
+     ·s1-oo-oo                      208              Jul5/83         •57.30.02                      204                Deleted
+     *57-00-00                      209              JulS/83         ·s1-30-03                      201                Deleted
+     •57.00-00                      210              JulS/83         ·s1-30-03                      202                Deleted
+     •57.00-00                      211              Jul5/83         •57.30.03                      203                Deleted
+     .57-00-01                      201              Jul5/83         *·57-30-03                     204                Deleted
+~    •57-00-01
+     •s1-00-0l
+                                    202              Jul 5/83        ·s1-30-03                      205                Deleted
+                                    203              Jul5/83         •57.30.03                      206               ·Deleted
+     •57.00-02                      201              Jul5/83         •57.30.03                      207                Deleted
+     •51-00-02                      202              Jul5/83         *57-30-03                      208                Deleted
+     •57.00-02                      203              Ju15/83         •57.30-04                      201                Deleted
+     •57.00-02                      204              Ju15/83         •57.30.04                      202              · Deleted
+     •51.00-02                      205              Jul5/83         •57.30.04                      203                Deleted
+     •51-00-02                      206              JulS/83         •51-30-05                      201                Deleted
+     •57.00-02                      207              Jul5/83         •57.40-00                        1              JulS/83
+     •57.00-02                      208              JulS/83         •57-40.00                        2              Jul5/83
+     ·57.00-02                      209              Jul5/83         •57-40.00                        3              JulS/83
+     ·51.00-03                      201              JulS/83         •51-50-00                        1                Deleted
+     •51-00-03                      202              JulS/83         ·s1-so-oo                        2                Deleted
+     •57.00-03                      203              JulS/83
+
+
+
+
+       Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+     • Asterisk indicates pages revised, added or deleted by current revision.
+      The portion of the text affected by the currei:it revision is indicated by a vertical line in the outer margin of the page.
+
+
+
+                                                                                            57-LIST OF EFFECTIVE PAGES
+     MM-98
+                                                                                                                  Page 1
+                                                                                                                JulS/83
+                                    Gates Learjet Corporation@
+                       ■al■ll!■illll! · ■il■llill
+                                                                                     Chapter
+                                                                                     Section
+Subject                                                                              Subject      Page
+
+WING - DESCRIPTION AND OPERATION                        ..............                 57-00-00
+  Description • • • • • • • • • • • • . • • • • • • • • • • • • • • • • • • •          57-00-00     1
+  Wing ~ Maintenance Practices ••••••••••••••••••••                                    57-00-00
+     Tools and Equipment • . • • • • • • • • • • • • • . • • • • . • • .               57-00-00   201
+     Removal/Installation • • • . • . • • • ·• • • • • • . • • • • . • • •             57-00-00   201
+  Vortex Generators .••••••.•..•.••••• ! • • • • • • • • •                             57-00-01
+     Tools and Equipment • . • . • • . • • • • • • . • • • • • • • • • •               57-00-01   201
+     Removal/Installation • • • • • • • • • • • • • • • • • • • • • • • •              57-00-01   201
+  Stall Fence - Maintenance Practices ••••.••••.•••.••                                 57-00-02
+     Removal/Installation • • • • • • • • • • • • • • • • • • • . • • • •              57-00-02   201
+  Boundary Layer Energizers - Maintenance Practices • . • .                            57-00-03
+     Removal/Installation • • • • • • . . • • • • • . • • • • • • • • • •              57-00-03   201
+  Aileron Brush Seals - Maintenance Practices ••••••••••                               57-00-04
+     Removal/Installation • • . • • • • • • • • • • • • • . • • • • • • •              57-00-04   201
+MAIN FRAME - DESCRIPTION AND OPERATION •••••••••                                       57-10-00
+   General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     57-10-00     1
+ AUXIUARY STRUCTURE - DESCRIPTION AND OPERATION •                                      57-20-00
+   General •••••••••••••••••.•••••••.•••••••••••                                       57-20-00     1
+   Wing Leading Edge - Maintenance ·Practices • • • • • • • • • •                      57-20-01
+     General •••••••• ·•••••••••••••••••••••••••                                       57-20-01   201
+     Removal/Installation • • • • • • • • • • • • • • • • • • • • ~ • • •              57-20-01   201
+ PLATES/SKIN - DESCRIPTION AND OPERATION •.•••..•                                      57-30-00
+   Description •••••••••••••••.•••••.•••••.••••••                                    . 57-30-00     1
+   Access Covers - Maintenance Practices •••••••••••••                                 57-30-01
+     General •••••••••••••••••••••••••••••••••                                         57-30-01   201
+     Lightning Strike Seal Application • • . • • • • • • • • • • • • •                 57-30-01   201
+ ATTACH FITTINGS - DESCRIPTION AND OPERATION •••••                                     57-40-00
+   Description ••••••••••••••••••••••••••••••••                                        57-40-00    1
+
+
+
+
+                                                                                           57 - CONTENTS
+                                                                                                   Page 1
+.MM-98                                                                                            Jul 5/83
+                               Gates Learjet Corporation®
+                    ■ain11nan11 ■an■al ·
+                          WING - DESCRIPTION AND OPERATION
+
+1.      Desc rlption
+        A.     The single-unit fully cantilever-constructed wing consists of the leading
+               edge, the wing box section, ailerons, flaps, spoilers and tip tanks.
+        B.     The multicellular-type wing structure is formed by 8 spars and 15 ribs.
+              A tapered:top skJn and a uniform bottom skin cover the wing structure.
+        C.     The integral wing fuel tanks are full span except for the main gear wheel
+               well areas, the wing leading edges and the wing trailing edge.
+        D.     Wing sweepback at the 25% chord is 13°. ·
+        E.     The wing is attached to the fuselage· by eight attach fittings which are
+               secured by bolts.
+        F.     Conventional type ailerons are attached to the rear spar at three hinge
+              ·points.
+               (l)     The aileron brush seal is installed·between the aileron and wing. The
+                       brush seal is a brush material mounted on a strip of aluminum. The
+                       outboard and inboard brush seals slide into a mount (channel) wh~ch is
+                       riveted in place. On Aircraft. 25-290 and Subsequent and prior air-
+                       craft equipped with AAK 79-10 "Installation of Wing Fence,· Stall Strtps,
+                       and Boundary Layer Energizers," a segmented brush seal is riveted
+                       to the wing aileron closure structure. -
+               (2)     The brush seals are installed to maintain proper airflow over the wing
+                       and aileron. The brush seals are lubricated with grease to aid the
+                       sealing effect and to p~otect the pain~ed surface. (Refer to Chapter 12
+                       for lubrication intervals.)
+        G.     The single slotted flaps are attached to the inboard rear spar by tracks,
+               rollers, and hinges.
+        H.     The spoilers are installed in the wing upper surface immediately forward of
+               the flaps and are hinged to the wing rear spar at two points.
+        I.     The tip tanks are secured to the wing by two attach fittings, one located aft
+               of spar 1 and one located forward of spar 7.
+        J.     Access panels located on the :wing lower skin provide access to fuel and fuel
+               vent plumbing, electrical wiring, and flight control components.
+        K.     Attach fittings on the wing are for the main landing gear strut, tip tank and
+               _flight controls.
+        L.     On Aircraft 25-061, 25-070 thru 25-289 not equipped with AAK 79-10 ''Instal-
+               lation of Wing Fences, Stall Strips, and Boundary Layer Energizers" or
+               AAK 82-8 "Handling Qualities Improvement, " two rows of vortex generators
+               are bonded to the wing upper surface forward of the ailerons. Care should
+               be exercised when performing maintenance in the area of the vortex genera-
+               tors to avoid damage or loosening of a vortex generator.
+
+              NOTE:     No more than three (3) vortex generators (any location) may be
+                        missing from one surface (six total, both wings). Missing vortex
+                        generators should be replaced as soon as possible.
+
+
+EFFECTIVITY: ALL                                                                      57-00-00
+                                                                                        Page 1
+MM•98                                                                                  Jul 5/83
+                              Gates Learjet Corporation@
+
+                   ■ai■,I■■•••• ·■a■■al
+        M.   On Aircraft 25-290 and Subsequent and prior aircraft equipped with AAK
+             79-10 "Installation of Wing Fences, Stall Strips, and Boundary Layer Ener-
+             gizers" or AAK 82-8 "Handling Qualities Improvement," two rows of
+             boundary layer energizers (BLE's) are bonded to the wing upper surface
+             between WS 125 and the tip tank and forward of the ailerons.
+        N.   On Aircraft 25-290 and Subsequent and prior aircraft equipped with AAf{
+             79-10 "Installation of Wing Fences, Stall strips, and Boundary Layer Ener-
+             gizers" or AAK 82-8 "Handling Qualities Improvement," a stall fence is
+             installed on each wing at WS 125.
+        o.   On Aircraft 25-290 and Subsequent and prior aircraft equipped with AAK
+             79-10 "Installation of Wing Fences, ·Stall Strips, and Boundary Layer t·ner-
+             gi.zers, ,i a stall strip is installed on each wing leading edge inboard of' WS 90.
+             The stall strip location is critical to maintain desired :tlight characteristics.
+             Should a stall strip become dislodged, installation of. a replacement stall
+             strip must be accomplished at a Gates Learjet Factocy Authorized Repair
+             Facility.
+        P.   On Aircraft 25-061, 25-070 thru 25-289 equipped with AAK 82-8 "Handling
+             Qualities Improvement, " a stall strip is installed on each wing leading edge
+             from WS 75 outboard to the tip tank. The stall strip location is critical to
+             maintain desired flight characteristics. Should a stall strip become           ·
+             dislodged, installation of a replacement stall strip must be ac~omplished at
+             Gates Learj~t Authorized -Repair Facility.
+
+             CAUTION: DO NOT PAINT STALL STRIPS. USE CARE WHEN
+                      CLEANING/POLISHING STALL STRIPS NOT TO ROUND
+                      OFF CORNERS OF TRIANGLE SHAPES.
+
+
+
+
+EFFECTMTY: ALL                                                                        57-00-00
+                                                                                        Page 2
+                                                                                       Jul 5/83
+MM·98
+                                     Gates Learjet Corporation@                            .
+
+                           •ai■l■■a••• •a■■al.
+
+
+                                                     s~Iage Fairing
+                                                    oiler
+
+
+                                                                           Trailing Edge
+               ,   ,-...
+                                                                                    Aileron Trim Tab
+            ,,
+  ,...,,,
+                                                                                   (Left Wing Only)
+  I
+                                                                                            Aileron Balance Tab
+  \.,
+                                                                                                      Aileron
+                                                                                                           /   '-,
+                                                                                                      .,       /     ....
+                                                                                                      y--
+        Leading Edge
+                                                                                       /
+
+                                         Vortex Generators
+                                                                  ,
+
+
+
+                                                                                                                            I
+                                                      /               ,.                   Tip Tank
+
+                                                     (__ / . __
+                                                                               Boundary Layer
+                                                                               Energizers (BLEs)
+
+
+
+
+                                 Stall Fence--
+
+
+
+
+                                                                                                                            I
+                           Effective on Aircraft 25-290 and Subsequent and Prior
+                           Aircraft equipped with AAK 79-10 "Installation of Wing
+                           Fences, Stall Strips, and Boundary Layer Energizers."
+
+
+                                              Detail A
+                                            Wing - General
+4-S0A
+4-45A                                    Figure 1 (Sheet 1 of 2)                                                            I
+EFFECTIVITY: NOTED                                                                                         57-00-00
+                                                                                                             Page 3
+MM·98
+                                                                                                            Jul 5/83
+                            Gates Learjet Corporation®>
+                  ■ain·1enanII ■a·n11-al··
+
+
+
+
+                                                          Boundary Layer--
+                                                          Energizers (BLEs)
+
+
+
+
+                                Stall Strips
+
+
+
+
+  25-061, 25-070 thru 25-289 equi:pped with AAK 82-8 "Handling Qualities Improvement"
+
+                                     Detail B
+                                  Wing - General
+  4-53C                        Figure 1 (Sheet 2 of 2)
+
+
+EFFECTIVITY: NOTED                                                            57-00-00
+                                                                                Page4
+                                                                               Jul 5/83
+MM-98
+                                Gates Learjet Corporation@
+                    ■alnlenanae ■an1al
+                            WING - MAINTENANCE PRACTICES
+1.       Tools· and Equipment                                                                  I
+        NAME               NUMBER             MANUFACTURER                 USE
+
+Spreader Bar           14081              Gates Learjet Corp.
+Wing Mating Dolly     .2320000            Gates Learjet Corp.
+Wing Transfer Dolly    2320001            Gates Learjet Corp·.
+Engine Pylon Jacks
+Pylon Jack Pads
+Nose Jack
+Nose Jack Pad          2370102-4
+Drip Pans
+Wing Protective Cover
+Drive Pins             (Fabricate as required)
+Centering Pins         (Fabricate from old bolts)
+9X Rivet Gun
+Flush Set
+
+
+
+2.       Removal/Installation (See figure 201. )                                               I
+         A.  Remove Wing · -
+              (1)  Defuel aircraft and purge fuel tanks. (Refer to Chapter 12.)                I
+             (2)   Install jack pads and jacks under engine-pylons. Position jacks to
+                   obtain maximum· clearance between the trailing edge of the wing and
+                   jacks •.
+             (3)   Install jack pad and jack under nose of aircraft.
+             (4)   Raise aircraft until main landing gear tires are clear of the ·growid.
+             (5)
+              (6)
+                   Remove wing flaps from aircraft. (Refer to Chapter 27. )
+                   Retract spoilers.
+                                                                                               I
+             (7)   Pressurize hydraulic system and unlock main landing gear down locks.
+             (8)   Relieve pressure from hydraulic system and drain reservoir. -
+             (9)   Disconnect and remove batteries from aircraft.
+            (10)   Lower inboard main landing gear·wheel well doors.
+            (11)   Install protective cover on top inboard side ·of _wing and wing leading
+                   edge.
+            (12)   Remove wing fillet fairings on top of wing and access doors wider wing
+                   and fuselage. Tag parts as they are removed and retain for reinstal-
+                   lation.
+            (13)   Drill out rivets from trailing edge of wing to fuselage fairing inboard
+                   of wing flaps (see figure 201). Do not remove rivets from fairing
+                   attached to wing.
+            (14)   Disconnect ADF antenna, if installed under fuselage, and stow.
+
+
+EFFECTIVITY: ALL                                                                 57:...00-00
+                                                                                 Page 201
+MM•98
+                                                                                  Jul 5/83
+                             Gates Learjet Corporation@
+
+                   ■ai■ll■l■II ■1■.aal
+            (15)    Disconnect wing-to-fuselage electrical connectors above each landing
+                   gear wheel well. Tag connectors.
+           (16)    Disconnect plumbing fittings and electrical connectors as required ·at
+                   both ends of keel beam. Use drip pans to catch residual fuel and hy-
+                   draulic fluid from plumbing. Cap fittings and connectors.
+           (17)    Disconnect and cap plumbing fittings and electrical connectors as re-
+                   quired at both sides of keel beam.
+           (18)    Disconnect and cap hydraulic fittings on top of the wing between th~
+                   two center wing attach fittings. Reposition fittings to clear wing.
+           (19)    Disconnect aileron cable turnbuckles at keel beam and forward of
+                   flaps. Remove pulleys or cable guard pi11s as required and puff
+                   cables through wing. stow cables.
+
+                   NOTE:     Attach string to flight control cable te~inals before pull-
+                             ing cables through structure. Pull cables clear of keel
+                             beam and secure string to structure. When reinstalling
+                             cables use these strings _as a guide to prevent misrouting
+                             cables.
+
+           (20)    Remove seats and divan from aircraft.
+           (21)    Remove cabin floorboards.
+           (22)    Remove interior arm rests on both sides of cabin to allow access to
+                   upper wing torsion link bolts.
+           (23)    Remove liner at lower right side of baggage compartment and dis-
+                   connect shielded connectors for flux valve.
+           (24)    Disconnect elevator control cable turnbuckles. Remove cable fair-
+                   leads and pressure seals at frame 15. Pull cables through frame 15
+                   into cabin. Stow cables.
+           (25)    Disconnect rudder control cable turnbuckles aft of pilot's pedestal
+                   and pull cables through to clear keel beam. stow cables.
+
+                   CAUTION:     THROTTLE CABLE CAN B.E DAMAGED WHEN IM-
+                                PROPERLY HANDLEP OR STORED. REFER TO
+                                CHAPTER 76 FOR INSTRUCTIONS ON HANDLING AND
+                                STORAGE OF ENGINE THROTTLE CABLES.
+
+           (26)    Disconnect engine throttle cables and remove from aircraft. Store ·
+                   cables. (Refer to Chapter 76.)
+           (27)    Remove left tip tank tailcone and fin.
+
+                   NOTE:      Remove the right tip tank tailcone and fin when removing
+                              the wing from the left side of fuselage.
+
+            (28)   Disconnect wing leading edge anti-ice hoses and temperature sensor
+                   wiring at inboard leading edge of wing.
+
+
+
+    EFFECTIVITY: ALL                                                             57-00-00
+
+
+I
+MM-98
+                                                                                 Page 202
+                                                                                  Jul 5/83
+                                  Gates Learjet Corporation@
+                   •ainlena■ce                         •anual
+            (29)     Support keel beam and remove four bolts at each end of keel beam.
+            (30)     Check that all plumbing and electrical wiring is disconnected between
+                     keel beam and wing.
+            (31)     Pull forward end of keel beam down. It is necessary for the keel
+                     beam to be moved forward durj.ng removal to allow clearance for two
+                     ven~ hoses at aft end of keel beam.
+            (32)     Remove keel beam from·aircraft arid place on dolly -(see figure 201).
+            (33)     Raise main landing· gears _sufficientiy to clear w~g· mating dolly and
+                     tie landing gears in place with ropes. _ _
+            (34)     Center mating dolly under wing and raise dolly. un~ wing is supported.
+                     Install safety pins in mating dolly (see figure 201). .
+            (35)     Gain access to the upper wing torsion link bolts ~ -both sides of cabin.
+                     Remove insulation· and sealer from be>lts and castellated nuts· (see.
+                     figure··~0l);.    .    .                 . _ -·
+            (36)     Remove ·cotter pins and remove nuts from torsion µ.~ bolts. . .       _
+            (37)     Use· dn:ve -P~ and remove upper wing torsion link_bolts from forward
+                     wing a~ach fittings.
+            (38)     Remove nuts from six remaining wing attach fitting_polts. Use drive
+                     pin arid remove.bol~s (see figure 201). ·     ·      ·    .
+            (39)     Remove safety pins from mating dolly and slowly lower·w1ng. Check
+                     that all lines and wiring are disconnected and cl.ear of obstructions.
+            (40)     Lower left wing as low as the mating dolly will permit.
+            (41)     R;:iise fuselage with engine pylon jacks and nose jack sufficiently to
+~                    allow·~eft  tip~ to·_clear fuselage.
+            (42)     Roll mating dolly ~o the right of the fusel~e.untii left tip tank clears.
+                   · the fuselage. Use care to prevent dents and s~ratches to wing or tip
+                     tank.
+            (43)     After wilig· is removed from ·fuselage,: install spreader bar between
+                     keel b~am. mounting pads (see.figure 201). ·        · ·
+
+                    CAUTION:         THE. SPREADER BAR-MUST REMAIN INSTALLED .f\.T
+                                     ALL TIMES WHEN WING IS REMOVEI)·FROM THE
+                                     AIRPLANE. THIS IS TO PREVENT_STRUCTURAL
+                                     DAMAGE TO FUSELAGE-~
+
+
+
+
+     EFFECTMTY: ALL
+
+    MM•98
+                                                                                     57~00-00
+                                                                                     Page 203
+                                                                                     Jul 5/83
+                                                                                                 I
+                       Gates Learjet Corporation®
+            n1ain1enan1e manual
+                         · .. _-: Flap----
+
+
+
+
+                          Wing to Fuselage F · ·
+                VIEW OF LEFT WING LOOKING INBOARD
+
+
+
+
+                      Wing Removal and Installation
+                       Figure 201 (Sheet 1 of 4)
+
+
+t.
+ :FFECTIVITY:
+                ALL                                   57-00-00
+                                                      Page 204
+                                                       Jul 5/83
+                       Gates Learjet Corporation@
+             ■ainlenanae ■anual
+
+
+
+
+              .             ~
+                  II    •   ~
+
+             Heater
+
+
+
+
+                       Wing Removal and Installation
+                        Figure 201 (Sheet 2 of 4)
+
+   EFFECTIVITY: ALL                                    57-00-00
+                                                       Page 205
+                                                        Jul 5/83
+                                                                   I
+MM-98
+                                                           ~
+
+
+l'rj ~
+     .....          ~,<.dJ;JJi\v.•. .....~;;~: ..:• \;,iJ:•:;
+               {:__ 0
+..... ;:I          Torsion Link ,.,                 · ··
+~aq
+'1 ~
+Cl)    Cl)
+ a
+t\:)
+00
+..... <
+ooe
+::,-- ..,                                                                                          ttach Fittings
+Cl)
+(1)
+rt-
+       ;:I
+       0.
+       1-4
+                                                                                              ~~;fJ_\~~;;t~
+                                                                                              ..
+                                                                                             .-: -..,, ·,·
+                                                                                                              ~:~r
+                                                                                                                 ~~
+c,.,, ;:I
+
+..... ..,
+0~
+
+
+-~
+ ~ :::::
+       .....
+       0
+       ;:I
+                                          0
+
+
+
+
+                                                    Hose
+
+
+
+
+                                                                VIEW OF L . H. WING ATTACH
+                                                                FITTINGS LOOKING AFT
+                     Gates Learjet Corporation~
+             Rlililll!lillll! Rlilllill
+
+
+
+
+                     Wing Removal and Installation
+                       Figure 201 (Sheet 4 of 4)
+
+  EFFECTIVITY: ALL
+
+MM-98
+                                                     57-00-00
+                                                     Page 207
+                                                      Jul 5/83
+                                                                 I
+                               Gates Learjet Corporation@           .
+                   ■ain1enan■1 ■anaal
+        B.   Install Wing
+
+             NOTE: •      Prior to installing wing, the wing attach fittings should be in-
+                          spected, a dye penetrant check performed and then treated with
+                          zinc chromate primer. ·The wing attach fitting bushings should
+                          be taped· to prevent primer from entering bushings.
+
+                      •   Apply sealant and foam insulation in areas as required to re-
+                          place sealant and foam previously removed.
+
+             (1)     Install front lower attach fitting torsion links using new. boits, nuts,
+                     and washers. Torque nuts 450 to 500 inch-pounds.
+             (2)     Position both torsion links in the vertical position and assure that the
+                     attach fitting bushings are in place.
+             (3)     Remove spreader bar from fuselage.
+             (4)     Using wing mating dolly, move wing under fuselage in the reverse
+                     order in which wing was removed. Use special care not to damage
+                    wing or fuselage.
+             (5)     After wing is positioned under fuselage, raise wing as high as wing
+                     mating dolly will permit. Install safety pins in dolly.
+             (6)     Slowly lower fuselage on wing by lowering the two pylon jacks and nose
+                    jack. Use special precaution that cables and plumbing are clear of
+                     obstructions.
+             (7)     Position front wing attach torsion links to fit in upper fitting of fuse-
+                    lage.
+             (8)   . Adjust jacks until the eight fuselage-to-wing att.ach fitting bolt holes
+                     align.
+
+                   NOTE: • Install wing transfer dolly under each wing and adjust
+                           transfer dolly to assist in alignment of wing attach fitting
+                           holes.
+
+                            • Use centering pins to align wing attach bolt holes. Install
+                              centering pins and bolts from the forward side of wing
+                              atta~h :fitting. Install wing attach bolts starting at the for-
+                              ward fittings and progress aft.
+
+                            • Use a 9X rivet gun or equivalent with a flush set and a drive
+                              pin to drive centering pins and wing attach bolts into fittings.
+
+             (9)   Drive centering pins from forward side of upper wing attach fitting
+                   torsion links using drive pin and rivet gun. Use special care to pre-
+                   vent damage to attach fittings. (Upper forward attach fittings are
+                   accessible from inside cabin. )
+
+
+
+E FFECTIVITY: ALL                                                                    57-00-00
+
+I
+MM-98
+                                                                                     Page 208
+                                                                                      Jul 5/83
+                               Gates Learjet Corporation@
+
+                     ■ailll■l■II ■a■aal
+            (10)     Drive new wing attach bolts in behind centering pins, dri~g out cen-
+                     tering pins from holes •.
+            (11)     Install washers and castellated nuts on upper torsion link attach polts
+                     and torque nuts 270 to 300 inch;..pounds. Install cotter pin and apply
+                     ProSeal 890 sealarit around bolt head and nut. This is to prevent
+                     cabin pressure from leaking through :fitting.
+            (12)     Check next aft wing attachbolt holes for alignment.
+            (13)     After fittings are aligned~ drive centering pins in fittings using rivet
+                     gun and drive pin.
+            (14)     Drive new attach fitting bolts in fittings, driving out certering pins.
+            (15)     Install washers.and self-locking nuts on attach bolts and torque nuts
+                     450 to 500 inch-pounds.
+
+                     CAUTION:      WHEN DRIVING PINS.AND.BOLTS FOR THE FOUR
+                                   REMAINING FITTINGS, USE A BUCKING BAR AND
+                                   BACKUP WING ATTACH. FITTINGS. THIS IS TO PRE-
+                                   VENT DAMAGE .TO ATTACH FITTING AND TO KEEP
+                                   IT FROM SPREADING.
+
+            (16)     Install remaining wing attach bolts and install washers and self-locking
+                     nuts. Torque nuts 450 to 500 inch.;..pounds.             ·
+            (17)     Lower wing mating dolly and transfer dolly and remove from under
+                     aircraft.
+~            (18)    Perform a dye penetrant check of keel beam attach fittings and apply
+                     zinc chromate primer on keel beam mounting pads as required. In-
+                     spect keel beam bolts for general condition.
+             (19).   Position keel beam under fuselage. Route vent tubes at aft end of keel
+                     beam into fuselage.
+             (20)    Push keel beam in between mounting pads and secure keel beam using
+                     existing bolts, nuts, and washers. Torque nuts 100 to 140 inch-pounds.
+
+                     NOTE:      Forward keel beam attach bolts must be installed through
+                                frame 15. The forward keel beam fitting is accessible
+                                forward of frame 15 under :floorboard.
+
+             (21)    Untie rope and lower main landing gear.
+             (22)    Connect plumbing and electrical wiring between keel beam and wing.
+             (23)    Connect plumbing and electrical wiring between fuselage and wing.
+             (24)    Connect wing leading edge anti-ice hoses and temperature sensor
+                     wiring.
+             (25)    Install tip tank tailcone and fin using existing hardware.
+             (26)    Install engine throttle cables·~· ·(Refer to Chapter 76.)
+
+
+
+
+     EFFECTIVITY: ALL
+
+    MM•98
+                                                                                     57-00-00
+                                                                                     Page 209
+                                                                                      Jul 5/83
+                                                                                                 I
+                  Gates Learjet Corporation@>
+       ■ai•■11■1■11 ■·-a■ual
+       CAUTION:     CAREFULLY CHECK FOR THE CORRECT ROUTING OF
+                    FLIGHT CONTROL CABLES; l\IlSROUTING OF CABLES
+                    MAY RESULT IN WEAR OF COMPONENTS OR THE
+                    BINDING OF CABLES.
+
+(27)   Route flight control cables through frame 15 and keel beam and con-
+       nect turnbuckles. Rig cables.
+(28)   Route aileron cables in wing and connect turnbuckles and install
+       pulleys and guide pins. Rig cables.
+(29)   Install cable fairleads and pressure seals at frame 15 •.
+(30)   Install flux valve connector in baggage compartment and reseal con-
+       nectors. -Replace liner.
+(31)   Install cabin floorboards.
+(32)   Install interior arm rests.
+(33)   Install cabin seats and divan.
+(34)   Apply sealant between trailing edge of wing-to-fuselage fairing inboard
+       of wing flaps and install rivets that were previously removed.
+
+       CAUTION:     USE CORRECT LENGTH OF SCREWS WHEN INSTALL-
+                    ING WING FILLET FAilUNG. SCREWS.THAT ARE
+                    TOO LONG MAY CAUSE DAMAGE TO SEALED DOME
+                    NUTPLATES IN THE WING FUEL AREA AND CABIN
+                    AREA.
+
+(35)   Apply aerodynamic sealant around wing fillet fairing and install screws.
+(36)   Install ADF antenna if necessary under fuselage.
+(37)   Check that all plumbing and electrical wiring is connected.
+(38)   Install wing flaps.
+
+       CAUTION:     CHECK THAT FLAPS, SPOILERS, AND LANDING GEAR
+                    ARE CLEAR OF OBSTRUCTIONS PRIOR TO OPERATION.
+
+(39)   Service hydraulic reservoir.
+(40)   Install and connect aircraft batteries.
+(41)   Apply pressure to hydraulic system and perform leak check.
+(42)   Cycle fl~ps, spoilers, and landing gear until air is bled from the
+       hydraulic system.
+(43)   Perform landing gear operational check. (Refer to Chapter 32. )
+(44)   Position landing gear to down and locked.
+
+       CAUTION:     ASSURE THAT GEARS ARE LOCKED PRIOR TO PER-
+                    FORMlNG STEP (45).
+
+
+
+
+                                                                      5"/-00-00
+                                                                      Page 219
+                                                                       Jul 5/83
+                        Gates Learjet Corporation e
+               ■al■ll■il■II· ■il■■ill
+        (45)   Lower aircraft and remove jack and jack pads from aircraft.
+        (46)   Perform flight controls operational check.
+
+               CAUTION:     CHECK THAT CONTROL CABLES ARE CORRECTLY
+                            ROUTE.D AND ARE NOT RUBBING OR BINDING.
+
+        (47)   Fuel aircraft and perform leak check and fuel system operational
+               check. ·
+        (48)   Perform operational checks as required on all systems that were
+               previously disconnected.
+        (49)   Remove wing protective covering and install wing and fuselage access
+               doors.
+
+
+
+
+EFFECTIVITY: ALL                                                             57-00-001
+                                                                             Page 211
+MM-98                                                                         Jul 5/83
+                          .      Gates Learjet Corporation•
+                       111aln11nan11 ■an1al
+                       VORTEX GENERATORS - MAINTENANCE PRACTICES
+
+    1.     Tools and Eguipment
+
+         NAME                        NU:MBER                     MANUFACTURER
+
+    Sandpaper                         400 grit                Commercially Available
+    Methyl Ethyl Ketone                                       Commercially Available
+    Epoxy Adhesive            EC-2215B and EC-2216A           Minnesota Mining & Mfg. Co.
+
+
+    2.     Removal/Installation
+           A.  Replace Vortex Generator (See figure 201.)
+               (1)     Using methyl ethyl ketone, clean- all old cement and foreign matter
+                      from area on wing where cemen~ is to be applied.
+               (2)     Sand with 400 grit sandpaper. Again wash the area with methyl ethyl
+                      ketone and wipe dry while still wet.
+               (3)·    Locate the vortex generator as shown and mark its outline on the wing.
+               (4)     Sand the mating surface of the vortex generator with 400 grit sand-
+                       paper, wash with methyl ethyl ketone and ·wipe dry while still wet.
+               (5)     Mix 100 parts by weight of EC-2216B to 140 parts by weight of EC-
+                     . 2216A. Mix until the two _parts blend to a wli.form medium gray color.
+
+~                       NOTE:    The pot life of the mixed adhesive is approximately 2 -hours.
+
+                 (6)    Using a spatula, apply mixed adhesive to the cleaned surfaces.
+                 (7)    Position vortex generator on marks on wing and press generator to
+                        the wing to affect the bond.
+
+                        NOTE:    The only pressure required during the cure of EC-2216 is
+                                 that necessary to keep parts in alignment and to overcome
+                                 distortion and thermal expansion.
+
+                 (8)   Allow bond to cure at room temperature for 24 hours. Full cure is
+                       achieved in 3 to 7 days at room temperature. Cure may be accelerated
+                       by heating for 2 hours at 150 ° F or 45. minutes at 200 ° F.
+
+
+
+
+    EFFECTIVITY: 25-061, 25-070 thru 25-289 not Equipped with AAK 79-10
+
+
+    MM-98
+                 "Installation of·Wing Fences, Stall Strips, and Boundary
+                 Layer Energizers" or AAK 82-8 "Handling Qualities
+                 Improvement"
+                                                                                       57-00-01
+                                                                                       Page 201
+                                                                                        Jul 5/83
+                                                                                                   I
+                                                   Gates Learjet Car->oration@
+                                       •a1a1eaaaee ••••••-
+
+
+
+
+                                       A
+
+
+
+
+                                                                                                              d &dge)
+                                                                                        o.so (CL Blade - fw
+
+
+                                                                                 Jal. JO
+                                                                               (Skin JoJntJ
+
+
+
+
+                                   V-orte:ic Generator Instana«on
+                                    Figure 201 (Sheet l of 2)
+
+    EFFEcnvrTY:
+     90
+                25-061, 25-070 thru .!.5-289 ~iot Eq111pPed 'IVith
+/                    AA.K 79-10 ''InstaUatton of Wing Fences, sta.I1 Strips,
+    Nlll-           llJld .Bollnda.ty Layer Energtzersn or A.AI{ 82-8                 57-00-01
+                    "IiaJJdling Qua11ties hnprov-elllent11                            Page 202
+                                                                                      JuJ 5/88
+                        Gates Learjet Corporation@
+               •ai■11■an11 •a■ual
+
+
+
+
+                            Detail A
+
+
+
+
+                                                            Trim Edge al Vortex
+                                                            Oenenior Blade to
+                                                            Clear Tip Tank Cover
+                                                             .06
+
+
+
+                                                            Detail B
+
+
+
+
+           Detail C
+                           Vortex Generator Ins'tallation
+                            Figure 201 (Sheet 2 of 2)
+
+
+EFFECTMTY; 25-061, 25-070 thru 25-289 Not Equipped with
+MM-9&      AAK 79-10 "Installation of Wing Fences, Stall
+           Strips, and Boundary Layer Energizers" or
+                                                                         57-00-01
+                                                                         Page 203
+                                                                          Jul 5/83
+                                                                                     I
+           AAK 82-8 "Handling Qualities Improvement"
+                          .Gates Learjet Corporation@
+                 •ain1enan1e •an■al
+                   STALL FENCE - MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+     A.  Remove upper· forward stall fence.     (See figure 201. )
+
+           NOTE:    The following ·procedure may be used for aircraft which have a
+                    single-piece upper stall fence installed.
+
+           (1)   Drill out the 1/8 inch and 5/32 inch rivets attaching the upper forward
+                 stall fence to wing.
+
+                 CAUTION:     DO NOT CUT INTO WING SKIN, AS DAMAGE TO 'rHE
+                              WING SKIN WILL REQUIRE EXTENSIVE REPAIR.
+
+           (2)   Using an awl or equivalent, cut radius of fillet seal along the edge of
+                 stall fence. Exert only enough pressure to break through paint and
+                 fillet seal surfaces.
+
+                 CAUTION:     USE EXTREME CARE NOT TO DAMAGE WING SKIN.
+                              WHEN REMOVING UPPER STALL FENCE. DO NOT
+                              USE CHISEL TO PRY STALL FENCE FROM WING.
+
+           (3)   Break forward upper stall fence ·away from wing. Place blade end of
+                 chisel between the fcllward end of upper stall fence and wing skin
+                  (beveled edge against wing). Using a mallet, strike butt end of the
+                 chisel with enough force to break bond (force applied to the blade end
+                 of the chisel must be away from the wing skin). Once bond is broken
+                 at the forward end of upper forward stall fence, · an upward thrust of
+                 the upper forward stall fence will free it from the wing.
+      B.   Install upper forward stall fence. (See figure 201.)
+
+           NOTE:    The following procedure may be used for aircraft which have a
+                    single-piece upper stall fence installed.
+
+           (1)   Clean area with MEK. Wipe dry with a clean white cloth. Do not
+                 allow MEK to air dry as a residue will remain on the surface.
+
+                 CAUTION:     USE EXTREME CARE NOT TO DAMAGE THE WING
+                              SKIN WHEN MECHANICALLY REMOVING OLD
+                              ADHESIVE.
+
+           (2)   Mechanically remove old adhesive from installation area.
+           (3)   Finish sand installation area with 400 grit sandpaper.
+
+
+
+
+E FFECTIVITY: 25-290 and Subsequent and prior Aircraft equipped
+              with AAK 79-10 ''Installation of Wing Fences, Stall                57-00-02
+              strips, and Boundary Layer Energizers" or AAK                      Page 201
+              82-8 ''Handling Qualities Improvement''                             Jul 5/83
+                             Gates Learjet Corporation•
+                  ■al■ll■a■■:I .••••••.
+           (4)     Clean all residue from installation area using MEK. Wipe dcy with a
+                   clean white lint-free cloth. Do not allow MEK to air dcy as a residue
+                   will remain on the wing surface.
+           (5)     Apply an anti-corrosion chemical treatment (Turcoat Accelagold) to
+                   the Wing area which has been stripped of paint. (Refer to Chapter 20. ) ·
+           (6)     Install the wing leading edge section at WS 125. 0.
+           (7)     Ensure that the upper forward stall fence mates properly with the
+                   leading edge stall fence.
+           (8)     Position upper forward stall fence on wing. Mate forward portion of
+                   the upper forward stall fence with leading edge stall fence. The gap
+                   between wing and upper forward stall fence shall not be more than
+                   0. 10 inch at any point along the enti:re length of the upper stall fence.
+                   If the gap is greater. than O. 10 inch, remove the upper fozward stall
+                   fence from the wing and form to fit.
+           (9)     Position upper forward stall fence on the wing mated with the leading
+                   edge stall fence. Locate existing holes in the wing to the upper for-
+                   ward stall fence and, using a No. 30 drill, drill holes in upper forward
+                   stall fence to match the holes in wing. Cowitersink rivet holes.
+         (10)      Prepare the forward mowiting rivet holes and two CR3242-4 rivets for
+                   a positive electrical bond by applying Iridite 14-9 chemical treatment
+                   as described in Chapter 20.
+         (11)      Mix epoxy primer as follows:
+                   (a)    Mix equal parts by volume of EC1945A (accelerator) and
+                          EC1945B (base) and stir thoroughly.
+                   (b)    Mixed primer has a room temperature pot life of approximately
+                          eight hours.
+         (12)    · Apply a thin uniform coat (0. 0002 to O. 0005 inch) of epoxy primer to
+                   the installation area. Allow epoxy primer to cure for 24 hours at room
+                   temperature. Primer may be force cured at 160 ° F for 60 minutes or
+                   at 180° F for 30 minutes.
+         (13)      Position upper forward stall fence on wing, properly mated with the
+                   leading edge stall fence and Cleco in place. Using a pencil, mark a line
+                   along inboard and outboard edges (the entire length) of the upper stall
+                   fence. Remove Cleco and upper forward stall fence from the wing.
+
+                   CAUTION:     :MIX ENOUGH ADHESIVE_ TO ACCOMPLISH STEP 16.
+                                THE INSTALLATION MUST BE COMPLETED WITHIN
+                                45 MINUTES AFTER l\11XING THE ADHESIVE.
+
+          (14)   · Mix the adhesive as follows:
+                   (a)   Mix (by weight) two parts ECl 751B to one_ part ECl 751A.
+                         Mix thoroughly; avoid excessive air bubbles. Bonding must be
+                         accomplished within 45 minutes.
+
+
+
+
+EFFECTIVITY: 25-290 and Subsequent and prior Aircraft equipped
+             with AAK 79-10 ''Installation of Wing Fences, Stall                   5'1-00-02
+             Strips, and Boundary Layer Energizers" or AAK                         Page 202
+             82-8 "Handling Qualities Improvement"                                  Jul 5/83
+                          Gates Learjet Corporation@
+                  · ■ allllllllllll ■a111al
+                                    Fillet (Required- if
+                                    fence is welded
+                                    assembly)
+
+                                                                            Fillet
+
+
+
+                                       Wing Skin (Ref)J
+
+                                                            Detail· A
+* DO NOT bond upper   forward  Stall
+  Fence to Wing in the area forward
+                                                   MS20426AD5 Rivet
+                                                   (4 Reqd.)
+   of Spar 1.
+                                                [!> Aft Stall Fence
+                                    MS20426AD5 Riv
+                Detail B            (2 Reqd) (Single-
+                                    Fence)
+      par 1 (Ref)                                                          Rivet (4 Reqd)
+                                                                          (Twc;,-Piece
+                                                                           Fence)
+
+                                                                      Upper Forward"'-
+                                                                      Stall Fence ~
+
+
+                                            B) Some Aircraft may be equipped with a
+                                                  single piece upper Stall Fence.
+
+
+
+
+                         CR3242-4 Rivet
+                         (10 Reqd)
+
+
+
+       Leading Edge
+       Stall Fence              Lower Stall Fence
+
+
+
+                                Stall Fence Installation
+                                Figure 201 (Sheet 1 of 2)
+
+
+EFFECTIVITY: 25-290 and Subsequent and prior Aircraft equipped                  57-00-02
+             with AAK 79-10 ''Installation of Wing Fences, Stall                Page 203
+MM-98        Strips, and Boundary Layer Energizers."                             Jul 5/83
+                           Gates Learjet Corporation•
+                 ■ai■ll■a■II ■a■■al
+                ~ byFences bonded to Wing Skin and Wing Leading Edge and secured
+                      rivets after bond has cured.
+
+                ~      I>o not apply bonding material to fence joints.
+
+                {i::> A screw may secure leading edge stall fence (upper or lower
+                       surfaces) depending upon fence location when kit was installed.
+
+
+
+
+                                                                         MS20426AD5
+                                                                         Rivet (4 Reqd)
+
+
+
+                                                     (;> Aft Stall Fence
+                                                 CR3242-4
+ * DO NOT bond upper forward Stall
+   Fence or Lower Stall Fence to Wing
+    in the area forward of Spar 1.
+
+
+         Detail B
+
+
+
+                                                      Upper Forward Stall Fence
+
+
+
+
+                            ._-Lower Stall Fence      (t>
+                           ~--Leading Edge Stall Fence       [!:> ~
+                               Stall Fence Installation
+ 4-53C                         Figure 201 (Sheet 2 of 2)
+
+
+E FFECTIVITY: 25-061, 25-070 thru 25-289 when equipped with                     5'1-00-02
+              AAK 82-8 "Handling Qualities Improvement"                         Page 204
+                                                                                 Jul 5/83
+                            Gates Learjet Corporation•
+                  ■1111111111 ■11111
+                       ~ : The application of adhesive to the stall fence should be
+                           thick enough so the adhesive will squeeze out on both
+                           sides (the entire length) of the fence when it is installed.
+
+          (15)    Apply a coating of ECl 751 to the upper forward staff fence except for
+                  the area forward of spar 1. The adhesive must be applied with a spat- .
+                  ula or roller in such a manner so as to prevent entrapped air.
+          (16)    Position upper stall fence on wing aligning the forward and aft rivet
+                  holes using the installation area marked in step 13 as a guide.·
+
+                  CAUTION:     ENSURE THAT THE POSITION OF TIIE FENCE IS NOT
+                               DISTURBED WHEN ANCHORING IT TO THE WING.
+
+          (17) AJ}chor upper forward stall fence to the wing with shot bags or equi va-
+               lent meth<Xl. Form a concave fillet seal between the stall fence and
+               the wing skin with the adhesive squeeze-out. Clean excess adhesive
+               from wing and fence with a cloth dampened with MEK. Allow the ad-
+               hesive to cure at room temperature for 24 hours. Adhesive may be
+               force cured at 150° F for 60 minutes or at 200° F for 30 minutes.
+          (18) Remove the anchor device from the upper wing stall fence and drill
+               the sealant out of the rivet holes, as necessary to facilitate rivet
+               installation.
+          (19) Install rivets. Ensure that the rivets processed in step 10· are in-
+               stalled forward of spar 1. Ensure that ·all rivets are flush with the
+               base of the upper forward stall fence.
+          (20) Apply an anti-corrosion chemical treatment '('I'urooat Accelagold) to
+               the upper wing stall fence. (Refer to Chapter 20.)
+          (21) Prime and paint the upper forward stall fence and surrounding area
+               where paint has been removed. (Refer to Chapter 20.)
+          (22) ~stall wing leading edge section.
+          (23) Perform stall warning: test. and adjustment.· (Refer to Chapter 27. )
+     C.    Remove leading edge stall fence. (See figure 201.)
+
+           NOTE:     On some aircraft the screws which secure the wing leading edge
+                     may also secure the leading. edge stall fence.
+
+           (1)    Remove screw(s) attaching the leading edge stall fence to the wing.
+           (2)    Drill out the 1/8 inch rivets which attach leading edge stall fence.
+
+                  CAUTION:     USE EXTREME CARE NOT TO DAMAGE THE LEADING
+                               EDGE wmLE REMOVING THE LEADING EOOE STALL
+                               FENCE.
+          (3)    Using an X-acto knife or equivalent, cut adhesive which holds the stall
+                 fence to the leading edge. Cut away the adhesive until leading edge
+                 stall fence is separated from leading edge.
+E FFECTIVITY: 25-290 and Subsequent and prior Aircraft equipped
+              with AAK 79-10 "Installation of Wing Fences, Stall                 57-00-02
+              Strips, and Boundary Layer Energizers" or AAK                      Page 205
+              82-8 "Handling Qualities Improvement"                               Jul 5/83
+                             Gates Learjet Corporation@
+
+                   ■ai■I■■•••• ■a■aal·
+      D.    Install leading edge stall fence. (See figure 201.)
+            (1)    Clean area with MEK. Wipe dry with a clean white cloth. Do not
+                  allow MEK to dry as a residue will remain on the surface.
+
+                   CAUTION:     USE EXTREME CARE NOT TO DAMAGE THE LEADING
+                                EDGE WHEN MECHANICALLY REMOVING THE OLD
+                                ADHESIVE.
+
+            (2)    Mechanically remove old adhesive.
+            (3)    Finish sanding area with 400 grit sandpaper.
+            (4)    Clean all residue.from area using MEK. Wipe dry with a clean white
+                   lint-free cloth. Do not allow MEK to air dry as a residue will remain
+                   on the ~urface.
+            (5)    Apply an anti-corrosion·chemical treatment (Turcoat Accelagold) to
+                   the leading edge_ stall fence installation area.
+            (6)    Position leading edge stall fence on leading edge. Ensure that it mates
+                   properly with the upper and lower stall fence sections.
+            ('1)   Ensure gap between leading edge and the leading edge stall fence is not
+                   greater than O. 03 inch at any point. If the gap is greater than O. 03
+                   inch, remove leading edge stall fence and form to fit contour of the
+                   leading edge.
+            (8)    Place the formed-to-fit leading edge stall fence on the wing leading
+                   edge mated with the upper and lower stall fences_. Locate existing
+                   rivet and screw holes in wing leading edge to base of leading edge stall
+                   fence. Using·a No. 30 bit, drill holes in the base of the leading edge
+                   stall fence to match rivet holes in the leading edge. Countersink the
+                   rivet holes.
+
+                   NOTE:   If necessary, use a No. 19 bit and drill hole in base of leading
+                           edge stall fence to match screw hole in the leading edge. Use
+                           extreme care not to dam.age nutplate. On some aircraft the
+                           stall fence may be notched to clear the screw head if the edge
+                           distance is insufficient to drill hole and properly countersink.
+
+            (9)    Position leading edge stall fence on wing leading edge. Secure leading
+                   edge stall fence in position with Cleco fasteners. Using a pencil, ~ark
+                   a line along the inboard and outboard edges (the entire length) of the
+                   leading edge stall fence. Remove Cleco fasteners and leading edge
+                   stall fence.
+           (10)    Ensure that the leading edge and the stall fence are clean and free of
+                   foreign material (grease, dirt, etc.). Using a clean white cloth damp-
+                   ened with MEK, clean as required. Wipe dry with a clean white cloth.
+                   Do not allow MEK to air dry as a residue will remain on the surface.
+
+
+
+
+E FFECTIVITY; 25-290 and Subsequent and prlor Aircraft equipped
+              with AAK '19-10 ''Installation of Wing Fences, Stall                57-00-02
+                   Strips, and Boundary Layer Energizers" or AAK                  Page 206
+                   82-8 "Handling Qualities Improvement"                           Jul 5/83
+                             Gates Learjet Corporation@
+                   ■alnlllllll ■anaal
+                   NOTE:     The application of the RTV adhesive to the stall fence should
+                             be thick enough so the adhesive will squeeze out on both
+                             sides (the entire length) of the fence when installed.
+
+                   CAUTION:      USE EXTREME CARE NOT TO BOND THE LEADING
+                                 EDGE TO THE WING WHEN INSTALLING THE LEADING
+                                 EOOE STALL FENCE.
+
+            (11) Apply a liberal bead of RTV 154 or RTV 157 to the leading edge stall
+                 fence. Using the area marked in step (9) as a guide, plaoe the stall
+                 fence on the leading edge properly mated with the upper and lower
+                 stall fences. Anchor the stall fence to the leading edge. Using the
+                 squeeze-out sealant, form a concave fillet seal between the base of
+                 the stall fence and leading edge (fillet size- to blend). Clean excess
+                 sealant from stall fence and leading edge. · Allow the adhesive to cure
+                 for 24 hours at room temperature. Cure time may be accelerated by
+                 higher temperatures and increased humidity.
+            (12) Remove adhesive from the rivet and screw holes and install rivets and
+                 screws.
+            (13) Perform stall warning test and adjustment. (Refer to Chapter 27.)
+      E.     Remove the lower stall fence. (See figure 201.)
+
+             CAUTION:      DO NOT CUT INTO THE ~G SKIN, AS·DAMAGE TO THE
+                           WING SKIN WILL REQUIBE EXTENSIVE REPAIB.
+
+             (1)   Using an awl or equivalent, cut into the radius of the fillet..seal at the
+                   attachment point of the stall fence.
+             (2)    Drill out 1/8 inch rivets attaching lower stall fence to wing.
+             (3)   Remove lower stall fence.
+       F.    Install lower stall fence. (See figure 201. )
+             (l)    Clean area with MEK. Wipe dry with a clean· white cloth. Do not
+                    allow MEK to air dry as a residue will remain on the surface.
+
+                   CAUTION:      USE EXTREME CARE NOT TO DAMAGE WING WHEN
+                                 MECHANICALLY REMOVING FILLET ADHESIVE.
+
+             (2)   Mechanically remove old fillet seal.
+             (3)   Finish sand area with 400 grit sandpaper.
+             (4)   Clean all residue from area using MEK. Wipe dry with a clean white
+                   lint-free cloth. Do not allow MEK to air dry as a residue will remain
+                   on the wing surface.
+             (5)   Apply an anti-corrosion chemical treatment (Turcoat Accelagold) to
+                   the wing area which has been stl'ipped of paint.. (Refer to Chapter 20. )
+             (6)   Ensure the lower stali fence mates properly with the leading edge
+                   stall fence.
+
+
+ EFFECTIVITY: 25-290 and Subsequent and prior Aircraft equipped                      5'7-00-02
+              with AAK '79-10 ''Installation of. Wing Fences, stall                  Page 207
+MM-98         Strips, and Boundary Layer Energizers" or AAK                           Jul 5/83
+              82-8 "Handling Qualities Improvement"
+                            Gates Learjet Corporation@
+                  ma·inlenan■I!· man■al
+            (7)   Position lower stall fence on wing, mating fozward portion of lower
+                  stall fence with leading edge stall fence. Ensure that the lower stall
+                  fence mates the contour of the wing.
+            (8)   Position lower stall fence on the wing and properly mate with leading
+                  edge stall fence. Locate existing holes in the lower side of wing to
+                  base of the lower stall fence. Using a No. 30 drill, drill holes in the
+                  base of the lower stall fence. Countersink holes.
+            (9)   Mix epoxy primer as follows:
+                  (a)    Mix equal parts by volume of EC-1945A accelerator into EC-
+                         1945B base. Mix thoroughly. Pot life of primer is approxi-
+                         mately eight hours.
+           (10)   Apply a coat of epoxy primer (0. 0002 to 0. 0005 inch thick) to area
+                  where lower stall fence is to be installed. Allow 24 hours cure time
+                  at 22°F.
+
+                  NOTE:    An accelerated cure can be achieved by:
+                             160°F for 60 minutes or
+                             180 ° F for 30 minutes.
+
+           (11)   Mix epoxy adhesive as follows:
+                  (a)   Mix (by weight) two parts ECl 751B to one part ECl 751A. Mix
+                        thoroughly. Mix only that amount of adhesive that can be used
+                        in 45 minutes.
+           (12)   Apply a coat of adhesive O. 0002 to O. 0005 inch thick over epoxy
+                  primer.
+           (13)   Carefully position lower stall fence on wing and install two rivets. Aft
+                  portion of fence must be secured in position by propping a board be-
+                  tween the fence and floor. Use care not to apply excessive pressure
+                  which causes excessive squeeze-out of adhesive.
+           (14)   Allow 24 hours cure time at 75°F.
+
+                  ~:       An accelerated cure can be achieved by:
+                              150°F for 60 minutes or
+                              200 ° F for 30 minutes.
+
+           (15)    Prime and paint the lower stall fence and surrounding area where
+                  paint has been removed. (Refer to Chapter 20.)
+           (16)   Perform stall warning test and adjustment. (Refer to Chapter 20.)
+      G.    Remove Aft Stall Fence. (See figure 201.)
+            (1)   Drill out rivets attaching aft stall fence to wing.
+            (2)   Remove aft stall fence from wing.
+      H.    Install Aft Stall Fence. (See figure 201.)
+            (1)    Using 400 grit sandpaper, clean all old adhesive from wing skin.
+                   Clean area using MEK. Wipe dry with a clean white lint-free cloth.
+                   Do not allow MEK to air dry as a residue will remain.
+
+
+
+ EFFECTIVITY: 25-290 and Subsequent and px!or Aircraft equipped                 . 57-00-02
+              with AAK 79-10 "Installation of Wing Fences, Stall                  Page 208
+              Strips, and Bowidary Layer Energizers" or AAK                        Jul 5/83
+MM-98
+              82-8 "Handling Qualities Improvement"
+                            Gates Learjet Corporation@
+                  ■ili■ll!■il■II! ■il■■ill
+          (2)     Apply an anti-corrosion chemical treatment (Turcoat Accelagold) to
+                  cleaned area.
+          (3)     Position aft stall fence on wing and, using existing holes in wing,
+                  locate holes to base of aft stall fence.
+          (4)     Using a No. 21 drl.11, drill holes in aft end of fence. Using a No. 30
+                  drill, drill holes in forward end of fence. Countersink holes.
+
+                  NOTE:    On Aircraft 25-061, 25-070 thru 25-289 equipped with AAK
+                           82-8, rivets in forward end of the aft stall fence are 1/8 inch ·
+                           rivets. All other rivets are 5/32 inch.                    ·
+
+           (5)    Position aft stall fence on wing and Cleco in place. Check for clear-
+                  ance between stall fence and wing. Gap shall not exceed O. 10 inch.
+           (6)    Place-a pencil mark along both sides of aft stall fence. Remove
+                  Clecos and fence from wing.
+           (7)    Mix epoxy primer as follows:
+                  (a)   Mix equal parts (by volume) of EC-1945A accelerator and EC-
+                        1945B base. Mix thoroughly.
+           (8)    Apply a coat of epoxy primer (0. 0002 too. 0005 inch thick) to area
+                  where aft stall fence is to be installed. Allow 24 hours cure time at
+                  72°F.
+
+                   NOTE:     An accelerated cure can be achieved by
+                                160°F for 60 minutes or
+                                180 ° F for 30 minutes.
+
+           (9)     Mix epoxy adhesive as follows:
+                   (a)   l\,fix (by weight) two parts of EC-l 751B to one part EC-l 751A.
+                          Mix thoroughly. Mix only that amount of adhesive that can be
+                         used in 45 minutes.
+          (10)     Apply a coat of adhesive (0. 0002 to o. 0005 inch thick) over epoxy
+                   primer.
+         • (11)    Carefully position aft stall fence on wing. Install two rivets at for-
+                   ward end of fence. Insert, but do not install, four rivets at aft end of
+                   fence. Clamp fence securely in place and allow to cure for 24 hours
+                   at 75° F.
+
+                   NOTE:     An accelerated cure can be achieved by:
+                                  150°F for 60 minutes or
+                                  200° F for 30 minutes.
+
+          (12)     After adhesive has cured, install 4 aft rivets.
+          (13)     Apply a fillet along both sides of fence with adhesive.
+
+
+
+
+E FFECTMTY: 25-290 and subsequent and prior Aircraft equipped                      57-00-02
+            with AAK 79-10 "Installation of Wing Fences, Stall                     Page 209
+MM-98
+            Strips, and Boundary Layer Energizers" or AAK                           Jul 5/83
+            82-8 "Handling Qualities Improvement"
+                             Gates Learjet Corporation•
+                   ■ai■le■a-■ae ■a■·■ al
+           BOUNDARY LAYER ENERGIZERS - MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+
+      NOTE:      It is not recommended that the BLEs be removed. however should the
+                 BLEs become dislodged. installation procedures are provided.
+
+      A.   Install the BLEs (See figure 201.)
+           (1)    Clean the installation area with MEK. Wipe dry with a clean white
+                  cloth. Do not allow MEK to air dry as a residue will remain on the
+                  surface.
+
+                   CAUTION:     USE EXTREME CARE NOT TO DAMAGE THE WING
+                                SKIN WHEN MECHANICALLY REMOVING THE OLD
+                                ADHESIVE.
+
+           (2)     Mechanically remove the old adhesive from the installation area.
+           (3)     Finish sand the installation area with 400 grit sandpaper.
+           (4)     Clean all residue from the installation area using MEK. Wipe dry
+                   with a clean white lint-free cloth. Do not allow MEK to air dry as a
+                   residue will remain on the wing surface.
+           (5)     Apply an anti-corrosion chemical treatment (Turcoat Accelagold) to
+                   the wing area which has been stripped of paint (refer to Chapter 20.)
+           (6)     Prepare the epoxy primer as follows:
+                   (a)   Mix equal parts by volume of EC 1945A (accelerator) and EC
+                         1945B (base) and stir thoroughly.
+                   (b)   Mixed primer has a room temperature pot life of approximately
+                         eight hours.                                         ·
+           (7)     Apply a thin uniform coat of epoxy primer. Allow epoxy primer to
+                   cure for 24 hours at room temperature (72°F). Primer may be force
+                   cured at 160°F for 60 minutes or at 180°F for 30 minutes.
+
+                    WARNING:    TO ENSURE PROPER FLIGHT CHARACTERISTICS. IT
+                                IS IMPORTANT THAT THE REPLACEMENT BLE(S) BE
+                                INSTALLED EXACTLY AT THE LOCATION(S) AS THE
+                                MISSING BLE (S).
+
+           (8)      Mark the location of the BLEs to be installed ..
+           (9)      Prepare the epoxy adhesive as follows:
+                    (a)  Mix 100 parts by weight of EC2216B to 140 parts by weight of
+                         EC2216A.
+                    (b)  Mix.until the components blend to a medium gray. The pot life
+                         of the mixed adhesive is approximately two hours at room tem-
+                         perature.
+
+
+
+
+E FFECTIVITY: 25-290 and Subsequent and prior Aircraft equipped                 57-00-03
+              with AAK 79-10 "IDStallatlon of Wing Fences, stall                Page 201
+MM,CJB        Strips. and Boundary Layer Energizers" or AAK                      Jul 5/83
+              82-8 "Handling Qualities Improvement"
+                           Gates Learjet Corporation@
+                 ■ai·nlenanae ■an■al
+          (10)   Apply a thin coat of epoxy adhesive to the installa1ion area as marked
+                 in step (8). Use epoxy adhesive sparingly.
+          (11)   Place the new BLE(s) in position and press into the adhesive. Wipe
+                 excess adhesive off of the BLE and wing to form a smooth surface at
+                 the bond.
+          (12)   Secure the BLE(s) to wing with masking tape and allow the epoxy
+                 adhesive to cure at room temperature for 24 hours. (Adhesive may
+                 be force cured at 150° F for 2 hours or at 200° F for 45 minutes.)
+                 Remove tape.
+          (13)   After the epoxy adhesive has cured, apply an anti-corrosion (Turcoat
+                 Accelagold) and conductive coating chemical treatment.to the replace-
+                 ment BLE(s) and surrounding wing area which has been stripped of
+                 paint to facilitate installation of the BLE(s). (Refer to Chapter 20.)
+          (14)   Prime and paint the BLE(s) and installation area in accordance with
+                 Chapter 20.
+
+
+
+
+I
+E FFECTIVITY: .25-290 and SUbsequunt and ~rior Aircraft equipped               5'1-00-03
+              _with AAK '19-10 "Installation of Wing Fences, Stall             Page 202
+               Strips, and Boundary Layer Energizers" .or AAK                   Jul 5/83
+MM-98
+              ·82-8 "Handling Qualities Improvement"
+                            Gates Learjet Corporation~
+                  ■ai■ll!nanal! •an1al
+
+
+
+                                    --- -------.../Wing                  Skin (Ref)
+
+
+
+
+                         Boundary L a y e r ~
+                         Energizer (BLE)
+                         (Ref)
+
+
+
+INSTRUCTIONS:
+   1. Measure distance A (distance between BLEs).
+   2. Compute distance B by using the formula: 1/2 A= B.
+   3. Measure the distance B, which was computed in step 2., and mark line Y
+      perpendicular to the imaginary centerline of the existing BLEs.
+   4. Measure two inches inboard and two inches outboard and mark lines X and Z
+      parallel to line Y.
+   5. Lay a straight edge along the forward and aft edges of the existing BLEs and
+      mark lines Mand N.
+
+        NOTE:    Extend the line as shown to aid in installation of the BLE.
+
+   6.   Measure the distance between Mand N, the distance should be o. 332 inch.
+   7.   Place the replacement BLE in the area between X and Z and M and N to ensure
+        a proper fit.
+
+
+
+
+                Determine Replacement Boundacy Layer Energizer Location
+                                      Figure 201
+EFFECTIVITY: 25-290 and Subsequent and Prior Aircraft equipped
+             with AAK 79-10 "Installation of Wing Fences, Stall                   57-00-03
+             strips, and Boundary Layer Energizers" or AAK                        Page 203
+MM-98
+             82-8 "Handling Qualities Improvement"                                 Jul 5/83
+                               _Gates Learjet Corporation@
+
+                   ■ai■ll!■il■II! ■il■llill
+                    AILERON BRUSH SEAL - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+
+        NOTE: Removal and installation are identical for the tight and left hand aileron
+              brush seals.
+
+        A.   Remove inboard and outboard aileron brush seals as follows:
+             (1)   Remove aileron. (Refer to Chapter 27.)
+             (2)    Slide brush seal from the mounting bracket.
+        B.   Install inboard and outboard aileron brush seal as follows:
+             (1)    Slide brush seal in mounting bracket.
+             (2)    Lubricate gap seal as described in Chapter 12.
+             (3)   Install the aileron and ensure proper rigging. (Refer to Chapter 27.)
+        C.   On Aircraft 25-290 and Subsequent.and prior Aircraft modified per AAK
+             79-10 ''Installation of Wing Fences, stall Sttips, and Boundary Layer Ener-
+             gizers," remove the forward aileron brush seal as follows:                      ·
+             (1)    Remove the aileron. (Refer to Chapter 27.)
+             (2)    Using a No. 40 drill bit, drill out the rtvets which hold the brush seal
+                    in place and remove the brush seal.
+             (3)    Clean the wing interior, ensure that all metallic particles are removed.
+        D.   On Aircraft 25-290 and Subsequent and prior Aircraft modified per AAK
+             79-10 ''Installation of Wing Fences, Stall Strips, and Bounda:cy Layer Ener-
+             gizers," install the forward aileron brush seal as follows.
+             (1)    Position the brush seal in place. Ensure that each segment is in the
+                    proper position.
+             (2)    Using CE 2663-2 cherry Ii.vets, attach each segment in place.
+             (3)    Lubricate the aileron brush seal in accordance with Chapter 12.
+             (4)    Install the aileron and check aileron rigging. (Refer to Chapter 27. )
+
+
+
+
+EFFECTIVITY: NOTED
+                                                                                    57-00-041
+                                                                                    Page 201
+MM-98                                                                               Jul 5/83
+                             Gates Learjet Corporation@
+                   ■ainll!RIRII! ■an■al
+                    MAIN FRAME - DESCRIPTION AND OPERATION
+
+1.      General
+        A.   The wing structure main frame consists of the portion of wing forward of
+             spar 7 and aft of spar 1.
+        B.   The main frame portion of the wing, with the exception of the main gear
+             well, is an integral fuel tank. The outboard rib, spar 7 and spar 1 are
+             sealed liquid tight to retain fuel. The ribs have holes with flapper valves
+             over them to facilitate fuel flow through the wing. Small vent holes are in-
+             corporated in the upper and lower portion of each spar and lib. This allows
+             fuel to flow from one compartment to the other.
+        C.   The outboard lib incorporates the attach fittings for the tip tanks. The
+             attach fittings are located one aft of spar 1 and one forward of spar 7.
+        D.   The main gear wheel well incorporates forward and aft attach fittings for
+             the main gear strut and an attach fitting for the main gear actuator.
+
+
+
+
+E FFECTMTY: ALL
+
+MM-98
+                                                                                 5'1-10-00
+                                                                                    Page 1
+                                                                                  Jul 5/83
+                                                                                             I
+                                Gates Learjet Corporation@
+              ■ain111nanI11! · ■anual .
+
+
+
+
+                          CO     t- CD&n •          cw,N...c
+                          =n:    ='f:::ft:qJ:;::fl:=l;:::C,:=n:
+                          ~      :a ~:a td ~ s_td
+                          [t riJl}ff}JlJJ i'rn@
+
+
+                                                                  w.s. 181.10
+
+
+
+                                    '
+
+
+
+
+              Left Wing Looking
+              Down. Right Wing
+              Opposite.
+
+
+                                         Wing Main Frame
+                                             Figure 1
+
+
+.1MM:FFECTIVITY: ALL                                                            57-10-00
+                                                                                 Page 2
+                                                                                Jul 5/83.
+                            Gates Learjet Corporation@>
+              ■1in1enan1■ ■a-n■al
+
+
+
+
+                   ~i~t~~~
+                    :al;i~;:a:a:a
+                   {j; {j; Ul {/j {j; fj; fj;
+
+                    I                      I w.s.   181.10
+
+
+
+
+                                     I
+                                      I
+
+
+
+
+         Left Wing Looking
+         Down. Right Wing                                     I
+         Opposite.                              ....._______,~...... -w. s. 0. 00
+
+
+                               Wing Integral Fuel Tank
+                                       Figure 2
+
+ EFFECTIVITY: ALL
+
+MM-98
+                                                                                    57-10-00
+                                                                                     Page 3
+                                                                                    Jul 5/83
+                                                                                               I
+                                Gates Learjet Corporation•
+                       ■11■11■1■11 ■11111
+~              AUXILIARY STRUCTURE - DESCRIPTION AND OPERATION
+
+    1.      General
+            A. The wing auxiliary structure consists of the wing leading edge, trailing
+                edge and tip tank.
+            B. The wing leading edge is that portion of the wing located forward of
+                spar 1. A diffuser tube, located in the leading edge, provides anti-
+                ice protection by distributing hot engine bleed air. A scupper lo.cated
+                on the lower outboard portion of- the leading edge provides an exhaust
+                for the bleed air.
+            C. The wing trailing edge is -that portion of the-wing.located aft of spar 7
+                 excluding control surfaces. The aft wing spar 8 incorporates hinge
+                fittings for the aileron, flaps and spoilers.
+            D. The tip.tanks are positioned to the wing at 2° nose down. Two attach
+                points, one aft of. wing spar 1 and.one forward of wing spar 7, secure
+                the tip tank to the wing. Access covers on the top of the tank provide
+                 access for inspection and maintenance. Baffles are installed to mini-
+                 mize fuel slosh and prevent adverse fuel affects on the aircraft center
+                 of gravity during extreme flight attitudes~ A recognition light is in-
+               . stalled in the forward end of the right tip tank. A fu.el dump valve is
+                 installed in the aft bulkhead of each tip tank. Refer to 28-11-00 for
+                 tip tank maintenance practices.
+
+
+
+
+     EFFECTIVITY: ALL
+
+    MM-98
+                                                                               5'1-20-00
+                                                                                  Page 1
+                                                                                Jul 5/83
+                                                                                           I
+                   Gates ·Learjet Corporation@
+          ■ain·1■Ian■■ ■an11al
+
+
+
+                                     Tip Tank Fittings
+                                                           Tip Tank
+
+
+
+
+                                                   Leading Edge
+
+Aileron-......~
+Fittings
+
+
+
+
+   Trailing Edge-----1
+
+
+
+
+                                               Left Wing Looking
+                                               Down, Right Wing
+                                               Opposite.
+
+                         Auxiliary Structure                                     ,.--
+                               Figure 1
+                                                                                   ~
+                                                                      57-20-00
+                                                                        Page 2
+                                                                      Jul 5/83
+                  ·         Gates Learjet Corporation@
+               111aia11aaa11 ■aaual
+
+
+
+                      Rib
+
+
+
+
+                                                              . 1
+                                                                    RibJ
+                                                                     ' -:-·
+
+
+                                                         i
+                                      Anti-Ice Scupper __,?
+
+
+
+
+                             Leading Edge Installation
+                                     Figure 2
+
+EFFECTIVITY: 25-061, 25-070 thru 25-205 not Equipped
+             with AAK 76-4 ''Reduced Approach Speed
+               System"
+                                                                              57-20-00
+                                                                                Page 3
+                                                                               Jul 5/83
+                                                                                          I
+                           Gates Learjet Corporation@
+                  ■ai■l■nan-■-1 .■an.■.al .•
+
+
+
+
+                                                            Fairing· Assemb~y
+
+
+
+
+                                                                                     Rib
+
+                                                                I
+                            . Leading Edge                      I
+
+                                   St
+
+
+                                             Anti-Ice Scupper~
+
+
+
+
+                             Leading Edge Installation
+                                     Figure 3
+
+· 1EFFECTMTY: 25-206 and SUbsequent dlld Ea11ier Aircraft                       5'1-20-00
+              Equipped with AAK 76-4 "Reduced Approach                             Page 4
+   MM-98      Speed System"                                                      Jul 5/83
+                                 Gates Learjet Corporation@
+
+                      ■a1■1e■a■1e ■a■1al
+                      WING LEADING EDGE - MAINTENANCE PRACTICES
+
+1.      General
+        A.    The wing leading edge is installed in two sections on each wing and is con-
+              nected to the wing with a series of screws.
+        B.    The wing leading edge is fit to the contour of the wing·and affects the direc-
+              tion of the air flow over the wing surface. If the·wing leading edge is not
+              properly positioned, it will have an adverse effect on the desired lift charac-
+              teristics of the wing causing the wing stall speed to change.
+        C.    The wing leading edge houses the wing anti-ice plumbing, wing anti-ice heat
+              sensor and thermostat.. (Refer to· Chapter 30 for heat sensor and thermo-
+              stat maintenance. )
+        D.    If installation of a new wing leading edge is performed, a flight test will be
+               required to determine if the wing leading edge is properly installed and if
+              possible adjustments to the stall warning system are necessary. (Refer to
+              Chapter 27. )
+        E.    Authorized maintenance to the wing leading edge is limited to removal and
+            · installation. A new wing leading edge ~ be installed at an Authorized
+              Gates Learjet .Repair Facility.
+2.      Removal/Installation
+        A.    Remove the wing leading edge ·.as follows:
+              (1)   ·Remove the fuselage-to-wing fairing attachment screws and remove
+                     fairing.
+              (2)    Disconnect the wing anti-ice plumbing and (right wing only) electrical
+                     wiring at the inboard end of the wing leading edge.
+
+                      CAUTION: SUPPORT THE WING LEADING EDGE SO THAT THE
+                               LEADING EDGE AND ATTACHING SCREWS WILL NOT
+                               BE DAMAGED DURING THE REMOVAL PROCEDURE.
+
+              (3) ·  Remove the wing leading edge attaching screws and remove the wing
+                     leading edge.
+        B.    Install the wing leading edge as follows:
+              (1)    Mechanically remove the old filler from the skin gap of the leading
+                     edge and wing and from around the fuselage-to-wing fairing installa-
+                    tion area.
+              (2)    Clean the skin gap and fairing installation area with MEK. Wipe dry.
+                     Do not allow MEK to air dry as a _residue will remain on the surface.
+
+                      CAUTION:     SUPPORT THE WING LEADING EDGE SO THAT THE
+                                   LEADING EDGE AND ATTACHING SCREWS WILL NOT
+                                   BE DAMAGED DURING THE INSTALLATION PROCE-
+                                   DURE.
+
+
+
+
+EFFECTIVITY: ALL
+MM-98
+                                                                                    57-20-01
+                                                                                    Page 201
+                                                                                     Jul 5/83
+                                                                                                I
+                           Gates Learjet CorporationG>
+                ■a-in11~1an11 -■a-naal
+         (3)    Place the leading edge on the wing and secure with ·the attaching screws.
+         (4)    9onnect the anti-ice plumbing and (right wing only) electrical wiring
+                at the inboard end of the leading edge.
+         (5)    Place the fuselage-to-wing fairing in position and secure with attaching
+                screws.
+         (6)    Mix Pro-Seal 890B hi accordance with the manufacturer's instructions.
+         ('7)   Using Semco Sealing Gun No. 250 or equivalent, fill the skin gap be-
+                tw'een the leading edge and the wing with the sealant prepared in step
+                (6).
+
+                NOTE:     Blend gap sealant with the wing contour. The sealant shall ·
+                          have continuous contact with the bottom and sides of the
+                          skin gap.
+
+         (8)    Allow sealant to cure ln·accordance with the tnanufacturer's instruc-
+                tions.
+         (9)    Using the Pro-Seal 890B mixed in step (6), apply a fillet seal between
+                the fuselage-to-wing.fairing and the fuselage. Fillet seal to aerody-
+                namically blend with the fairing. Allow sealant to cure in accordance
+                with the manufacturer's instructions.
+        (10)    Prime and paint as required (refer to Chapter 20).
+
+
+
+
+                                                                              5'1-20-01
+
+I
+EFFECTMTY: ALL
+                                                                              Page 202
+MM-98
+                                                                               Jul 5/83
+                             Gates Learjet Corporation®
+                   ■ain1enan1e ■anaal
+                     PLATES/SKIN - DESCRIPTION AND OPERATION
+
+1.      Description
+        A.   The wing structure is covered with a mllled aluminum skin. The lower
+             wing skin incorporates access panels which provide access to the fuel vent
+             plumbing, fuel tanks, flight controls, and electrical connections.
+        B.   Whenever a wing fuel or tip tank access cover is removed, special installa-
+             tion procedures are required to provide lightning strike protection.
+        C.   Access straps cover the gap between the wing and the tip tank and provide
+             access to the tip tank attach fittings. The lower access strap on each wing
+             incorporates a scupper at the aft end which.provides a cavity drain.
+        D.   When removing access covers, assure that they are reinstalled in the same
+             place from which removed and are properly resealed.
+
+
+
+
+EFFECTIVITY: ALL                                                                5'1-30-001
+                                                                                   Page 1
+MM-98                                                                            Jul 5/83
+                              _   ~~ Learjet Corporation@
+
+                            ■1·i■·1ena··•·••···. •·•••••(
+
+
+
+
+                                   1
+
+
+
+
+ 1. Tip Tank Attach Fittings
+ 2. Wing Tip Fuel & Electrical Connections
+ 3. · Wing Fuel Tank
+ 4. Fuel Vent Plumbing                           010
+ 5. Aileron Controls and Followup s
+ 6. Fuel Probe Connector
+ 7. Wing. Access
+ 8. Flap Actuator Attachment
+ 9. Flap Sector and ~oiler Actuator
+10. Fuel Vent Lines
+11. Main Gear Aft Trunnion .Pin
+12. $par ll7
+13. ~ar #5
+
+
+
+
+                                       Wing Access Covers
+                                             Figure 1
+  ti::   . .   .   ..   .
+ EFFECTIVITY: ALL                                           57-30-00
+                                                              Page2
+MM-98                                                       Jul 5/83
+                                 Gates Learjet_Corporation•
+
+                       :"~in~~-:
+                             .
+                             .
+                               -,1;1-=}i_,·::i'IIJl,-1~1-_
+                                                       ..;·   .   .   .
+
+--T~mpo'rary Revisi;on No. 57-5
+.MAJftJAL .AFFECTED:   25BCDF Maintenance Manual
+
+FILIHG INST.RUCTIONS:      Insert adjacent to 57-30~01, page 201, dated _Jul 5/83 and
+                           retain until further notic_e .
+
+REASOR:       To revise wing access cover installation and light.ening strike. seal
+              application.
+
+INSTRUCTIONS:       Revise existing procedures to read as follows:
+
+
+I. LIGHTNING STRIKE AND I.BAK PREVENTION SEAL APPLICATION
+   A. Install Wing Fuel Access Cover . ·(see figure - 201.)
+       ( 1)    Inspect and thoroughly. clean wing skin ·and access cover of all grease
+               and old ~ealant.
+
+                CAUTION:   THE MOLD-IN-PLACE SEALANT GASKETS. MUST ADHERE TO THE WING
+                           SKIN LEDGE. no NOT APPLY PARTING AGENT TO WING SKIN LEDGE.
+
+        (2)     Apply parting agent (Hexcel Parting Coat, No. 8300, product of Hexcel
+                Corp. • 20701 Nordhoff Street, Chatsworth, CA, . 91311) to wing . skin
+                access opening and to access cover.
+
+                CAUTION:   USE SPECIAL. CARE WHEN APPLYING SEALANT TO PREVENT AN EXCESS
+                           OF SEALANT FROM EXTRUDING INTO THE SURF_t\CE B_ETWEEN THE
+                           ACCESS COVER AND WING SKIN.
+
+        (3)     Allow parting agent to dry approximately 10 to 15 minutes. Apply an
+                even coat of Pro-Se_al 890 (B-1/ 2) ·sealant to wing skin ledge.
+        (4)     Temporarily install access cover with 6 screws and 6 AN960JD10L (0.032
+                inch thick) washers · evenly spaced around perimet~r of _a ccess cover.
+                Tighten screws.
+        (5)     Allow sealant to cure.
+        (6)     Remove access · covers and washers.     Clean parting agent from mating
+                surfaces of access cover and wing skin.
+
+                CADTIOR:   · USE EXTREME CARE NQT TO GOUGE ACCESSCOVER OR WING SKIN
+                           WHEN TRiMMING SEALANT.     TOOLS MUST BE FABRICATED ·-FROM
+                           PLASTIC OR OTHER suiTABLE MATERIAL.
+
+        (7)     Carefully trim cured sealant to remove excess extruded material to
+                leave -a continuous molded-in-place gasket of sealant approximately
+                0.25 inch ~ide on the wing skin ledge opening. (Refer to Detail A~)
+
+                CAUTION:   THE ANTI-CORROSION GREASE MUST BE INSTALLED TO PROVIDE
+                           ADEQUATE LIGHTNING STRIKE PROTECTION~
+
+TEMPORARY REVISION NO. 57-5                                                   57-30-01
+Disk 983                                                                      Page 1
+MM-98                                                                         Jun 3/ 85
+                            ..,......... ........
+                            ,
+                                      Gates Learjet· Corporation•
+
+                                          0   •   •   •   0   •   •   •   - 0 0   •   -
+                                                                                          ,:\
+
+                (8) . Apply a thin continuous coat of grease (Aeroshell No.· 14 anti-corro-
+                                                                                                0   0   0   0   : : ', ,:   0   •·   I   O   ••
+
+
+
+
+                      sion grease or equivalent) around the outer eclge of access door or
+                      wing skin opening.
+                (9) Install access panels. and secure with attaching screws. "J)o not use
+                      washers for final installation of access covers.
+
+
+
+
+•· •I .
+
+
+          'DIIPOIWlY RIVISIOR RD. 57-5_                                                                                                           5~~30-01
+                                                                                                                                                  Page 2.
+          Disk ·98·3.
+          --98-·.                                                                                                                                 Jun 3/8S
+"
+                             . . . ··Gates. Learjet Caporatione
+
+                  i:;. . ., .......;•••.:,;·• ····•····
+                        ..   .   '    '_· .•. :·:· . . ·.·: . .   .   .. ·. .    '   ':•:.   . .. .
+                                                                                                '     : ·.-·:   '       •.,   : .   -•'   '   ·.• .· .-. :   .   "
+
+
+
+
+                                                                                                                                                        0
+                                                                                                                    0
+                                                                  0
+                             0                                                                                      0
+                             Ci)
+                                                                  0
+      0
+                                                                  C)
+                                                                                                                0
+     0                       0                                                  ,......_)                   c:, 0
+                                                                                               0
+     C            c:)                                    0
+
+
+                                                                                A                                                                                t
+
+
+                  Washer
+                                                                                                                                                             Access Cover
+
+      Wing Skin (Ref)
+
+
+
+
+            Sealant (Before
+            Trimming)
+
+
+
+                                               TYPICAL VIElf WITH •SIER INSTlll.llD
+
+
+
+
+               Llgbtnlng·St:rlke and Leak Preveut:ion Seal Applieat:ion
+                              Figure 201 (Sheet: ·1_. o, ·2)
+
+TIIIPOB&RY DVISIOR RO.               S7-5                                                                                                                                   57-30-01
+Disk983                                                                                                                                                                     Page 3
+MM-98                                                                                                                                                                       Jun 3/85
+                                                                   '\·
+                                                                                                                              ...
+                                              Gates Learfet CorporatiOtl•
+                        ·••1.■·11!-■.••·••,·: :•;•-■■•1-
+                             .    ·.·.   ..      .   .... ·   .,               .   .:   '    .   .   .
+
+
+
+
+                                                                                            ---Apply Pro-5eel 890 Sealant
+                                                                                                 to wing akin ledge. ·Apply
+                Wing Skin (Ref)    ~
+                                                                                   parting agent to mating
+                                                                                   surface of a:cess cover and
+                                                                                   wing skin. DOt«JT apply
+                                                ""-·"'"==::;~~~,!:,r.~Access Cover
+   No finish or no sealant oo                       r                              parting agent to wing skin
+   access cover or wing skin in
+   this area.  Apply a thin
+                                                                         J-.
+                                                                     a. 25 Inch
+                                                                   0.80 Inch
+                                                                                   ledge area. The mold-in-
+                                                                                   place sealant gasket must
+   continuous coating of Aero-                                                     acllere to wing akin ledge. ·
+   shell No. 14 Anti-Corrosion
+   Grease or equivalent in this
+   area.
+                                                     Detail A
+
+
+
+
+                   Light:ning St:rike and Leak Prevention Seal .,Application
+                                              Pigu:re 201·(Sheet 2·of 2)
+TIIIPORARY REVl~IOB ti>. 57-S                                                                                   57-30-01
+Disk 983                                                                                                        Page 4
+~98                                                                                                             Jun 3/85
+                                Gates Learjet Corporation@
+
+                     ■ain11·nan11 ••·•••·•
+                      ACCESS COVERS - MAINTENANCE PRACTICES
+
+1.      General
+        A.   Maintenance practices for the wing fuel and tip tank access covers consist
+             of properly sealing the access covers to provide lightning· strike protection.
+
+2.      Lightning Strike Seal Application
+        A.    Install Wing Fuel and Tip Tank Access Covers (See figure 201)
+              (1)   Inspect and thoroughly clean the wing skin and access cover. Remove
+                    all grease and old sealant.
+              (2)   Apply parting agent (MIL-I-7444, vinyl tubing dissolved in four parts
+                    of cyclohexanone) to the access cover.
+
+                     CAUTION:     USE SPECIAL CARE WHEN APPLYING SEALANT TO
+                                  PREVENT SEALANT FROM EXTRUDING INTO THE
+                                  SURFACE BETWEEN THE ACCESS COVER AND WING
+                                  SKIN.
+
+              (3)    After allowing.the parting agent to dry (approximately 10 to 15
+                     minutes), apply an even coat of Pro-Seal 890 sealant to the Wing skin
+                     ledge.
+
+                     CAUTION:     EXCESSIVE GREASE WILL CAUSE-THE SEALANT TO
+                                  BE INEFFECTIVE AND REQUIRE COMPLETE RE-
+                                  CLEANING AND RESEALING OF THE WING SKIN AND
+                                  COVER.
+
+              (4)    Apply a thin continuous coating of grease (Aeroshell No. 14 Anti-
+                     Corrosion Grease or equivalent) around the outer edge of the wing
+                     access cover.
+              ( 5)   Install access cover.
+
+
+
+
+ EFFECTIVITY: ALL
+                                                                                   57-30-011
+                                                                                   ~age 201
+MM-98                                                                               Jul 5/83
+                                  Gates Learjef ·corporatione
+                      •ai■l■■a■a■ •a·■·■al                 .
+
+
+             Note
+ Special ·precaution should be taken to pre-
+.vent sealant from extruding between the                    ---Apply prO:-Seal 890 sealant to
+ access cover and wing skin.                                     wing skin ledge only. Apply
+                                                                 parting agent to access cover
+
+                                               • 70             Access Cover
+
+        . No finish on access cover, doubler~ \_Apply a thin continuous coating of
+         or skin in this area.                            grease (Aero-Shell No. 14 Anti-
+                                                          Corrosion Grease MIL-G-25537
+                                                          or equivalent) in this area.
+
+
+
+
+                                                      Apply a thin continuous coating of
+                                                      grease (Aero-Shell No. 14 Anti-
+                                                      Corrosion Grease MIL-G-25537
+                                                      or equivalent) in this area.
+
+                                                      No finish on access covers (inner
+                                                      surface) and tip tank skin in this area.
+
+
+
+                                                               Tip Tank
+
+
+
+
+                            Lightning Strike Protection Seal Application
+                                              Figure 201
+
+                                                                                                 57-30-01
+
+
+I
+ E. FFECTIVITY: ALL
+                                                                                                 Page 202
+MM-98
+                                                                                                  Jul 5/83
+                              Gates Learjet Corporation@
+                    ■ai111e11a11ce ■a1111al
+                   ATTACH FITTINGS- DESCRIPTION AND OPERATION
+
+1 ..    Description
+        A.   The wing is attached to the fuselage at eight points. The attach points are
+             located on the left and right wing-fuselage intersections at frames 16, 18,
+             20, and 21. The attach fittings which are bolted to the wing are forgings
+             containing bushings through which the bolts pass.
+        B.   The tip tank is a,ttached to the wing at two points, one just aft of spar 1 and
+             one just forward of spar 7. Access to the tip tank attach bolts is through
+             the straps between the wing and tip tank.
+        C.   The ailerons are hinged to wing spar 8 at three points. The bearing· support      I
+             for ·the aileron drive mechanism is also located on spar 8. Access to the
+             aileron hinge bolts is gained through an access cover on the aileron. The
+             aileron balance tabs are controlled by push pull tubes which are connected
+             to an attach fitting.on the aft wing lower skin.
+        D.   The spoilers are hinged to wing spar 8 at two points.   The   spoiler actuator
+             attach bracket is located on wing spar '1. Access to the spoiler hinge bolts
+             is gained by extending flaps. Access to the spoiler actuator attach bracket
+             is gained through an access cover on the lower wing.
+        E.    The main gear forward and aft trunnion bearings are located in the wing
+             wheel area on spars 7. and 5. The attach pillar for the main gear. actuator
+              is located in the wheel well on spar 7.
+        F.    The flaps are mounted on a track roller assembly which is attached to wing
+              spar 8. Access to the flap actuator and sector is through an access cover
+             located on the lower surface of the wing.
+
+
+
+
+ EFFECTIVITY: ALL                                                                   5'1-40-00 .
+                                                                                       Page 1
+MM-98                                                                                Jul 5/83
+                               Gates Learjet Caporatione
+                 .   ■ain.1anan■a · ■ an■al                       '
+
+
+
+
+                              C
+                                          E
+
+
+                                                                             . LFuselage
+         8
+
+
+
+                                                                         Wing Attach Fittings
+
+
+
+
+                                 . / · Torsion Link
+                                   Bushing
+                                       Wing Attach Fittings
+                                       . Detail A
+                                                              Flap Track
+                         Aft Main Gear                        Support
+                         Attach Fitting
+
+
+
+
+        "'   ~
+        Landing Gear Attach Fittings
+             Detail B
+                                   Wing Attach Fittings
+                                                                      Flap Attach Fittings
+                                                                        Detail C
+
+                                  Figure 1 (Sheet 1 of 2)
+
+    EFFECTIVITY: ALL
+
+I
+                                                                                             57-40-00
+                                                                                              Page 2
+MM-98                                                                                        Jul 5/83
+                              Gates Learjet Caporatione
+
+                          ■ai■11■a■11 · .■ a■11al
+
+
+
+
+                                                                           Inbd Aileron
+                                                                           Attach Fitting
+        Wing ~ar #8
+
+
+                                                     Center Aileron
+                                                     Attach Fitting
+
+
+
+
+         Outbd Aileron         Aileron Attach Fittings
+         Attach Fitting           Detail D
+
+
+                                    lnbd ~oiler
+                                    Attach Fitting
+
+
+
+
+                                                         ~oiler Actuator
+                                                         Attach Fitting
+
+
+
+
+                              ~oiler Attach Fittings
+                                 Detail E
+
+
+                               Wing Attach Fittings
+                               Figure 1 (Sheet 2 of 2)
+
+  EFFECTIVITY: ALL
+
+MM-98
+                                                                                            57-40-00
+                                                                                              Page 3
+                                                                                            Jul 5/83
+                                                                                                       I
+

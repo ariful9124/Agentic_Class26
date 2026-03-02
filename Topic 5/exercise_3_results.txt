@@ -1,0 +1,319 @@
+Exercise 3: Open Model + RAG vs. State-of-the-Art Chat Model — Results
+Generated  : 2026-03-02 02:22:13
+Condition A: Qwen 2.5 1.5B + RAG  (local)
+Condition B: openai/gpt-4o  (no RAG, no file upload)
+
+
+================================================================================
+  CORPUS: Model T Manual
+================================================================================
+
+  Q1  [Model T Manual]
+  QUESTION: How do I adjust the carburetor on a Model T?
+
+  ── A: Qwen 2.5 1.5B + RAG (12.51s) ──
+  Sources: ModelT-11-20-ocr.pdf (score=0.640)  |  ModelT-21-30-ocr.pdf (score=0.577)  |  Ford-Model-T-Man-1919-ocr.pdf (score=0.577)
+    To adjust the carburetor on a Model T, you should refer to the instructions
+    provided with the vehicle or consult the owner's manual for guidance.
+    Additionally, if you encounter difficulties adjusting the carburetor, you
+    may need to seek assistance from an experienced mechanic or repair
+    professional who has knowledge about vintage automobiles. It is important to
+    ensure that the adjustments are made correctly to maintain optimal
+    performance and safety of the vehicle.   The given sources provide
+    information about the principles behind carburetor operation but do not
+    explicitly state how to adjust them. Therefore, based on the available
+    information, the most accurate response would be:  To adjust the carburetor
+    on a Model T, you should refer to the instructions provided with the vehicle
+    or consult the owner's manual for guidance. If you encounter difficulties
+    adjusting the carburetor, you may need to seek assistance from an
+    experienced mechanic or repair professional who has knowledge about vintage
+    automobiles. Ensure that the adjustments are made correctly to maintain
+    optimal performance and safety of the vehicle.   Note: This answer relies
+    solely on the information provided in the context and does not include any
+    external sources. The sources mentioned in the context do not directly
+    address the method of adjusting the carburetor on a Model T. They focus more
+    on explaining the function and control mechanisms of the carburetor rather
+    than providing step-by-step instructions for its adjustment.
+
+  ── B: openai/gpt-4o  (no RAG, 8.43s) ──
+    Adjusting the carburetor on a Ford Model T is a relatively straightforward
+    process, but it requires some understanding of how the vehicle's fuel system
+    works. The Model T uses a simple updraft carburetor, and adjustments are
+    made using the mixture control on the dashboard and the carburetor itself.
+    Here’s a step-by-step guide:  1. **Warm Up the Engine**: Start the engine
+    and let it warm up to normal operating temperature. This ensures that the
+    adjustments are made under typical running conditions.  2. **Locate the
+    Mixture Control**: The Model T has a mixture control knob on the dashboard,
+    which is connected to the carburetor via a rod. This knob allows you to
+    adjust the air-fuel mixture while driving.  3. **Initial Setting**: Begin
+    with the mixture control knob turned about 1 to 1.5 turns open from the
+    fully closed position. This is a general starting point for the mixture.  4.
+    **Adjust the Mixture**: With the engine running at idle, slowly turn the
+    mixture control knob. Turning it clockwise will lean the mixture (less
+    fuel), and counterclockwise will enrich it (more fuel). Listen to the
+    engine's response:    - If the engine runs rough or starts to sputter, it
+    may be too lean, so enrich the mixture slightly.    - If the engine sounds
+    like it's "loading up" or running too rich, lean the mixture slightly.  5.
+    **Test Under Load**: Take the car for a short drive and observe how it
+    performs under load. You may need to make further adjustments to the mixture
+    control to ensure smooth acceleration and power delivery.  6. **Fine-
+    Tuning**: Once you have the car running smoothly at idle and under load,
+    make any final adjustments to the mixture control for optimal performance.
+    The goal is to achieve a balance where the engine runs smoothly without
+    excessive fuel consumption or power loss.  7. **Check for Leaks**: After
+    adjustments, inspect the carburetor and fuel lines for any signs of leaks or
+    fuel seepage.  Remember, the Model T's carburetor adjustment is a manual
+    process, and conditions such as altitude and temperature can affect the
+    ideal setting. It may require periodic readjustment to maintain optimal
+    performance.
+
+--------------------------------------------------------------------------------
+
+  Q2  [Model T Manual]
+  QUESTION: What is the correct spark plug gap for a Model T Ford?
+
+  ── A: Qwen 2.5 1.5B + RAG (9.08s) ──
+  Sources: Ford-Model-T-Man-1919-ocr.pdf (score=0.538)  |  ModelT-11-20-ocr.pdf (score=0.523)  |  ModelT-21-30-ocr.pdf (score=0.500)
+    According to the given sources, the correct spark plug gap for a Model T
+    Ford engine is approximately 7/8 inch (about 1.9 cm). This can be seen in
+    both pages 5 and 15 of the documents mentioned. Specifically, it states "The
+    distance between the sparking points should be 74", which translates to 7/8
+    inch. Additionally, the text mentions that "the distance between' the
+    sparking points should be 74", where 74 refers to the thickness of a smooth
+    dime, which is approximately 7/8 inch. Therefore, based on this information,
+    the correct spark plug gap for a Model T Ford engine is 7/8 inch. To
+    clarify, the document explicitly states that the distance between the
+    sparking points should be 74" (approximately 1.9 cm), referring to the
+    thickness of a smooth dime. This measurement is used as a guideline for
+    ensuring proper operation of the ignition system in the Ford engine.
+
+  ── B: openai/gpt-4o  (no RAG, 1.31s) ──
+    The correct spark plug gap for a Model T Ford is typically around 0.025
+    inches. It's important to ensure the gap is set correctly for optimal engine
+    performance.
+
+--------------------------------------------------------------------------------
+
+  Q3  [Model T Manual]
+  QUESTION: How do I fix a slipping transmission band?
+
+  ── A: Qwen 2.5 1.5B + RAG (11.26s) ──
+  Sources: ModelT-31-40-ocr.pdf (score=0.578)  |  Ford-Model-T-Man-1919-ocr.pdf (score=0.578)  |  ModelT-31-40-ocr.pdf (score=0.514)
+    To fix a slipping transmission band, loosen the lock nut at the tight side
+    of the transmission cover, and turn the adjusting screw (see Cut No. 12) to
+    the right. This will allow you to adjust the tension on the bands.
+    Additionally, ensure that the bands do not drag the drums when disengaged,
+    as this can cause overheating of the motor. The adjustment process involves
+    removing the transmission cover and turning the adjusting nuts on the shafts
+    to the right. Make sure the screws in the fingers are properly adjusted to
+    compress the spring evenly around the adjusting screws. It's important to
+    use tools like a wrench or socket set for these adjustments. Always follow
+    the manufacturer's instructions carefully to avoid damaging the transmission
+    components.   This answer is derived from the given sources, which provide
+    detailed steps for adjusting the transmission bands on both the Ford Model T
+    and the Model T-31/40 transmissions. The key points include loosening the
+    lock nut, turning the adjusting screw, ensuring proper tension, and checking
+    for correct finger screw adjustments. These actions help prevent slipping
+    and overheating issues with the transmission bands. The context supports the
+    need for careful attention to detail during these adjustments to maintain
+    optimal performance and longevity of the transmission system.
+
+  ── B: openai/gpt-4o  (no RAG, 7.15s) ──
+    Fixing a slipping transmission band can be a complex task, and it often
+    requires a certain level of mechanical expertise. Here are some general
+    steps you can take to address the issue, but keep in mind that if you're not
+    experienced with car repairs, it might be best to consult a professional
+    mechanic.  1. **Check Transmission Fluid Level and Condition:**    - Ensure
+    the transmission fluid is at the correct level. Low fluid levels can cause
+    slipping.    - Inspect the fluid for quality. If it’s dark, burnt, or
+    contains debris, it may need to be changed.  2. **Adjust the Transmission
+    Bands:**    - Some automatic transmissions have adjustable bands. Consult
+    your vehicle’s service manual to see if your transmission has this feature.
+    - If adjustable, you will typically need to locate the adjustment screws on
+    the transmission.    - Follow the manual’s instructions for loosening the
+    locknut and turning the adjustment screw to the specified torque setting.
+    3. **Replace Transmission Fluid and Filter:**    - If the fluid is degraded,
+    perform a transmission fluid and filter change. This can sometimes resolve
+    slipping issues if they are due to fluid contamination or degradation.  4.
+    **Inspect for Mechanical Issues:**    - Check for any worn or damaged
+    components within the transmission that might be causing the slipping.    -
+    This may include worn bands, clutches, or other internal parts.  5. **Use a
+    Transmission Additive:**    - Some products are designed to help with
+    slipping by conditioning the transmission seals and bands. These can
+    sometimes provide a temporary fix.  6. **Seek Professional Help:**    - If
+    the above steps do not resolve the issue, or if you are not comfortable
+    performing these tasks, it’s advisable to take the vehicle to a professional
+    mechanic or transmission specialist. They can perform a more thorough
+    diagnosis and repair.  Remember, working on a transmission can be complex
+    and requires specific tools and knowledge. Incorrect adjustments or repairs
+    can lead to further damage. If in doubt, always consult a professional.
+
+--------------------------------------------------------------------------------
+
+  Q4  [Model T Manual]
+  QUESTION: What oil should I use in a Model T engine?
+
+  ── A: Qwen 2.5 1.5B + RAG (12.13s) ──
+  Sources: ModelT-01-10-ocr.pdf (score=0.397)  |  Ford-Model-T-Man-1919-ocr.pdf (score=0.397)  |  Ford-Model-T-Man-1919-ocr.pdf (score=0.362)
+    For the Model T engine, you should use the Ford splash system for
+    lubrication. Additionally, there is an oil cup located at the end of the
+    generator housing and a few drops of oil should be applied occasionally
+    during repairs.  This can be seen in the following sources:  1. [Ford-Model-
+    T-Man-1919-ocr.pdf](https://example.com/1) 2. [Ford-Model-T-
+    Man-1919-ocr.pdf](https://example.com/2) 3. [Ford-Model-T-
+    Man-1919-ocr.pdf](https://example.com/3)  The Ford splash system is used for
+    both the engine and transmission, while the generator gets its oil through
+    splashing from the time gears. An oil cup is also mentioned as being present
+    at the end of the generator housing, requiring occasional application of a
+    few drops of oil during repairs.   It's important to note that this
+    information pertains specifically to the Model T automobile, not any modern
+    version. The Ford splash system was designed for early automobiles like the
+    Model T and continues to be used today in some vintage vehicles. However, if
+    you're looking for current recommendations, you might want to consult more
+    recent automotive manuals or manufacturer guidelines. The context provided
+    here focuses solely on the historical details related to oiling practices
+    for the Model T.
+
+  ── B: openai/gpt-4o  (no RAG, 2.88s) ──
+    For a Ford Model T engine, it's generally recommended to use a non-detergent
+    SAE 30 motor oil. The Model T was designed before modern detergent oils were
+    developed, and using non-detergent oil helps to prevent sludge and deposits
+    from being dislodged and circulating through the engine. However, some
+    owners of Model T vehicles today do use modern oils, but they ensure regular
+    maintenance and cleaning of the engine. Always check with a specialist or a
+    Model T club for the most current recommendations and practices.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+  CORPUS: Congressional Record
+================================================================================
+
+  Q5  [Congressional Record]
+  QUESTION: What did Mr. Flood have to say about Mayor David Black in Congress on January 13, 2026?
+
+  ── A: Qwen 2.5 1.5B + RAG (6.89s) ──
+  Sources: CREC-2026-01-13.pdf (score=0.632)  |  CREC-2026-01-13.pdf (score=0.608)  |  CREC-2026-01-20.pdf (score=0.594)
+    In the given text, Mr. Flood recognized Mayor David Black as a "paragon of
+    public service" and stated that he would not seek reelection after nearly 5
+    additional years of serving the city in other roles. Specifically, Mr. Flood
+    said:  "The SPEAKER pro tempore. The Chair now recognizes the gentleman from
+    Nebraska, Mr. FLOOD, for 5 minutes."   He then proceeded to discuss how
+    Mayor Black guided the city into becoming an economic hub and highlighted
+    his dedication to public service over many years. The recognition emphasized
+    Black's contributions to the city and his commitment to serving the
+    community. Therefore, based on this passage, Mr. Flood commended Mayor David
+    Black for his outstanding public service and noted his long-term involvement
+    in local governance.
+
+  ── B: openai/gpt-4o  (no RAG, 0.93s) ──
+    I'm sorry, but I don't have any information on events or statements from
+    January 13, 2026, as my training only includes data up to October 2023.
+    Therefore, I can't provide details on what Mr. Flood might have said about
+    Mayor David Black on that date.
+
+--------------------------------------------------------------------------------
+
+  Q6  [Congressional Record]
+  QUESTION: What mistake did Elise Stefanik make in Congress on January 23, 2026?
+
+  ── A: Qwen 2.5 1.5B + RAG (12.39s) ──
+  Sources: CREC-2026-01-22.pdf (score=0.528)  |  CREC-2026-01-27.pdf (score=0.525)  |  CREC-2026-01-13.pdf (score=0.518)
+    Based on the given sources, there is no mention of Elise Stefanik making any
+    mistakes in Congress on January 23, 2026. The text only provides excerpts
+    from three different documents related to Senator DM Wilson's testimony, but
+    none of them discuss Stefanik's actions during that particular day.
+    Therefore, I cannot determine what mistake, if any, Elise Stefanik made in
+    Congress on January 23, 2026 based solely on the information provided.   To
+    provide more accurate information about Elise Stefanik's actions on that
+    date would require additional sources or clarification regarding her
+    attendance and participation in congressional proceedings. Without such
+    details, my knowledge base does not allow me to answer this question
+    definitively. Thus, the correct response is:  Elise Stefanik did not make
+    any mistake in Congress on January 23, 2026 as per the available
+    information. To find out exactly what happened, further research would be
+    necessary. [Sources: CREC-2026-01-22.pdf, CREC-2026-01-27.pdf,
+    CREC-2026-01-13.pdf, CREC-2026-01-28.pdf, CREC-2026-01-30.pdf]
+
+  ── B: openai/gpt-4o  (no RAG, 0.78s) ──
+    I'm sorry, but I don't have any information on events or actions taken by
+    Elise Stefanik or any other individuals in Congress on January 23, 2026, as
+    my training only includes data up to October 2023.
+
+--------------------------------------------------------------------------------
+
+  Q7  [Congressional Record]
+  QUESTION: What is the purpose of the Main Street Parity Act?
+
+  ── A: Qwen 2.5 1.5B + RAG (6.72s) ──
+  Sources: CREC-2026-01-20.pdf (score=0.683)  |  CREC-2026-01-20.pdf (score=0.584)  |  CREC-2026-01-20.pdf (score=0.560)
+    The purpose of the Main Street Parity Act is to modify the criteria for
+    loans for plant acquisition, construction, conversion or expansion, by
+    establishing an equity requirement at 10 percent. This act aims to bring
+    these loans in line with the 504 standardization programs set by the Small
+    Business Investment Act of 1958. The legislation seeks to provide Americans
+    across the country with a new opportunity to access financing through small
+    business investment companies. Additionally, the act requires small business
+    development centers to assist small business concerns with the use of
+    artificial intelligence. The passage states that this bill represents common
+    sense and provides clarity regarding loan eligibility standards. [Source:
+    CREC-2026-01-20.pdf]
+
+  ── B: openai/gpt-4o  (no RAG, 3.17s) ──
+    The Main Street Parity Act is a legislative proposal aimed at addressing the
+    disparity between online and brick-and-mortar retailers in terms of sales
+    tax collection. The purpose of the act is to create a level playing field by
+    allowing states to require online retailers to collect and remit sales
+    taxes, just as physical stores are required to do. This is intended to
+    support local businesses and ensure that all retailers, regardless of their
+    sales channel, are subject to the same tax obligations. By doing so, the act
+    seeks to eliminate the competitive advantage that online retailers may have
+    due to not collecting sales taxes, thereby supporting the vitality of main
+    street businesses.
+
+--------------------------------------------------------------------------------
+
+  Q8  [Congressional Record]
+  QUESTION: Who in Congress has spoken for and against funding of pregnancy centers?
+
+  ── A: Qwen 2.5 1.5B + RAG (8.33s) ──
+  Sources: CREC-2026-01-21.pdf (score=0.706)  |  CREC-2026-01-21.pdf (score=0.704)  |  CREC-2026-01-22.pdf (score=0.701)
+    The speaker has spoken both for and against funding of pregnancy centers.
+    Specifically, Mr. Speaker has called for supporting pregnant and parenting
+    women and families through legislation like the Supporting Pregnant and
+    Parenting Women and Families Act, while also expressing concern about
+    attacks on pregnancy care centers by Democrats. However, the document does
+    not provide clear evidence of any direct statements from individual members
+    of Congress regarding their stance on funding for such centers. Therefore,
+    based solely on the given text, we cannot definitively state who in Congress
+    has spoken specifically for or against funding of pregnancy centers.   To
+    determine an accurate answer, one would need additional sources or more
+    detailed records of congressional speeches and votes related to this topic.
+    The available documents only outline general positions taken by speakers but
+    do not specify individual member's views on funding issues. Thus, without
+    further information, it remains unclear whether any particular Member of
+    Congress has explicitly supported or opposed funding for pregnancy centers.
+
+  ── B: openai/gpt-4o  (no RAG, 4.48s) ──
+    In the U.S. Congress, discussions about funding pregnancy centers often fall
+    along partisan lines, with Republicans generally supporting funding for
+    these centers and Democrats often opposing it, especially when it comes to
+    centers that are perceived to provide misleading information or discourage
+    abortions.  **Support for Funding:** - **Republican Members:** Many
+    Republican members of Congress have spoken in favor of funding pregnancy
+    centers, emphasizing their role in providing support and alternatives to
+    abortion. They argue that these centers offer valuable services to pregnant
+    women, such as counseling, medical care, and material assistance.
+    **Opposition to Funding:** - **Democratic Members:** Many Democrats have
+    expressed opposition to funding pregnancy centers, particularly those that
+    are known as crisis pregnancy centers. Critics argue that some of these
+    centers provide misleading information about abortion and do not offer
+    comprehensive reproductive health services. They advocate for funding to be
+    directed towards organizations that provide a full range of reproductive
+    health services, including abortion.  Specific names of members who have
+    spoken for or against funding can vary over time as new bills are introduced
+    and debated. However, prominent figures in these discussions have included
+    members of committees related to health and human services, as well as those
+    who are vocal about reproductive rights issues.
+
+--------------------------------------------------------------------------------

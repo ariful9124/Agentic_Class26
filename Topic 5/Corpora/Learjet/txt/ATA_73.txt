@@ -1,0 +1,655 @@
+                @.
+       GATES LEARJET CORPORATION
+
+·111a•in1enan1e 111an11al
+
+    CHAPTER
+
+
+
+
+ENGINE FUEL &
+  CONTROL
+                                      Gates Learjet Corporation@)                            ·
+
+                        •ai■ll■il■II ■l■lill
+  Chapter                                                          Chapter
+  Section                                                          Section
+  Subject                     Page              Date               Subject                       Page            Date
+
+  73-Title
+•13-List of
+     Effective Pages              1           Aug 6/82
+• 73-Contents                     1           Aug 6/82
+  73-00;.00                       1           Dec 2/77
+  73-00-00                        2           Dec 2/77
+•73.31.00                        1            Aug 6/82
+•73.31.00                        2            Aug 6/82
+•73.31.00                      201            Aug 6/82
+•73.31~00                      202            Aug 6/82
+•73.31.01                      201            Aug 6/82
+·13-31-01                      202              Deleted
+ 73-31-02                      201            Dec 2/77
+ 73-31-02                      202           Dec 18/81
+·13-31-02                      203            Aug 6/82
+ 73-31-03                      201            Dec 2/77
+
+
+
+
+  Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+• Asterisk indicates pages revised, added or deleted by current revision.
+  The portion.of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                     73-LIST OF EFFECTIVE PAGES
+                                                                                                           Page 1
+NM-98                                                                                                   Aug 6/82
+                                 Gates Learjet Corporation•
+                     ■ain11n1n11 ■1n111
+                                                                             Chapter
+                                                                             Section
+ Subject                                                                     Subject
+
+ GENERAL - DESCRIPTION AND OPERATION •.•••••••                               '13-00-00
+    General ••••••••••••••••••••.••••••••••                                  '13-00-00     l
+    Description • • . • ~ • • • • • • • • • • • • • • • • • • • • • • • •    '13-00-00     1
+ FUEL FLOW INDICATING - DESCRIPTION AND
+           OPERATION ~ • • • • • • • • • • • • . . • • • • • • • • •         '13-31-00
+    Desc rlption • • • • • • • • • • • • • • • • • • • • • • • • • • • • •   '13-31~00     1
+    Operation ••••••••••••••••••.•••••••••.••                                73-31-00      1
+    Fuel Flow Indicating ~ Maintenance Practices · • • • • • •
+           AdjustJnent/Test • • . • • • • • • • • • • • • • • • • • •
+    Fuel Flow Transmitter - Maintenance Practices • • • •
+                                                                             73-31-00
+                                                                             '13-31-00
+                                                                             '13-31-01
+                                                                                         201        I
+           Removal/Installation • • • • . • • • • • • • • • • • • • •        '13-31-01   201
+    Fuel Flow Indicator - Maintenance Practices • • • • ••                   '13-31-02
+           General •••••••••••••••••.••••.••••                               '13-31-02   201
+          ·Removal/Installation • • • • • . • • • • • • • • . • • • •        '13-31-02   201
+           AdjustJnent/Test • • • • • • • • • • • • • • • • • • • • •        '13-31-02   201
+    Fuel Flow Control Box - Maintenance Practices • • • •                    '13-31-03
+           General •••••••••••••••••••••••••••                               '13-31-03    201
+           Removal/Installation • • • • • • • • • • • • • • • • • • •        73-31-03     201
+
+
+
+
+                                                                                 '13 - CONTENTS
+                                                                                           Page 1
+MM-98                                                                                    Aug 6/82
+                                       ~
+                              GATES LEARJET CORPORATION
+
+
+                 ■ai■1ana■11a. ■an■al
+                 GENERAL - DESCRIPTION AND OPERATION
+
+1.   General
+     A. This chapter contains information pertaining to the fuel supply lines,
+         fuel pressure, fuel pressure relief and fuel flow indicating systems.
+     B. ·:for information pertaining to the fuel control, fuel manifold and fuel
+         nozzles, refer to Engine Maintenance Manual.
+
+2.   Description                                        -
+     A. Fuel is supplied to each engine from the fuel tank pumps, through the
+         fuel filters, and engine main fuel shutoff valves located in the tailcone
+         area. Fuel lines are routed from the tailcone area into the engine
+         pylons to the low pressure side of. the. dual element engine-driven
+        pumps mounted on the right forward side of the engine. The· low pres-
+         sure boost stage charges the positive displacement gear pump, which
+         in turn provides high pressure fuel to the fuel control. The fuel con-
+         trol is a hydromechanical unit mounted on the pump which provides a
+         positive shutoff of fuel° to the engine and automatically meters fuel to
+        the combustion chamber for different operating conditions such as
+         changes in power setting, ambient temperature, and pressure. The
+         fuel control also regulates fuel flow to the variable inlet vanes and
+         bleed valve ·actuator·s during transient and steady state engine opera-
+         tion. Fuel is routed to the combustion cha_mber from _the fuel control
+         and passes through the overspeed governor located at the forward·
+         centerline of the engine.· Engine overspeed-is prevented by bypassing
+         fuei' through the overspeed governor. · Fuel passes from the over-
+         speed governor to the flowmeter, located forward of the oi~ cooler,
+         and provides an electrical signal to the fuel flow indicator· on the in-
+         strument panel. Fuel passes from the flowmeter to the oil cooler
+         mounted in the recess of the oil tank and provides engine oil cooling.
+         A fuel line is connected from the oil cooler to the pressurizing and
+         drain valve located at the 6 o'clock position on the compressor case.
+         The pressurizing section of the valve maintains a back pressure on
+         the fuel control to insure proper fuel pressure on the fuel control
+         servos and variable inlet vanes and bleed valve servos during a low
+         fuel flow condition. Two fuel manifolds, connected to the pressuriz-
+         ing valve, distribute fuel to the flow dividers and fuel nozzles located
+         on the main frame of the· engine. The fuel nozzles provide the correct
+         spray pattern of metered fuel flow to the combustion chamber. The
+         drain section of the pressurizing and drain valve permits draining of
+         fuel from the nozzles and manifolds when the engine is shut down.
+         This fuel, on aircraft 25-186 and Subsequent and aircraft incorporating
+         AAK74-8, is drained into a collector tank at the forward side of the
+         starter-generator gearbox. The fuel drain collector tank is to be
+         drained into a suitable container after every third engine shutdown.
+
+
+EFFECTIVITY: ALL                                                        73-00-00
+                                                                          Page 1
+                                                                        Dec 2/77
+                                          ~
+                    •       GATES LEARJET CORPORATION       .
+
+            111a1■1a■a·■aa. ■a■:aal.
+     The collector tank drain valve is located adjacent to the nacelle cluster
+     drain opening. There are three additional filters in the fuel system.
+     The overspeed governor filter, mounted on a bracket attached to the
+     overspeed governor; the fuel pump filter, internally in the fuel pump
+     and the fuel control filter installed in the fuel control. A motive flow
+     line is connected to the high pressure side of the engine-driven pump.
+     When the motive flow control valve,Iocated in the tailcone area.,is
+     opened, high pressure fuel is directed through the jet pumps drawing
+     fuel from the tank.
+
+
+
+
+                            \tlRIABLE N.ET
+                            VANES all.Em
+           ENGIE             VALVE AC1\JATORS
+           PYLCII
+
+
+
+                                                                  FLOW CNmEA
+                                                                  ANO NOZZLE (12)
+
+
+
+
+                             FILTER
+
+
+
+                        ~ HIGH PRESS       =    LOW PRESS
+
+
+
+
+                        Engine Fuel System Schematic
+                                  Figure 1
+
+EFFECTIVITY: ALL                                                      73-00-00
+                                                                        Page 2
+                                                                      Dec 2/77
+                                    ~ s Learjet Corporation•
+                     ■ain1enaa111 ·■anaal
+
+                                                                                                  I
+               FUEL FLOW INDICATING - DESCRIPTION AND OPERATION·
+
+1.      Description
+        A.   The engine fuel fl.ow indicating system consists of a fuel fl.ow transmitter
+             located on each engine, a fuel monitor printed circuit board located in the
+             fuel control box in the tailcone, a fuel fl.ow indicator located on the instrument
+             panel. The system is powered by 28 vdc supplied through a 20-ampere
+             current limiter.
+
+2.      Operation (See figure 1.)               .
+        A.   The transmitters measure fuel fl.ow by means of a rotor-turbine assembly. in
+             each engine fuel line. A~ increase or decrease in fuel fi'ow causes the rotor-
+             turbine assembly speed to increase or decrease. A pickup coil sensing
+             device converts aliy change in electromagnetic flux, caused by the rotating
+             rotor-turbine assembly, into alternating voltage. . This ·alternating voltage
+             is applied to the fuel monitoring· circuit and converted into DC electrical
+             signals. On Aircraft 25-061 2 25-070 thru 25-230, the nc·electrical signals
+             are applied to. the single pointer· fuel. fl.ow indicator through a switch labeled
+             Land R. On Aircraft 25-231 and Subsequent, the DC electrical signals are
+             applied to a dual pointer fuel fl.ow indicator. In addition, these electrical
+             signals are applied to the fuel counter system, when installed.
+
+
+                  r;;,.;7e;.;-;~F~-J··
+                  ITRANSMITTER
+                   73-31·01
+                  L--~--
+                                                    8          tlr;5-;.;E-.L -
+                                                                   MONITOR
+                                                - - - - - - - - - 73·31·03
+                                                                                 .•
+
+
+
+
+                  r-------,
+                  II MS /O'i1
+                        FUEL FLOW               1
+                                                                  . ,e:-- :
+                     INDICATOR        ~                                   -
+
+                  I .               L'ENG   r1                    •li-4
+                  I SELECTOR                .._ I                            I
+                  I SWITCH             a--:=:--'                             I
+                  I EIOO FUEL       R ENG   ~                          ·,.c--1
+                  I FLOW IND.
+                  I ~- SW ASSY
+                  ~:.:!.:o~ _ _ _ J
+                                            "(_I -
+                                                          '""F~i.      .._
+
+
+
+                  rl   -;=~N-;;R--r-)_1__,.___Jt-'IOA     F_U_EL_FL_ow
+                                                                     _ _.... l
+                   E124                         I    I•
+                  I FUEL CON~!!!:_ -        _J                               I
+
+                  L_____ 8
+                  f MTaR,mF"un;&;;--J
+                  1
+                   TRANSMITTER
+                    73·31-01         1-t-t--------t-1-1
+                                                                       ~---- - ~ J
+                                Aircraft 25-061 and ·25-070 thru 25-106
+
+                              Fuel Flow Electrical Control Schematic
+                                     Figure 1 (Sheet 1 of 2)
+
+EFFECTMTY: NOTED                                                                      73-31-00
+NM-98
+                                                                                        Page 1
+                                                                                      Aug 6/82
+                                    Gates Learjet Corporation@
+                  ■ai■lenanae .■anaa1.
+          r;TTLEnFUEL~-J
+           TRANSMITTER
+          I 73-31-01
+                                                         g                 ~ E55 FUEL
+                                                                                            ,----,I
+                                                     ......,~-----....,;i_...,.
+          L-----                                                                MONITOR
+                                                                                                73-31-C>3    I
+          r
+          I
+            ----  ~
+               (o'i)
+                MS FUEL FLOW
+                                                                                     ~
+                                                                                      :
+                                                                                                             I
+          I     INDICATOR           \Q;,            :                       I   I~
+          I                .       LENG           ,CT;l                         f"I7
+          I       SELECTOR               U:-T"""""'""'"""~'-.J~--------=;.µ...e
+          I SW1TCH                                   I
+                                         Qi--""""-----.....0-------___;;,,__a
+          I EIOO FUEL              R ENG          LL.::(
+          I FLOW IND.                             ~ I """
+          I a sw Assv                .            LJ_)'                              -..J
+
+
+
+
+                                                  "'~
+          I 73-31-02
+          ~-----J
+          r-----7
+          I E124 FUEL COUNTER (o',-}
+          ~~~L.!!!;_ ~ , -
+                         ....
+                                            -.--,--------1
+                                                  .a::u~tFLOW
+                                                             II
+                                                                                            1
+
+                                                                                            1
+
+                                                                                            I
+
+                                           J2
+                          --41
+                                                                                            I
+          I MT8 RIGHTFUELFLOW
+            TRANSMIITTER
+          IL73-31-01
+                ----                                 ---------
+                                                              f!L                    ~
+                                                                                                  ____ _J.
+
+                                          Aircraft 25-107 thru 25-230
+
+
+
+
+          ~';7m,~~
+          I    :rRANSMrTTER
+               73~31-01
+                                         -J          - -
+                                                         ~                                  r;..-;-- -- -7I
+                                                                                     ~ FUEL MONITOR
+                                                     l - - f - ~ - - - - - ~ , - 1 73•31•03
+
+          I                ---
+                                                                      n3o                                    II
+          ~-;c;~;LMW--;;;,--,
+                                                     I                                .-f
+          II
+               13-31-02
+                 L ENG FUEL
+                 FLOW INDICATOR     ~i...-----
+                                                                    FUEL FLOW
+                                                     --+--------'-v.........
+                                                     1
+                                                                                     ,.l. :                  II
+          1
+          1      R ENG FUEL
+                 FLOW INDICATOR
+                                                                                                             II
+          L------'                                                              •I                           I
+          r1 ~~~((»-,                                                                                        I
+               E124
+          ~E~,!2-!!!!:. -
+                                   ~
+                                          -        ~
+                                                     I     II   I
+                                                                                            I                I
+          luTe;;;-,;--J                                      ~
+                                                     ~~-----~~L                                             JI
+           T~~~    31-01
+
+                      -----
+                                              .      2                                             ---
+                                    Aircraft 25-231 and SUbseguent
+
+                               Fuel· Flow Electrical Control Schematic
+                                       Figure 1 (Sheet 2 of 2)
+
+EFFECTIVITY: NOTED                                                                                                73-31-00
+                                                                                                                    Page2
+MM-98                                                                                                             Aug 6/82
+                                   Gates Learjet Corporation•
+                          •aln11nan111 •anaal·
+                        FUEL FLOW INDICATING - MAINTENANCE PRACTICES
+
+    1.      Adjustment/Test          .   .
+            A.   Functionally Test Fuel Flow Indicating System with Dual Pointer Indicator
+                 (See figure 201.)            ·       ·            ·
+                 (1)    Tools and Equipmen~
+
+                         NOTE:    Equivalent substitutes can be used in lieu of the following.
+
+         NAME                  NU:MBER                  MANUFACTURER                     USE
+
+     Audio Oscillator            200 C-D                 Hewlett-Packard           Simulate fuel
+                                                                                      flow.
+
+     Voltmeter                   400 D                   Hewlett-Packard           Monitor voltage
+                                                                                     of audio
+                                                                                     oscillator.
+
+
+                 (2)     Remove engine lower nacelle from LH and RH engines.
+                 (3)     Disconnect electrical connector from each fuel flow transmitter.
+                 (4)     Connect one lead from audio oscillator to pin A of LH and RH
+                         connectors.
+~                 (5)    Connect one lead from audio oscillator to pin B of LH and RH
+                         connectors.
+                  (6)    Connect.voltmeter so as to monitor voltage supplied by audio
+                         oscillator.
+                  (7)    Apply 28 vdc to aircraft.
+                  (8)    Adjust audio oscillator to frequency and voltage as shown in figure 201
+                         and check LH and RH fuel fl.ow pointers at·same time for indication
+                         shown ±5 percent. Difference in fuel fl.ow between left and right shall ·
+                         not exceed 50 pounds. .           .
+
+            FREQUENCY                         VOLTAGE                          INDICATION
+
+              36 HZ                             1.0 V                            1000 pounds
+              53 HZ                             1.0 V                            1500 pounds
+              71 HZ                             1.0 V                            2000 pounds
+             106 HZ                             1.0 V                            3000 pounds
+
+
+
+
+                                  Fuel Flow Indica1ing System Test
+                                              Figure 201
+
+    EFFECTIVITY: 25-231 AND SUBSEQUENT                                                   73-31-00
+    MM-98
+                                                                                         Page 201
+                                                                                         Aug 6/82
+                           Gates Learjet Corporation•
+                ■a111en111e ■anaal ·.•
+         (9)    Remove electrical power from aircraft.
+        (10)    Disconnect test equipment.
+        (11)    If indications did not fall within stated tolerances, check continuity of
+                wiring. When wiring· is correct perform Functional Test of Dual
+                Pointer Fuel Flow Indicator. (Refer to 73-3°1-02.)
+        (12).   Connect electrical connector to each fuel fl.ow transmitter and install
+                safety wire.
+        (13)    Install engine lower nacelle on each engine.
+
+
+
+
+                                                                                            ~
+EFFECTIVITY: 25-231 AND SUBSEQUENT                                               73-31-00
+                                                                                 Page 202
+MM-98                                                                            Aug 6/82
+                              Gates Learjet Corporation•
+                    ■ain11nan11 ■an■al
+               FUEL FLOW TRANSMITTER - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+        A.  Remove Fuel Flow Transmitter (See figure 201.)
+            (1)   Remove engine lower nacelle.
+            (2)    Place suitable container under transmitter to catch any fuel in lines.
+            (3)   Disconnect fuel lines from transmitter.
+            (4)    Disconnect electrical connector from transmitter.
+            (5)   Remove attaching parts and transmitter from engine.
+        B.  Install Fuel Flow Transmitter (See figure 201.)
+            (1)    Use new 0-li.ng when installing transmitter.
+            (2)    Install transmitter and 0-rings on engine. Secure with attaching bolts
+                   and nuts. Torque nuts 20 to 25 inch-pollllds.
+            (3)    Connect electrical connector to transmitter.
+            (4)    Install engine lower nacelle.
+
+
+
+
+                                                        Transmitter
+                                                        Elbow
+
+
+
+                         Fuel Flow
+                         Transmitter
+
+                                                         Electrical
+                                                         Connector
+
+
+                        Nut (Torque
+                        20 to 25 Inch-
+                        Pounds)
+
+
+                                          ~~~-Transmitter
+                                                 Mounting Bracket
+
+                                                 Nut (Torque 20 to 25
+                                                 Inch-Pounds)
+
+                         Fuel Flow Transmitter Installation
+                                      Figure 201
+
+EFFECTIVITY: ALL                                                                 '13-31~01
+                                                                                 Page 201
+MM-98
+                                                                                 Aug 6/82
+                                                  ~
+                                •        GA1ES LEARJET CORPORATION   .
+
+                         ■a1■11aaa11 ■aa11al
+                       FUEL FLOW INDICATOR - MAINTENANCE PRACTICES
+
+1.   General
+     A.   The fuel flow indicator is installed in the engine instrument panel. The indi-
+          cator shows fuel flow in lbs/hr x 1,000.
+     B.   On Aircraft 25-061 and 25-070 thru ~5-230, the indicator is a single pointer
+          instrument. The indicator will read fuel flow of either the right engine or
+          the left engine by setting the switch adjacent to the indicator to either R or L.
+     C.   On Aircraft 25-231 and Subsequent, the indicator is a dual pointer instrument.
+          The po~ters are labeled L and R and indicate fuel flow of the respective
+          engine.
+
+2.       Removal/Installation
+
+         NOTE:       The indicator is secured by a clamp which incorporates a self-tightening
+                     action. One screw holds the clamp to the panel, while the remaining
+                     screw tightens the clamp.
+
+         A.   Remove Fuel Flow Indicator
+              (1)   Loosen screw and clamp.
+              (2)   Pull indicator from panel.
+              (3)   Disconnect electrical plug.
+         B.   Install Fuel Flow Indicator
+              (1) · Connect electrical plug to indicator.
+              (2)   Position indicator in panel._
+              (3)    Secure indicator by tightening clamp screw.
+
+3.       Adjustment/Test
+         A.   Calibrate Fuel Flow Indicator (Aircraft 25-070 thru 25-230) (See figure 201)
+
+               NOTE:       On Aircraft 25-061 and 25-070 thru 25-119, the indicator assembly
+                           has a resistor and jumper wire between points A and B. On Aircraft
+                           25-120 thru 25-230, the resistor and jumper have been deleted and
+                           indicator adjustment is accomplished by adjusting the potentiometer.
+
+               (1)      Apply a voltage of 1.19 vdc across terminals P354-B(+) and P354-A(-).
+               (2)      Adjust potentiometer to obtain full scale deflection on the indicator •.
+
+                        NOTE:       If, on Aircraft 25-070 thru 25-119, full scale deflection
+                                    cannot be obtained, clip the jumper wire (A-B) and repeat
+                                    steps (1) and (2).
+                                    Replace indicators which will not adjust for full scale
+                                    deflection.
+
+
+
+
+EFFECTIVITY: ALL                                                                        73-31-02
+ MM-98
+                                                                                        Page 201
+                                                                                        Dec 2/77
+                                        ~
+                     •         GATES LEARJET CORPORATION
+
+             ■a1nI-1-nan■-1 . ■a-naal
+
+                                                    Potentiometer
+
+
+
+
+                    Terminal
+                    P354-B
+                                  *Jwnper (As required
+                                    by adjustment)
+
+        *   Resistor and Jumper effective 25-070 thru 25-119 only.
+                             Aircraft 25-070 thru 25-230
+
+
+
+
+I
+
+                          Aircraft 25-231 and Subsequent
+
+
+
+
+                         Fuel Flow Indicator Adjustment
+                                   Figure 201
+
+EFFECTIVITY: ALL                                                      73-31-02
+                                                                      Page 202
+MM-98
+                                                                     Dec 18/81
+                          Gates Learjet Corporation@
+              ■ain1enan1■ ■anual
+   B.   Functional Test of Dual Pointer Fuel Flow Indicator (Aircraft 25-231 and
+        Subsequent) (See figures 201 and 202.)
+                                                                                          I
+        (1)  Remove fuel flow indicator from Instrument panel. (Refer to Removal/
+             Installation. )
+        (2)  Connect negative(-) power supply (voltage regulated power supply
+             capable of 0.0 to 1.20 vdc) lead to J484-B and positive(+) lead to
+             J-484-A.
+        (3)  Apply current to indicator per figure 202, check indication, and record
+              readings.                                       ·
+        (4)   Connect negative(-) power supply lead to J484-D and positive(+) lead
+             to J484-C.                                                 .
+        (5)  Repeat step (3).
+        (6)  If indicator readings are not within figure 202 tolerances, replace
+             indicator.
+
+             NOTE:      No adjustment of the dual pointer fuel flow indicator is
+                        allowed.
+                                                                                          I
+FUEL FLOW        APPLIED                     INDICATOR READINGS
+ INDICATOR      MICROAMPS         REQD               TOLERANCE         ACTUAL
+                   (uA)           LBS        MINIMUM LBS · MAXIMUM LBS   LBS
+
+ L Pointer        167              500          460                540             ----
+                  333             1000          960               1040             ----
+                  500             1500         1460               1540             ----
+                  667             2000         1960               2040             ----
+                 1000             3000         2940               3060             ----
+ R Pointer        167              500          460                540             ----
+                  333             1000          960               1040             ----
+                  500             1500         1460               1540             ----
+                  667             2000         1960               2040             ----
+                 1000             3000         2940               3060             ----
+                           Fu.el Flow Indicator Tolerance
+                                    Figure 202
+
+
+
+
+EFFECTIVITY: ALL                                                              73-31-02
+                                                                              Page 203
+NN-98
+                                                                              Aug 6/82
+                                      ~
+                             GATES LEARJET CORPORATION
+
+                ■ai■1e■a■1e ■a■aal
+          FUEL FLOW CONTROL BOX - MAINTENANCE PRACTICES
+
+1.   General
+     A. The fuel control box is located on the lower side of the RH electrical
+        equipment tray in the tailcone. The control box houses the fuel moni-
+        tor printed circuit board.
+
+2.   Removal/Installation
+     A. Remove Fuel Control Box
+          (1) Lower tailcone access door.
+          (2) Disconnect electrical plug from box. .
+          (3) Remove attaching parts and box from panel.
+          (4) Remove cover from box.
+          (5) Remove printed circuit board from box.
+     B.   Install Fuel Control Box
+          (1) Insert printed circuit board in box.
+          (2) Install cover and secure with attaching parts.
+          (3) Install box on RH electrical equipment tray and secure with
+               attaching parts.
+          (4) Connect electrical plug to box.
+          (5) Raise and secure tailcone access door.
+
+
+
+
+EFFECTIVITY: ALL                                                       73-31-03
+                                                                       Page 201
+                                                                       Dec 2/77
+

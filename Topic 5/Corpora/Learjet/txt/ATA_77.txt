@@ -1,0 +1,969 @@
+             @.
+   ■ain1iiiiii RAiian11al .
+                  0
+
+
+
+
+       CHAPTER
+
+
+
+
+· ENGINE IND.ICATIN·G
+                                             Gates Learjet Corporation~                          _ ..
+
+~
+                               ■ainlenanae · ■an11al
+      Chapter                                                       Chapter
+      Section                                                       Section
+    . Subject                    Page              Date             Subject                     Page              Date
+
+       77-Title
+     •77-List of
+          Effective Pages            1            Dec 10/82
+     • 7i-Contents                   1            Dec 10/82
+       77-00-00                      1             Dec 2/77
+       77-10-00                      l             Dec 2/77
+       77-10-00                      2             Dec 2/77
+     ·11-11-00                     201            Dec 10/82
+     ·11-11-00                     202               Deleted
+       77-12-00                    201             Dec 2/77
+     ·11-12-00                     202            Dec 10/82
+     ·11-12-00                     203            Dec 10/82
+       77-20-00                      l             Dec 2/77
+       77-20-01                    201             Dec 2/77
+       77-20-01                    202             Dec 2/77
+     ·77-31-00                       l            Dec 10/82
+     ·77-31-00                       2            Dec 10/82
+     ·77-31-00 .                   201            Dec 10/82
+     ·77-31-00                     202               Deleted
+     ·77-31-00                     203               Deleted
+~
+     ·77-31-00                     204               Deleted
+     ·77-31-01                     201            Dec 10/82
+     ·77-31-01                     202            Dec 10/82
+     ·77-31-01                     203            Dec 10/82
+     ·77-31-02                     201            Dec 10/82
+     ·77-31-02                     202            Dec 10/82
+     ·11-31-02                     203            Dec 10/82
+
+
+
+
+      Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+    • Asterisk indicates pages revised. added or deleted by current revision.
+      The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                           77-LIST OF EFFECTIVE PAGES
+                                                                                                                 Page 1
+                                                                                                             Dec 10/82
+                          .       Gates Learjet Corporation@
+                      mainlenanae man.11al
+                                                                                 Chapter
+                                                                                 Section
+Subject                                                                          Subject
+
+GENERAL                                                                          77-00-00
+   General •.•••••••.••••••••••••••••••••.•••                                    77-00-00       1
+POWER • . ..••••••.•••••.••••••••.•••••••••••                                    77-10-00
+   General •••••••••••••••••••.••••••.•••••••                                    77-10-00       1
+   Operation.••••••.••••••••••••••••••••••••••                                   77-10-00       1
+   Engine Tachometer System - Maintenance Practices ••••                         77-11-00
+      Removal/Installation ••••••••.•••••••.••••••                               77-11-00     201
+   Engine Pressure Ratio System - Maintenance Practices ••                       77-12-00
+     General ••••••••••••••••••.•••••••.•.•••                                    77-12-00     201
+     Removal/Installation •••••••.•.•••••••••••••                                77-12-00     201
+TEMPERA.T"URE • • • • • • • • • • • • • • • • • • • • • • • • • • • . • • •      77-20-00
+   Genera.I •••••.•..•.•..•••••••••••.•.•.••••                                   77-20-00       1
+   Operation ••••••••.•••••••••.••••••••••••••                                   77-20-00       1
+   Thermocouple Spool Assembly - Maintenance Practices • .                       77-20-01
+     General •••.•••••••••••• ·••••••••••••• ~ ..                                77-20-01     201
+      Removal/Installation ••••••.••••••••••••••••                               77-20-01     201
+      Adjustment/Test • • • •.•••..•.••••••••••••.•                              77-20-01
+ENGINE STALL WARNING SYSTEM- DESCRIPTION AND
+   OPERATION •••.•••.•••..• · ••••••••••.••••.•                                  77-31-00
+   Description •••••••••••••••••••••••••....••                                   77-31-00       1
+   Operation • . . • • • . • • • • . • • . • . • . . • • . • . • • • . . . . •   77-31-00       1
+   Engine Stall Warning System - Maintenance Practices •••                       77-31-00
+     Inspection/ Check • • • • • • • • • • • • • • • • . • . . • • • . • •       77-31-00     201
+   Engine Stall Warning Box Assembly ••••••••.••.•••                             77-31-01
+      Removal/Installation • • . • • • • • • • • • • • • • • • • • • • •         77-31-01     201
+      Adjustment/Test ••••••.•••••.•••.•••••.•.•                                 77-31~01     201
+
+
+
+
+                                                                                      77 - CONTENTS
+                                                                                               Page 1
+~M-98
+                                                                                            Dec 10/82
+                                     ~
+                            GATES LEARJET CORPORATION
+
+                ■ain1enan1e ■anaal
+                GENERAL - DESCRIPTION AND OPERATION
+
+1.   General
+     A. Each engine is equipped with individual Exhaust Gas temperature
+          (EGT), Engine Pressure Ratio (EPR) and an engine tach (% rpm)
+          systems.
+     B.   The indicating systems provide the crew members with visual indi-
+          cations of engine operation at all times.
+     C.   An engine synchronizer system is installed as optional equipment.
+
+
+
+
+EFFECTIVITY: ALL                                                    77-00-00
+                                                                      Page 1
+                                                                    Dec 2/77
+                                        @
+                               GATES LEARJET CORPORATION           .
+
+                ■ainlananaa ·■an■al
+                  POWER - DESCRIPTION AND OPERATION
+
+1.      General
+        A. The engine tachometer system consists of a tachometer generator,
+                  mounted on the rear of each engine-driven lube pump housing, and
+.... -·· ..... -- the tachometer indicators on the instrument panel.
+         B. · The pressure ratio indicating system provides engine pressure ratio
+                  readings to the pilot. The system for each engine consists of engine
+                  exhaust inlet probes in the -engine tailcone, a transducer in the aft
+                  fuselage, an EPR indicator on the instrument panel, and the pitot air
+                  pressure source.
+
+2.   Operation        .. .
+     A.   Engine rotation· ·operates the three-phase AC tachometer generator
+          which generates power to operate the tachometer indicators. Each
+          indicator is a synchronous motor operating a magnetic drag element
+          coupled by two pointers. The pointers indicate the synchronous
+          motor speed and therefore the engine rpm. Dial markings are based
+          on percent of maximum allowable engine speed. The large dial is
+          graduated in 2% increments from 0% to 100%; the small dial is grad-
+          uated in 1%increments from 0% to 10%. Using the small dial for the
+          last 10%, the maximum indicator reading is 110%. No adjustment
+          should be attempted. In case of malfunction, replace defective com-
+          ponent.
+     B. · The transducer sense~ engine exhaust pressure (PT5) and pitot inlet
+          air pressure (PT2). The ratio of these two pressures is amplified
+          within the transducer with the resultant electrical .signal being applied
+          to the EPR indicator. System power is 115 vac, 400 cycles, supplied
+          through a circuit breaker. No system adjustment should be attempted.
+          In case of malfunction, replace defective component.
+
+
+
+
+EFFECTIVITY: ALL                                                              77-10-00
+                                                                                Page 1
+                                                                              Dec 2/77
+                                                     ~
+                           •        GAlES L.EAR.iET CORPORATION
+
+
+               ··-······ ••■-1'.·
+                     r----7
+                     I
+                     Pl7   I ,.    ,.
+                                   PT -·
+r-,;_---n~----·---r;i~
+lun.....,. •••) ·_ ••i
+                           ~  · ,· ,·,1T-;-~-;.--,I
+                         Q: al . I•            L&T                        lllllffSENEUlall
+L-...;.-'----.J..L             •lf---i~tJ .,.;._,?~.:J-11•            ... ~J.. _____ ....J
+                                           I ltlffltUIIINT CWfflR I
+                                           L------'
+                               Engine Tachometer Schematic
+
+
+
+
+                                  Engine EPR Schematic
+
+
+
+
+       Engine Tachometer & EPR Systems Electrical Control Schematic
+                              Figure 1
+
+EFFECTIVITY: ALL                                                                   77-10-00
+                                                                                     Page 2
+                                                                                   Dec 2/77
+                              Gates Learjet Corporation®
+                ■ain1enan1e ■anual
+          ENGINE TACHOMETER SYSTEM- :MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+     A.  Remove Tach Generator (See figure 201.)
+         (1)    Remove engine lower nacelle.
+         (2)    Disconnect electric~! connector from tachometer generator.
+         (3)    Remove attaching nuts and tachometer generator from aircraft.
+     B.  Install Tach Generator (See figure 201.)
+         (1)    Apply a coat of Mobil Grease No. 29 or Braycote 664S to shaft of
+                tachometer generator. Before installing tachometer generator, clean
+                fitting cavity in rear of lube pump housing.
+         (2)    Install tachometer generator and secure with nuts. Torque nuts 25 to
+                35 inch-pounds.
+         (3)    Connect electrical connector to tachometer generator.
+         (4)    Install engine lower nacelle.
+     C.  Remove Indicator
+         (1)   Remove avionics control heads as necessary to gain access to engine
+                tachometer indicator.
+         (2)    Disconnect electrical connector from indicator.
+         (3)    Lessen clamp and remove instrument from panel.
+     D.  Install Indicator
+         (1)   Install indicator in panel and secure with clamp and attaching parts.
+         (2)    Connect electrtcal connector to indicator.
+         (3)   Install avionics control heads.
+
+
+                        Engine Oil Tank /            .
+
+                                      7
+                  Nut (Torque 25 to ? 5
+                  Inch-Pounds)                 V
+                                                   L/:~~::"'
+                                                       _,,-~
+                                                            __/_
+                    .                                 .:<~~-~;r,.··.
+                                                         ' \.. . . /~      /
+                                           I                    ·~t~....   ~
+
+
+                                                         l
+                                     Si)                 \. -
+
+
+
+
+                             f(\'·_:                                       l
+                             ~                              .Monn~~
+
+
+
+                        L/                     Tachometer Generator
+                             Electrical Connector
+
+                        Engine Tachometer System Installation
+                                    Figure 201
+
+EFFECTIVITY: ALL                                                               77-11-00
+                                                                               Page 201
+                                                                               Dec 10/82
+                                    @
+                           GATES LEARJET CORPORATION
+
+               •ain1enan1e ■anual
+     ENGINE PRESSURE RATIO SYSTEM - MAINTENANCE PRACTICES
+1.   General
+     A. Maintenance practices consists of electrical checks and replacement
+        of defective components.
+
+2.   Removal/Installation
+     A. Remove Pressure Ratio Transducer (See figure 201)
+        (1) Lower Tailcone access doors and disconnect aircraft batteries.
+        (2) Disconnect and cap plumbing from transducer.
+        (3) Disconnect electrical plug from transducer.
+        ( 4) Remove attaching parts and transducer from aircraft.
+     B. Install Pressure Ratio Transducer (See figure 201)
+        (1) Install transducer and secure with attaching parts.
+        (2) Connect electrical plug to transducer.
+        (3) Remove caps from plumbing and connect plumbing to transducer.
+        (4) Connect aircraft batteries and secure tailcone access door.
+     C. Remove Indicator·
+        (1) Remove avionics control heads as necessary to gain access to
+             engine pressure ratio indicator.
+        (2) Disconnect electrical plug from indicator.
+        (3) Loosen and remove attaching parts and indicator from panel.
+     D. Install ·Indicator
+        (1) Install indicator and secure with attaching parts.
+        (2) Connect electrical plug to indicator.
+        (3) Install avionics control heads.
+
+
+
+
+EFFECTIVITY: ALL                                                    77-12-00
+                                                                    Page 201
+                                                                    Dec 2/77
+                                                ~
+                                 •    GATES. LEARJET CORPORATION
+
+                         ■a1nIana■■I! ■a■ual
+
+
+
+
+       Engine Exhaust Pressure
+       (PT5) ~H Engine
+
+
+
+
+                                                                               LH Engine Pressure
+                                                                               Ratio Transducer
+
+
+
+
+                                                        -~
+                                                             ~
+
+                                                                         " ' - - Drain Valve
+
+                                                               \     Engine Exhaust Pressure
+                                                                     (PT5) LH Engine
+Pitot Pressure
+(PT2) Source
+
+
+
+
+                  Engine Pressure Ratio System Components Installation
+                                Figure 201 (Sheet 1 of 2)
+
+   EFFECTIVITY: 25-0£51, :!:i-070 .\:,.:D ~t:HSEQCE:--IT whon
+ I
+                                                                                       77-12-00
+                (?quipp,~d wi1h [·~nll!-'lli:111 EPH Tr~n:::ducl;r                     Page ~02
+                                                                                      Dec 10/!:{2
+                                       @.
+                              GATES LEARJET CORPORATION
+
+
+                 ■ain11nan11 ■a■■al
+
+
+                                                                 RH Engine Pressure Ratio
+                                                                 Transducer
+
+
+
+
+    Engine Exhaust Pressure
+    (PT5 RH Engine)
+
+
+
+
+                                                                     \ _ L H Engine Pressure
+                                                                            Ratio Transducer
+                                                          ·@
+                                                               ··~
+                                                                     ~
+
+
+
+
+                                             Engine Exhuast P r e s s i
+                                             (PT5) LH Engine
+
+
+
+
+             Engine Pressure Ratio System Components Installation
+                         Figure 201 (Sheet 2 of2)
+
+EFFECTIVITY: 25-143 AND SUBSEQUENT when equipped
+             with Honeywell EPR Transducer
+                                                                                      77-12-00
+                                                                                      Page 203
+                                                                                                 I
+                                                                                     Dec 10/82
+                                         ~
+                               GATES LEARJET CORPORATION           .
+
+                main111nanI11 manual
+             TEMPERATURE - DESCRIPTION AND OPERATION
+
+1.   General
+     A. An identical exhaust gas temperature indicating system is installed
+        for each engine. Each system consists of an exhaust gas tempera-
+        ture indicator, a thermocouple spool resistor, and eight harness-
+         mounted bayonet-type chromel-alumel thermocouples. The thermo-
+        couples are mounted at two different immersion depths in the engine
+        tailpipe. The resistors are located in the tailcone area.
+
+2.   Operation
+     A. The thermocouples, heated by the exhaust gases, generate a small
+         amount of voltage which is applied to the indicator by the chrome!
+         and alumel leads. The compensating resistor is located in the alumel
+         side of each circuit. The indicators· are sensitive millivoltmeters
+         with dials graduated in degrees Centigrade from 0° to 1000° C. They
+         provide the pilot with visual indications of the existing average temp-
+         erature within each tailpipe.
+
+
+
+
+ r..=:-n---..,...,..a~•" r-----,                                       "'°,-T~-----7
+ , naiocuu        i;i ~ -----------1-----~. . .Rt) c,:i--:~1------'VV-i----': ,:i ~PU
+ L _____J:L: - . : .               I    un•- I             '"    ... ~1, _ _ _ _ _ J
+                                                                                      ,
+                                   '1
+                                    _
+                                        INSTRUMENT    1
+                                        _ CL_USTE_R_ _J
+
+
+
+
+        Engine Exhaust Gas Temperature Electrical Control Schematic
+                                Figure 1
+
+EFFECTIVITY: ALL                                                               77-20-00
+                                                                                 Page 1
+                                                                               Dec 2/77
+                                             ~
+                        •     ·    GAlES LEARJET CDRPORA110N
+
+                 ■illRll!RilRII! ' ■an■al
+            THERMOCOUPLE SPOOL - MAINTENANCE PRACTICES
+
+1.   General
+     A. The thermocouple spool assembly contains two spools of constantan
+        wire (one is a spare); the other is adjusted to bring the exhaust gas
+        temperature system circuit resistance to a value of 8. 00 (±0. 05)
+        ohms. All wire connections to the thermocouple resistor spool are
+        silver soldered.
+     B. For maintenance on the thermocouple harness, refer to engine main-
+        tenance manual.
+
+2.   Removal/Installation
+     A. Remove Thermocouple Spool Assembly (See figure 201)
+          (1)  Lower tailcone access door and disconnect aircraft batteries..
+          (2)  Remove cover from thermocouple spool assembly.
+          (3)  Disconnect electrical wiring from terminal posts.
+          (4)  Remove attaching parts and remove assembly.
+     B.   Install Thermocouple Spool Assembly (See figure 201)
+          (1) Install thermocouple spool assembly and secure with attaching
+               parts.
+          ( 2) Connect electrical wiring to terminal posts.
+          (3) Install cover and secure with slip latches.
+          ( 4) Test the exhaust gas temperature circuit resistance.
+
+
+
+
+                                      Slip Latch
+                                                      Hydraulic Pan Assembly---
+                                                      (RH Side of Tailcone)
+
+
+
+                                     -cover
+Resistor Spool
+
+
+                 LH Installation                                    RH Installation
+
+
+
+
+                            Thermocouple Spool Installation
+                                    Figure 201
+
+EFFECTIVITY: ALL                                                                      77-20-01
+                                                                                      Page 201
+                                                                                      Dec 2/77
+                                    ~
+                     •     GATES LEARJET CORPORATION
+
+              ■a1n1enan■e .■ ana-al
+3.   Adjustment/Test
+     A. Resistance Test of Thermocouple Couple Spool
+         (1) When any element in the exhaust gas temperature indicating cir-
+             cuit is changed, or if -an engine is replaced, the exhaust gas
+             temperature circuit resistance must be tested and, if necessary,
+             adjusted. It is recommended that a Jetcal Analyzer be used for
+             testing. For required engine temperature versus engine rpm,
+             refer to Engine Operations Manual SEI-188.
+
+
+
+
+EJ?FECTIVITY: ALL                                                    77-20-01
+                                                                     Page 202
+                                                                     Dec 2/7-7
+                          Gates Learjet Corporation@
+                n1ai.n11nan11 -n1an11al
+        ENGINE STALL WARNING SYSTEM - DESCRIPTION AND OPERATION
+
+1.   Description (See figure 1. )
+     A.   The engine stall warning system consists of an engine stall warning box
+          assembly located in the nose wheel well.
+     B.   The engine stall warning box assembly consists of three (monitor, power,
+          and logic) printed circuit boards.
+     C.   The engine stall warning box assembly is connected electrically to the stall
+          warning computer, air data sensor, RH stick shaker, left and right AIR IGN
+          switches, and the ENG STALL WARN circuit breaker on the pilot's circuit
+                                                                                          I
+          breaker panel.
+
+2.   Operation (See figure 1.)
+     A.   The engine stall warning box assembly (power printed circuit board) re-
+          ceives electrical power through a 2 amp circuit breaker located on the
+          pilot's circuit breaker panel. The power printed circuit breaker distributes
+          electrical power to the logic and monitor printed circuit boards.
+     B.   The engine stall warning assembly (monitor printed circuit board) receives
+          electrical signals from the air data sensor. These signals represent altitude
+          and airspeed which are analyzed by the logic printed circuit board.
+     C.   Should the airspeed fall O. 02 Mach below the engine stall Mach limit for the
+          altitude of the aircraft, a signal is sent to the stall warning computer and
+          RH stick shaker. The stall warning computer and stick shaker physically
+          and visually alert the pilot of the impending engine stall (flame-out). The
+          R STALL and L STALL (on the glareshield warning light panei) flash, the
+          shaker/nudger system actuates, both air ignition lights (adjacent to each
+          Affi IGN Switch) illuminate, and power is provided to the engine ignitors.
+     D.   When either the airspeed is increased or the altitude is decreased, the
+          electrical signal is withdrawn from the stall warning computer and stick
+          shaker motor. The R STALL and L STALL warning annunciators extinguish,
+          shaker/nudger system deactivates, both air ignition lights extinguish, and
+          the engine ignitors deactivate.
+
+
+
+
+EFFECTIVITY: 25-342, 25-363 AND SUBSEQUENT AND 25-230 THRt;
+             25-341 AND 25-343 THRU 25-362 modified per Al\'ll(               77-31-001
+                                                                                Page 1
+MM-98        81-12 (Installation of Engine Stall \Varning Box and
+                                                                             Dec 10/82
+             Air Data Sensor)
+                                                      (.jates Learjet Lorporatm@
+
+                                  ■ainlenanae ■an■al
+  ~6~~CMANEL24-50-0I                              I
+  I                                               I
+  I           R ~ WARN                            I                                                                            I £68 COPILOTSCiBPNL7
+                                                                                                                                 24-50-01
+       28VOC 0
+  I          L AIR IGN                                                                                                         I      R AIR IGN            I
+  I . 28VDC ~J---------. .                                                                                                     I ~Q2evoc _JI
+                                                                                                                               L_ _  _
+  I               ---~
+  I £167 SWPNL~o.:00 ~
+  I L.s 11
+  I      IGN AIR
+                  OFF
+
+  I    SIC
+                            r   1---------+----------------1 RH AIR IGN PWR
+       R, IGN AIR                                                                                                                        AIR IGN SW
+  I               OFF                                                     27-31-00
+
+  II RH
+     S12                                          I                       22-10-00                        I
+       WARN SW ON c ,__ _ _ _ _I_ _ _,__
+         STALL
+                                                                               .-;;:" GLARESHIELD WARN--, I
+  L _ _ _ _ _.                                                                 I tiGHT PANEL 3H50-02    I
+                                                                                                                          II
+  1E31 smL ruN;;;;•~;,                                                            L St~--___J                                  I
+  127-31-00                                   J ~ - - - - , . . . . . - - + - - - - - - - - - - - - - - 1 R STALL COMP
+  I                                POWER      l
+  I                                               I
+                                  R WARN L T . . , . _ - - - - - - + - - - - - - - - - - - - . R WARN LT
+  I                                  SHAKER..,__ _ _ _-+_ _ _ _ _ _ _ _ _ ____. R STALL COMP
+
+  I                              SHAKER GND                                                                                        GNO- LH STALL WARN
+  I                     -----+--1 I I               II                                                                             GROUND
+
+  IL_ _ _ _L__
+            WARN LT ...,__ _ _ _ _ _ _ _ _ _ _ _ _ _ _                                                                    --t      L WARN LT
+
+                                                                                                   22~10-00
+  I E67 PILOTSC/8 PNL'74.'io-o17                                                E30 RH STICK                                       RH SHAKER
+  I       ENG STALL WARN                          I                             SHAKER MOTOR
+                                                                                27-31-00                                           GROUND
+
+  l,:evoc er¾__                          ......J                                                                               I+    2.BVOC
+
+
+         ;;;;ms;.;--,                                                                                                          I
+          31-02         ·                             I::::\
+                                   AIRSPEED ~,++-;._I          -------------t~--1 MACH
+  I                                 GROUND                                                                                         GNO
+
+
+  II                                                  l
+                                     GROUNDt---,,;++---------------t-1'-:--'
+                                    ALTITUDE 1 - - , 1 . . , . . : . . . - - - - - - - - - - - - - - t \ . ; : ; , , / - t - - - - - t ALTITUDE
+
+
+  '1                                  GROUND      i-Yl
+  I
+  L---~:_r-
+                                       28VOC
+                                                  l---- I      I
+
+                                                  I- r- 22-1 o-oo                                                              I~--------
+                                                                                                                                   E 587 ENGINE STALL
+                                                                                                                                 WARN BOX
+                                                                                                                               f 77-31-01                _J
+
+                                              Engine Stall Warning System Schematic
+                                                            Figure 1
+
+
+EFFECTIVITY: 25-342, 25-363 A?:D SUB~EQUENT AND 25-230 THRU                                                                                            77-31-00
+             25-341 AND 25-343 THRU 25-362 modified per AMK                                                                                              Page 2
+             Sl-12 (In~tallation of Engine Stall Warning Box and                                                                                      Dec 10/82
+             Air Dat:.i s,~nsor;
+                               Gates Learjet Corporation@
+
+                     ■.ainll!DilDII! ■ilRlill
+             ENGINE STALL WARNING SYSTEM - :MAINTENANCE PRACTICES
+
+    1.   Inspection/ Check
+         A.   Perform Engine Stall Warning Operational Check
+               (1)   Connect a pitot-static tester (Barfield 1811F or equivalent) to the
+                     pi tot static system.
+               (2)   Set BATTERY Switches to Land R.
+
+                     CAUTION: DO NOT EXCEED 5000 FEET PER :MINUTE RATE OF
+                              CLIMB. DAMAGE MAY OCCUR TO FLIGHT INSTRU-
+                              MENTS IF THIS LIMITATION IS NOT STRICTLY
+                              ADHERED TO.
+
+               (3)   Adjust pitot-static tester to simulate altitudes and corresponding air-
+                     speeds as indicated in figure 203.
+               (4)   At each altitude, engage autopilot and lower speed (indicated in figure
+                     203) by 0. 02 Mach. Verify the following:
+                     (a)   Both air ignition lights (adjacent to AIR IGN Switches) illuminate.
+                     (b)   Shaker/nudger system actuates.
+                     (c)   Both L STALL and R STALL annunciators flash simultaneously
+                           at a frequence of 2 Hz.
+                     (d)   Check and confirm that the control wheel master switches inter-
+~                          rupt nudger.
+
+                           NOTE:    Pull Land R AIR IGN circuit breakers after first stall
+                                    warning check, and reset both circuit breakers prior to
+                                    making final stall warning check. During first and final
+                                    checks, verify that ignitors operate by hearing ignitors
+                                    pop.
+
+               (5)   Using pitot-static tester, lower altitude by 600 feet. Verify the
+                     following:
+                     (a)    Air ignition lights (adjacent to AIR IGN Switches) extinguish.
+                     (b)    Shaker/nudger deactivates.
+                     (c)    R STALL and L STALL annunciators extinguish.
+               (6)   If the engine stall warning system does not comply with this test, ad-
+                     just the engine stall warning box assembly (refer to Adjustment/Test,
+                     step 3.) and repeat steps 2. A. (3) through 2. A. (6).
+
+                     CAUTION:      DO NOT EXCEED 500 FEET PER MINUTE RATE OF
+                                   DESCENT. DAMAGE MAY OCCUR TO FLIGHT IN-
+                                   STRUMENTS IF THIS LIMITATION IS NOT STRICTLY
+                                   ADHERED TO.
+
+               (7)   When test is completed, descend to local altitude. Remove pitot-static
+                     tester from the aircraft and restore aircraft to its original configuration.
+
+    E FFECTIVITY: 25-342, 25-363 AND SUBSEQUENT and prior                             77-31-00
+                  aircraft modified per AM.K 81-12 (Installution of                   Page 201
+                  Engine St~ll Warning Box and Air Data Sensor)                      Dec 10/:-32
+                           Gates Learjet Corporation@
+
+                  ■ain1enan11e ■an11al
+      ENGINE STALL WARNING BOX ASSEl\tIBLY - MAINTENANCE PRACTICES
+
+1.    Removal/Installation
+      A.  Remove Engine Stall Warning Box Assembly (See figure 201.)
+          (1)   Gain access to the engine stall wa~ng box assembly through the nose
+                wheel well.
+          (2)    Disconnect electrical connector from engine stall warning box
+                 assembly.
+          (3)   Remove attaching parts and remove engine stall warning box assembly.
+      B.  Install Engine Stall Warning Box Assembly (See figure 201.)
+          (1)    Position engine stall warning box assembly and secure with attaching
+                 parts.
+          (2)    Connect electrical connector to engine stall warning box assembly.
+          (3)    Perform engine stall warning Inspection/Check. (Refer to step 2.)
+      C.  Remove Printed Circuit Board (See figure 202.)
+           (1)   Remove engine stall warning box assembly. (Refer to step 1. A.)
+          (2)    Remove attaching parts and printed circuit boards (assembled to
+                 cover plate) from box assembly.
+           (3)   Remove attaching parts and cover plate from printed circuit boards.
+           (4)   Unplug and remove printed circuit board to be replaced.
+      D.  Install Printed Circuit Board (See figure 202.)
+           (1)   Carefully align printed circuit boards and plug the printed circuit
+                 boards into each other.
+           (2)   Secure printed circuit boards and cover plate together with attaching_
+                 parts.
+           (3)   Position printed circuit boards (assembled to cover plate) in the box
+                 assembly and secure with attaching parts.
+           (4)   Install engine stall warning box assembly. (Refer to step 1. B.)
+
+2.    Adjustment/Test
+      A.   Adjust Engine Stall Warning Box
+           (1)   Connect a pitot-static tester (Barfield 1811F or equivalent) to the pitot-
+                static system.
+           (2)   Set BATTERY Switches to Land R.
+           (3)  Remove guard from engine stall warning box assembly.
+
+                  CAUTION:.    DO NOT EXCEED 5000 FEET PER MINUTE RATE OF
+                               CLilVIB OR DESCENT. DAMAGE MAY OCCUR TO
+                               FLIGHT INSTRUMENTS IF THIS LIMITATION IS NOT
+                               STRICTLY ADHERED TO.
+
+            (4)   Adjust pitot-static tester to simulate 46,000 feet altitude and o. HS
+                  Mach airspeed. Using a multimeter, probe between pin 1 and pin 6 of
+                  the test receptacle. Adjust potentiometer R46 to attain a voltage read-
+                  ing of 9. 016 (±0. 005) volts.
+
+
+
+EFFECTIVITY: 25-342, 25-363 AND SUBSEQUENT and prior                             77-31-011
+             aircraft modified per Al.VIK 81-12 (Installation of                 Page 201
+~M-?S        Engine Stall Warning Box and Air Data Sensor)                      Dec 10/82
+                        .       .. yates. Learjet Corp0ration@
+                     - ■ainl_e·nanae ■al■al                ·
+              (5)    Probe between pin 1 and pin 8 of the test receptacle. Adjust potenti.o-           ~
+                    nieter R-1:9 to attain a voltage reading of 6. 50 (±0. 01) volts.
+             (6)    Adjust pitot-static tester to simulate 40,000 feet altitude and O. 52 Mach
+                    airspeed. Using a multimete.r, probe between pin 1 and pin 4 of the
+                    test receptacle. Adjust potentiometer R47 to attain a voltage reading
+                    of 7. 840 (±0. 005) volts.
+             (7)    Probe between pin 1 and pin 6 of the test receptacle. Adjust potentio-
+                    meter R50 to attain a vol'~age reading of 5.20 (:f:0. 01) volts.
+             (8)    Adjust pitot-static tester to simulate 32, _500 feet altitude and O. ~8
+                    Mach airspeed. Using a multimeter, probe. between pin 1 and pin 5 of
+                    the test receptacle. Adjust potentiometer R48 to attain a voltage
+                    reading of 6. 370 (±0. 005) volts.
+             (9)    Probe between pin 1 and pin 7 of the test receptacle. Adjust potentio-
+                    meter R51 to attain a voltage reading of 3.80 (±0.01) volts.
+            (10)    Remove multimeter leads from aircraft and install guard on engine
+                    stall warning box assembly.
+            (11)    Perform engine stall warning box operational check. (Refer to step 2.)
+
+
+                                                     WL17
+
+
+
+
+                                                      ~-
+       Engine Stall Warning
+                                                               ']'
+                                                                 ,,,
+                                                                     .,.,..------ ~
+
+       Box
+                                                                            ~ N o s e Wheel
+                                                                                 Well
+
+                                                                                Electrical Connector
+
+
+
+
+                                                         Detail A
+                        Engine Stall Warning Box Assembly Installation
+                                           Figure 201
+
+
+
+
+l~
+ E.,.•,F.·~-FECTIVITY: 25-3-12, 25-363 AND SCB:;EOUENT and prior
+  "' ..~               :1ircraft modified per .-\l\1K dl-12 (Installation of
+                       En!{ine Stall \\'arntng Box and Air Data Sensor)
+                                                                                            77-31-01
+                                                                                            Page 202
+                                                                                           Dec 10/82
+                                                          Gates Learjet Corporation@
+                                               •ainlenance •an■al
+                      ..:.-          ~   ..•
+                     '3'
+                     ,11.
+                              ;'\-
+                              if                                         Power PC Board
+       /:•A~:.\?·;,: •                                                  Monitor PC Board
+   1,/.
+  ;,!...... .... ·
+
+
+
+
+                                                                Guard                                         I
+                                                                                                  Connector
+
+
+
+
+                                                                              Detail A
+                                                Engine Stall Warning Box Assembly Exploded View
+                                                                                                              I
+                                                                   Figure 202
+
+            CAUTION:                            DO NOT EXCEED 5000 FEET PER MlNUTE RATE OF CLIMB
+                                                OR DESCENT.
+
+
+                                                ALTITUDE                        AIBSPEED
+                                                 FEET                            KNOTS
+                                               30,300 (±100)                   115 (+11, -3)
+                                               33, 000 (±100)                  130 (+10, -4)
+                                               35,300 (±100)                   129 (+11, -3)
+                                               36, 300 (±100)                  133 (+10, -3)
+
+
+
+                                                                                                              I
+                                               37, 300 (±100)                  136 (+10, -2)
+                                               38,300 (±100)                   139 (+10, -4)
+                                               39, 300 (±100)                  142 (+10, -2)
+                                               40, 300 (±100)                  151 (+ 9, -3)
+                                               41,300 (±100)                   154 (+ 9, -4)
+                                               42,300 (±100)                   156 (+ 9, -3)
+                                               43, 300 (±100)                  164 (+ 8, -3)
+                                               44,300 (±100)                   166 (+ 8, -3)
+                                               45,300 (±100)                   174 (+ 4, -2)
+                                               46. 300 (±100)                  170 (± 4)
+
+                            Engine Stall Warning Functional Test Altitude and Airspeed Table
+                                                      Figure 203
+
+
+E FFECTIVITY: 25-342, 25-363 AND SUBSEQUENT and prior                                                77-31-011
+              aircraft modified per AMK 81-12 (Installation of                                       Page 203
+              Engine Stall Warning Box and Air Data Sensor)                                         Dec 10/82
+                           Gates Learjet Corporation@
+
+                 •ainlenanae .•anaal
+1.
+                   AIB DATA SENSOR - MAINTENANCE PRACTICES
+
+     Removal/Installation
+                                                                                          I
+     A.  Remove Air Data Sensor (See figure 201.)
+         (1)   Remove electrical power from aircraft.
+         (2)   Remove nose compartment access doors.
+         (3)    Disconnect pitot and static lines from sensor. Cap all exposed lines.
+         (4)    Disconnect electrical connector from sensor.
+         (5)    Remove attaching parts and sensor from aircraft.
+     B.  Install Air Data Sensor (See figure 201.)
+         (1)    Install air data sensor and secure with attaching parts.
+         (2)    Remove caps from previously capped pitot and_ static sources. Connect
+                pitot and static hose assemblies to applicable fittings on sensor.
+         (3)    Connect electrical connector to sensor.
+         (4)    Perform leakage check of pitot and static lines.
+         (5)    ,tnstall nose compartment access doors.
+         (6)    Restore electrical power to aircraft.
+
+2.   Inspection/ Check
+     A.    Perform Pitot Leakage Check
+           (1)    Connect pitot-static tester to copilot's (RH) pitot system.
+
+                 CAUTION: APPLY ONLY PRESSURE (NOT VACUUM) TO THE PITOT
+                          SYSTEM. APPLY PRESSURE VERY SLOWLY UNTIL 80
+                          KNOTS IS REACHED; PRESSURE APPLICATION AFTER
+                          THIS POINT MUST NOT EXCEED 20 KNOTS PER SECOND.
+
+                 NOTE:    Refer to Chapter 34 for general pitot-static system mainte-
+                          nance practices.
+
+           (2)   Slowly apply pressure until copilot's airspeed indicator indicates 300
+                 knots. Rate of pressure increase shall not increase airspeed indicator
+                 in excess of 20 knots per second after 80 knots is reached.
+           (3)   Turn off pressure sealing system. System pressure shall not drop in
+                 excess of 5 knots in 5 minutes.
+
+                 CAUTION: DEPRESSURIZATION RATE SHALL NOT EXCEED 20
+                          KNOTS PER SECOND OR INSTRUMENT DAl\iAGE COULD
+                          RESULT.
+
+           (4)   Slowly release pressure from copilot's pitot system and remove pitot-
+                 static tester.
+
+
+
+
+EFFECTIVITY: 25-230 THRU 25-269, 25-271 modified per                            77-31-02
+             AMK 81-12 (Installation of Engine Stall                            Page 201
+~u,-t-9:J    Warning Box and Air Data Sensor)                                   Dec 10/82
+                           Gates Learjet Corporation@
+                 ■ai·n1-enan11e ■anaal
+
+
+
+
+     Altitude Pressure
+     Switch
+                                                                            A/P Altitude
+                                                                            Controller
+
+                Frame3\                                            Pitot
+                                                                   Drain
+
+
+                   Engine Stall----   -. •,,
+
+
+            . \El:8)
+      Frame 2      Warning Box                 ·· ·,
+
+
+
+
+                                                                           ----Drain
+                                                                                   Valve
+
+                                                       ·    Static Source
+
+                                                       Tee (Installed for test)
+
+
+                                   Air Data Sensor
+                                   (AE 127)
+
+
+
+
+                         Air Data Sensor System Installation
+14-130C-1                           Figure 201
+
+
+EFFECTIYITY: 25-230 THRU 25-239, 25-':!71 modified per                              77-31-02
+             .Ai\[K ~l-12 {Installation of Engine Stall                             Page 202
+             WD ming Box and Air Data Sensor)                                      Dec 10/82
+                          Gates Learjet Corporation@
+
+                ■ai■le■a■ce ■a■ual
+     B.   Perform Static L~akage Check.
+
+          CAUTION:     APPLY VACUUM TO SHOULDER STATIC PORTS, COPILOT'S
+                       (RH) PITOT SYSTEM AND TO COPILOT'S STATIC SYSTEM
+                       WHEN PERFORMING AIR DATA LEAKAGE CHECK.
+
+                       THE COPILOT'S PITOT SYSTEM IS COMMON TO BOTH THE
+                       AIB DATA SENSOR AND THE COPILOT"S INSTRUMENTS.
+                       THEREFORE, WITH THE APPL~CATION OF VACUUM AT THE
+                       THE PITOT SOURCE, A SEVERE PRESSURE DIFFERENTIAL
+                       COULD RESULT AND DAMAGE THE INSTRUMENTS.
+
+          (1)   Connect pitot-static tester to shoulder static ports, copilot's static
+                system, and copilot's pitot system.
+
+                CAUTION:     APPLY ONLY VACUUM (SUCTION) DURING THIS
+                             CHECK AND ASSURE THAT THE TEST SET CROSS-
+                             BLEED IS OPEN.
+
+          (2)   Apply vacuum until copilot's altimeter indicates 28,000 feet.
+          (3)   Turn off vacuum source, sealing system. Altimeter indication shall
+                not decrease more than 560 feet in one minute.
+          (4)   Slowly release vacuum and discollllect pitot-static tester from shoulder
+                static ports and copilot's pitot and static systems.
+
+
+
+
+EFFECTIVITY: 25-230 THRU 25-269, 25-271 modified per                             77-31-02
+             AMK 81-12 (Installation of Engine Stall                             Page 203
+MM-98
+             Warning Box and Air Data Sensor)                                   Dec l0/ij2
+

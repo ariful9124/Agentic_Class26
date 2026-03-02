@@ -1,0 +1,1084 @@
+            @.
+   ■ainliiinliPORAiianual
+
+
+       CHAPTER
+
+
+
+
+ELEC /ELCTNC PNLS &_
+MULTIPURPOSE PARTS
+                                                      ".J
+
+
+                                                                                                         \.                                                  (
+
+
+
+
+           . ·:.:-1
+
+
+
+
+           . ;~~.~:;                                                                   •'If:, "/:~..;·
+           ;·- .
+
+
+
+
+            '•     ....
+                                 -'.:'-~/-   '.:;,·
+                                                      <,-.~· ~j;. ~                                           ..........
+                          . '. ·..,..,j_·
+r,,·· •
+
+
+                          i. ~    .... .                                                                                                 '·. ;, ~   ·•
+
+
+                                                                                                                           l:• ••• •••
+
+
+                                                                               ,_:,·
+
+
+
+                                                                                                                                             ,•~         I
+
+
+
+
+                                                               ;:     . . ~,
+          ..,
+                                                Gates Learjet Corporation®
+
+
+\...,
+           Chapter
+           Section
+                                  ■11■11■1■11
+                                                                       Chapter.
+                                                                       Section
+                                                                               ••••••
+           Subject                    Page              Date           Subject                    Page              Date
+
+          39-Title
+         •39-List of
+             Effective Pages             1           Apr 30/82
+          39-Contents                    1           Dec 18/81
+          39-00-00                       1           Dec 18/81
+          39-00-00                     201           Dec 18/81
+          39-00-00                     202           Dec 18/81
+          39-00-00                     203           Dec 18/81
+          39-10-00                       1           Dec 18/Bl
+          39-10-00                       2           Dec 18/81
+          39-10-01                     201           Dec 18/81
+          39-10-02                     201           Dec 18/81
+          39-10-03                     201           Dec 18/81
+          39-10-04                     201           Dec.18/81
+          39-10-04                     202           Dec 18/81
+          39-10-05                     201           Dec 18/81
+          39-10-05                     202           Dec 18/81
+          39-10-06                     201           Dec 18/81
+          39-10-07                    ·201           Dec 18/81
+          39-40-00                       1           Dec 18/81
+          39-40-00                     . 2           Dec 18/81
+~         39-40-01
+          39-40-01
+                                       201
+                                       202
+                                                     Dec 18/81
+                                                     Dec 18/81
+          39-40-02                     201           Dec18/81
+          39-40-03                     201           Dec 18/81
+          39-40-03                     202           Dec 18/81
+
+
+
+
+          Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+        • Asterisk indicates pages revised, added or deleted by current revision.
+         The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+
+                                                                                              39-LIST OF EFFECTIVE PAGES
+                                                                                                                    Page 1
+        MM,98
+                                                                                                                Apr 30/82
+                                    Gates Learjet Corporatione
+                       ■a1■I11■a1111 ■a■ual
+                                                                                    Chapter
+                                                                                    Section
+Subject                                                                             Subject
+
+GENERAL- DESCRIPTION AND OPERATION                         ............               39-00-00
+    Description • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •     39.:..00-00       1
+    General - Maintenance Practices •••••••••••••••••••                               39-00-00
+        GEmleml ••••••••••••••••••••••••••••••••••                                    39-00-00        201
+        Safety' Precautions •••••••••••••••••••••••.•••                               39-00-00        201
+        Removal/Installation • • • • • . . • • • • • • . • • • • • • • • • • •        39-00-00        201
+        Cl ea,ning Instrument Glass Lenses • • • • • • • • • • • • • • • •            39-00-00        201
+PANELS - DESC.BIPTION • • • • • • • • • • • • • • • , • • • • • • • • • •             39-10-00
+   Description ·• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •     39-10-00          1
+PILOT'S SUBPANEL - MAINTENANCE. PRACTICES ••••••••                                    39-10-01
+    Remowl/Jn.stalla.tion • • • • • • • • • • • • • • • • • • • • • • • . • • •     · 39-10-01        201
+PILOT'S AND COPILOT'S AUDIO CONTROL PANELS -
+   MAINTENANCE PRACTICES. • • • • • • • • • • • • • • • • • • • • •                  39-10-02
+    RemovaVInstallation • • • • • • • • • • • • • • • • • • • • • • • • • • •        39-10-02         201
+PILOT'S INSTRUlmNT PANEL - MAINTENANCE PRACTICES                                     39-10-03
+    Removal/Ins1allation • • • • • • • • • • • • • • • • • • • • • • • • • . •       39-10-03         201
+CENTER PANEL - MAINTENANCE PRACTICES • • • • • • • • • •                             39-10-04
+    Removal/Ins1allation • • • • • • • • • • • • • • • • • • • • • • • • • • •       39-10-04         201
+COPILOT'S INSTRU1\'1ENT PANEL - MAINTENANCE
+  PRACTICES • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •        39-10-05
+    Removal/Jn.stallation • • • • • • • • • • • • • • • • • • • • • • • . • • •      39-10-05         2Ql
+COPILOT'S SUBPANEL - MAINTENANCE PRACTICES • • • • • •                               39-10-06
+  Removal/Installation • • • • • • • • • • . • • • • • • • • • • • • • • • •         39-10-06         2 01
+CENTER PEDESTAL - MAINTENANCE PRACTICES. • • • • • . •                               39-10-07
+    Removal/Installation • • • • • • • • • • . • • • • • • • • • . • • • • • •       39-10-07         201
+MULTIPURP~E ELECTRICAL AND ELECTRONIC PARTS -
+ DESCRIPTION AND OPERATION • • • • • • • • • • • • • • • • • • •                     39-40-00
+    Description • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •    39-40-00           1
+FREON AND STABIIJZER HEATER RELAY BOX -
+  MAINTENANCE PRACTICES • • • • • • • • • • • • • • • • • • • • • •                  39-40-01
+    Removal/Installation • • • • • • • • • • • • • • • • • • • • • • • • • • •       39-40~01         201
+MAIN SWITCH PANEL - MAINTENANCE PRACTICES • • • • • • •                              39-40-02
+    Removal/Ins1allation • • • • • • • • • • • • • • • • • • • • • • • • • • •       39-40-02          201
+SQUAT SWITCH RELAY PANEL - MAINTENANCE PRACTICES                                     39-40-03
+    Removal/Installation • • • • • • • • • • • • • • • • • • • • • • • • • • •       39-40-03         201
+
+
+
+
+                                                                                          39 - CONTENTS
+                                                                                                       Pagel
+                                                                                                                I
+MM-98                                                                                               Dec 18/81
+                              Gates Learjet Corporation@
+                    ■ain11nan11 ■an11al
+                       GENERAL - DESCRIPTION AND OPERATION
+
+1.      Description
+        A.   This chapter describes and pictorially presents instruments and panels that
+             mount the instruments, swit.ches, and indicators necessary for operation of
+             the aircraft. These panels are installed :In the flight compartment and are
+             referred to as the instrument panel, glareshield and center pedestal assem-
+             blies.
+        B.   The instrument panel, g]areshield, and center pedestal assemblies are
+             divided into various subpanels, according to function.
+        C.   Multipurpose.parts include the freon and stabilizer.heater relay box, the
+             main switc;ti panel and ·the squat switch relay panel•.
+
+
+
+
+E.FFECTIVITY: ALL
+                                                                                39-00-001
+                                                                                  Pagel
+MM-98
+                                                                               Dec 18/81
+                               Gates Learjet Corporation@
+                   ·111a·inl·■na·■1a ■a·nual
+                         GENERAL - MAINTENANCE PRACTICES
+
+1.      General
+        A.   Prior to performing instrument or control panel maintenance, maintenance
+             personnel should familiarize themselves with the following safety precautions.
+
+2.      Safety Precautions
+        A.    Safety Precautions
+              (1)   Pull and tag applicable ·system circuit breaker.
+              (2)   Assure Battery and Stall Warning Switches are off prior to lowering
+                    any instrument panel.
+              (3)   Protect instrument face by suitable means.
+
+3.      Removal/Installation ·
+
+        NOTE:    The following instructions give typical removal and installation
+                 procedures for instruments.
+
+        A.    Remove Panel Component (See figure ·201)
+              (1)   Assure that Battery and Stall Warning Switches are OFF.
+              (2)   Pull and tag applicable system ·or instrument circuit breaker.
+              (3)   Remove screws and lower applicable instrument panel.
+              (4)   Disconnect electrical plug, static or pitot line from instrument if
+                    applicable.          ·
+              (5)   Cap all exposed fittings if applicable.
+              (6)   Remove attaching parts and instrument from instrument panel.
+        B.    Install Panel Component (See figure 201)
+              (1)   Install instrument in panel and secure with attaching parts.
+              (2)   Remove caps from fittings.
+              (3)   Connect electrical plug, static or pitot line to instrument, if appli-
+                    cable.
+              (4)   Raise and secure instrument panel.
+              ( 5)  Reset applicable system or instrument circuit breaker.
+              (6)   Perform operational check of pit.ot and static system if applicable.
+
+4.      Cleaning Instrument Glass Lenses
+        A.   All instrument glass lenses should be cleaned at frequent intervals. When-
+             ever instruments -with glass lenses are handled, precautionary cleaning
+             should be performed as :fingerprint perspiration may permanently etch glass
+              surfaces.
+        B.    Clea.rung may be accomplished by using a commercial liquid detergent or a ·
+              solvent such as isoprophyl alcohol or acetone. If solvent is used, care
+              should be taken to insure compatibility of the instrument mounting finish
+             with the solvent.
+
+
+
+
+EFFECTIVITY: ALL                                                                     39-00-001
+                                                                                     Page 201
+MM-98
+                                                                                    Dec 18/81
+                       .      Gates Learjet Corporation~
+
+                     ■ainlenan■e . ■an■al
+        Clamp--.....
+        Adjustment
+        Screw
+                                                                     Clamp
+
+
+
+
+                                                                     Screw
+                                                                     (Secures Clamp
+                                                                      to..Panel)
+
+
+
+        Electrical
+        Connector                                                    Instrument
+
+
+                                    Instrument Installation
+                                (Two-Screw Type Clamp Shown,
+                                 Four-Screw Type Similar)
+
+
+
+
+                     Washer
+
+
+        Screw
+
+
+
+
+                                                                    Instrument
+
+                                   Instrument Installation
+                                  (Screw, Washer, and Nut)
+
+
+                           Panel Component Installation (Typical)
+                                       Figure 201
+
+I
+EFFECTIVITY: ALL                                                              39-00-00
+                                                                              Page 202
+MM-98
+                                                                             Dec 18/81
+                              Gates Learjet Corporation®
+
+                    ■ain1enan1e ■an■al
+        C.   Prior to applying cleaning solution to lens surface, all loose dust shoµld be
+             blown off with clean, dry air. A clean, soft cloth must be used for both
+             cleaning and drying.
+        D.   The cleaning process can cause s1atic electricity to build: up in the lens.
+             Each glass lens should be touched gently with a metallic object to insure
+             dissipation of any possible static charge.
+        E.   Cleaning Lenses
+             (1)   Prepare cleaning solution according to mam.ifacturer's directions.
+             (2) Apply solution to lens. ·
+             (3) Apply clear rinse water •.
+             (4) Wipe lens dry immediately.
+
+                   CAUTION:      FAILURE TO WIPE LENS IMMEDIA.TELY MAY RESULT
+                                IN STAINING WHICH COULD PERMANENTLY DAMAGE
+                                 LENS SURFACE.
+
+
+
+
+EFFECTMTY: ALL
+
+MM-98
+                                                                                  39-00-00
+                                                                                  Page 203
+                                                                                             I
+                                                                                 Dec 18/81
+                                Gates Learjet Corp6ration@
+                      ■liDIIDIDII ■a·naal -
+
+1.
+                         PANELS - DESCRIPTION AND OPERATION
+
+        Description (See figure 1)
+        A.   The instrument panel-consists of the pilot's subpanel, pilot's audio panel,
+             pilot's instrument panel, center instrument panel, copilot's instrument
+                                                                                               ·
+                                                                                                I
+             panel, copilot's subpanel, copilot's audio panel, and the switch panel.
+        B.   The center pedestal consists of the forward pedestal and quadrant section
+             and the aft pedestal section.
+             (l)    The forward pedestal and quadrant provides mounting for the throttle,
+                    spoiler, flap, parking brake and emergency brake controls.
+             (2)    The aft pedestal provides for mounting of radio equipment, trim
+                    switch panel, trim indicator panel, fuel control panel, autopilot con-
+                    troller -and yaw damper control head.                              ·
+        C.   The glareshield consists- of the· warning- light panel -and the fire extinguisher
+             controls.
+
+
+
+
+EFFECTIVITY: ALL                                                                      39-10-001
+                                                                                        Pagel
+MM-98
+                                                                                    Dec 18/81
+                                        Gates Learjet Corporation@
+                   ■ai■l■■ana■ ■a■ual
+                      .   .    .    .                                .
+
+
+
+
+  Fire Extinguisher                     Warning Light                Fire Extinguisher
+  Controls (Ref)                        Panel (Ref)                  Controls (Ref)
+
+Pilot'                                                                              Copilot's
+Sub                                                                                 Subpanel
+(39-1                                                                               (39-10-06)
+                                                                                   ~
+
+                                                                                     "
+
+
+                                                                              Copilot's
+Pilot's
+                                                                              Instrument
+Audio Panel
+                                                                              Panel
+(39-10-02)
+                                                                              (39-10-05)
+ Pilot's Instrument
+ Panel
+ (39-10-03)                   Center
+                                                          Pressurization
+                              Instrument
+                                                          Module
+                              Panel
+                                                          ( Chapter 21)
+                              (39-10-04)
+                                                                           Copilot's Audio
+                                                                           Panel
+                                                                           (39-10-02)
+                               Center
+                               Pedestal
+                               (39-10-07)
+
+
+
+
+         Glareshield, Instrument Panel, and Center Pedestal General Arrangement
+                                         Figure 1
+
+EFFECTIVITY: ALL                                                                       39-10-00
+                                                                                       Page2
+MM-98                                                                               Dec 18/81
+                                Gates Learjet Corporation@
+                    ■ili■ll■il■II ■il■■ill
+                    PILOT'S SUBPANEL - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+
+        NOTE:• The pilot's subpanel is secured to the instrument panel structure by
+                 screws.
+               • The pilot' a subpanel assembly consists of a structure assembly and
+                 various switches and indicators.
+
+        A.   ReJ;nove Pilot •s Subpanel (See figure 2 01)
+             (1)   Assure that Battery and Stall Warning Switches are OFF.
+             (2)    Pull all applicable system circuit breakers.
+             (3)   Remove at1aching parts securing subpanel to instrument panel
+                    struc1ure.
+             (4)   Disconnect electrical connectors.
+             (5)   Remove subpanel assembly.
+        B.   Ins1all Pilot's Subpanel (See figure 2 01)
+             (1)    Position subpanel on instrument panel structure and connect electrical
+                    connectors.
+             (2)   Secure subpanel to instrument paµel with attaching parts.
+             (3)    Reset applicable circuit breakers.
+             (4)    Perform an operational check of applicable system.
+
+
+
+
+                                            Pilot's
+                                            Subpanel
+
+
+
+
+                                                        Detail A
+                               Typical Pilot's Subpanel Assembly
+                                           Figure 201
+
+EFFECTMTY: ALL                                                                   39-10-01
+                                                                                 Page 201
+MM•98
+                                                                                Dec 18/81
+                                    Gates Learjet Corporation@
+
+                         ■ain11nan■1 ••·■■al
+~       Pll..OT'S AND COPILOT'S AUDIO CONTROL PANEL - MAINTENANCE PRACTICES
+
+    1.      Removal/Installation
+            A.  Remove Audio· Control Panel (See figure 2 01)
+
+                 NOTE:• The audio control panels are secured to the instrument panel
+                 ~      structure by screws. A receptacle, mounted to the back of the
+                           panel, connects the panel electrically with the aircraft wiring.
+                         • The following removal instructions are applicable to either audio
+                           panel.
+
+                 (1)   Assure that Battery and Stall Warning Switches are OFF.
+                 (2)   Pull and tag applicable system circuit breaker~.
+                 (3)    Loosen quick release fasteners securing audio panels.
+                 (4)   Disconnect electrical connector from audio panel.
+                 (5)   Remove audio panel from instrument panel structure.
+            B.   Install Audio Control Panel (See figure 201)
+
+                 NOTE:     The following installation instructions are applicable to either
+                           audio panel.
+
+                 (1)    PosiUon audio panel in instrument panel and connect electrical con-
+                        nector to audio panel.
+                 (2)    Secure audio panel ·with quick release fasteners.
+                 ( 3)   Reset applicable circuit breakers.
+
+
+
+
+                                            VHf     ff   NAY      NAV   ADF     ADF    DME       IICR       Hf    PASS
+                                             I       2    I        2     I       2                                ADF
+
+                                            @@ @                        eO"e e ©@@@
+                                             a
+                                                                  @-
+                                                                                                 2
+                                                                             A
+                                                                             SPEAKER
+                                                                                         . ,.
+                                                                                         ,ar                     IAI
+
+                                                         0 -       V
+                                                              SPKR /
+
+
+                                                               e~E            PASS
+                                                                                             I
+                                                                                                        .
+                                                                                                                       m.-
+                                                                                                                       ;.·
+
+                                                  VOl                         VOL
+                                                         EMERGENCY
+
+                                                                   A\DO CONTROL
+
+                                                                        Detail A
+                                    Typical Audio Control Panel
+                                           Figure 201
+
+
+
+
+    I
+    EFFECTIVITY: ALL                                                                                               39-10-02
+                                                                                                                   Page 201
+    MM·98                                                                                                         Dec 18/81
+                                Gates Learjet Corporation@
+                     ■ai■11■an■1 ■anual
+                PILOT'S INSTRUMENT PANEL - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+
+        NOTE:• The lower edge of the pilot's instrument panel is hinged t.o the instrument
+        --     panel installation structure and can swing back and down· for easy access
+                 and maintenance of panel compoJ:\ents. Pilot's panel is secured in place
+                 against the structure by screws.
+               • The pilot's instrument panel assembly consists of a structure assembly
+                 and various optional and standard instruments and switches.
+
+        A.    Remove Pilot's Instrument Panel (See,figure 201)
+              (1)   Assure that Battery and Stall Warning Switches are OFF.
+              (2)    Pull and tag applicable circuit breakers.
+              ( 3)  Remove screws securing panel to structure.
+              (4)   Lower panel and disconnect electrical connectors, pitot and static
+                    lµies from instruments.
+              (5)   Tag all electrical wiring plugs.
+              (6)   cap all exposed pitot and static lines.
+              (7)   Remove attaching parts securing hinges to instrument panel and
+                    remove panel from aircraft.
+        B.    Install Pilot's Instrument. Panel (See figure 201)
+              (1)   Position instrument panel and secure to hinges with attaching parts.
+              (2)   Remove caps from pitot and static lines and connect to its respective
+                    instrument.
+              (3)   Connect electrical connectors to applicable instruments and panels.
+              (4). Raise and secure panel to main instrument panel structure.
+              (5)   Perform pitot/static leakage check (refer to Chapter 34).
+              (6)   Reset applicable circuit breakers.
+
+
+
+        Pilot's Instrument
+        Panel
+                                                                      Screw
+                                                                      (Typical)
+
+
+
+
+                               Typical Pilot• s Instrument Panel
+                                          Figure 201
+
+EFFECTIVITY: ALL                                                                   39-10-03
+                                                                                   Page 201
+MM•98
+                                                                                  Dec 18/81
+                               Gates Learjet Corporation@>
+                    ■ain11nan11 ■an■a·1
+                         CENTER PANEL - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+
+        NOTE:• The center panel is made up of the avionics control panels, engine indi-
+               cator panel, and main switch panel.
+             • The panels that comprise the CeJ\ter panel are secured to the :Instrument
+               panel structure by quick release fasteners.
+
+        A.    Remove Center Instnµnent Panel Components (See figure 201)
+               (1) Assure that Battery Switch and all panel switches are OFF.
+             , (2)   Pull all applicable system circujt breakers.
+              (3) IDosen applicable quick release fasteners and pull panel out far
+                    enough to disconnect connectors.
+              (4) Remove panel.
+        B.    Install Center Instrument Panel Components (See figure 201)
+              (1)   Hole panel in place in front of panel mo~t hole and connect connectors.
+              (2) Install panel onto instrument panel_ stmcture and secure with quick
+                    release fasteners.
+              (3) Reset applicable ci-rcuit breakers.
+              (4) Perform an operational check of applicable system.
+
+
+
+
+EFFECTIVITY: ALL                                                                  39-10-041
+                                                                                  Page 201
+MM-98
+                                                                                Dec 18/81
+                            Gates Learjet Corporation@
+                   ■alnl■■ana■ . ■anaal-
+
+
+
+
+                                         Engine Indicator
+                                         Panel
+        Instrument Panel
+        Structure                                            Quick Release
+                                                             Fastener
+                                                             (Typical)
+
+
+
+
+                                                             Avionics
+                                                             Panel
+                                                             ( Chapter 34)
+
+
+
+
+                                    Detail A
+
+
+                           Typical Center Instrument Panel
+                                     Figure 201
+
+
+EFFECTIVITY: ALL                                                  39-10-04-
+                                                                  Page 202
+MM-98
+                                                                 Dec 18/81
+                               Gates Learjet Corporation~
+                     ■al■ll!■il■II! · - ■ il■■ill
+             COPILOT'S INSTRU:MENT PANEL - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+
+        NOTE:   The copilot's instrument panel consists of a structure a~sembly secured
+                to the main instrument structure by screws. The copilot's instrument
+                panel is secured to the pressurizaUon module (Chapter 21) which is
+                hinged along the forward edge. This allows the panel to be lowered for
+                maintenance of the panel components.
+
+        A.    Remove Copilot's Instrument Panel (See figure 201)
+              (1)   Assure that Battery and Stall Warning Switches are OFF.
+              (2)   Pull and tag applicable system circuit breakers.
+              (3)   Remove screws securing panel to structure.
+              (4)   Lower panel and disconnect electrical plugs, pitot and static lines
+                    from instruments.
+              (5)   Tag all electrical wiring plugs.
+              (6)   Cap all exposed pitot and static lines.
+              (7)   Baise panel and temporarily secure with two screws.
+              (8)   Remove screws securing pressurization module to copilot's panel
+                    struc1ure.
+              (9)   Lower module clear of instrument panel.
+             (10) Support instrument panel and remove two screws.
+             (11)   Remove instrument panel from aircraft.
+        B.    Install Copilot's Instrument Panel (See figure 201)
+              (1)   Position copilot's instrument panel on main panel structure and
+                                                                                             I
+                    temporarily secure with two screws.
+              (2)   Secure pressurization module _to copilot's instrument panel with
+                    attaching screws.
+              (3)   Remove screws temporarily securing copilot's instrument panel to
+                    main panel structure.
+              (4)   Remove caps from pitot and static lines and connect lines to
+                    applicable instrument.
+              (5)   Connect electrical plugs to applicable instruments.
+              (6)   Baise and secure copilot's panel to main instrument panel structure.
+              (7)   Perform pitot/static leakage check (Chapter 34).
+              (8)   Reset applicable circuit.breakers.
+
+
+
+
+EFFECTIVITY: ALL                                                                  39-10-05
+MM-98
+                                                                                  Page 201
+                                                                                Dec.18/81
+                            Gates Learjet Corporationiffi>
+                     naa.i·nl■nana■                                     manual.
+
+
+
+
+                                               \
+                                                •   0    ..       1'
+        Copilot's
+        Instrument
+        Panel                                  , __. -    ,,,. -                        Screw
+
+                             ~==~~ ·                                       -----        (Typical)
+
+
+
+
+                             t=~
+                             1
+                               0   ca   ~.,~'•1;~e-. (i]
+                                         _                    ,        ,-t •        9
+                                                                                   ow
+
+         Pressurization
+         Module
+         ( Chapter 21)                       Detail A
+
+
+                          Typical Copilot's Instrument Panel
+                                     Figure 201
+
+
+EFFECTMTY: ALL ·                                                                             39-10-05
+                                                                                             Page 202
+MM-98
+                                                                                            Dec 18/81
+                                Gates Learjet Corporation@
+
+                     ■ainll■il■■I ■il■■al
+                   COPILOT'S SUBPANEL - MAINTENANCE PRACTICES
+
+1.      Remova1/Installa.tion
+
+        NOTE: • The copilot's su.bpanel is secured to the instrument panel structure by
+                .screws.
+              • The copilot's subpanel assembly consists of a structure assembly and
+                various switches and indicat.ors.
+
+        A.   Remove Copilot's Subpanel. (See figure 201)
+             (1)   Assure that Battery Switches and all panel switches are OFF.
+             (2)    Pull all applicable system circuit breakers.
+             (3)   Remove attaching parts securing subpanel to instrument panel
+                    structure.
+             (4)   Disconnect electrical connectors.
+             (5)   Remove subpanel assembly.
+        B.   Install Copilot's Subpanel (See figure 201)
+             (1)   Position subpanel in instrument panel structure and connect electrical
+                   connect.ors.
+             (2)   Secure subpanel onto instrument panel with attaching parts.
+             (3)   Reset applicable circuit breakers.         ·
+             (4)   Perform an operational check of applicable systems.
+
+
+
+
+                        Subpanel
+                        Assembly
+
+
+
+
+                                                   Detail A
+                            Typical Copilot Subpanel Assembly
+                                       Figure 201
+
+EFFECTMTY: ALL                                                                    39-10-06
+MM-98
+                                                                                  Page 201
+                                                                                 Dec 18/81
+                           ·   Gates Learjet Corporation®
+                    •ain1enan111 •anual
+                    CENTER PEDESTAL - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+
+        NOTE: • The center pedestal consists of the forward pedestal and quadrant
+                section and aft pedestal section.
+              • The aft pedestal section provides mounting for the radio equipment,
+                autopilot controller, yaw damper control head and fuel control panel.
+                The trim indicator panel and fuel control panel are secured to the
+                pedestal structure by screws. The.radio equipment, aut.opilot con-
+                troller and yaw damper control head utilize receptacle strips to secure
+                to pedestal structure.
+              • The forward pedestal and quadrant assembly provides mounting for the
+                throttle, spoiler, flap, parkm.g brake, and emergency brake controls.
+                Refer to applicable chapter for removal of equipment in forward
+                pedestal and quadrant assem'µly.
+
+        A.   Equipment installed in the pedestal is secured by either screws or receptacle
+             strips. Removal and inst.allation of this equipment consists mainly of:
+             (1)   Loosening or removing attaching parts.
+             (2)   Removing equipment sufficiently to gain access to electrical plug.
+             (3)   Disconnecting electrical plug and remove equipment from aircraft.
+
+
+
+                                                            Forward Pedestal
+                                                            and Quadrant
+
+
+
+                Aft Pedestal                                       Fuel Control
+                                                                   Panel
+                                                                   ( Chapter 28)
+
+
+                                        .. M.
+
+
+
+
+                                     Center Pedestal
+                                        Figure 201
+
+EFFECTIVITY: ALL                                                                   39-10-07
+                                                                                 Page 201
+MM-98
+                                                                                Dec 18/81
+                               Gates Learjet Corporation•
+
+                     ■ain11nan■1 ■a■■al
+               MULTIPURP~E ELECTRICAL AND ELECTRONIC PARTS -
+                        DESCRIPTION AND OPERATION
+
+1.      Description
+        A.   The freon and stabilizer beater relay box (El73) is located on the LH side of
+             the tailcone equipment section just forward of frame 27.
+             (1)    The relay box is secured to mounting brackets by four screws. The
+                    relay box incorporates a removable cover for access to the relays
+                    without removing the relay panel.
+             (2)    All electrical connections are made by an electrical plug mounted on
+                    the relay panel.
+             (3)    The relay box contains relays which control the operation of the re-
+                    frigeration, stabilizer heater, and auxiliary cabin heater systems
+                    during different modes of operation.                             .
+                    (a) Generator Relays - These relays, when energized {STARTER-
+                          GENERATOR Switch ~et to GEN), completes the following cir-
+                          cuits.                        .
+                          (1)    The _control circuit for· the freon power relay (Refer to
+                                 Chapter 21 ).
+                          _(2)   The control circuit for the auxiliary cabin heater cutout
+                                 relay (Refer to Chapter 21. )
+                          (3) The control circuit for the auxiliary cabin beater system
+                               switch.
+                         (4)    The control circuit for the LH & RH nacelle beater power
+                                relays (Refer to Chapter 30).
+                   (b)   External Power Relay - This relay is energized when external
+                         power ls connected to the aircraft and either or both Battery
+                         Switches are set to "on". The ·relay, when energized, completes
+                         the "following two circuits.
+                         (l)    A control circuit for the freon power relay, bypassing the
+                                generator relay.
+                         (2)    A power circuit through the deenergized auxiliary heat
+                                cutout relay to the auxiliary beater circuit breaker.
+                   (c)   Start Cutout Relays - These relays are energized when either
+                         Starter-Generator Switch is set to START. When energized, the
+                         cir~its for the freon, nacelle heat and stabilizer heat system
+                         are opened.
+                   (d)   Cabin Blower Relay - This relay is energiZed when (1) the Cool
+                         System Switch is set to either COOL SYS or FAN; (2) the Auxili-
+                         ary Heater Switch is set to either WGH or LOW. The relay
+                         completes a 2 8 vdc power circuit to the evaporator blower motor.
+
+
+
+
+EFFECTIVITY: ALL                                                                  39-40-00
+MM-98
+                                                                                    Page 1
+                                                                                Dec 18/81
+                                Gates Learjet Corporation®
+
+                     ■a·inl■nan■■· ■anilal
+                    (e)   Auxiliary Heater Cutout Relay - This relay, when d~energized,
+                           completes a power circuit from the energized generator relay
+                          t.o AUX CAB HT circuit breaker.     (Refer to Chapter 21. ) The
+                           relay is energized when the Cool System Switch is set to COOL
+                           SYS. This prevents the refrigeration system and the auxiliary
+                           cabin heater system from operating at the same time.
+                    (f) . Stabilizer Heat Relay. This relay is energized.when power is·
+                           applied to the stabilizer heaters. When energized, the relay
+                           completes a ground circuit to extinguish the (amber) STAB HEAT
+                           caution light on the glareshield.
+                    (g) Stabilizer Heat Cutout Relay. - This relay is energized by the RH
+                           squat swtich when the aircraft is on the ground. ·When energized
+                          the relay opens the control circuit for the auxiliary heater sys-
+                          tem switch.
+         B.   The main switch panel is located in the lower right hand portion of the center
+              instrument panel. The switch panel is illuminated by post lights and back
+              lighted with BEP lights.
+              (1)   The main switch panel houses the engine instrument cluster, the flap
+                    position indicator, cabin climate control panel, landing gear control,
+                    external lighting switches, air ignition switches, stall warning switches,
+                    inverter switches, anti-sldd switch, pitch trim switch, battery switches,.
+                    generator reset switches, starter-generator switches,' the auxiliary ·
+                    hydraulic switch and a dimmer switch.
+         C.   The landing gear squat switch relay panel is located behind. the copilot's in-
+              strument panel on frame 5.
+              (1)   The squat switch relay panel consists of relays which are energized
+                    when the aircraft is resting on the landing gear. The relays, when
+                    energized, complete the following circuits.
+                    (a) A circuit is completed, connecting the rudder position sensor to
+                           the nose wheel steering computer. (Refer to Chapter 32.) ·
+                    (b) A circuit is completed to the pressurization system module
+                           solenoids. (Refer to Chapter 21.)
+                    (c) Two circuits are completed to the windshield anti-ice control
+                           system. (Refer to Chapter 30•. )
+                    (d) A circuit is opened to the aircraft hour meter. (Refer to
+                           Chapter 39, Wiring Diagram Manual. )
+                    (e) Refer to Chapter 39, Wiring Diagram Manual for complete wire
+                           diagram of the squat switch relay panel.
+
+
+
+
+IEFFECTlVlTY: ALL                                                                  39-40-00
+                                                                                     Page2
+ MM-98
+                                                                                  Dec 18/81
+                                   Gates Learjet Corporation@
+                         ■ai111na■-.11 ■anaal
+~           FREON AND STABILIZER HEATER RELAY BOX - MAINTENANCE PRACTICES
+
+    1.       Removal/Installation
+             A.  Remove Freon and Stabilizer Beater Relay Box (See figure 2 01)
+                 (1)   Lower tailcone access door.
+                 (2)   Disconnect aircraft batteries.
+                 ( 3)  Disconnect electrical plug from relay box.
+                 (4)   Release cover latch and remove cover.
+                 (5)    U>Osen and remove attaching parts and relay box from aircraft.
+             B.  Install Freon and Stab~er Beater Relay Box (See figure 201)
+                 (1)   Install relay box and secure with attaching parts.
+                 (2)   Install and secure cover.
+                 (3)   Connect electrical plug to relay box.
+                 (4)   Connect aircraft batteries.
+                 (5)   Raise and secure tailcone access door.
+
+
+
+
+    EFFECTMTY: ALL                                                                  39-40-01
+                                                                                    Page 201
+    MM-98
+                                                                                   Dec 18/81
+                                    Gates Learjet Corporation@ -
+                              ■ainh!nanae . ■anual
+Freon and Stabilizer
+Heat Relay Box
+
+
+
+
+Stabilizer Heat
+Cutout Relay
+        (K4)
+            Stabilizer Heat Relay                                                Terminal
+                     (K3)                                                        Board (TB2)
+            Cabin Blower Relay
+                    (K2)
+                                                             ~~~~-df'-Insulator
+Start Cutout Relay
+        .    (Kl)
+                                                                             Start Cutout Relay
+                                                                                     (KS)
+Electrical
+Connector
+  (Jl89)                                                                      Generator Relay
+                                                                                     (K6)
+
+  Freon and Stabilizer
+  Heat Relay Box                                                             Generator Relay
+              (El73)                                                                 (K7)
+                                                                      External Power Relay
+        Auxiliary Heater Cutout Relay
+                                                                              (KB)
+                       (K9)
+                                              Detail A
+                                 Freon. and Stabilizer Heater Relay Box
+                                               Figure 201
+
+
+EFFECTIVITY: ALL                                                                       39-40-01
+                                                                                       Page 202
+MM-98
+                                                                                      Dec 18/81
+                               Gates Learjet Corporation®
+                     ■ain1■nan1■ ■an11al
+                      MAIN SWITCH PANEL - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+
+        NOTE: • The main switch panel is located in the lower right hand portion of the
+                center instrument panel. The switch panel is illuminated by post lights
+                and back lighted with BEP lights.
+              • The main switch panel houses the engine instrument cluster, the flap
+                position indicator, cabin climate control panel, landing gear control,
+                external lighting switches, air ignition switches, stall warning switches,
+                inverter switches, anti-skid switch, pitch trim switch, battery switches,
+                generator reset switches, starter-generator switches, the auxiliary
+                hydraulic switch and a dim.mer switch.
+
+        A.   Remove Ma.in Switch Panel (See figure 201)
+             (1)    Lower tailcone access door and disconnect aircraft batteries.
+             (2)   Loosen and remove the screws around the perimeter of the switch
+                   panel.
+             ( 3)  Tag and disconnect electrical connect.ors and remove switch panel
+                   from instrument panel.
+        B.   Install Main Switch Panel (See figure 201)
+             (1)    Connect electrical 'connect.ors and position switch panel on instrument
+                   panel.
+             (2)   Secure switch panel with screws.
+             (3)   Assure that all switches are in the original position.
+             (4)    Connect aircraft batteries and secure tailcone access door.
+
+
+
+
+                            Main Swit.ch
+                            Panel
+                            (Typical)
+
+
+
+
+                                        Main Switch Panel
+                                           Figure 201
+
+EFFECTIVITY: ALL                                                                   39-40-02
+                                                                                   Page 201
+MM-98
+                                                                                  Dec 18/81
+                              Gates Learjet Corporation@
+
+                    ■ilinl■■an■•-· ■a■11al
+             SQUAT SWITCH RELAY PANEL - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+        A.  Remove Squat Switch Relay Panel (See figure~i-01)
+            (1)    Remove the copilot's instrument panel. (Refer to 39-10-05, Copilot's
+                   Instrument Panel. )
+            (2)    Remove the attaching parts and pull relay panel away from frame 5.
+            (3) Disconnect electrical connector from relay panel and remove panel
+                   from aircraft.
+        B.  Inst.all Squat Switch Relay Panel (See figure 2 01)
+            (1)    Connect electrical connector to relay panel.
+            (2) Install relay panel on frame 5 and secure with attaching parts.
+            (3) Install copilot's instrument panel. (Refer to 39-10-05, Copilot's
+                   Instrument Panel. )
+
+
+
+
+EFFECTIVITY: ALL                                                               39-40-03
+                                                                               Page 201
+MM-98
+                                                                              Dec 18/81
+                             Gates Learjet Corporatione>
+                  ■ai■l■na.■11 ■-an11al
+
+
+
+
+                                  Printed - - - ~ ~
+                                  Circuit Board
+                                  (PCB 3)                               Circuit Board
+                        Printed-------~                                 (PCB 1)
+                        Circuit Board
+                        (PCB 2)
+
+
+                        Relay
+                        (K2 1 Kl, K4)                                       Squat SWitch
+                                                                            Relay Panel
+
+                                           Aircraft 25-227 and Subsequent
+
+                                                   Detail A
+                                             Squat SWitch
+                                             Relay Panel
+
+
+
+                                                      Relay
+  Relay                                               (K3)
+  (K4)
+                                                          Relay
+                                                          (Kl)
+                                   Relay
+  Relay                            (IO.)
+  (K2)
+                                                   Relay
+                                                   (K2)
+                                  Squat SWitch
+                                  Relay Panel
+  Aircraft 25-061, 25-070 thro 25-226                 Aircraft 25-061, 25-070 thru 25-226
+ Aircraft Equipped with Hobbs Hour Meter
+
+           Detail A                                               Detail A
+                               Squat Switch Relay Panel
+                                      Figure 201
+
+IEFFECTIVITY: SEE TEXT                                                           39-40-03
+                                                                                  Page 202
+ MM-98
+                                                                                 Dec 18/81
+

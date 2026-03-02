@@ -1,0 +1,1189 @@
+                @.
+  •    GA1c8 LEARJET CORPORATION
+
+ma1n1enan1e ■anual
+
+      CHAPTER
+
+
+
+
+  FUSELAGE
+                                          Gates Learjet Corporation@
+                            ■ain11nan■1 ■an11al
+~    Chapter                                                      Chapter
+     Section                                                      Section
+     Subject                    Page              Date            Subject                  . Page              Date
+       53-Title
+     •53-Ltst of
+          Effective Pages            1           May 25/84
+     • 53-Contents                   1           May 25/84
+       53-00-00                      1            .Dec 2/77
+       53-10-00                      1             Dec 2/77
+       53-10-00                      2             Dec 2/77
+      53-10-00                       3             Dec 2/77
+      53-10-00                       4             Dec 2/77
+       53-10-00                      5             Dec 2/77
+     •53.20-00                       1           May 25i84
+     •53.20-00                       2           May 25/84
+      53-20-00                       3             Dec 2/77
+      53-30-00                       1             Dec 2/77
+      53-30-00                       2             Dec 2/77
+      53-30-00                       3             Dec 2/77
+      53-40-00                       1             Dec 2/77
+      53-50-00                       1             Feb 5/82
+      53-50-00                       2             Dec 2/77
+      53-50-01                     201             Feb 5/82
+      53-50-01                     202             Feb 5/82
+      53-50-01                     801             Feb 5/82
+~
+      53-50-01                     802·            Feb 5/82
+      53-50-01                     803             Dec 2/77
+      53-50-01                     804·            Dec 2/77
+      53-50-02                     201             Feb 5/82
+      53-50-02                     202             Feb 5/82
+      53-50-02                     203             Feb 5/82
+      53-50-03                     201             Feb 5/82
+      53-50-03                     202             Feb 5/82
+
+
+
+
+      Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+    • Asterisk indicates pages revised, added or deleted by current revision.
+     The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                       53-UST OF EFFECTIVE PAGES
+                                                                                                            Page 1
+    MM-98
+                                                                                                        May 25/84
+                                     Gates Learjet Corporation@
+                       ■ain1enan1e ■anaal
+                                                                                    Chapter
+                                                                                    Section
+Subject                                                                             Subject
+
+GENERAL - DESCRIPTION AND OPERATION                                                 53-00-00
+    General •......•...••.•.•••........•.••.•.                                      53-00-00          1
+MAIN FRAME - DESCRIPTION AND OPERATION ••••••••                                     53-10-00
+    General ••.•••.......••••...•.•.•..•.•.••.                                      53-10-00          1
+    Deso ription . • . . . . . , • . . . . • • • . . . . . • .. • . • . . • •       53-10-00          1
+AUXILIARY STRUCTURE - DESCRIPTION-AND OPERATION                                     53-20-00
+    General ..•••••....••.•..•.•••••....••••••                                      53-20-00          1
+    Cabin Area Cargo Lo~ding ••••••••...•••.•..•..
+PLATES/SKIN - DESCRIPTION AND ·OPERATION ..•••••
+                                                                                    53-20-00
+                                                                                    53-30-00
+                                                                                                      1         I
+    General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   53-30-00          1
+ATTACH FITTINGS - DESCRIPTION AND OPERATION • . • .                                 53-40-00
+  General • • . • . . .. . . . • . • • .. • . • • • • • • • . . • • . • • • • •     53-40-00          1
+AERODYNAMIC FAIRINGS - DESCRIPTION AND OPERATION                                    53-50-00
+    D~scription . • • . • . . . . • • • • • . . • • . • • • . • • • . . . • •       53-50.:.oo        1
+    Radome - Maintenance Practices . . . . . . . . . • . . . . . • .                53-50-01
+      Removal/Installa ti.on • • . • . . . • . . • . . . . . . • . • . • •          53-50-01        201
+    Radome - Approved Repairs ••••.•.•..•.•..•.•.•                                  53-50-0l
+      A pp roved Repairs . • • . •· • • • • . . • • . . . • . . . . • • . .         53-50-01        801
+    Radome Erosion Boot - Maintenance Pra_ctices . • . • . . . •                    53-50-02
+      Removal/Installation •.••.•.••..•••.•...•.•.                                  53-50-02        201
+    Radome Li°ghtning Dlverter Strips •••.....•.•.••.•                              53-50-03
+      Maintenance Practices • . . . • • • . • . . • . . • . • . • . . •             53-50-03        201
+      Removal/Installation • . . • . • • • . • . . • . . • . • . . . . .            53-50-02        201
+
+
+
+
+EFFECTIVITY: ALL                                                                              53 - CONTENTS
+MM-98
+                                                                                                       Page 1
+                                                                                                    May 25/84
+                                     ~-
+                            GATES LEARJET CORPORATION
+
+               mainlenanae manual
+               GENERAL - DESCmPTION AND OPERATION
+
+1.   General
+     A. The fuselage is of semimonocoque construction consisting of stressed
+         skin structure with transverse frames and longerons. Special atten-
+         tion has been paid to both fail-safe capabilities and long fatigue life
+         airframe.
+     B.. The "Area Rule" type fuselage is comprised of four basic sections.
+         The nose section extends from the radome aft to frame 5. The pres-
+         surized section extends from frame 5 to frame 22 on 25B/D aircraft
+         and from frame 5 to frame 18 on 25C/F aircraft. The fuel section
+         extends from frame 22 to frame 24 on 25B/D aircraft and from frame
+         18 to frame 24 on 25C/F aircraft. The tailcone section extends. from
+         frame ·24 aft to the stinger.
+     C. The area between frames 5 and 22 (25B/D aircraft) and frames 5 and
+         18 (25C/F aircraft) is pressurized and houses the crew, passenger,
+         and baggage areas. Drilling, modification, or any type of work which
+         creates a break in the pressure area is the responsibility of the owner
+         or facility performing the work. Obtaining approval of the. work is,
+         therefore, their responsibility.
+     D. A two-piece passenger/crew door is located on the fuselage left side
+         aft of frame 10. The fuselage incorporates plexiglass windows in the
+         cabin area. The right rear window is contained within the emergency
+         escape door.                       ·                              ·
+
+
+
+
+EFFECTIVITY: ALL                                                      53-00-00
+                                                                         Pagel
+                                                                      Dec 2/77
+                                     ~
+                           · GA1& LEARJET CORPORA110N   ·   .
+
+               ■ai11e1a111 ■a■■al
+              MAIN FRAME - DESCRIPTION AND OPERATION
+
+1.   General
+     A. The fuselage main frame is constructed of frames, stringers, keel
+           beam, longerons, a forward and aft pressure bulkhead and frames
+           around openings. Refer to Figure 1.
+     B. Located between fuselage stations 120. 63 and 613. 24 are 41 trans-
+           verse frames spaced approximately 3. 5 to 17 inches apart. The
+           tailcone contains 5 canted frames for attachment of the vertical stab-
+           ilizer. Cutouts are located around the perimeter of the frames for
+            stringer clearance. Frames 16 thru 21 terminate when the lower end
+            meets a longeron where the wing passes through the fuselage .
+         .· Frames 6-thru 8 terminate where they-meet the windshield~ Frame
+            11 terminates where it meets the passenger/crew door. Frame 3
+           terminates where it meets the nose compartment access door opening
+            and the nose wheel well. Frames 2 and 4 terminate where they meet
+           the nose wheel well.
+     C. Longitudinal stringers are located around the perimeter of the frames.
+            A total of 41 stringers are spaced approximately 5 inches apart. The
+            stringers are aluminum extrusions cut to various lengths.
+     D. · The keel beam extends from frame 5 to frame 15 down the bottom_
+            center of the fuselage. The keel consists of two longitudinal webs ex-
+            tending up at RBL and LBL 6. 10. The webs are attached to the fuse-
+            lage skin with angles and are capped by the inboard seat rails andtee
+            extrusions. The seat rail extends from frame l'0 to frame 15 on the
+            right side. The left inboard seat rail extends from frame 12 to frame
+            15 on aircraft with 24 inch wide passenger/crew door and from frame
+            13 to frame· 15 on aircraft with 36 inch wide passenger/crew door.
+            Tee extrusions cap the webs forward of the seat rails. Fuselage
+            frames are interrupted at the keel and are continued through the keel
+            by webs. The flQorboards are secured on top of the keel and become
+            part of the aircraft structure.
+     E. A longeron extends longitudinally_down each side of the fuselage at
+            the point where the fuselage and wing intersect. The longeron extends
+            froni frame 13B to frame 22.
+     F. Two pressure bulkheads are installed in the aircraft, one at frame 5
+            and one at frame 22 on 25B/D aircraft and frame 5 and frame 18 on
+            25C/F aircraft.
+2.   Description
+     A. The station numbers, which are listed with the frame numbers, are
+         measured at three basic points. Station numbers for frames 21 and
+         forward are measured at the IML (inside mold line) of the frame.
+         Station numbers for frames 22 and aft are measured at the OML. (out-
+         side mold line} of the frame. Refer to Detail A, Figure 1.
+
+
+EFFECTIVITY: ALL                                                        53-10-00
+                                                                          Page 1
+                                                                        Dec 2/77
+                                   ~
+             .   . .   •·   GATES ~ E T CORPORA~   .    ..
+
+             ■a1nI11nanae ·■ an■al
+  B.   Exceptions to this method of locating station numbers are frames 16,
+       18, 20, 21, 24 and 25. These particular fr~es are made up of
+       double frames and the base for locating the station numbers is the
+       centerline between these frames. Ref er to Detail B, Figure 1.
+       (1) Frame 16 station number is.located. 493 inch forward of th·e
+           centerline between frames.
+       (2) Frame 18 station number is located on the centerline between
+           frames.
+       (3) Frame 20 station number is located . 236 inch forward of the
+           centerline between fra-mes.
+       (4) Frame 21 station number is located. 91 inch aft of the centerline
+           between frames.
+       (5) Frame 24 station number is located ·on the centerline ·between
+           frames.                           .
+       (6) Frame 25 station number is located on the centerline between
+           frames.
+
+
+
+
+EFFECTIVITY: ALL                                                   53~10-00.
+                                                                     Page 2
+                                                                   Dec 2/77
+                                  ~
+                    •    GRES LEARJET CORPORATION
+
+
+           \
+               ■a1nI■11an■■ ■an■al
+                                      Inside Mold Line. (IML) ~
+                                                              . ,,
+                                                                   (Outside  Mold
+                                                                      Line (OML)
+                                               '    ,.   *
+
+
+                                                             _____ ,
+
+
+
+                                   Aircraft Skin (Ref)·
+
+                                                         Detail A
+
+
+                                                                Ci, Between Frames
+
+
+
+
+                                   Aircraft Skin (Ref)   _j
+                                                         Detail B
+
+                         Fuselage Assembly
+                        Figure 1 (Sheet 1 of 3)
+
+EFFECT IVITY: ALL                                                           53-10-00
+                                                                               Page 3
+                                                                            Dec 2/77
+                                                 §l
+                            •           GATES LEARJET CORPORATION
+
+                      ■a1■1e■a■•• ■a■aal
+
+
+                                                                                        Stringer 11
+   Stringer 11                                                                 ~---Stringer 12
+   Stringer 12                                                                -/#----stringer 13
+   Stringer 13
+                                                                            .,,....---Stringer 14
+      Stringer 14
+       Stringer 15                                                        111'""---stringer 15
+          Stringer 16                                                   ;r----Stringer 16
+             Stringer 17 - - - ~11                                  1...1»'----stringer 17
+                Stringer 18 - - - ~                             l}':j,o"-----stringer 18 ·
+                    Stringer 19                                          stringer 19 .
+                         Stringer 21                               stringer 21
+                                     Frame 5 Looking Aft
+                                            SECTION A-A
+
+                                      B.L. 0.00ystringer 1                .
+                             . stringer 2 7 .             ,_,- stringer 2         •
+                        . stringer 3 ~ _._.. .f-0 , ;; ~--c.•~ ~ stringer 3
+                   . Stringer 4 ~--···-:,.CJ..-•· ···j  -!.::.~~stringer 4
+               . Strinf{!~r• ~:_.. ,...... ~
+                        5                                      ·--~             stringer 5
+                                                                            .. - .
+            stringer 6          /,,.,                                 0
+                                                                                   Stringer 6
+                                /   .                                           .      .                .
+
+                                                                                           Door Hinge
+Window Opcming ~
+
+                                                                                ~ Door Opening
+
+
+
+
+ Stringer 11 - - . c : .
+
+
+ stringer 12                                        ..
+
+                                                     I
+     stringer 14
+        stringer 15
+           Stringer 16
+                                            _______ L            Keel Beam Web
+
+
+             stringer 17
+                stringer 18
+                      stringer 19
+                                                         ~F-              Door Hinge
+                                                _..,,c.-_ ... - ~ Stringer 21                                ,.
+                                          Frame 11 Looking Aft
+                                            SECTION B-B
+
+                                     Fuselage Assembly
+                                    •Figure 1 (Sheet 2 of 3)
+
+EFFECTIYITY: ALL                                                                                  53-10-00
+                                                                                                    Page 4
+                                                                                                  Dec 2/77
+                                               ~
+                            •        GATES LEARJET CORPORATION
+
+                       ■11■1111■11 ■an11al
+
+
+
+
+  Stringer 9
+
+ Stringer 10
+
+
+                                                                                i----Door Frame
+
+ stringer 12
+
+
+
+
+                                  Stringer 2                    Stringer 2
+                           Stringer 3                      --~~Stringer 3
+                      Stringer 4                             -~-~Stringer 4
+                Stringer 5                                             Stringer.5
+           Stringer 6                                                       Stringer 6
+         Stringer 'l
+
+
+
+
+   Stringer 10                                                                           Stringer 10
+
+                                                 I
+                                                 i
+
+
+   stringer 12                                   ~B. L. 0.00
+                                                 I
+                                                 I
+                                                                                     Stringer 12
+     Stringer 13
+                                        Frame 17 Looking Aft
+                                         SECTION D-D
+                                    Fuselage Assembly
+                                   Figure 1 (Sheet 3 of 3)
+
+EFFECTIVITY: ALL                                                                           53-10-00
+                                                                                             Page 5
+                                                                                           Dec 2/7-7
+                               Gates Learjet Corporation@
+
+                    ■ainl■nan■• ■anual
+                AUXILIARY STRUCTURE - DESCRIPI'ION AND OPERATION
+
+1.      General
+        A.   The auxiliary structure consists of the floorboards and pedestal structure.
+        B.   Removing various floorboards provides access to controls, hydraulic lines,
+             air ducts, and electrical equipment and wiring. The floorboards are se-
+             cured to the keel beam, frames, and support angles, and become part of the
+             aircraft structure. Since the floorboards form part of the aircraft structure,
+             the aircraft must not be flown without the floorboards installed.
+        C. · Panels in the pedestal provide access to equipment and controls in and below
+             the pedestal.
+
+2.      Cabin Area Cargo ·Loading
+        A.    Proper cargo loading is very essential and the following parameters are to
+             be strictly· adhered to, as improper loading can result in aircraft damage.
+              (1)   Cabin loading in excess of 50 lb ft2 should utilize a palletized arrange-
+                    ment to distribute the vertical loads to the seat rails.
+              (2)   The divan seat floor and baggage floor which are pressure loaded can
+                   .sustain a 1..0 g load of 125 to 150. lb ft2 loading in combination with the
+                    required cabin pressure loads.
+              (3)   Seat rails are used in many installations to secure cargo loading for
+                    various load directions. Appropriate seat rail allowables are indi-
+                    cated in the loading chart below.
+
+                                LOADING CHART
+
+                      Load Direction           Ulti.ma te Load
+                       Vertical                   ±4500 lb
+                       Longitudinal               ±3000 lb
+                       Lateral                    ±1500 lb
+
+              (4)   Adequate restraints in all directions should be achievable with the
+                    cargo system and, typically, the 9. 0 g forward load capacity is the
+                    most difficult. Adequate access to the RH escape hatch should be
+                    maintained unless the optional crew hatch i~ installed.
+
+
+
+
+EFFECTIVITY: ALL                                                                     53-20-00
+MM-98
+                                                                                       Page 1
+                                                                                    May 25/84
+                                                      ~
+                            •               GA1ES LEARJET CORPORATION
+
+                   ■a1■1e■a■■e ■a■■al
+
+
+
+
+            04 [
+                                                  J
+                                    4
+        1          2            5             5
+              0
+
+
+
+                       3                &
+
+              0
+                   2            5
+                                4
+
+
+
+
+                            1. Brake Valve and Rudder Pedal Linkage
+                            2. · Control Cables, Pulleys and Hydraulic Lines
+                            3. Control Sector
+                            4. Hydraulic Lines and Air Ducts
+                            5. Brake System Shuttle Valves and Hydraulic Lines
+                            6. Control Cable, .Pulleys ~d Roll Servo
+                            '1. Parking Brake Valves and Hydraulic Lines
+                            8. Control Cables, Pulleys and Aileron-Rudder
+                                Interconnect.
+                            9. Cabin Air Distribution Ducts
+                           10. Hydraulic Lines, Emergency Air Lines
+                           11. Control Cables, Pulleys and Anti-Collision
+                                Beacon
+
+
+
+
+                                                 Floorboards
+                                            Figure 1 (Sheet 1 of 2)
+
+
+
+I
+EFFECTIVITY: AIRCRAFT WITH 24-INCH DOOR
+MM-98
+                                                                                  53-20-00
+                                                                                    Page 2
+                                                                                 May 25/84
+                                           ~
+                 '    •        GAlai LEARJET CORPORATION
+
+               ■a1n1enan1e ■an■al
+                                                                             9
+                                   1
+                          4
+                 2         5           5                                    4
+
+
+                 3             6                                      11    11
+                                                     8
+
+                 2        4                                                 10
+                           4
+                                                                            9
+               AIRCRAFT 25-061 thru 25-074
+
+
+
+
+                           4
+                 2         5
+
+                 3             6
+
+                 2         4
+                           4
+
+     AIRCRAFT 25-075 AND SUBSEQUENT
+   *AIRCRAFT 25-105 AND SUBSEQUENT
+                                           TYPICAL
+                       1. Brake Valve and Rudder Pedal Linkage
+                       2. Control Cables, Pulleys and Hydraulic Lines
+                       3. Control Sector
+                       4. Hydraulic Lines and Air ·nucts
+                       5. Brake System Shuttle Valves and Hydraulic Lines
+                       6. Control Cables, Pulleys and Roll Servo
+                       7. Parking Brake Valves and Hydraulic Lines
+                       8. Control Cables, Pulleys and Aileron-Rudder
+                          Interconnect.
+                       9. Cabin Air Distribution Ducts
+                      10. Hydraulic Lines, Emergency Air Lines
+                      11. Control Cables, Pulleys and Anti-Collision
+                          Beacon
+
+
+
+                                       Floorboards
+                                   Figure 1 (Sheet 2 of 2)
+
+EFFECTIVITY: AffiCRAFT WITH 36-INCH DOOR                                     53-20-00
+                                                                               Page 3
+                                                                             Dec 2/77
+                                           ~
+                                  GATES LEARJET CORPORATION
+
+                      n1ain11nan■1 · ■anaal
+                     .PLATES/SKIN - DESCRIPTION AND OPERATION
+
+      1.   General
+           A. The fuselage frame is covered with aluminum skin permanently
+                fastened to the frames and stringers.
+           B.   Access covers are located in the fuselage exterior to provide for in-
+                spection and as an aid in removal and installation of various compo-
+                nents of the aircraft.
+           C.   The nose compartment access doors provide access to the equipment
+                in the nose compartment- and the forward side of frame 5 pressure
+                bulkhead.
+           D.   A hinged tailcone access door provides access to electrical, hydrau-
+                lic, fuel, fire extinguishing and airconditioning system and their re-
+                lated components.            .
+           E.   An access cover, located on top of the fuselage, is provided for
+                removal and installation of the fuselage fuel tank probe.
+           F.   Access covers are located on the bottom of the fuselage where the
+                wing passes through the fuselage. These access covers provide
+                access to cables, drain valves, hydraulic lines, fuel plumbing and
+                components, fuel vent plumbing and pneumatic plumbing.
+           G.   When installing an access cover a$sure that it is replaced in the same
+                location from which removed and that it is clocked the same as it was
+~ ,             prior. to removal.
+
+
+
+
+      EFFECTIVITY: ALL                                                      53-30-00
+                                                                              Page 1
+                                                                            Dec 2/77
+                                  ~
+                   •     GATES LEARJET CORPORATION
+
+           •a1n1■nana■ ■a·n■al
+
+
+
+
+                                             2
+
+
+
+                       0 D O O      -·
+
+                                                           7
+
+                                         5
+
+
+
+
+                                                     15
+                        ---A---
+
+                       Fuselage Access Covers
+                        Figure 1 (Sheet 1 of 2)
+
+EFFECTIVITY: ALL                                          53-30-00
+                                                            Page 2
+                                                          Dec 2/77
+                                  ~
+                         GmES LEARJET CORPORAllON
+
+           ■ain1enan1e ■anaal
+
+
+      1.  Electronic Equipment, Air Bottle and Anti-Ice Tank
+      2. Fuselage Tank Fuel Probe
+      3. Pylon Access
+      4. Fuel Vent Valves
+      5. Batteries, Electrical Components, Fuel Filters, Refrigeration
+          Equipment, Hydraulic Components and Secondary.Yaw Servo
+      6. Fuselage Tank Fuel Probe (Lower Fitting).
+      7. Rudder Bellcrank, Primary Yaw Servo Sector, Bottom Rudder
+          Hinge Point, Servo Sector Cables, Rudder cables, and
+          Secondary Yaw Followup
+      8. Rudder Control Cables
+      9. Elevator Sector, Push-Pull Tubes, Autopilot Pitch Followup,
+          Elevator, and Rudder Control cables.
+      10. Rudder and Elevator Cables.
+      11. Hydraulic Lines
+      12. Rudder and Elevator Cable Turnbuckles and Slmp Drain
+          Valve
+      13. :Fuel Crossflow Shutoff Valve, Hydraulic Lines, Pneumatic
+          Lines, Jet Pump, Fuel Check Valve anf Fuel Drain Valve
+      14. :Fuel Lines and on 250/F Aircraft~ Transfer Valve
+      15. Fuel and Hydraulic Lines, Aileron Cable Turnbuckles, Wing
+          :Fuel Pressure Switch and on 25B/D Aircraft - Fuel Shutoff
+          Valve
+      16. Fuel Pump and :Fuel Drain Valve
+      17. Fuel Lines, Fuel Tank Drain Valve, Elevator. Aileron and
+          Rudder Cables, and Aileron Sector
+      18. Fuel Drain Valves
+      19. Fuel Plumbing, Hydraulic Lines, Wing Tanlc Drain Valve,
+          and Defuel Valve
+
+
+
+
+                        Fuselage Access Covers
+                         Figure 1 (Sheet 2 of 2)
+
+EFFECTIVITY: ALL                                                         53-30-00
+                                                                           Page 3
+                                                                         Dec 2/77
+                                       ~
+                             GATES LEARJET CORPORATION ·
+
+               ■ain11nan11 ■an11al
+            ATTACH FITTINGS - DESCRIPTION AND OPERATION
+
+1.   General
+     A. Fittings are provided on the fuselage for attachment of the doors,
+          wing, nose gear, seats, engines and the vertical stabilizer.
+     B.   The passenger crew doors are attached to the fuselage by piano-type
+          hinges at the top and bottom of the door openings.
+     C.   The nose gear is attached to the fuselage by two trunnion pin bearing
+          plates in the nose wheel. well. The nose gear actuator is attached to
+          the upper forward side of frame 5. .
+     D.   The wing is attached to the fuselage at eight points (four on each side).
+          The attach fittings extend from the longeron at the end.of frames 16,
+          18, 20 and 21. Bolts secure the wing to the fuselage.
+     E.   The passenger and crew seats are secured to the floor by seat tracks.
+          Notches in the tracks provide easy removal of the seats. The seat
+          tracks are secured to the fuselage structure by screws.
+     F.   Engine beams extend through the fuselage at frames 24 and 25. The
+          beams are constructed of channels· and webs with engine attach fittings
+          on the end. The pylon main frame, constructed of angles, bulkheads,
+          ribs and stiffeners, forms an aerodynamic fairing enclosing the for-
+          ward and aft engine beams where they extend from the fuselage.
+     G.   The vertical stabilizer is attached to the fuselage tailcone section at
+          five major points. Five canted bulkheads in the tailcone match the
+          five spars in the vertical stabilizer. The spars are bolted to the
+          bulkheads.
+
+
+
+
+EFFECTIVITY: ALL                                                         53-40-00
+                                                                            Page 1
+                                                                         Dec 2/77
+                               Gates Learjet Corporation@
+
+                     •ai■le■a■■e •a■■al
+               AERODYNAMIC FAilUNGS - DESCRIPTION AND OPERATION
+
+1.      Description
+        A.    Fuselage aerodynamic fairings include the wing/fuselage fairing, radome,        I
+             dorsal inlet, and the tail cone stinger.
+        B.   The wing/fuselage fairings are installed where the wing passes through
+             the fuselage. The wing leading edge is also faired to the fuselage. The
+             wing/fuselage fairing is removable for access to the wing attach fittings.
+        C.   The radome is constructed of a single sandwich honeycomb core in the area
+             which is penetrated by radar. The radon:i,e ls attached to the nose cone by
+             screws. An erosion boot is bonded to the radome to prevent environmental
+             erosion.
+                                                                                              I
+        D.   The dorsal inlet fairs the vertical stabilizer to the fuselage and permits
+             entry of ram air for the heat exchanger. The dorsal inlet is constructed
+             of 5-ply laminated fiberglass and is attached permanently to the fuselage
+             and vertical stabilizer. Two bulkheads are riveted into the dorsal inl.et
+             and are secured to the fuselage with screws.
+        E.   The tailcone stinger is located at the aft-most portion of the fuselage tail-
+             cone. An access cover is located on the upper side of the stinger. A
+             removable cap is installed on the aft-most portion of the stinger and ventral
+              fin.
+
+
+
+
+EFFECTIVITY: ALL                                                                  53-50-00
+MM-98                                                                               .Page 1
+                                                                                  Feb 5/82
+                      Gates Learjet Corporation@
+           ■ain11nan11 ■anual           ·
+
+
+
+
+                                                   Tailcone stinger
+
+
+
+
+                              Wing/Fuselage
+                              Fairing
+
+
+
+
+                   Fuselage Aerodynamic Fairings
+                              Figure 1
+
+EFFECTIVITY: ALL                                         53-50-00
+MM-98
+                                                           Page 2
+                                                         Dec 2/77
+                               Gates Learjet Corporation@
+                     ■ai■l■nanaa ■a111al
+                         RADOME - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+
+        NOTE:    The following maintenance practices do not include the installation
+                 of a new radome since it requires locating and fitting of the radome
+                 to the fuselage. If a new radome is to be installed, install in
+                 accordance with Special Spares Kit No. SSK 911.
+
+        A.     Remove Radome (See figure 201)
+               (1)    Remove nose compartment acce~s doors.
+               ( 2)   Disc amect primary and secondary glideslope antenna coax leads by
+                      reaching into radome through frame 1.
+               (3)    Remove radome attach ·screws and move radome forward far enough
+                      to disconnect alcohol plumbing at frame 1.
+               (4)    Remove radome from aircraft.
+        B.     Install Radome (See figure 201).
+               (1)    Position radome close enough to frame 1 to allow connection of alcohol
+                      plumbing.
+               (2)    After-connecting alcohol plumbing, position radome on frame 1 and
+
+             · (3)
+                    · secure with attach screws. Touch up painted areas as required.
+                      Connect pri~ary and secondary glideslope antenna coax leads.             1
+               (4)    Install nose compartment access doors.
+
+
+
+
+EFFECTMTY: ALL                                                                     53-50-01
+MM-98
+                                                                                   Page 201
+                                                                                   Feb 5/82
+                                Gates Learjet Corporation@
+                         ■ain·1enan■I! ■an·■al
+
+
+
+
+    Glideslope Antenna
+
+
+
+
+I
+                                                           ....
+                                   ...-;::.-··
+                                 ........
+                                              . ··••::-•··
+                                              _..-;,.--
+                                                        ···:tJ-··
+                                                                         ."-Attach   Screw
+                                 ,,Jl1/,
+                                   .... ,, ·A
+                                               .
+                                                                    Ra.dome
+
+
+                                                ·           ·Glideslope Antenna
+
+             Alcohol Diffuser
+
+
+
+
+                                      Radome Installation
+                                         Figure 201
+
+    EFFECTIVITY: ALL                                                                     53-50-01
+                                                                                         Page 202
+     MM-98
+                                                                                             Feb 5/82
+                              Gates Learjet Corporation@
+                    ■aln1enan1e ■an11al
+                            RADOME - APPROVED REPAIBS
+
+1.      Approved Repairs
+
+        NOTE: •Approv~ rep~irs for the·radome include the repair of minor damage to
+                the radome skin.
+              • As a general rule~ ~lnor damage is defined as damage to the radome skin
+                only. This excludes any damage which goes into or beyond the core.
+              • Radomes which cannot be repaired per the following instructions must
+                ei~er be replaced with a new radome per SSK a11·or ·retumed to Gates
+                Learjet Factory, attention Warranty Department, for repair. This
+                :includes any radome damaged beyond the limits set in the following
+                instructions.
+
+        A.   Tools and Equipment.
+
+        NAME.                           PART.NU:MBER                  MANUFACTURER
+
+     Polyester Resin                   . Hetron 92.         Pittsburg Plate Glass Co.
+     6% Cobalt Napthenate                Fed Spec. TT-D-643
+
+     MEK Peroxide                                              Lucidol Div. Novadel
+                                                                 Agene Corp.
+
+     Hypodermic Syringes and Needles                           Commercially Available
+
+        B.   For repairs of blisters, delamlnations, and scratches, mix polyester resin
+             as follows:
+             (1)    Mix by weight 100 parts of Hetron 92 and O. 50 part of 6% cobalt
+                    napthenate. After thoroughly mixing, add by weight 1. 0 part of MEK
+                   peroxide.
+
+                    NOTE:   MEK peroxide should be added just before using. After
+                            mixing, pot life is approximately 1 hour at room temperature.
+
+        C.   Blisters and delaminations not greater than 1 inch in diameter, not closer
+             than 4 inches, or greater in number than 4 in 4 square feet of surface are
+             to be repaired as follows: (See figure 801)
+             (l)   Drill a small hole into, but not through, skin at each end of blister or
+                   delamination.
+             (2)   Fill syringe with polyester resin and pump blister or delamination
+                   full of resin.
+             (3)   Press blister or delamination firmly into place and hold until resin
+                   has cured.
+             (4)   Remove any excess resin from the surface with light sanding.
+
+
+EFFECTMTY: ALL                                                                     53-50-01
+MM-98                                                                              Page 801
+                                                                                   Feb 5/82
+                               Gates Learjet Corporation~
+
+                     ■ai■l■■a■-111 ■a■■al .
+              (5)   Check repair for a sound bond by tapping repaired area with a coin.
+                    Any area which is not properly bonded will make a different sound
+                    when tapped.
+
+                    CAUTION: ALWAYS MASK OFF THE :MIDDLE 3/8 INCH OF THE
+                             LIGHTNING DIVERTER STRIPS BEFORE PAINTING.
+
+                (6) Repaint affected area of radome. Refer to Chapter 20.
+        D.     Repairable scratches are limited to those not more than 1/8 inch wide; 1/16
+             . inch deep, and 4 inches long. Repairable pits and depressions are limited.
+              _to those not more than 1/2 inch in diameter and not more than 1/16 deep.
+               These defects must not be any closer than 1 inch and there shall be no more
+               than three defects per 1 square foot of surface area. Repair· defects as
+               follows: (See figure 802)
+             . (1) · Fill defect with polyester resin and allow to fully cure.
+               (2)   Carefully sand cured resin to a uniform smoothness, blending with
+                     radome contour.
+
+                    CAUTION: ALWAYS MASK OFF THE :MIDDLE 3/8 INCH OF THE
+                             LIGHTNING DIVERTER STRIPS BEFORE PAINTING.
+
+              (3) Repaint affected area of radome. Refer to Chapter 20.
+
+
+
+
+EFFECTMTY: ALL                                                                   53-50-01
+                                                                                 Page 802
+MM-98
+                                                                                 Feb 5/82
+                                        ~
+                    •          OATES LEARJET CORPORRlON
+
+           ■a1n1ena11e ■an■al
+                                      in. dia. max.
+
+
+
+
+                                                      Drlll small hole at
+                                                      each end of blister
+
+
+
+
+                                             II
+
+        Pump resin into
+        blister with syringe
+
+                                                                    Resin should come out
+                                                                    hole at opposite end
+
+
+
+
+                                                  I           /
+                                       i          ♦       /
+                                                                     Press into place and hold
+                                                                     until resin fully cures
+
+
+
+                         I I .-I-i"-1-1_1_1_1___1_1'1-l I I I I I I I~
+
+
+                                                       .-T-       Lightly sand off
+                                                                  excess re sin
+
+
+
+
+                        Blister and Delamination Repair
+                                  Figure 801
+
+EFFECTIVITY: ALL                                                                         53--50-01
+                                                                                         Page 803
+                                                                                         Dec 2/77
+                                   §)
+                        GATES LEARJET CORPORATION
+
+          •ai1111111a■•• .man■al
+
+                        1  4 in. max.length)C
+                                     .
+                                                1
+                                                        1/16 in. max depth
+                                                        1/8 in. max width
+
+
+              1 1      1)1111111)111111~
+
+                                                    Fill with resin
+                                                    and sand smooth
+
+
+
+
+                          Scratch Repair
+
+
+
+
+                              1•         •1   1/2 in. Dia max. x 1/16 In. max depth
+
+
+
+              1 1        I I 1" I I I , I I I I I I I I I I'
+
+
+                                               Fill with resin
+                                               and sand smooth
+
+
+
+
+                    Pit and Depression Repair
+
+               Scratch, Pit and Depression Repair
+                            Figure 802
+
+EFFECTIVITY: ALL ·                                                             53-50-01
+                                                                               Page 804
+                                                                               Dec 2/77 ·
+                               Gates Learjet Corporation@
+
+                      ■ai■l■■a■■• ■a■■al
+                 RAOOME EROSION BOOT - MAINTENANCE PRACTICES
+
+. 1.      Removal/Installatlon
+          A. · Tools and Equipment
+
+       NAME                                   NU:MBER              MANUFACTURER
+
+       Erosion Boot                            5411212-1        Gates Learjet Corp.
+         Isopropyl Alcohol                                      Commercially Available
+         Squeegee - Made of Polyolefln Material .               Commercially Available
+         Methyl-Ethyl-Ketone (JMEK)          .                  Commercially Available
+          Needle, Pin or Sharp, Round, Pointed Instrument       Commercially Available
+         Rubber Roller                                          Commercially Available
+          Clean Cotton Cloth                                    Commercially Available
+          Mild· Detergent                                       Commercially Available
+          Plastic Spray Bottle                                  Commercially· Available
+
+
+          B.   ·Remove Radome Erosion Boot
+
+               WARNING: ADHESIVES AND SOLVENTS USED FOR REMOVAL AND
+                        INSTALLATION OF THE EROSION BOOT ARE FLAMMABLE
+                        AND THEIR FUMES ARE TOXIC. ALL WORK SHOULD BE
+                        DONE IN A WELL-VENTILATED AREA AWAY FROM ANY
+                        SPARKS OR FLAME.
+
+               (1)   Remove radome. (Refer to 53-50-01.)
+               (2)   Clean radome along aft edge of erosion boot with l\mK. Apply masking
+                     tape on radome along edge of erosion boot. This will establish a trim
+                     line for new boot.
+               (3)   Apply MEK to aft edge of erosion boot. Allow approximately 2 minutes
+                     for adhesive to soften.
+               (4)   Slowly peel erosion boot away from radome while applying MEK along
+                     separation line.
+               (5)   After erosion boot has been removed, clean adhesive from radome
+                     using a clean cloth and MEK.
+
+                     NOTE:   The longer the erosion boot has been bonded to the radome,
+                             the more difficult it will be to remove. It is easier to remove
+                             the boot in pieces and then clean the adhesive from the
+                             radome.
+
+
+
+
+  EFFECTIVITY: ALL                                                                 53-50-02
+  MM-98
+                                                                                   Page 201
+                                                                                   Feb 5/82
+                                 Gates Learjet Corporation@
+
+                       ■ainlenanae ·■an■al
+        c.     Install Radome Erosion Boot
+
+               NOTE:     The erosion boot shall only be applied to radome~ that have
+                         received a black anti-static coating (Refer to Chapter 20.) and
+                         that have the lightning diverter strips installed. (Refer to 53-50-03.)
+
+               (1)    Thoroughly clean radome with mild detergent and water. Thoroughly
+                      rinse with clean water and wipe dry using clean cotton cloth or blow
+                      d_ry with clean, filtered, compressed air.
+               (2)    Wipe radome with a clean, cotton cloth moistened with MEK. Do not
+                      allow l\mK to evaporate completely from surface. Remove l\mK by
+                      wiping with a clean, dry cloth.
+               (3)    Using a marking pen, place an orientation mark at the forward end
+                      in the center of the radome.
+               (4)    Position erosion boot, with protective liner still in place, . over
+                      radome. Rotate boot to position of best fit.
+               (5)    When optimum fit bas been achieved, use a maz:king pen to trace over
+                      the orientation mark previously applied to the radome, placing the
+                      same orientation mark on the erosion boot as is on the radome.
+               (6)    Remove boot from radome. Turn boot inside out and place over
+                      radome dis regarding orientation marks.
+               (7)    In a spray bottle or other suitable container, mix isopropyl alcohol
+                      and water in a ratio of from 50/50 to 25/75. Add mild detergent at
+                      the rate of one (1) teaspoon per gallon of solution. Mix thoroughly to
+                      form wetting agent.
+               (8)    Carefully remove transparent protective liner from boot, saturating
+                      exposed adhesive surface of boot with wetting agent as liner is
+                      removed.
+               (9)    When protective liner is completely removed, ensure that the entire
+                      adhesive surface is completely saturated with wetting agent.
+             (10)     Remove boot from radome. Saturate radome surface where boot is to
+                      be install~ •
+             . (11)   Carefully align orientation mark on boot with orientation mark on
+                      radome. Place boot in contact with radome.
+             (12)     Squeegee or roll out wetting solution starting at the orientation marks
+                      and working in an expanding circle toward the aft end of the radome.
+                      Care should be taken to avoid blisters under the boot.
+             (13)     Blisters (air or wetting agent) appearing after boot application shall
+                      be removed by piercing the blister with a needle or other sharp
+                      object and working the blister out with a squeegee or a roller.
+
+
+
+
+EFFECTMTY: ALL                                                                        53-50-02
+                                                                                      Page 202
+MM-98
+                                                                                      Feb 5/82
+                            Gates Learjet Corporation®
+
+                  ■ai■11■a■1.1 ■a■■al
+        (14)     Using an industrial razor blade, carefully trim the erosion boot at
+                 the trim line. ·
+        (15)     Wipe off any excess wetting solution. Allow boot to set overnight,
+                 then re-squeegee or re-roll to assure complete adhesion.
+        (16)     Using an industrial razor blade, cut a hole in erosion boot to match
+                 hole in radome for alcohol diffuser.
+        (17)     Install Radome. (Refer to 53-50-01.)
+
+                 CAUTION:. MASK OFF THE MIDDLE 3/8 INCH OF THE
+                           LIGHTNING DIVERTER STRIPS.
+
+        (18) .   Paint Radome. (Refer to Chapter 20.)
+
+
+
+
+EFFECTIVITY: ALL                                                                53-50-02
+                                                                                Page 203
+MM·98
+                                                                                Feb 5/82
+                             Gates Learjet Corporation@
+                     ■ai■le■a■■e ■a■ual
+         RADOME LIGHTNING DIVERTER STRIPS - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+        A.  Tools and Equipment
+
+     NAME                                    NU:MBER               MANUFACTURER
+
+     Lightning Diverter Strips                16180           Dayton Granger Aviation
+     Mild Detergent                                           Commercially Available
+     Clean Cotton Cloth                                       Commercially Available
+     Methyl - Ethyl - Ketone (MEK)                            Commercially Available
+     220 Grit Abrasive Paper·                                 Commercially Available
+     Rubber Roller                                            Commercially Available
+     Industrial Oven                                          Commercially Available
+
+        B.   Remove Lightning Diverter Strips
+
+             WARNING: MATERIALS USED FOR REMOVAL AND·INSTALLATION OF
+                     . THE LIGHTNING DIVERTER STRIPS ARE FLAMMABLE AND
+                       THEIR FUMES ARE TOXIC. ALL WORK SHOULD BE DONE
+                       IN A WELL-VENTILATED AREA AWAY FROM ANY SPARKS
+                       OR FLAME.
+
+             (1)   Remove radom-e erosion boot. (Refer to 53-50-02.)
+             (2) · Remove radome. (Refer to 53-50-01.)
+             (3)   Clean radome along edges of lightning diverter strips with MEK. Apply
+                   masking tape on radome along edges of lightning diverter strips. This
+                   tape will mark replacement area for new lightning diverter strips.
+             ( 4)  Apply MEK to forward end of each lightning diverter strip. Allow
+                   approximately 2 minutes for adhesive to soften.
+             (5)   Slowly lift each lightning diverter strip away from radome while
+                   applying MEK between strip and radome.
+        C.   Install Lightning Diverter Strip
+             (1)    Mix a solution of mild detergent and water at the rate of 2 to 3 level
+                   teaspoons of detergent per gallon of water.
+             (2)    Scrub area of radome where lightning diverter strip is to be applied.
+                    Thoroughly rinse area with clean water. Allow to air dry, wipe dry
+                   with clean, cotton cloth, or blow dry with clean shop air.
+             (3)    Wipe washed area with :MEK and clean cotton cloth. Do not allow MEK
+                    to evaporate completely from surface. Remove MEK by wiping with
+                    clean, cotton cloth.
+
+
+
+
+EFFECTIVITY: ALL                                                                 53-50-03
+                                                                                 Page 201
+MM-98
+                                                                                 Feb 5/82
+                          Gates Learjet Corporation~
+                mainlenan■e ■an,aal
+         (4)   Using 220 grit abrasive paper, scuff-sand the black anti-static coating
+               where each lightning diverter strip is to be applied.
+         (5)   Again clean the radome with MEK and clean, cotton cloth.
+         (6)   Remove protective liner from forward end of each lightning diverter
+               strip. Cirefully align strip with edges of the previously applied mask-
+               ing tape.       -
+         (7)   Press lightning diverter strip into place at forward end. Using a
+               rubber roller and slowly removing remainder of protective covering,
+               proceed to aft end of radome with lightning dlverter strip.        ·
+
+               CAUTION: DO NOT EXCEED 175°F~ RADOME STRUCTURAL
+                        DAMAGE MAY RESULT IF TEMPERATURE LDMIT
+                        IS EXCEEDED.
+
+         (8)   When all lightning diverter strips to be replaced are installed, place
+               entire radome assembly in oven at 125°F-- 175°F for a minimum of
+               one hour.
+         (9)   About 15 minutes after heat treatment begins, run ·rubber roller over
+               lightning diverter strip to remove any bubbles which might have
+               formed during heat cure. Repeat this procedure immediately following
+               completion of h_eat cure.
+        (10)   Install Radome Erosion Boot. (Refer to 53-50-02.)
+
+               CAUTION:     MASK OFF THE MIDDLE 3/8 INCH OF THE
+                            LIGHT~G DIVERTER STRIPS.
+
+        (11) Repaint affected area of radome. (Refer to Chapter 20.)
+        (12)  Install radome. (Refer to 53-50-01.) Check continuity between
+              lightning diverter strips and radome installation screws.
+
+
+
+
+EFFECTMTY: ALL                                                              53-50-03
+MM-98                                                                       Page 202
+                                                                            Feb 5/82
+

@@ -1,0 +1,780 @@
+                 @.
+        GATES LEARJET CORPORATION
+
+   ■ainlenanae ■an■al
+
+      CHAPTER
+
+
+
+
+DIMENSIONS & AREAS
+                                        Gates Learjet Corporation•
+
+                          ■a11111a1■1 ■illllill
+ Chapter                                                      Chapter
+Section                                                       Section
+ Subject                    Page              Date            Subject                    Page               Date
+
+ 6-Title
+•6-List of
+   Effective Pages               1           Apr 30/82
+ 6-Contents                      1            Dec 2/77
+ 6-00-00                         1            Dec 2/77
+ 6-00-00                         2            Dec 2/77
+ 6-0Q-01                         1           Jul 17/81
+ 6-00-01                         2            Dec 2/77
+ 6-00-01                         3            Dec 2/77
+ 6-00-01                         4           ·Dec 2/77
+ 6-00-02                         1           Jul 17/81
+ 6-00-02                         2            Dec 2/77
+ 6-00-02                         3            Dec 2/77
+ 6-00-02                         4            Dec 2/77
+ 6-00-02                         5            Dec 2/77
+ 6-00-02                         6            Dec 2/77
+ 6-00-02                         7            Dec 2/77
+ 6-00-02                         8            Dec 2/77
+ 6-00-03                         1           Jul 17/81
+ 6-00-03                         2            Dec 2/77
+
+
+
+
+  Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+• Asterisk indicates pages revised, added or deleted by current revision.
+ The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                        6-LIST OF EFFECTIVE PAGES
+                                                                                                                  Page 1
+                                                                                                               Apr 30/82
+MM-98
+                                                                     ~
+                                     •               GATES LEARJET CORPORATION .
+
+                         ■a1a111aaa1 ■aa11al
+                                                                                                                                     Chapter
+                                                                                                                                     Section
+Subject                                                                                                                              Subject        Page
+
+GENERAL      • e I   e
+                     •   I   e •
+                             •   I   e   I   I   e •
+                                                 I   I   I   I   I   I   I   I   I   6-00-00
+                                                                                     I   I   I   I   I   I   I   I   I   I   I   •
+
+
+
+    Description • • . • • • • • • . . • • • . • • • . . • • . • • • • • • • • • 6-00-00                                                               .1
+    Dimensions and Areas • • • • . • • . • • • . • • • • • • . . • • • • • 6-00-01
+          Gen.eral. • • • ••••••.•••••••••••••••••••••• 6-00-01.                                                                                      1
+    Sta.tions .• • • • • • • • • • • • • . • • • • • • • • • • • • • • • • • • • • • 6-00-02 .
+          General •••••••••.•••••••••••••••••••••• 6-00-02                                                                                            1
+    Major Structural Members • • • • • . • • • . • . . • • • • • • • • • 6-00-03
+          General. •••••••.•••••.•••••.••••.••.•••• 6-00-03                                                                                           1
+
+
+
+
+EFFECTIVITY: ALL                                                                                                                               6 - CONTENTS
+                                                                                                                                                      Page 1
+                                                                                                                                                   Dec 2/77
+.\   .. ;
+                                         ~
+                      •         GA1ES LEARJET CORPORATION
+
+                ■a·1■11■a■11 ■anual
+                 GENERAL - DESCRIPTION AND OPERATION
+
+1.   Description
+     A. This chapter presents the aircraft dimensions, control surface areas,
+        water lines, buttock lines, and station designations as outlined i_n the
+        text and illustrations.
+     B. .Dimensions are given in U.S. and metric measure for overall length,
+        width (wing span), and height at vertical stabilizer. Areas are in
+         U.S. and metric measure and are provided for wing and control sur-
+         faces ..
+
+
+
+
+                 31 ft. 9 in.
+ • ~ - - - - - - 96'1. '14 cm
+
+
+
+
+                                Aircraft Dimensions
+                                Figure ·1 (Sheet 1 of 2)
+
+EFFECTIVITY: ALL                                                         6-00-00
+                                                                          Page 1
+                                                                        Dec 2/77
+                                    ~
+                           BATES LEARJET CORPOMl10N
+
+              ■ai■le■a■• . ■a•al
+
+
+
+
+                                                                l
+                       0 0 0 0
+                                                             I lOcm
+                                                               12 ft. 3 in.
+
+
+
+
+          45 ftOin.
+  •.---1368.0    cm   ---------..1 I
+                      47 ft. 7 in. _ _ _ _ _ _ _ _ _ _ _ __
+                      1451.8 cm
+
+
+
+
+                          1...- a· ft. 3 in.~.J
+            •~-------2_51_.0_c_m_ _ _ 35 ft. 7 in.___.
+                                                1083. 9 cm
+
+
+
+
+                           Aircraft Dimensions
+                          Figure 1 (Sheet 2 of 2)
+
+EFFECTIVITY: ALL
+                                                                6-00-00
+                                                                 Page 2
+                                                               Dec 2/77
+                                                 ~
+                                     GA11:S LEARJEI' CORPmUmON
+
+                     ■ainlanan■a ■an■al
+                 DIMENSIONS AND AREAS - DESCRIPTION AND OPERATION
+
+1.       General ·
+         A.   The following charts and figures give the dimensions of the aircraft and the
+              areas of the control surfaces. Dimensions and areas are given in u. S. and
+              metric units. Measurements are carried to the nearest full inch and centi-
+              meter. These dimensions are for reference only and are not for inspection
+              purposes.
+         B~   Dimensions
+
+               Span (overall)                            35 ft. 7 in. (1083. 9 cm)
+               Span (excluding tip _tank fins)           34 ft. 1 in.
+                                                                  I
+                                                                        (1038. 8 cm)
+               Length (overall)                          47 ft~ 7 1n. (1451. a cm)
+               Height (overall)                          12 ft. 3 in. . ( 373. O cm)
+
+              Wing
+                Root Chord (Fuselage centerline)          9 ft. 0 in. ( 274.0 cm) ·
+                Chord @w. s. 181.1                        5 ft. 1 in. ( ·155_ 0 cm)
+                Dihedral                                                     2° 30'
+                Sweepba.ck (c/4)                                               . 13°
+                Incidence                                                          lo
+
+               Aileron.
+                Span (nominal)                            4 ft. 8 in.   ( 145. 0 cm)
+                Boot Ch~rd                                1 ft. 5 in.   ( 4a. 0 cm) _
+                .Tip _Chord·                              1 ft. 1 in.   ( 33. ~ ·cm)
+                 Trim Tab Span .(LB only)                 1 ft. 3 in.   ( 38.0 cm)
+                Balance Tab Span (RH & LH)                1 ft. 9 in.   ( 53. o cm)
+
+               Flaps
+                Type                                                .S~e Slotted
+                Span (nominal) ·                          9 ft. 2 in~ ·( 279. 0 ·cm)
+                Root Chord                                2 ft. 4 ~- (      71.0 -~m)
+                Tip Chord                                 1 ft. · 8 in. (   51. o cm)
+
+               Horizontal. stabilizer
+                Span                                     14 ft. 8 in. ( 44'1. o cm)
+                Root Chord                                            ( 152.0 cm)
+                Tip Chord                                             ( '11.0 cm)
+                Sweepback (c/4 chord)                                        25° 0'
+                Dihedral                                                           0'
+
+
+
+
+EFFECTIVITY: ALL                                                                         6""".00-01 ·
+                                                                                          Page 1
+1111-n                                                                                  Jul 17/81
+                                        ~
+                     •        BA1ES LEARJET CDAPDFUfflDN·
+
+                -•a1n111■an■11 ••n■a:I'
+        Elevators
+         Span (per side)                                      7 ft.    2 in. (218. 0 cm)
+         Root Chord                                           1 ft.    4 in. ( 41. 0 cm)
+         Tip Chord                                                     7 in. ( 18. 0 cm)
+
+        Vertical Stabilizer
+         Span                                                 5 ft. · 6- in. ( 168. 0 cm)
+         Root Chord                                           8 ft. 11 in. (272. 0 cm)
+         Tip Chord                                            5 ft. 1 in. (155. 0 cm)
+         Sweepback (c/4)                                                         35° 36'
+
+        Fuselage
+         Fuselage constant section
+            Outside diameter                                  5 ft.    3 in. (160. 0 cm)-
+            Inside diameter                                   4 ft.    9 in. (145. 0 cm)
+            Length of passenger area                         11. ft.   4 in. (345. 0 cm)
+            Height (floor to ceiling)                         4 ft.    4 in. (132. 0 cm)
+
+   C.   Areas
+
+        Wing                                                231. 8     ft 2 (   21. 5 m 2 )
+
+        Aileron (per side)                                    5. 854 tt 2 (5438. 0 cm2 )
+        Aileron Trim Tab (LH only)                              . 335 ft2 ( 311.. 0 cmj)
+        Aileron Balance Tab (LH & RH)                         1. 25 ft2 (1189. 0 cm )
+        Flaps (total)                                        36. 85 ft2 (. 3. 0 m2)
+        Spoilers (total)                                            7 ft2 (6503. 0 cm2)
+        Horizontal Stabilizer (total)                        54. O ft2 (        5. O m2)
+        Stabilizer (excluding elevator)                      40. 4 ft~ (        4. O m2)
+        Elevator                                             13 . 6 ft (        1. 0 m2)
+        Vertical Stabilizer (total)                          38. 35 ft2 (       31a O m2)
+        Vertical Stabilizer (excluding rudder)               31. 80 ft2 (       3. 0 m2)
+        Rudder                                                6. 55 · ft2 _ (60~8. 0 cm2)
+        Rudder Trim Tab·                                      0. 69 ft2 ( 641. 0 cm2)_
+
+
+
+
+EFFECTIVITY: ALL                                                                     6-00-01
+                                                                                      Page 2
+                                                                                    Dec 2/77
+                                        ~
+                           •   BATES LEARJET CORPDRlmON    ·
+
+                  · ■ a1.I111-nanI11 ■an■al
+
+
+
+
+                                                                               Flap
+
+
+
+
+Aileron Balance Tab
+                                                                            Aileron
+        Aileron Trim Tab
+
+                                                          Pylon
+
+                                                               Horizontal Stabilizer
+
+
+
+
+                                                                    Elevator
+                                  Aircraft Areas
+                               Figure 1 (Sheet 1 of 2)
+
+EFFECTIVITY: ALL                                                                 6-00-01
+                                                                                  Page 3
+                                                                               Dec 2/77
+                                          ~
+                     •         BA11:S LEARJET COAPOAA110N
+
+         -•a1n1enan:••- ••·na-1
+
+
+
+
+                         Engine Nacelle
+
+
+
+
+                         0 0 0 0
+
+
+
+
+          Tip Tank                                          Rudder· Trim T·~n---
+
+
+
+
+                                  Aircraft Areas
+                               Figure 1 (Sheet 2 of 2)
+
+EFFECTMTY: ALL                                                              6-00-01
+                                                                             Page 4
+                                                                           Dec 2/77
+                                          ~
+                         •      GAlES. LEARJET CORPORATION
+
+                 ■a1■1e■a■11· ■a■aal
+                     STATIONS - DESCRIPTION AND OPEBATION
+
+1.   General
+     A.   The aircraft is divided into reference points along three axes. The refer-
+          ence points are measured in inches. These reference points provide a
+          means of quickly identifying the location of a bulkhead, component, etc.
+
+
+     B.
+          (1)   Fuselage station, water line and butt.ock line measurements used in
+                this manual are rounded to the nearest inch.
+          All reference points may be converted to metric measurement (centimeters)
+                                                                                             1
+          by multiplying the reference point (in inches) to 2. 54 •.
+     C.   ~ following terms are used for reference points.
+
+
+          FS - Fuselage station is a horizontal reference designation starting at the
+                 nose of the aircraft.
+
+          WL - Water lfne is a vertical reference designation measured parallel to
+               the ground.
+
+          BL - Buttock line ls a horizontal reference designation starting at the air-
+               craft centerline. Right or left is added to indicate the direction from
+               aircraft ~enterline (RBL & LBL).
+
+          WS - Wing station is a horizontal ~eference designation s'f:a:rting ·at the wing
+                 centerline, and measured perpendicular along wing datum.
+
+          NAC STA - Reference points that apply to the engine nacelle.
+          NACWL
+          NACBL
+
+           TIP TANK STA .;;,. Reference points that apply to the tip tank.
+           TTWL
+           TTBL
+
+
+
+
+EFFECTIVITY: ALL                                                                 6-00-02
+                                                                                  Page 1
+                                                                                Jul 17/81
+                        0
+                        0
+                        0
+
+                   1
+                   I
+                   IQ
+
+
+
+
+                   I!
+
+
+
+EFFECTIVITY: ALL            . 6-00-02
+                               Page 2
+                            Dec 2/'l'l
+                                           ~
+                         •      GA1EB LEARJET"CORPOAA110N
+
+                  ■ill■ll!■il■II!. ■il■■ill
+
+
+
+
+                                    - ·-        W.L. 52.08 t.HINGE
+
+
+             FUSELAGE CROSS SECTION
+
+
+
+
+                                                W. L. 24. 80 BAGGAGE FLOOR
+
+
+
+
+             ~ - - - - - - - - ' . ~ - ~ W.L. 5.875 FLOORBOARD
+                             ~a:;;......_ _ _   W. L. 0. 82 e, HINGE
+                   - - - - - - ~ - - - - - W. L. 0. 00 (Typical From Fraine 9 to Frame 15)
+
+
+
+
+                                                              •
+
+
+
+                       Fuselage Structural Station Diagram
+~                            Figure 1 (Sheet 2 of 2)
+
+    EFFECTIVITY:· ALL                                                             6-00-02
+                                                                                   Page 3
+                                                                                 Dec 2/77
+                                                                        @
+                                                   GATES LEARJET CORPORATION
+
+                    .•ailll!nance ••n·aal
+                                                    en     en     en    (/2   en     en     en en
+AILEHON STRUCTUHAL                                                'ti   'ti   'ti                     WING STRUCTURAL
+                                                    'ti
+                                                    ,,     'ti
+                                                                        ,, ,,        'ti    'ti 'ti
+
+
+
+
+       •
+                                                    > ~ ~ > > ~ ~ ~
+STATIONS
+                                                                              .,.,   .                STATIONS
+
+                                                                                                      ~
+                                                     11,  .-..,
+                                                           'It-   JI,          It,          11,   ~
+                                                     a,    ..:I   0)    ell          c,,,   N     ~
+                                                     I      I      I     I     I .I          I    I
+
+
+                                      ~ ~ :E -
+                                          ~--
+                   I~------,,::::::
+                                      o   · en
+
+
+
+
+       126. , , -
+
+       117. 10-
+
+
+
+
+        95.30 -
+
+        86.50-
+
+        77. 70-
+
+        69.00 -
+
+        60.05 -      ---
+        51. 10 -
+                                            .,.,
+                     ---:----S-'0
+         42. 15-                          -0
+                                            0
+         37.SS-
+
+         31.35 -
+         ?4.85-
+
+
+
+    _._
+    FLAP STRUCTURAL
+    STATIONS
+
+
+                    Wing, Aileron and Flap Structural station Diagram
+                                         Figure 2
+
+EFFECTIVITY: ALL                                                                                                         6-00-02
+                                                                                                                          Page 4
+                                                                                                                        Dec 2/77
+                                 ~
+                  •     GATES LEARJET CORPORA11ON
+
+          ■a1n11n1n·11 ■.1.n■al
+
+
+
+
+                              1 - - - - - 1 - Tip Tank
+                                             sta. 46.00
+
+
+
+
+                              .,.._.._ _----1:1Tip Tank ,
+                                              Sta~ 83. 85
+
+
+                              t - - - - - t - Tip Tank
+                                             Sta. 98.86
+
+                              ..-----a Tip Tank
+                                             Sta. 113.60
+
+
+
+
+                                 _ _ _ _ Tip Tank
+                                            sta. 149.-94
+                                       _Tip Tank
+                                         sta. 160.42
+                                     _ _ Tip Tank.
+
+
+
+                                           _.__
+                                         Sta. 173.30
+
+
+
+
+                                           TIP TANK STRUCTURAL
+                                           STATIONS
+
+
+
+
+                 Tip Tank Structural Station Diagram
+                              Figure 3
+
+EFFECTMTY: ALL                                                   6-00-02
+                                                                   Page 5 ·
+                                                                 Dec 2/77
+                   ••,.,..... . ••••,:
+                           •
+                                            ~
+                                   GATES ~ E T CDRP0RA110N                       .
+                                                                                             ·.·.
+
+
+
+
+                                                                         BL 0. 00
+                                                                   BL 3. 52          I
+                                                       BL 19. 40       ..   II
+                                           BL 34. 80
+                                                                            . I
+                                                                            •        I
+
+
+
+  HORIZONTA.· L
+  STABILIZER
+                  ~
+                               BL 50. 20
+  STRUCTURAL
+  STATIONS          .-
+                   BL 65. 60
+
+      BL 81. 00
+ijL 88. 20
+
+
+
+
+                                                         BL 13. 24-.BL          f-" 54
+                                                   BL 23. 17
+                                           BL                         __..:r             ~ - ELEVATOR
+                                  BL 44. 10                   ,_ .-f-.....               .          STRUCTURAL
+BL 86 2                   BL 56. 23                                                                 STATIONS
+     •            BL 67. 79
+
+
+                                                                            BL l. 49
+
+
+
+     BL 81. 77
+
+
+
+
+             Horizontal Stabilizer and Elevator Structural Stations Diagram
+                                        Figure 4
+
+EFFECTIVITY: ALL                                                                                       6-00-02
+                                                                                                        Page 6
+                                                                                                      Dec 2/'7";
+                                                                                                            I
+                                       §).
+                        . •   GATES LEARJET CDRPORAllDN
+
+                      ■al■ll!■a■■I! ■al■ill
+
+
+
+
+                                        STA         STA      STA
+                                      606.084     624. 63   644. 89
+ VERTICAL STABILIZER
+ STRUCTURAL STATIONS                     I           I        I
+
+                                                                      RUDDER
+                                                                      STRUCTURAL
+
+
+
+                                                                      ·•
+                                                                      STATIONS
+
+
+
+
+                 /✓
+             ,,
+             ,    ✓
+
+
+            '✓
+
+
+
+
+         Vertical Stabilizer and Rudder Structural Stations Diagram ·
+                                   Figure 5
+
+EFFECTIVITY: ALL
+                                                                         6-00-02
+                                                                          Page 7
+                                                                        Dec 2/77
+                                       ~
+                     • .    GATES LEARJET COAPOAA11ON
+
+             ••·1n1e·nan■e- -■anu■·I· -,
+
+                                    .~
+                                    C')-
+                                    CX) Cl)
+
+                                    N:=
+                                    ~~
+                                     -~
+                                    B=-
+                                - - - 1 - - - l - - - - - N A C STA. 97. 74
+
+
+
+
+                                                  ----+--- NAC STA 80.44
+
+
+
+                                                                      61. 15 (RH OUTBD)
+                                                                             (LH INBD)
+                                       f       c:::::::,---+--NAC STA 62.00 (LB OUTBD)
+          F.S. 458.83 _.......,_ _ _ _ @-                                    (RH INBD)
+                                         I .
+
+
+
+                                                   ----11--NAC STA 42. 50
+
+
+
+
+                                               C===::J---1--NAC STA 28.17
+
+
+                           ..,___._ _ _ ____,...__ _--t - - NAC STA 20. 24
+
+
+
+
+                              · - - - - - - - - · - - - NAC STA 0.0
+
+
+                     Nacelle Structural station Diagram
+                                  Figure 6
+
+EFFEC::TIVITY: ALL                                                             6-00-02
+                                                                                Page 8
+                                                                              Dec 2/77
+                                              ~-
+
+                                  OAlEB LEARJET CORPOAA110N
+
+                   ■al■.1I-nan·II ■an■al
+           MAJOR STRUCTURAL MEM:BERS - DESCRIPTION AND OPERATION
+
+1.      General
+        A.   The location of some major s~ctural members are shown in figure 1.
+
+
+
+
+     Forward Pressure Bulkhead                            Aft Pressure Bulkhead.
+     F.S. 174.01                                          F. S. 381. 79 (25C & 25F Aircraft)
+                        Forward Edge of Door
+                        F. S. 233. 69 .
+                         F.S. 260.48 (24" Door)               Aft Pressure Bulkhead
+                         F. S. 272.41 (36" Door)              .F.·s.
+                                                                   421.41                         -I
+                                                              (25B & 25D Aircraft)
+
+
+
+
+                                              I   I
+                               DO O ' 0 I1 1I
+
+
+
+
+                       Floorboards                                     Engine ~eam
+                       F. S. 184. 78 to 346~ 63                        F.S. 458.84
+                       W. L. 5. 87 Constant                            Nae. Sta. 52. 35
+
+
+                   F. S. 165. 87 (Extended)
+                   F. S. 166. 87 (Static)
+                   F. S. 167 .13 (Deflated)
+                                                      F. S. 396. 03 (Extended)
+                                                      F. S. 396. 83 (StaUc)
+                                                      F. s. 397. 00 (with Nose Deflated)              I
+                             Major Structural Member Locations
+                                   Figure 1 (Sheet 1 of 2)
+
+EFFEC'l'IVITY: ALL                                                                         6-00-03
+                                                                                             Page 1
+                                                                                          Jul 17/81
+                                       ~
+                     •
+                                                ..
+                             GAlEB.LEARJ':f CORP0RA110N
+             111a1n111na·■•• ~. ■anal:-··,_·
+                                                          .
+                                                                            -.
+
+
+
+
+                                                 Baggage Compartment Floor
+                                                 W.L. 24.80
+                                                 F.S. 346.62 to-F.S .. 421.42 (25B·& 25D
+                                                 Aircraft) ..
+                                                                   s.
+                                                 F. s~ 346. 62 to F. 381. 79 (25C & 25F
+                                                 Aircraft)
+
+
+
+
+                         0
+
+
+
+
+                                                     Aft Keel ·Beam
+                                                     F. S. 421.42 to F. S. 458.84
+                                                     W.L. 7 •. 58·at Forward End
+       Keel Beam (Under Wing)                        W. L. 12. 97 at Aft End
+       F.S. 346.63 to F.S~ 421.42
+       W.L. 0.00 at Forward End
+       W. L. 7.58 at Aft End.
+
+
+
+
+                    Major Structural Member Locations
+                           Figure 1 {Sheet 2 of .2)
+
+EFFECTIVITY: ALL                                                                     6-00-03
+                                                                                      Page 2
+                                                                                    Dec 2/77
+

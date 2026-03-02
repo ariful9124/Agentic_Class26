@@ -1,0 +1,398 @@
+           @.
+■ain1iiiiiliPORAfflan11al
+
+    CHAPTER
+
+
+
+
+    IGNITION
+                                       Gates Leariet Corporation®>
+                         ■ain1enan1e ■anual
+   Chapter                                                         Chapter
+   Section                                                         Section
+   Subject                     Page              Date              Subject                    Page              Date
+
+  74-Title
+ ·14-List of
+      Effective Pages              1          Dec 10/82
+  7 4-Contents                     1          'Jul 17/81
+  74-00-00                         1           Jul 17/81
+ •74.00-00                         2          Dec 10/82
+ ·74.00-00                         3          Dec 10/82
+  74-30-01                      201            Jul 17/81
+  74-30-01                      202            Jul 17/81
+  74-30-01                      203            Jul 17/81
+  74-30-02                      201            Jul 17 i81
+
+
+
+
+  Insert Latest Revised Pages: Destroy Superseded or Deleted Pages.
+• Asterisk indicates pages revised. added or deleted by current revision.
+  The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                     74-LJST OF EFFECTIVE PAGES
+                                                                                                                Page 1
+                                                                                                             Dec 10/82
+                                                     @
+                                  •       GATES LEARJET CORPORATION
+
+                         ■a1n11■a■11 ■a■aal
+                                                                               Chapter
+                                                                               Section
+Subject                                                                        Subject         Page
+
+ IGNITION - DESCRIPTION AND OPERATION ••••••••••
+     Description • • • • • • • • . • • • • • • . • • • • . • • • • • • • •
+                                                                               74-00-00
+                                                                               74-00-00          1
+                                                                                                            I
+     Operation ••••••••••.•••••••.•.•.•••.••••                                 74-00-00          1
+
+
+                                                                                                            I
+     Throttle (Ignition) Switch - Maintenance Practices • • •                  74-30-01
+               Removal/Installation .•••••••••...••.....                       74-30-01        201
+              Adjusbnen.t/Test • • • • • • • • • • • • . • • • • • • • • • •   74-30-01        201
+          Air Ignition Switch - Maintenance Practices • • • • • . • •          74-30-02
+               Removal/Installation ••••••••.•••..•••••••                      74-30-02        201
+
+
+
+
+EFFECTIVITY: ALL                                                                         74 - CONTENTS
+                                                                                                  Pagel
+1111-98
+                                                                                                Jul 17/81
+                               Gates Learjet Corporation@
+                     ■ai11e■a ■1e ■a ■1al ·
+                         IGNITION - DESCRIPTION AND OPERATION
+
+1.       Description
+         A.   The ignition system operates on 24 vdc power and consists of an ignition
+              unit, ignition leads, igniter plugs, two air ignition switches and indicator
+              lights, two throttle (ignition) switches, and two 28 vdc circuit breakers.
+         B.   This chapter covers maintenance practices on the air ignition switches,
+              throttle switches, and the system circuit breakers. For maintenance
+              practices on the ignition unit, ignition leads, and igniter plugs, refer to
+              Engine ·Maintenance Manual.
+         C.    The igniter unit is a radio-noise-suppressed, high-voltage, capacitor-dis-
+               charge, intermittent-sparking-type unit. The ignition unit utilizes 28 vdc
+              input to provide 800 volts output to the igniter pl~gs. The system is capable
+              of continuous operation if° required by flight conditions. The unit provides
+              voltage to produce sparks at the approximate rate of two per second to each
+              igniter lead.
+         D.    The ignition leads are shielded, high-tension, flexible wires connecting the
+               ignition unit and igniter plugs.
+         E.    The igni1ion switches, on~ LH and one RH, are located within the control
+              pedestal. The switches are actuated by the thrust levers above cutoff to
+               70% rpm.
+         F. · The Air Ignition Switches, labeled L Am IGN and R Air IGN, are located on
+              the switch panel. The switches, normally in the OFF position, are used
+              when condi1ions require continuous ignition operation. An indicator light
+               (amber) above each ·switch illuminates when (1) the switch is set to ON, (2)
+              power is applied to the ignition unit thru the switch in the OFF position from
+              the left throttle switch, or (3) the TEST Switch on the lower LH edge of the
+               glareshield is depressed.
+         G.    The Air Ignition circuit breakers are located in the pilot's and copilot's
+               circuit breaker panels and are labeled L AIR IGN and R AJR IGN respec-
+               tively.
+
+2.       Operation (See figure 1)
+         A.   During a start mode of operation (LH Starter-Generator SWitch set to
+              START), 28 vdc is applied to relay (Kl) within the generator control box.
+              With relay Kl energized, 28 vdc from the fuel control panel (motive flow
+              valves energized closed) i-s applied to (1) the start control ·relay and (2) a
+              set of deenergized contacts on relay (K3). Twenty-eight (28) vdc is applied
+              thru the deenergized contacts of K3 to the N. O. side of the LH throttle
+              switch. As the thrust levers are advanced from CUTOFF to IDLE, the
+              throttle switch is actuated to the "ignition on range" (continuity) between N. 0.
+              and C. ). This applies 28 vdc thru the throttle switch and Left Air Ignition
+              Switch (in the OFF position) to the ignition unit on the engine. The Left Air
+              Ignition indicator light will illuminate. After the engine 1s started (ignition
+              becomes self sustaining), 28 vdc is removed from the throttle switch when
+
+
+EFFECTIVITY: ALL                                                                     74-00-00
+                                                                                        Page 1
+MM-911
+                                                                                     Jul 17/81
+                                 LJates Learjet Lorporanon =®
+                          •ain11nan11 •an11al
+                 the Starter-Generat.or Switch is set t.o GEN. The Left Air Ignition indicator
+                 light will extinguish. Operation of the RH side is identical except relays K2
+                 and K4 in the generat.or control box are utilized along with the RH throttle
+                 switch and the Right Air Ignition SWitch and indicator light.
+
+
+
+
+       r----------7
+        E167 SWITCH PANEL 39-40-02               ------'62FUGHTi'GNITIONGENERATOR -
+                                                       L_ _ _ _ _ _ _ _ _
+                                                                                        -    1
+                                                                                             J
+        S10
+        R AIR IGN
+
+
+
+
+         I   I
+                                                       .---------,
+                                                       I          I
+                                                           L AIR IGN       E67 PILOTS
+                                                                           C/8 PANEL
+                                                -----l I
+                                                       O L ESS
+                                                                          I24-50-01
+                                                    L __       _ _ _ _ __J
+                                                           _-SUS
+                                                             1
+
+
+
+
+        SIi          £I                     I          rGi LEFTIGNmON GENERATOR -7
+        L AIR IGN                           I
+       L _ _ !_~ ____ .....J                               ------------ _,______J
+
+
+
+
+I                           Ignition System Electrical Control Schematic
+                                        Figure 1 (Sheet 1 of 2)
+
+
+    EFFECTIVITY: 25-061, 25-070 THRU 24-229 AND 25-230 THRU                                  74-00-00
+
+
+I   MM-911
+                  25-;J41 A.ND 25-3-13 THRU 25-362 not modified
+                • per A:\fK ~1-12 (Installation of Engine Stall
+
+                  Warning Box n.ncl Air Datu Sensor>
+                                                                                               Page 2
+                                                                                            Dec 10/82
+                                   Gates Learjet Corporation@
+                            ■ain1enan1e                        manual
+          B.       On Aircraft 25-342, 25-363 and subsequent and prior aircraft modified per
+                   AMK 81-12 (Installation of Engine Stall Warning Box and Air Data Sensor),
+                   power is applied to the engine ignitors under stall warning conditions.
+                   (Refer to Chapter 77.)
+
+
+
+
+                                                                   r-;;:.;;;-- --;            6~ ~
+                                                                                             C/8 PANEL
+                                                                                                          7
+                             .-aw----_;_--+------------0
+                                                                   I
+                                                                BUS _ _
+                                                           RESS _
+                                                                                             24-~0-0I
+                                                                                                          _J
+                                                                                                            I
+                                                   L._ _ _ _
+
+
+
+
+  I   I            DSII
+
+           LAIR IGN
+                                                                   rI - - - - - - 7I
+                                                                       LAIR IGN
+                                                                         .,.;I._.
+                                                                                             E67 PILOTS
+                                                                                             C/B PANEL
+                                                                                             24-S0-01
+                                             LENGINE STALL                      0L ESS BUS                _j
+                                             f WARNING(77-31-00)   L-------
+                                                                   m!ONGENElaTOR - 7
+                   AIR..-
+SII
+LAIR IGN
+                             '-lllif-------=------------tf'G7 LITT
+                                                              _ _ _ _ _ _ _J
+L _ _OFF--------------.
+     _ _ _ _ _ _J
+               :
+
+
+
+
+                              Ignition System Electrical Control Schematic
+                                           Figure 1 (Sheet 2 of 2)
+
+
+EFFECTIVITY: 25-342, 25-363 AND SUBSEQUENT and prior                                               74-00-00
+             aircraft modified per AMK 81-12 (Installation of                                        Page 3
+MM-~..       Engine ·stall Warning Box and Air Data Sensor)                                       Dec 10/82
+                                               ~
+                            •        GAlES LEARJET CORPORATION      .
+
+                   ■a1n11nan·11 ■an11al
+           THROTTLE (IGNITION) SWITCH - MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+
+     NOTE:       The following procedures are applicable t.o either switch.
+
+     A.    Remove Throttle (Ignition) Switch (See figure 201)
+           (1) Remove knobs from thrust levers.
+           (2)   Remove attaching parts and pedestal cover.
+           (3)   Remove attaching parts and switches from pedestal.
+           (4)   Disconnect electrical wiring from switch. Tag wiring.
+     B.·   Install Throttle (Ignition) Switch (See figure 201)
+           (1)   Connect electrical wiring t.o switch.
+           (2)   Install switch and secure with attaching parts.
+           (3)   Install cover and secure with attaching parts.
+           (4)   Install knobs on thrust levers and secure.
+
+2.   Ad:iustment/Test
+     A.    Throttle (Ignition) Switch Adjustment (See figure 201)
+
+           CAUTION:         ADJUSTMENT OF THROTTLE SWITCHES MORE THAN 0. 25
+                            INCH (6. 35 mm) BELOW IDLE DETENT COULD RESULT IN
+                            SWITCH DAMAGE WHEN THRUST LEVERS ARE PLACED IN
+                            IDLE.
+
+           (1)      Retard LH and RH thrust levers approximately 0. 25 inch (6. 35 mm)
+                    below idle detent as measured along cont.our of pedestal cover. !Dck
+                    thrust levers in position by tightening friction knob.
+
+                    NOTE:       Setting thrust levers approximately o. 25 inch (6. 35 mm)
+                                below idle detent and adjusting throttle switches t.o actuate at
+                                this position assures that throttle switches will be properly
+                                actuated when thrust levers are in idle detent.
+
+                    CAUTION:        USE EXTRE:ME CAUTION WHEN REMOVING PEDESTAL
+                                    COVER SO AS NOT TO DAMAGE GO-AROUND SWITCH
+                                    WIRING. THESE WIRES ARE VERY SMALL AND
+                                    DELICATE AND CAN BE DAMAGED EASILY.
+
+           (2)   Remove attaching parts and carefully remove pedest.a.l cover. Do not
+                 disiurb thrust lever setting.
+           (3) . Connect ohmmeter t.o LH throttle switch terminals (N. o. and C. ).
+           (4)   lDosen throttle switch attaching parts and adjust switch for actuation
+                 (continuity between· N. O. and C. ). Tighten throttle switch attaching
+                 parts.
+
+
+EFFECTIVITY: ALL                                                                        74-30-01
+                                                                                        Page 201
+                                                                                       Jul 17/81
+                                       ~
+                        •   ~ GATES LEARJET CORPORATION
+
+               ■al■ll!■l■II! ·■a■11al
+         (5)   Perform steps (3) and (4) for the RH throttle switch.                       ,,.-~
+         (6)   Disconnect ohmmeter, install pedestal cover and secure with attaching
+               parts.
+         (7)   Disconnect attaching parts and remove fuel control panel from pedestal.
+         (8)   Disconnect connector Pll6 from receptacle.
+         (9)   Attach ohmmeter to pins Pl16-H and PliG-J. Move LH thrust lever to
+               CUTOFF then back to IDLE detent. Ohmmeter will show open circuit
+               at CUTOFF and continuity at IDLE.
+        (10)   Disconnect ohmmeter from Pl16-H and Pl16-J and connect to pins
+               P116-K and Pll6-A. Move RH thrust lever to CUTOFF then back to
+               IDLE detent. Ohmmeter will show open circuit at CUTOFF and conti-
+               nuity at IDLE.
+        (11)   Disconnect ohmmeter and connect eletrical connector to receptacle.
+        (12)   Install fuel control panel and secure with attaching parts.
+        (13)   Check that 2 to 1. 5 lbs (0. 90 to O. 68 Kg) of force is required to move
+               thrust levers with friction knob backed off completely against stop.
+        (14)   Check Go-Around function of flight director system (if applicable).
+
+
+
+
+EFFECTIVITY: ALL                                                              74-30-01
+                                                                              Page 202
+MM-98                                                                         Jul 17/81
+                                                ·~
+
+                             •         BATES LEARJET CDRPORA110N
+
+                  ■a1n11nan11 ■anual
+  Idle Position for Thrust Lever - - - - - -
+                                                                   .· . ' - - Approx. 0. 25 Inch
+                                                                              (6. 35 mm) below
+                                                                              idle measured
+                                                                              along centerline of
+                                                                              pedestal cover.
+         Gear Aural - -                                 ·--------- LH Thrust Lever (Ref)
+         Warning Switch
+
+
+                                                      ,_ _ _ _ _ Sector Assembly
+
+
+
+Throttle (Ignition) Switch                          - - - - Switch Plate Assembly
+(LSW25, LH; LSW26, RH)
+                                                   - - - - Thrust Cable
+
+             VIEW LOOKING INBOARD AT LEFT SIDE OF PEDESTAL
+
+                                                 Sector Assembly---,
+
+
+
+
+                                                                                    Thrust Lever
+                                                                                    (RH Shown)
+
+
+
+
+                                  .__ _ _ _ _ Switch Plate Assembly
+
+
+
+                        Throttle (Ignition) Switch (LSW25, LH; LSW26, RH)
+
+                                 ~ttle (Ignition) Switch Installation
+ 2-12c                                      Figure 201
+
+ EFFECTIVITY: ALL                                                                           74-30-01
+                                                                                            Page 203
+                                                                                            Jul 17/81
+                                         ~
+                         •      GA1E8 LEARJET CORPORATION
+
+                  ■1111111111 ■111111
+                Am IGNITION SWITCH - MAINTENANCE PRACTICES
+
+1.   Remova1/Installation
+
+     NOTE:     The following procedures are applicable to either switch.                       I
+     A.    Remove Air Ignition Switch
+           (1) Remove attaching parts and remove switch panel sufficiently to gain
+                 access to the Air Ignition Switch.
+           (2)   Disconnect electrical wifing from switch.
+           (3)   Remove'attachfng parts and switch from switch panel.
+     B.    Ins1all Air Ignition Switch
+           (1)   Ins1all switch and secure with attaching parts.
+           (2)   Connect electrical wiring to switch.
+           (3) Install switch panel and secure with attaching parts.
+
+
+
+
+     Left Air Ignition Switch                               Right Air Ignition Switch
+
+
+
+
+                         Air Ignition Switch and Indicator Light
+                                       Figure 201
+
+EFFECTIVITY: ALL                                                                   74-30-02
+                                                                                   Page 201
+                                                                                   Jul 17/81
+

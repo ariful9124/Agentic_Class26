@@ -1,0 +1,1644 @@
+              @.
+
+.■ain11nan11 ■anual
+     GATES LEARJET CORPOMTlON
+
+
+
+
+    CHAPTER
+
+
+
+
+FIRE PROTECTION
+                                    Gates Learjet Corporation@
+                           ■ai■1enana1                         n1an11al
+                                                                      RECORD OF TEMPORARY REVISIONS
+
+
+
+
+    Rev.        Date          Date          Page        Rev.       Date         Date       Page
+    No.       Inserted       Removed       Number       No.      Inserted      Removed    Number
+                           :Apr 30/82.   · .:26-20-00
+    26-1   -1 Mar 27/~B;                      Pg 2
+'                           ! Rev '914
+
+
+
+
+101•118
+                                           Gates Leartet Corporations
+                             ■ai■ll!ll■IIIII! ■a■■al
+      Chapter                                                      Chapter
+      Section                                                      Section
+      Subject                     Page              Date           Subject                    Page              Date
+        26-Tide
+        26-Record of Temp.
+           Revisions                              Apr 30/82
+      "26-List of
+           Effective Pages            1           May 25/84
+        26-Contents                   1            Dec 2/77
+        26-00-00                      1            Dec2/77
+        26-10-00                      1             Jan 5/78
+        26-10-00                      2             Dec 2/77
+        26-10-00                      3             Dec 2/77
+        26-10-00                      4           · Jan 5/78
+        26-10-00                      5             Jan 5/78
+        26-10-00                      6             Jan 5/78
+        26'-10-00.                    7             Jan 5/78
+        26-10-00                    201             Dec 2/77
+        26-10-01                    201             Dec 2/77
+        26-10-01                    202             Dec 2/77
+      "26-10-01                     203           May 25/84
+      "26-10-01                     204           May25/84
+      0
+        26-10-01                    205           May 25/84
+        26-10-02                    201             Dec2/77
+        26-10-02                    202             Dec 2/77
+~       26-10-03
+        26-10-03
+                                    201
+                                    202
+                                                    D~c 2/77
+                                                    Dec2/77
+        26-10-04                    201             Dec 2/77
+        26-20-00                      1             Dec 2/77
+        26-20-00                      2           Apr30/82
+        26-20-00                      3           Apr30/82
+        26-20-00                      4           Apr 30/82
+        26-20-00                    201             Dec 2/77
+      0
+        26-20-01                    201           May 25/84
+      0 26-20-01
+                                    202           May 25/84
+        26-20-01                    203             Dec 2/77
+        26-20-02                    201             Dec2/77
+        26-20-02                    202             Dec 2/77
+        26-20-02                    203             Dec 2/77
+        26-20-02                    204             Dec 2/77
+        26-20-03                    201             Dec 2/77
+
+
+
+
+      Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+    • Asterisk Indicates pages revised, added or deleted by current revision.
+      The portion of the text affected by the current revision Is indicated by a vertical line In the outer margin of the page.
+
+
+                                                                                        26-UST OF EFFECTIVE PAGES
+    MM-98                                                                                                    Page 1
+                                                                                                         May 25/84
+                                               ~
+                                   · GATES LEARJET CORPORATION ·· ··               ·
+
+                    ■aln11nan■1 ■an■al
+                                                                             Chapter
+                                                                             Section
+Subject                                                                      Subject
+
+GENERAL - DESCRIPTION AND OPERATION                    ...........              26-00-00
+    General ••••••••••••••••••••••••••••••••••                                  26-00-00        1
+DETECTION - DESCRIPTION AND OPERATION ••••••••••                                26-10-00
+    General ••••••••••••••••••••••••••••••••••                                  26-10-00        1
+    Description • • • • • • • • • • • • • • • • • • • • • • • • • • • • .• • •  26-10-00        1
+DETECTION - MAINTENANCE PRACTICES ••••••••••••                                  26-10-00
+    General ••••••••••••••••••••••••••••••••••                                  26-10-00      201
+    Trouble Sllootin.g • • • • • • • • • • • • • • • • • • • • • • • • • • • •  26-10-00      201
+FIRE DETECTION SENSING ELEMENT- MAINTENANCE
+    PRACTICES • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •     26-10-01
+    General • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 26-10-01      201
+    Removal/Installation • • • • • • • • • • • • • • • • • • • • • • • • •      26-10-01 .    201
+    Inspection/ Check • • • • • • • • • • • • • • • • • • • • • • • • • • •     2 6-10-01     202
+ARMED SWITCHES - MAINTENANCE PRACTICES • • • • • • • •                          26-10-02
+    General • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 26-10-02      201
+    Maintenance Practices • • • • • • • • • • • • • • • • • • • • • • • • . 26-10-02          201
+FlRE SWITCH - MAINTENANCE PRACTICES • • • • • • • • • • •.                      26-10-03
+    General • • • • • • • • • • • • • • • • • • • • • • . • • • • • • • • • • • 26-10-03      201
+    Removal/Installation • • • • • • • • • • • • • • • • • • • • • • • • •      26-10-03      201
+DETECTION CO~TROL UNITS - MAINTENANCE PRACTICES                                 26-10-04
+    General • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 26-10-04      201
+    Removal/Installation • • • • • • • • • • • • • • • • • • • • • • • • •      26-10-04      201
+EXTINGUISHING - DESCRIPTION AND OPERATION • • • • • • •                         26-20-00
+    General • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 26-20-00        1
+    Operation • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •   26-20-00        1
+EXTINGUISIIlNG - MAINTENANCE PRACTICES • • • • • • • • •                        26-20-00
+    General • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 26-20-00      201
+    Inspection/Check • • • • • • • • • • • • • • • • • • • • • • • • • • •      26-2 0-00     201
+EXTINGUISHING CONTAINER - MAINTENANCE PRACTICES •                               26-20-01
+    General • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 26-2 0-01     201
+    Removal/Installation • • • • • • • • • • • • • • • • • • • • • • • • •      26-20-01      201
+EXTINGUISHER CONTAINER CARTRIDGE - MAINTENANCE
+    PRACTICES • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •     26-20-02
+    General • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 26-20-02       201
+    Removal/Installation • • • • • • • • • • • • • • • • • • • • • • • • •      26-20-02       201
+FffiE EXTINGUISHER TWO-WAY CHECK VALVE -
+    MAINTENANCE PRACTICES • • • • • • • • • • • • • • • • • • •                 26-20-03
+    General • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 26-20-03       201
+    Removal/Installation • • • • • • • • • • • • • • • • • • • • • • • • •      26-20-03       201
+
+
+
+
+EFFECTIVITY: ALL                                                                       26 - CONTENTS
+                                                                                                Page 1
+                                                                                              Dec 2/77
+                                      ·~
+
+                       •     GAlES LEARJET CORPOFUfflDN
+
+                ■a1n11nan11                        manual
+                GENERAL - DESCRIPTION AND OPERATION
+
+1.   General
+     A. Aircraft fire protection consists of a detection and an extinguishing
+        system.
+     B. Engine fire detection is accomplished by sensing elements in each
+        engine area and is indicated by the fire warning lights on the glare-
+        shield.
+     C. Engine fire extinguishing is provided by two fire extinguishing bottles.
+        The contents of both bottles may be discharged to either engine or
+        one bottle to each engine. ·
+     D. A portable, hand operated~ fire extihguisher is mounted on the cabin
+        floor under the copilot seat.
+
+
+
+
+EFFECTIVITY: ALL                                                       26-00-00
+                                                                         Page 1
+                                                                       Dec 2/'l'l
+                                       ~
+                       ·      GATES LEARJET CORPORATION    ·    ··
+
+                 ■ain111nan1111 ■anual
+                DETECTION - DESCRIPTION AND OPERATION
+
+1.   General
+     A. The engine nacelles are equipped with a fire detection warning system.
+        The system consists of two control units, two sensing elements in
+        each engine area and two warning lights. The sensing elements in the
+        engine area are connected in series to form a sensing element assem-
+        bly.
+     B. A control unit, installed for each fire detection system, monitors
+        sensing element resistance. If sensing element resistance drops
+        below 350 ohms the control unit energizes the FIRE warning light.
+        A fire detect test switch is used to check system operation. With the
+        test switch set to TEST, a resistance is connected in the circuit.
+         This resistance, simulating an engine fire, lights the FIRE warning
+        lights.
+     C. On Aircraft certified for operation in Australia, an aural warning will
+         sound when the FIRE warning lights are illuminated. On Aircraft
+        which have incorporated AAK77-13, a FIRE-MUTE-NORM Switch is
+        provided to interrupt the aural fire warning. The FIRE-MUTE-NORM
+        Switch is located in the lower RH corner of the pilot's instrument
+        panel.
+     D. On Aircraft certified for operation in the United Kingdom, an aural
+        warning will sound and the master warning light will illuminate when
+        the FIRE warning light is illuminated.
+2.   Description
+     A. The fire detection sensing element assemblies are located in each
+        engine nacelle. One element is installed around the engine tailcone,
+        and the other is installed around the inside of the nacelle.
+     B. The fire detection control units are installed in the aft tailcone section.
+         The LH control unit is located on the LH electrical equipment tray and
+        the RH control unit is located on the RH electrical equipment tray.
+
+
+
+
+EFFECTIVITY: ALL                                                         26-10-00
+                                                                           Page 1
+                                                                          Jan 5/78
+                                      -~
+
+
+
+
+             ■at■1iiii■Taa■li■I·
+
+
+
+
+                                              I.
+                                              I
+                                              I
+                                             . I ..___ _ _...,_-J'\. v---e----""""'
+                                               L-- - - - - ~ - - __ .________ :.J
+
+
+
+
+              Aircraft Equipped with McGraw Edison Fire Detect System
+
+
+
+
+        Engine Fire Detection System Electrical Control Schematic
+                         Figure 1 (Sheet 1 of 2)                                      ,,-   \
+                                                                                        ~
+
+EFFECTMTY: ALL EXCEPT AUSTRALIAN AND                                    26-10-00
+           UNITED KINGDOM                                                 Page 2
+                                                                        Dec 2/77
+                                                  ~
+                           .•          GAlEB LEARJET CORPOMOON
+
+                      ■a111Ie11a1111 ■an■al
+
+                                                                  un CONTICIL UIUT
+                                                                  r------------;--i.
+                                                                  I
+                            ~~         ..,, ----tr.-,
+                            Ql!~_o------1 zz
+                                                          P%I'    I AT
+
+                            east        124
+                                         I                I       I I
+                                                          :       II
+                                                              C   I 1----+-....~1+-H
+                                               --+---II D I I
+
+                                                     •I       a I i-------e
+                                                ~ ; - - II        I~
+                                                    •I        :_1~
+                                                                  I      ~
+                                                                  I
+                                                                  I                        ~,
+                                                                  I
+                                                                  L_ ______ :_ ____ ~
+
+
+
+
+                                                                  lttllT COIITIIOL I.WIT
+
+
+
+
+ ~ Aircraft 25-070 thru 25-080 use pin MM
+    :in lieu of g,.
+
+
+                      Aircraft Equipped with Walter Kidde Fire Detect System
+
+
+
+
+            Engine Fire Detection System Electrical Control Schematic
+                       ·     Figure 1 {Sheet 2 of 2)
+
+EFFECTIVITY: ALL EXCEPT AUSTRALIAN AND                                                          26-10-00
+             UNITED KINGDOM                                                                     . Page 3
+                                                                                                Dec 2/77
+                                           ~
+                   •         O.tiTES LEARJET CORP0.RA110N
+
+            ■ill■lll■il■III! ■il■■al
+                              au!)10 m
+                                                NSO
+                                         .,,,t----f':17
+                                                        r------,I
+                        A-o-O---i----1---1 l    II !I
+                                                I
+                                                             I
+                                            •IJ-L:~---- ..!~J
+
+                                                        lEFT COHTROL UHIT E t•9
+                                                Pll!,t'1 ______ -                            ------- _   -,
+                       o--+--1----+--~ II I
+                                      I '!I I
+                                                I   'Ii
+                                            •IH 'I          D
+                                                I 1 1 "►L
+                                                 ,IH_
+                                                      I I       C
+
+                                                I II
+                                         - -..... 41
+                                              H 11
+                                             •I '-•~
+                                                        I                  im
+                                                        I
+
+                                                        II,_,_----------------~I
+                                                                ----~n--a1----'H
+
+
+
+
+                                                        I                  ••
+                                                        I                                                      I
+                                                        I.
+                                                        L--- - - - -nr---------"
+                                                                     - - - ______ JI
+                                                            ••T COIITIOI. UIIIT r 110
+                                                 P41D
+                                  ..__ _ _ _ _ • , ,
+                                                        r------,I         (Ht
+
+
+                                                   •I '
+                                                 '->r'                                  II
+                                                        L-------~
+               Aircraft Equipped with McGraw Edison Fire Detect System
+
+        Engine Fire Detection System Electrical Control Schematic
+                         Figure 2 (Sheet 1 of 2)
+
+
+I
+EFFECTIVITY: AmCRAFT CERTIFIED FOR
+             OPERATION IN THE UNITED KINGDOM
+                                                                                                   26-10-00
+                                                                                                     Page 4
+                                                                                                   Jan 5/'18
+                                             •
+                                                                   ®>.
+                                                          GATES LEARJET CORPORATION                                        .
+
+                                  -a1n11na■■1 ■a■11al
+
+
+
+
+                                                                                   r:-- - - - - - - - - - ,
+r----. . .
+1llllllT b1IDll
+_t'l1I£ DITE~ l'ffflll
+
+
+
+11111
+L!------~
+                              Pl4
+
+                         --r,-; a-------+-+...
+                           '14-'
+                                                                    -----•1
+                                                                          I
+                                                                          I II
+                                                                              PU
+                                                                              -
+                                                                                   lfl
+
+                                                                                   II
+                                                                                                ltl
+                                                                                           ~-+--+--+--t----~
+                                                                                                            RI       Ill       115          1111   I
+                                                                                                                                                   I
+                                                                                                                                                     I
+                              P1SI   ,1111                                    C    I        I                                        ---H          I
+r.;;au"Gll,-T~'.                                          '-+-+----- D 1                    ,
+I ="'OL                       I                         :i~               I        I I      :CRI                     '---------                    I
+I                             Ill .
+ L ___ _.1 ~.,,---..-....=-------,,-J--L:
+                          I                      1.5:                  •IH • 1      B '
+                                                                                                             -~--..-__,.,
+                                                                                                          e-t----ft----1
+                                                                                                                                                   II
+                                                 H!II                              I
+                                                                                   I
+                                                                                         n-!...
+                                                                                         - :.-
+                                                                                   1                             v-+--",A.,......___               I
+                                                                                   IL-
+                                                                                     _____________
+                                                                                       --~         :.JI                04
+
+
+                                                                                   IIINT CDIITIOL lllff
+
+
+                                                                _ _ _...,o
+                                                                       ;,;---------,I
+                                                                              •1,J .                  .          I
+                                                                                   L-----
+                                       Aircraft Equipped with Walter Kidde Fire Detect System
+                                                                                                          1u1._J
+
+
+
+
+                         Engine Fire Detection System Electrical Control Schematic
+                                          Figure 2 (Sheet 2 of 2)
+
+
+I
+EFFECTIVITY: AIRCRAFT CERTIFIED FOR
+             OPERATION IN THE UNITED KINGDOM
+                                                                                                                                       26-10-00
+                                                                                                                                            Page 5
+                                                                                                                                       ·Jan 5/78.
+                                          ~
+                      •        GA1E8 LEARJET CORPDRAnDN
+
+              ■a1■1■■a.■■1 · ■a■■a-1
+
+
+
+
+                    Aircraft Equipped With McGraw Edison Fire Detect System
+
+
+·1    ~P'145 becomes 2P'145 on Aircraft Modified per AAK'1'7-13
+
+          Engine Fire Detection System Electrical Control Schematic
+                           Figure 3 (Sheet 1 of 2)
+
+ EFFECTIVITY: -A/C CERTIFIED FOR                                              26-10-00
+               OPERATION IN AUSTRALIA                                           Page 6
+                                                                              Jan 5/78
+                      •
+                                           ~
+                               GATES LEARJET CORPORA11DN .            ,       .   .. . -
+
+              ■ill■ll■il■II ·■il■llill
+
+
+
+
+                                                       lltHT COITIIOL \Jiff
+
+
+
+
+                  Aircraft Equipped with Walter Kidde Fir~ Detect System
+
+
+  ~ P745 becomes 2P745 on Aircraft Modified per AAK77-13
+
+
+
+         Engine Fire Detection System Electrical Control Schematic
+                          Figure 3 (Sheet 2 of 2)
+                                                                                                      I
+EFFECTIVITY: A/C CERTIFIED FOR                                                             26-10-00
+             OPERATION IN AUSTRALIA                                                          Page 7
+                                                                                           Jan 5/78
+                                                   ~
+                         -      •      GATES LEARJET CDRPDRAllON                    _
+
+                      --a1■11■a■111 ■a■ual
+                          DETECTION - MAINTENANCE PRACTICES
+
+1.   General
+     A. Maintenance practices of the detection system consists of replacement
+        of a defective component.
+
+2.   Trouble Shoot~
+     A. See figure0l for trouble shooting procedures.
+               (1) This figure is provided as an aid in isolating troubles in the fire
+                    detection system.
+
+                                             WITH NORMAL VOLTAGE
+                                             INDICATED AND CDtCUIT
+                                             BREAKERS PROPERLY
+                                             POSITIONED - IF
+                                                         I
+                         I                               I                                I
+                                              "Fm.E'' WARNll'iG LIGHT
+               FALSE ALARM WITHOUT            DOES NOT LIGHT WHE,"              FALSE ALARM WITH HEAT
+               HEAT.                          TEST SWITCH JS SET TO
+                                              TEST.
+
+                         I
+                INSPECT SENSING ELE-
+                                                         I                               I
+                                                                                INSPECT SENSINU £LE-
+
+      -         MENT FOR BROKEN OR
+                DAMAGED ELEMENTS
+                AND/OR CONNECTORS.
+                IF
+                                       -      CHECK BULB IN READ-
+                                              OUT PANEL, IF             -       MENTS uEDIU LOCATED
+                                                                                TOO CLOSE TO t-:ORMAL
+                                                                                ENGlNE HOT SPOTS, IF
+
+
+
+               NOT OK, REPAIR OR RE-
+      -        PLACE DAMAGED OR
+               BROKEN ELEMENTS
+               AND/OR CONNECTOR$.
+                                       -     NOT OK, REPLACE :3ULB.     i.-       NOT OK, REROUTI!':
+                                                                                  SENSING ELEMENTS.
+
+
+
+
+                                       ---
+                                                                                 OK, VERIFY cmCUIT
+      ......    OK, VERIFY CDtCUIT           OK, VERIFY CIRCUIT         .....
+      -         FROM ELEMENTS TO
+                CONTROL UNlT. IF
+                                             FROM TEST SWITCH TO
+                                             CONTROL UNIT. IF           -
+                                                                                 FROM SENSING ELE-
+                                                                                 MENTS TO CONTROL
+                                                                                 UNIT.
+
+
+
+
+      -        OK, REPLACE CONTROL
+               UNIT.                   -     OK, REPLACE CONTROL
+                                             UNIT.
+                                                                        1-,     OK, REPLACE CONTHvL
+                                                                                UNIT.
+
+
+
+
+      -        NOT OK, REPAIR OR RE-
+               PLACE CIRCUIT AS RE-
+               QUIRED.                 --
+                                              NOT OK, REPAIR OR RE-
+                                              PLACE CIRCUIT AS RE-
+                                              QUIRED.
+                                                                        ...     NOT OK, REPAIR OR RE-
+                                                                                PLACE cmcuIT AS RE-
+                                                                                QUIRED.
+
+
+
+
+                             Fire Detection System Trouble Shooting
+                                            Figure 201
+
+E FFECTIVI'.fY: ALL                                                                                  26-10-00
+                                                                                                     Page 201
+                                                                                                     Dec 2/77
+                                              ~
+                             •   .   GA1ES LEARJET CORPORATION _
+
+                        ■a1■11■a■11 - ■anual
+         FIRE DETECTION SENSING ELEMENT - MAINTENANCE PRACTICES
+    1.   General
+         A. Each engine nacelle fire sensing element assembly consists of two
+            segments. The element is attached to the nacelle by hinge-type
+            clamps. The outer part of the element is Inconel metal -tubing which
+            encloses a thermistor core (a ceramic material) containing internal
+            wires. During standby conditions, a small difference in potential is
+            applied across the thermistor. The ceramic material has a negative
+            coefficient of resistance with respect to temperature. The electrical
+            resistance decreases as temperature increases. During normal
+            ambient temperature, the core resistance is relatively high· and there
+            is small current flow across the_ core. An increase in heat produces
+            a decrease in resistance of the ceramic material allowing incre~sed
+            current flow. This signal is applied to the fir~ detection system con-
+            trol unit.
+         B. Fire detection sensing element removal and installation procedures
+            are typical for both engines.
+
+    2.   Removal/Installation                   _
+         I',.
+            Remove Fii:-e Detection Sensing Element ·(See figure 201)
+
+~               NOTE:   Use extreme care during removal not to twist, kink or
+                        dent sensing element.
+
+                (1) Disconnect sensing element at connectors.
+                (2) Using a screwdriver, turn the screws on the hinge type clainps
+                    until clamp ·releases.
+                (3) Carefully remove sensing eiements.
+         B.     Install_ Fire Detection Sensing Elements (See figure 201)
+
+                CAUTION:     CAREFUL ATTENTION SHOULD BE PAID TO ELEMENT
+                             ROUTING THOUGH ITS ATTACHING CLAMPS. THE
+                             ELEMENT SHOULD BE CENTERED IN THE CLAMP OR
+                             GROM:METTHROUGHOUTITSLENGTH. ITISNOT
+                             ENOUGH THAT IT HAS CLEARANCE FROM THE.
+                             CLAMP. IT SHOULD EXERT EQUAL PRESSURE ON
+                             THE SPRING OR GROMMET IN ALL DIRECTIONS WHEN
+                             PASSING THROUGH A CLAMP. ANY TENDENCY. TO
+                             PRESS THE GROMMET-AGAINST THE CLAMP IN ONE
+                             DIRECTION COULD EVENTUALLY CAUSE A FALSE
+                             FIRE WARNING~ USE EXTREME CARE NOT TO '!WIST
+                             KINK OR DENT SENSING ELE:MENT.
+                (1) Position element, with grommets attached, in hinge clamp.
+
+
+    EFFECTIVITY: ALL                                                        26-10-01
+                                                                            Page 201
+                                                                            Dec 2/77
+                                         ~
+                         •      GATES LEARJET CORPORmtON
+
+                  _a,nl■■a■■I! ■-a■■al,
+            (2) Close hinge clamp assuring that element and grommet is centered
+                in clamp. Turn screw in clamp securing clamp in place.
+            (3) Connect sensing element connectors.
+
+3.    Inspection/Check                                       .      ·
+      A. The following procedures are provided. as- an aid in determining the
+          ·condition of the fire detection sensing elements. These procedures
+           may also be used on new elements prior to installation.
+      B. Resistance checks are to be performed on elements with the elements
+           stabilized to ambient temperature. Therefore the engine must be ·
+           cooled completely.
+      C. Tools and Equipment ·
+
+     NAME               PART NO.                  MANUFACTURER
+
+Megohmmeter         Model L-7 or L6B          Industrial Instruments Inc.
+                                              Cedar Grove, N.J.
+
+
+
+      D.    Inspection/Check
+            (1) Perform inspection/check of McGraw-Edison Fire Detect Sensing
+                Elements.
+                {a) Remove lower engine nacelle to gain access to sensing
+                     elements.
+                {b) Disconnect sensing elements to be tested at connectors.
+
+                    NOTE:    There is no need to remove the elements from the
+                             aircraft for testing.
+
+                {c) Inspect the ·center pins and contacts at the end of the sensing
+                     element to see that they are properly centered. Inspect for
+                     foreign material and/ or contamination in the recesses ar·ou.nd
+                     the pins and contacts.
+                {d). Connect ohmmeter from the center pin on one end of the ele-
+                     ment to the center pin on the other end of the element. The
+                     forward conductor resistance for the firewall element shall
+                     not exceed 8. 7 ohms. The aft conductor or resistance for the
+                     tail cone element shall not exceed 2. 9 ohms.
+                (e) Connect megohmmeter positive lead to the element center pin
+                     and negative lead to the element sheath~
+                (f) Apply 100 vdc test voltage and take instrument readings as
+                     soon as it stabilizes (not to exceed 20 seconds after first
+                     application of test voltage). Minimum resistance. reading for
+                     the forward and aft elements is 1. 4 megohms.
+
+
+EFFECTMTY: ALL                                                              26-10-01
+                                                                            Page 202
+                                                                            Dec 2/77
+                                  ~
+                   •     GAlES LEARJET CORPORmtON
+
+            ■a1n11nan11 ■anual
+              NOTE:    Any sudden or momentary shifts· in instrument
+                       reading are indicative of breakdown.
+          (g) Replace sensing elements which have a lower resistance
+              reading than those specified in step (f).
+          (h) Replace sensing elements which have an indication of break-
+              down.
+          (i) Connect sensing elements to aircraft wiring.
+          (j) Install lower engine nacelle.
+
+
+             A   B
+
+
+
+
+                                                      Upper Nacelle Element
+                                                             Connector Joint Bra
+                                                                   per Ele
+
+
+
+
+                                                                              Aft Element
+
+                                                    Aircraft Wiring
+
+
+
+            ,d-Grommet
+                                            -A-                  ---c---
+                                                 Aircraft Wiring
+          ~ H i n g e Clamp
+             D----
+                                                                      L  Aft Element
+
+                                       Connector Joint Bracket
+
+                                     ------a------
+              Fire Detection Sensing Element Installation
+                              Figure 201
+
+EFFECTIVITY: ALL                                                               26-10-011
+MM-98                                                                          Page 203
+                                                                              May 25/84
+                           Gates Learjet Corporation@
+
+                n1ain1enan1e man■al
+        ( 2)   Perform inspection /check of Walter Kidde Fire Detect Sensing
+               mements
+               (a) Remove lower engine nacelle to gain access to sensing elements.
+               (b) Disconnect sensing elements to be tested at ~onnectors.
+
+                      NOTE: There is no need to remove the elements from the
+                            aircraft for testing.
+               ( c) Inspect the center pins and contacts of the end of the sensing
+                    element to see that they are properly centered. Inspect for
+                    foreign material·· and/or contamination in the recesses around
+                    the pins and contacts.
+               ( d) Co,inect ohmmeter from the center pin on one end of the ele-
+                    ment to the center pin on the other end of the. element. The
+                    forward conductor resistance for the firewall element shall not
+                    exceed 14. 8 ohms. The aft conductor or resistance for the
+                    tailcone element shall not exceed 5. 0 ohms.
+               (e) Connect megohmmeter positive lead to the element center pin
+                    and negative lead to the element sheath.
+               (f) Refer to Table I for test voltage and minimum resistance.           I
+                    Apply test voltage and take instrument reading as soon as it
+                    stabilizes (not to exceed 20 seconds after first application -of
+                    test voltage).
+                      NOTE: Any sudden or momentary shifts in instrument
+                            reading are indicative of breakdown.
+               (g) Replace sensing elements which have a lower resistance than -
+                   those indicated in Table I or which have an indication of
+                                                                                       I
+                   breakdown.
+               (h) Connect sensing elements to aircraft wiring.
+               (i) Install lower engine nacelle.
+
+
+
+
+EFFECTIVITY: WALTER KIDDE ELEMENTS                                        26-10-01
+MM-98                                                                     Page 204
+                                                                         May 25/84
+                  .      Gates Learjet Corporation@
+                  ■ai■l■nan■e ·■an■al
+
+                        TEMPERATURE               TEST           MINIMUM
+        ELEMENT             (OF)                VOLTAGE         RESISTANCE
+
+Aft Nacelle Element         68°               350 - 500 vdc     1. 640 megohms
+(P /N 872281)               72°               350 - 500 vdc     1. 450 megohms
+                            '160              350 - 500 vdc     1. 2'16 megohms
+                            80°               350 - 500 vdc     1.120 megohms
+                            84°               350 - 500 vdc      • 990 megohms
+                          . 88°               350 - 500 vdc      • 868 megohms
+                            92°               350 - 500 vdc      • '162 megohms
+                            96°               350 - 500 vdc      • 6'10 megohms
+                           100°               350 - 500 vdc      • 590 megohms
+
+
+Forward Nacelle             68°               350 - 500 vdc ·   • 38'16 megohms
+ Element (P/N 875135)      720                350 - 500 vdc     • 3403 megohms
+                           '160               350 - 500 vdc     • 3000 megohms
+                           80°                350 - 500 vdc     • 2663 megohms
+                           84°                350 - 500 vdc     • 2346 megohms
+                           88°                350 - 500 vdc     • 2063 megohms
+                           92°                350 - 500 vdc     • 182'1 megohms
+                           96°                350 - 500 vdc     .1611 megohms
+                          100°                350 - 500 vdc     .1422 megohms
+
+
+                                         TABLE I
+
+
+
+
+                                   Resistance Chart
+                                     Figure 202
+
+EFFECTIVITY:      WALTER KIDDE ELEMENTS                                   26-10-01
+MM-98
+                                                                          Page 205
+                                                                        May25/84
+                                       ~
+                       •      GAlES LEARJET CORPORATION   ,
+
+                 ■a1n11nan■1 ■an-■al
+               ARMED SWITCHES - MAINTENANCE PRACTICES
+
+1.   General
+     A. A pair of ARMED Switches is located at each end of the glareshield
+          warning light panel. These switches are the momentary push-on type.
+     B.   Maintenance practices of the AR:rvtED Switches include light bulb re-
+          placement and removal and installation of the switch.
+
+2.   Maintenance Practices
+     A. Replace ARMED Switch light bulbs as follows: (See figure 201)
+         (1) Pull FIRE EXT circuit breaker.
+         (2) Grasp lens portion of the switch and pull straight out. Lens will
+              pull out of switch assembly.          ·
+         (3) Extract old bulb(s) and remove lens cap(s) (if installed). Install
+              lens cap on new bulbs and install.
+         (4) Press lens back into switch assembly.
+         (5) Depress FIRE Switch. The red shutoff valve lights, just inboard
+              of the FIRE Switch, will be lighted and both ARMED Switches
+              should illuminate.
+         (6) Depress Fm.E Switch. The red shutoff valve lights and the
+              ARMED Switches will go out.
+         (7) Reset Fm.E EXT circuitbreaker.
+     B. Remove ARMED Switch as follows: (See figure 201)
+         (1) Pull FIRE EXT circuit breaker.
+         (2) Grasp lens portion of the. switch and pull straight out. Lens will
+              pull out of switch assembly.
+         (3) Using a small sc;rewdriver turn the screw, just inside of the
+              switch bezel, counterclockwise until catch rotates inside of switch.
+         (4) Pull switch straight out and disconnect electrical wiring.
+     C. Install ARMED Switch as follows: (See figure 201)
+         (1) Connect electrical wiring to switch. ·
+         (2) Rotate catch inside of switch and push switch into glareshield.
+         (3) Rotate screw clockwise so that catch rotates out of the switch.
+              Tighten screw.
+         (4) Press lens into switch assembly.
+         (5) Depress FIRE Switch. The shutoff valve lights, just inboard of
+              the FIRE Switch will be lighted and both ARMED Switches should
+              illuminate.
+          (6) Depress FmE Switch. The red shutoff valve lights and the
+              ARMED Switches will go out.
+          (7) Reset Fm.E EXT circuit breaker.
+
+
+
+
+EFFECTIVITY: ALL                                                        26-10-02
+                                                                        Page 201
+                                                                        Dec 2/77
+                                              ~
+                         •
+
+               ■a1■111■a■■• -                       •••••-1-
+                               GATES LEARJET CORPOMTION
+
+
+
+
+Armed &'Witch Assembly
+
+
+
+                                                                    'Ill
+
+                                                                       '
+
+
+
+                                                     ./
+                                              Fire SWitch
+
+                                  ,,--'
+                                          /
+                                                            Catch
+
+
+
+                                                                    Lens Assembly
+
+
+
+
+                             Armed Switch Installation
+                                   Figure 201
+
+EFFECTIVITY: ALL                                                           26-10-02
+                                                                           Page 202
+                                                                           Dec 2/77
+                                      ~
+                             GATES LEARJET CORPORATION   .
+
+                •ai1111■a■111. ■a■■al
+                 FIRE SWITCH - MAINTENANCE PRACTICES
+
+1.   General
+     A. A FIRE Switch is located adjacent (inboard of each pair of ARMED
+        Switches to the left and right of the glareshield warning lights.
+     B. Light bulb replacement is accomplished by sliding the cover off the
+        switch and pulling straight on the lens.
+
+
+         WARNING: WHEN WORKING WITH THE FIRE SWITCHES USE EX-
+                  TREME CARE N:OT 'IO DEPRESS EITHER OF THE
+                  ARMED SWITCHES.
+2.   Removal/Installation
+     A. Remove Fire 'Switch {See figure 201)
+        (1) Lower tailcone access door and disconnect aircraft batteries.
+        (2) Pull both fire extinguisher circuit breakers.
+        (3) Remove metal panel on under side of glareshield, and disconnect
+            wiring from switch assembly.
+
+             NOTE:    The entire switch assembly consists of a housing which
+                      contains the bulbs, lens and connections for the light
+                      wiring. · A switch module attached to the end of the
+                      housing by spring clips completes the switch assembly.
+
+         (4) Insert a small screwdriver under edge of switch and pry out on
+             switch assembly and remove switch assembly through front of
+             glare shield.
+     B. Install Fire Switch (See figure 201)
+        (1) Insert switch assembly through opening in the front of the glare-
+             shield.
+        (2) Connect electrical wiring to switch assembly.
+        (3) Snap switch assembly into glareshield. ·
+        (4) Install metal plate beneath glareshield and secure with attaching
+             parts.
+        (5) With fire extinguisher circuit breakers pulled, connect aircraft
+             batteries.
+        (6) Check that both ARMED Switches and the shutoff valve indicator
+             light (pinhead light adjacent to the FIRE Switch) are illuminated.
+        (7) Depress FIRE Switch AR:MED Switches and the shutoff valve light
+             will go out.
+        (8) Reset FIRE EXT circuit breaker.
+        (9) •Secure tailcone access door.
+
+
+
+
+EFFECTMTY: ALL                                                        26-10-03
+                                                                      Page 201
+                                                                      Dec 2/77
+                                      ~
+             .     .•        GAlEB LEARJET CORPORA11ON
+
+                 •a1■:1ana■■·• ••■■al
+
+
+
+
+                                                                '·
+
+                                                              --J
+
+
+
+
+Armed Switches
+
+
+
+                        Fire Switch Assembly
+
+
+                                                         Lens Assembly
+
+
+
+
+                           Fire SWitch Installation
+                                 Figure 201
+
+
+EFFECTIVITY: ALL                                                         26-10-03
+                                                                         Page 202
+                                                                         Dec 2/77
+                                       ~
+                         •     GAlES 1£A~ET CORPmUmON         .
+
+                  ■a11111a111 ■a■ual
+           DETECTION CONTROL UNITS - MAINTENANCE PRACTICES
+1.     General
+       A. The fire detection control units are installed on the RH and LH elec-
+          trical equipment trays in the tailcone. The LH control. unit i~ located
+          on the LH electrical equipment tray. The RH control unit is located
+          on the RH electrical equipment tray.
+2.     Removal/Installation
+       NOTE:    The following removal and installation procedures are identical
+                for both control units.
+       A. Remove Fire Detection Control Units
+          (1) Lower tailcone access door.
+          (2) Disconnect aircraft batteries.
+          (3) Disconnect electrical plug from applicable control unit.
+          (4) Loosen and remove attaching parts and control unit from equip-
+               ment tray.
+       B. Install Fire Detection Control Unit
+          (1) Install control unit and secure with attaching parts.
+          (2) Connect electrical plug to control unit.
+          (3) Connect aircraft batteries.
+          (4) Raise and secure tailcone access door.
+
+
+
+                                                              Fire Detection Control Unit
+
+
+
+
+     RH ELECTRICAL EQUIPMENT TRAY                 LB ELECTRICAL EQUIPMENT TRAY
+
+
+
+
+                  Engine Fire Detection Control Unit Installation
+                                     Figure 201
+
+EFFECTIVITY: ALL                                                              26-10-04
+                                                                              Page 201
+                                                                             Dec 2/77
+                              Gates Learjet Corporation@
+                      ■1in1■n1n1■ ■anaal
+                   EXTINGUISHING - DESCRIPTION AND OPERATION
+
+1.       General
+         A. Aircraft fire extinguishing consists of a portable, hand-held fire ex"".'
+            tinguisher for cabin use and an engine fire extinguishing system.
+         B. The engine fire extinguishing system, installed in the tailcone equip-
+            ment secti9n, provides fire extinguishing capabilities for each engine
+            nacelle. The system consists of the following: two containers, a
+            thermal discharge ind~cator, a manual discharge indicator, push-
+            button type switches, and two two-way check valves. Access to the
+            fire extinguishing system is through the tailcone access door. A
+            periodic check should be made to assure that container pressure is
+            mai_ntained at a normal operating range.
+
+2.       Operation (See figures 1 and 2)
+         A. · Depressing the left FmE Switch closes the left engine main fuel and
+              hydraulic shutoff valves and energizes and lights the two ARMED
+              switches adjacent to the FIRE Switch and the shutoff valve indicator
+              light (pinhead light adjacent to the FIRE Switch). Depressing the in-
+              board ARMED Switch (switch light will go out) applies 28 vdc to the
+              applicable cartridge on the left container. On Walter Kidde fire ex-
+              tinguishers the exploding cartridge ruptures the container seal and
+              releases the charge of extinguishing agent to the left nacelle. On
+              American Standard fire extinguishers, the exploding cartridge breaks
+              a housing which mechanically holds a piston-type seal. The seal is
+              blown out by bottle pressure releasing extinguishing agent to the left
+              nacelle. A two-way check valve installed in the plumbing between the
+              containers prevents tlie charge from entering the second container.
+              If a second charge of extinguishing agent is required, the remaining
+              ARMED switch is depressed thereby exploding the applicable cartridge
+              in the right container, releasing the extinguishing agent charge to the
+              left nacelle.
+
+              NOTE:    This procedure describes operation of the fire extinguishing
+                       system for the left nacelle. Operation of the system for the
+                       right nacelle is identical.
+
+         B.   The thermal discharge valve, one located in each bottle, is designed
+              to relieve bottle pressure when bottle temperature reaches 102. 8°C
+              (217°F).
+
+
+
+
+EFFECTIVITY: ALL                                                              26-·20-00
+                                                                                Page 1
+ MM-98
+                                                                             ·nee 2/'l'l
+                          Gates Learjet Corporatiooe
+                 ■ai■ll!■il■■I! ■.a■■al
+
+
+
+
+                                                                                            -,
+                                                                                               I
+                                                                                               I
+                                                                                               I
+                                                                                               I
+                                                                                               ·I
+                                                                                               I
+                                                                                               I
+                                                                -------41!98
+                                                                                               I
+                                                                                        I      I
+                                                                                        I      I
+                                                                       RH
+                                                                       FIAi EXT
+                                                                       8Cll'TI.£
+                                                                                    j
+                                                                                        L.._
+                                                                                               IJ
+
+               Engine Fire Extinguisher Electrlcal Control Schematic
+                              Figure 1 (Sheet 1 of 2)
+
+
+EFFECTIVITY: 25-061, 25-0'10 thru 25-188 and 25-191                                26-20-00
+                                                                                     Page 2
+                                                                                   Apr30/82
+                          Gates Learjet Corporation@
+               ·main11na■■11. man■a-1
+
+
+
+
+                                                                                    -,I
+                                                                                           I
+                                                                                           I
+                                                                                           I
+                                                                                           I
+                                                                                           I
+                                                                                           I
+                                                                                           I
+                                                                                           I
+                                                                                           I
+                                                                                           I
+
+
+
+                                                                              QJ
+                                                                                I
+                                                                                I
+                                                                                I
+                                                                   IIH
+                                                                   FUil EIT
+                                                                                I
+                                                              '-------~,
+                                                                   ecmu:
+
+                                                                      ce___ J
+
+               Engine Fire Extinguisher Electrical Control Schematic
+                              Figure 1 (Sheet 2 of 2)
+
+
+EFFECTIVITY: 25-189, 25-190, 25-192 and Subsequent                            26-20-00
+MM-98
+                                                                                Page 3
+                                                                              Apr 30/82'
+                            ~ s Learjet Corporation~
+                     mainl11na11111 ■an■al
+
+
+
+
+             BEJ          FIRE                i) Q)
+                                               (I)
+                                                      FIRE
+
+
+
+
+            LH                                                      RH
+          NACELL.£                                               NACELLE.
+
+
+
+
+                            THER1W.
+                            DISCHARr£
+                            IMOICATOR
+
+
+
+                           0
+
+                     Engine Fire Extinguisher System Schematic
+                                      Figure 2
+
+  EFFECTIVITY: ALL                                                    26-20-00
+. MM-98                                                                 Page 4
+                                                                      Apr 30/82
+                                                                                          ~
+                                                                  GATES LEARJET CORPORMIDN
+
+                             ■ain11nan11 ■an■al
+                          EXTINGUISHING - MAINTENANCE PRACTICES
+
+1.   General
+     A. The fire extinguisher container must be removed and a weight check
+        performed in accordance with the ti,ne interval specified in 5-10-03.
+        The container should conform with manufacturer's weight as indicated
+        by container placard. If container weight does not conform, the con-
+        tainer should b.e replaced.
+
+2.   Inspection/Check
+     A. A periodic. check should be made to assure that container pressure is
+         maintained at a normal operating range. A pressure gage mounted on
+         each container indicates the psi charge of the container. See figure
+         201 for normal operating range.
+
+
+
+          fBOOr---,---;r---r--,-,--W~A-L-T~E-R_KID_D_E_P~/N-8-92_1_8_7-r--....---r--r---.-_-.~
+           ' '1001--+-t--........___._....__ _.,..._--;----jt----!-"-----t--t---+-+--+--f,,-::=,,.-fll=~
+          tJ           CONTAINER CHARGE:                                             ~ i...-- --
+          i 6001----t--t NORMAL OPERATIONAL-i---r--+----l-+----i---+=...t-.::::;.-l-"""4--1----1
+          "'             RANGE           \.                . i__.;,;.. . - - -
+          : sool--+-tl---r--...--"T""""-r-~+d-=~~:;;;...4----4-_+---l-----l~-I--I
+
+
+          F- ==~ - =· ~,
+          !lo                                                  ...........; •. ,•••   ;,:::•~~~t·:,.-.-
+
+
+           ! 200
+                                                                                                            \-{=?~~~Eh. -
+           ~1001----t-----,1--+---+-+--+-+--+-~l---+--+-+--+-+--+-~l---+---I
+           ~
+           u o_,~o-"---.s~o------•30_....____""10-"---1~0_.....,__...,30-..i....-'"so-"--~,~o-'-...9~0-..1---11~0
+                                                                   BOTTLE TEMPERATURE - °F
+         61
+         P..    800--------~------------.----r-....--"""""'-
+         ~ 7001 1--1--l---l---,;.:AM:=::;E=:RI=C:;AN=..:...;.ST.=:AND~:..;A:.::RD;.=-..::;P.,:../.:.:N..;3;.:0.::.40.:..;2::...l.:..02:.--+--,-::6··:;4··' ' :l.i':,~t~!;;?1~~~i~.:. .if
+         i      600                                                                                                                          . ···•::,:;:'. Jitl;i. ~· ,,,,,,:::❖·•·
+         f;!                   CONTAINER CHARGE:                                                              _ .......,,,i   ,,,,,,,:,t.$.$'.·p: ,i:,,,. .
+
+         ~ : :~;~~:;;7~ ;;:~: ~-~ ~fo!-~J~E.r::~
+         l&I    20011--l--4----1-__Jl--4-----1--+---+-4---+---11---+----i--t--t-"t"--r--1
+         ~ 100,l----l--l-...+--4--1--1--11--+---+-+--+---+-+--+-t--+--+--1
+         ~      0 I__J__L-.....L-1-...L-1-..L.---1--J_~-L-~--l'---:!:;---'----:-=----'---:-:
+         u         -'lo             -so                -3D                -10              10                 30                   so                70                 so             110
+
+                                                                      BOTTLE TEMPERATURE - "F
+
+
+
+
+                  Fire Extinguishing Container Normal Operating Range
+                                        Figure 201
+
+ EFFECTIVITY: ALL                                                                                                                                                                            26-20-00
+                                                                                                                                                                                             Page 201
+                                                                                                                                                                                             Dec 2/77
+                                  Gates Learjet Corporation@
+                         ■ainl■nana■ ■an■-al
+~                  EXTINGUISHER CONTAINER - MAINTENANCE PRACTICES
+
+    1.       General
+             A.  Two engine fire extinguisher. containers are installed in the tailcone
+                 equipment section. The containers are charged with CF3 BR (mono-
+                 bromotrifluromethane) extinguishing agent ·to a pressure of 600 psi.
+                 The CF3 BR extinguishing agent is noncorrosive; therefore no special
+                 cleaning of the engine or nacelle is required in the event the system has
+                 been used. The containers, plumbed to each engine nacelle, provide
+                 the aircraft with a two-shot system. The containers will fully discharge
+                 in 1 to 2 seconds. A pressure gage mounted on each container indicates
+                 the pressure charge of the container. The aircraft will have either a
+                 Walter Kidde or an American Standard container.
+             B . Fire extinguisher containers are located in the tailcone and are acces-
+                 sible through the tailcone access door.
+             C. Removal and installation procedures are identical for both left and right
+                 containers.
+             D. Removal of American Standard and Walter Kidde containers is identical;
+                 however, installation is different.
+    2.       Removal /Installation
+             A. Remove Container (Typical) (See figure 201.)
+                 (1) Set Battery Switch(es) to OFF.
+                 ( 2) Lower tailcone access. door.
+                 ( 3) Disconnect battery quick-disconnects.
+
+                         WARNING: WHEN REMOVING A FULLY CHARGED CONTAINER
+                                  ASSEMBLY, INSTALL AN929-16 CAPS ON VALVE OUT-
+                                  LETS AND CONNECT A GROUND WIRE FROM ELEC-
+                                  TRICAL CONNECTORS TO THE GROUNDING LUGS
+                                  ON THE VALVE ASSEMBLIES. USE EXTREME CARE
+                                  TO AVOID STRIKING THE CONTAINER SEAL OR
+                                  ALLOWING THE CARTRIDGE IN THE VALVE ASSEM-
+                                  BLY TO COME IN CONTACT WITH AN ELECTRICAL
+
+
+                  ( 4)
+                                  POWER SOURCE.
+
+                       Disconnect electrical wiring from container valve assemblies and
+                       connect grounding jumpers between valve assemblies electrical
+                       terminals and grounding lugs. (Refer to figure 201, 26-20-02.)
+                                                                                             I
+                  (5) Disconnect plumbing from valve assemblies and install AN929-16
+                       caps on valve outlets.                     .
+                  (6) Remove mounting bolts from container bracket.
+                  ( 7) Remove container assembly from aircraft.
+                  ( 8) Store container at temperatures below 100°F (preferably 70°F} •
+
+
+
+
+    E F FE CTIVITY: A LL                                                         26-20-01
+    .MM-98
+                                                                                 Page 201
+                                                                                May 25/84
+                           Gates Learjet Corporation~
+                 ■ainl■na■al! ■a■11.al
+   E.   Install Container (Typical) (See figure 201.)
+
+        CAUTION:      THE FIRE SWITCHES ARE DOUBLE ACTION, PUSH TO
+                      ACTIVATE SWITCHES WHICH APPLY OR REMOVE POWER
+                      TO THE ARMED SWITCHES. DEPRESS FIRE SWITCH AND
+                      EXTINGUISH LIGHT'.PRIOR TO FIRE EXTINGUISHER CON-
+                      TAINER INSTALLATION. FAILURE TO DO SO WILL CAUSE
+                      THE CONTAINER TO .DISCHARGE IF THE ARMED SWITCH
+                      IS DEPRESSED AFTER POWER IS RETURNED TO THE
+                      AIRCRAFT.
+        (1)    Reset the ARMED Switches as follows:
+               (a)   Pull both right and left FIRE EXT circuit breakers.
+               (b) With aircraft batteries connected, depress t~e right and left
+                     FIRE Switches. The shutoff valve indicator light and all four
+                     ARMED switches should .be lighted.
+                (c)  Set Battery Swit.ch(es) to OFF and wait for relay to disengage
+                     (approximately 2 minutes).
+                (d)  Set Battery Swit.ch(es) to ON and the four ARMED lights will light.
+                (e)  Depress each FIRE Switch and the ARMED lights will go out.
+                (f)  Disconnect battery quick-disconnects.
+
+                      WARNING:     NEW CONTAINERS, VALVE ASSEMBLIES AND
+                                   CARTRIDGES ARE SHIP~ED SEPARATELY TO
+                                   PREVENT THE POSSIBILITY OF ACCIDENTAL
+                                   CONTAINER DISCHARGE. IF A NEW COMPO-                    ...... )
+                                   NENT IS TO BE INSTALLED, DO NOT INSTALL                    '-'
+                                   CARTRIDGE INTO THE VALVE ASSEMBLY UNTIL
+                                   THE VALVE IS TO BE ASSEMBLED ON THE CON-
+                                   TAINER.
+
+        (2)    Position container on bracket and secure with mounting bolts.
+
+               CAUTION:     ON AMERICAN STANDARD CONTAINERS, DO NOT
+                            LOOSEN THE 1-1/411 HEX OF THE HOUSING ASSEMBLY
+                            lN ORDER TO ROTATE THE OUTLET. THE OUTLETS
+                            WILL ROTATE WITHOUT LOOSENING THE 1-1/4" HEX
+                            AND WILL NOT AFFECT THE SEALS.
+        (3)    Remove AN 929-16 caps from valve outlets and connect plumbing.
+        ( 4)   Remove ground wire from connector and connect wiring to valve
+               assembly in accordance with applicable wiring diagram.
+        (5)    Connect battery quick-disconnects.
+
+
+
+
+EFFKCTIVITY:    ALL                                                           26-20-01
+                                                                              Page 202
+                                                                             May 25/84
+                                                 ~
+                          •             GATES LEARJET CORPORATION
+
+                  •a1■11■a■11                                •an11al
+
+                                                           T~e Assembly ~
+
+
+                                                                          ,   --~Tee
+
+                                                Pressure Gage
+                        Two-Way Check - - - -
+                        Valve
+
+
+
+
+                                                                      Valve Assem
+Aft Engine Mo1D1ting _ /
+Beam                                                                    Container
+                                                                     Pressure Gage
+                                                                    Valve Assembly
+
+          Thermal Discharge
+          Indicator             -         /                           Electrical Connector
+
+
+             Manual Discharge _ _ /
+             Indicator
+
+
+
+
+                                    •
+
+
+                       Fire Extinguisher Container Installation
+                                    Figure 201
+
+ EFFECTIVITY: ALL                                                                        26-20-01
+                                                                                        Page 203
+                                                                                        Dec 2/77
+                                       ~
+                        •     GAlES LEARJET CORPORA110N
+
+                 ■a1■111■a■111 ■a111al
+     EXTINGUISHER CONTAINER CARTRIDGE - MAINTENANCE PRACTICES
+
+1.    General
+      A. Replace fire. extinguisher cartridges at three year intervals unless the
+         extinguisher has been used.
+      B. Removal and installation is identical for both outlets on both containers.
+      C. Removal and installation of American standard and Walter Kidde car~
+         tridges is different; therefore, two procedures hav~ been provided.
+
+2.    Removal/Installation
+      A. Remove Cartridge (Walter Kidde) (See figure 201)
+           (1) Remove all aircraft electrical power.
+           (2) Lower tailcone access door.
+           (3) Disconnect battery quick-disconnects.
+
+               WARNING: AFTER DISCONNECTING THE ELECTRICAL WIRING
+                        FROM CONTAINER VALVE ASSEMBLY, CONNECT A
+                        GROUND wm.E FROM ELECTRICAL CONNECTOR TO
+                        GROUNDING LUG OF VALVE ASSEMBLY.
+
+           (4) Disconnect electrical wiring from container valve assembly and
+                connect ground to electrical connector and grounding lug. ·
+           (5) Loosen valve assembly nut with a strap wrench and disconnect
+               plumbing from valve assembly.
+           (6) Remove valve assembly from container.
+           (7) Use socket wrench and unscrew cartridge from valve assembly.
+           (8) Dispose of old cartridge by firing into a fixture specifically de-
+               signed for that purpose or dispose of cartridge in accordance with
+               local regulations governing disposition of Class "Cu explosives.
+           (9) Check electrical contact assembly and connector for condition.
+      B.   Install Cartridge (Walter Kidde) (See figure 201)
+
+           WARNING: DO NOT INSTALL CARTRIDGE IN VALVE ASSEMBLY
+                    UNTIL VALVE ASSEMBLY IS TO BE ASSEMBLED TO
+                    THE CONTAINER IN PREPARATION FOR USE.
+
+           WARNING: DO NOT INTERCHANGE CARTRIDGES ONCE THEY HAVE
+                    BEEN INSTALLED IN THE VALVE ASSEMBLY.
+
+           (1) Remove protective cap from new cartridge P/N 841155.
+           (2) Apply MIL-L-7711 grease to cartridge threads and insert cart-
+                ridge into valve assembly. Torque cartridge 150 to 200 inch-
+              . pounds.                                                       .
+           (3) Replace O-ring and position valve assembly outlet to the plumbing
+                fitting. Install valve assembly to container and torque valve
+                assembly nut to 75 foot-pounds.
+
+EFFECTIVITY: ALL                                                         26-20-02
+                                                                         Page 201
+                                                                         Dec 2/77
+                                     ~
+                      •     OA'IES LEARJET CORPDRM10N
+
+
+               ••1■1■■•••• · ••■■al
+        (4) Connect plumbing fitting to valve assembly.
+
+            WARNING: WHEN CHECKING CONTINUITY OF CARTRIDGE CIR-
+                     CUIT, DO NOT USE TESTING EQUIPMENT THAT
+                     EXCEEDS 0. 035 AMPERES.
+
+        (5) Remove grounding wire and test cartridge circuit for continuity
+            using a testing circuit that does not exceed 0. 035 .amperes.
+        (6) When continuity of the cartridge is obtained, connect wire to con-
+            nector in accordance with applicable wiring diagram.
+        (7) Connect battery•quick-disconnects.
+        (8) Secure tailcone access door.
+   C.   Remove Cartridge (American standard) (See figure 201)
+        (1) Remove all aircraft electrical power.
+        (2) Lower tailcone access door.
+        (3) Disconnect battery quick-disconnects.
+
+            WARNING: AFTER DISCONNECTING ELECTRICAL WIRING
+                     FROM CARTRIDGE ASSEMBLY, CONNECT A GROUND
+                     WIRE FROM THE ELECTRICAL CONNECTOR ON THE
+                     CARTRIOOE TO THE GROUNDING LUG ON THE OUT-
+                     LET CASTING.
+
+        (4) Disconnect electrical wiring from cartridge and connect a ground
+            wire from the electrical connector on the cartridge to the ground-
+            ing lug on the outlet casting.
+
+            CAUTION: DO NOT ALLOW THE 1-1/4" HEX HEAD OF THE
+                     HOUSING ASSEMBLY TO TURN, OTHERWISE CON-
+                     TAINER DISCHARGE WILL OCCUR.
+
+        (5) Using a 1-1/4" wrench, hold the hex head of the housing assembly
+             and loosen the cartridge using care not to turn the housing assem-
+           . bly.
+        (6) Unscrew the cartridge from the housing assembly and remove the
+             gasket.
+        (7) Dispose of old cartridge by firing into a fixture specifically de-
+             signed for that purpose or dispose of cartridge in accordance with
+             local regulations governing disposition of Class "C" explosives.
+   D.   Install Cartridge (American Standard P/N 30402102)
+        (1) Remove protective cap from new cartridge P/N 13083-5.
+        (2) Apply DC-55 lubricant (Dow Corning Corp.) or equivalent to car-
+             tridge threads. Install cartridge using new gasket P /N AN6290-5.
+             Be sure to hold the 1-1/4" hex on the housing assembly to:avoid
+             over torquing of the housing assembly.
+
+
+EFFECTIVITY: ALL                                                     26-20-02
+                                                                     Page 202
+                                                                     Dec 2/77
+                                   ~
+            .■a1n1enan1e ■an■al
+                   •      GATES LEARJET CORPORAllON
+
+
+
+
+      (3) Torque the cartridge to 45 to 50 inch-pounds while holding the
+          1-1/4" hex.
+          WARNING: WHEN CHECKING CONTINUITY OF A CARTRIDGE
+                   CffiCUIT DO NOT USE A VOLT-OHMMETER, BAT-
+                   TERY POWERED CONTINUITY LIGHT OR ANY
+                   SIMILAR DEVICE IN AN ATTEMPT TO TEST CAR-
+                   TRIDGE CONTINUITY. USE OF TEST DEVICES
+                   wmcH PASS MORE THAN 30 MA MAY DETONATE
+                   THE CARTRIDGE OR AFFECT ITS USEFUL LIFE.
+
+      (4) Remove grounding wire and test cartridge for continuity using a
+           testing circuit that does not exceed more tha~ 30 MA.
+      (5). When continuity is verified, connect wire to studs in accordance
+           with applicable wiring diagram.
+      (6) Safety wire cartridge hex to outlet casting.
+      (7) Connect battery quick-disconnects.
+      (8) Secure tailcone access door.
+
+
+
+
+EFFECTIVITY: ALL                                                    26-20-02
+                                                                    Page 203
+                                                                    Dec 2/'l'l
+                                                       ~
+                          ■ai■1iiiii=-■a■aal
+  Container Assembly
+
+
+
+                                        Outlet
+
+
+
+
+Grollllding Lug
+
+
+
+
+                    '----~artridge (Torque
+
+
+
+
+                                                                              -
+                           to 45 to 50 inch-pounds)
+                                                                                             Container
+
+                                                        Container Seal
+
+      Assembly P/N 30402102 (Includes Charged
+                                                                             'P----o-Ring
+      Container and Cartridges)
+                                                          Strainer=:tt--   Cartridge (Two 011 Each
+      Cartridge P/N 13083-5                                          . ..  Container Assembly)
+                                                                    · ~:   (Torque to 150 to 200
+                                                  Electrical Contact=t__'t inch-pounds)
+                                                  Assembly
+
+                                                              Gasket~                     Electrical Connector
+                  AMERICAN STANDARD
+                                                  Nut (Torque to          ---~~~r,::::i        Valve Outlet
+                                                  75 foot-pounds)
+
+                                                      Grollllding Lug                       Valve Assembly (Two on
+                                                               Insulator:::::::t            Each C011talner Assembly)
+
+                                                                washer       VNut
+                                                         Assembly P/N 892187 (Includes Charged
+                                                         Container, Valves and Cartridges)
+
+                                                         Container (Charged) P/N 893640
+
+                                                         Valve P/N 891086
+
+                                                         Cartridge P /N 841155
+                                                                         WALTER KIDDE
+
+
+
+
+                         Fire Extinguisher Container Cartridge Installation
+                                            Figure 201
+
+     EFFECTIVITY: ALL                                                                                  26-20-02
+                                                                                                       Page 204
+                                                                                                       Dec 2/77
+                                             ~
+                                    GATES LEARJET CORPORATION
+
+                     ■ainlenanae ■anual
+FIRE EXTINGUISHER TWO-WAY CHECK VALVE - MAINTENANCE PRACTICES
+
+1.     General
+       A. There are two two-way check valves installed in the fire extinguisher
+          system that prevent the extinguisher charge from entering the opposite
+          container if one container is discharged. Arrows visible on the out-
+          side of the check valve assembly indicate the direction of flow through
+          each of the three ports. The valve assembly has a flapper that blocks
+          flow in the opposite direction. A spring holds the flapper in a centered
+          position that permits the plumbing to vent when the system is not in
+          operation._                          ·
+
+2.     Removal/Installation
+       A. Removal and installation procedures are basically disconnecting the
+          plumbing from the check valve and removal of valve.
+
+
+
+
+     Cap (With AN 6227B-24 ~
+        0-Ring)             ~
+
+                                                                /   Plwnbing Fitting
+     Two-Way Check Valve
+
+
+                                                                        Arrows (Indicate Direction
+                                                                        of Flow)
+                Flapper - - - . _
+
+
+
+
+                                    Two-Way Check Valve
+                                         Figure 201
+
+EFFECTIVITY: ALL                                                                       26-20-03
+                                                                                       Page 201
+                                                                                       'Oec 2/77
+

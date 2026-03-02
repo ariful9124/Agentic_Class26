@@ -1,6 +1,6 @@
 ## Task 1: Completed. Added functions to handle 'verbose' 
 
-#📌 Note: Why the Agent Appears to Take Multiple Turns
+#📌 Note: Why the Agent Appears to Take Multiple Turns?
 
 When the user inputs:
 ```
@@ -11,7 +11,6 @@ the program sends **a single prompt** to the LLM:
 User: hi
 Assistant:
 ```
-
 The LLM then generates text **continuously** until it reaches a stopping condition (e.g., `max_new_tokens` or an EOS token).
 Because the model is instruction/chat-tuned, it tends to simulate a conversation format internally and may generate output like:
 
@@ -29,8 +28,6 @@ However:
 * The entire multi-turn dialogue is produced as **one single completion** from the model.
 Therefore, the behavior is due to the LLM’s generative nature, not a looping or routing error in the graph logic.
 ---
-
-
 
 ## Task 2: Event though I give empty input, I am getting output. Example: 
 --------------------------------------------------

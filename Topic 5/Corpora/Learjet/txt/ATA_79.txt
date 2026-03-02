@@ -1,0 +1,873 @@
+                @.
+  •    GATES LEARJET CORPORATION
+
+-a1n11nanc1 -anual
+
+      CHAPTER
+
+
+
+
+             OIL
+                                       Gates Learjet Corporation@
+
+                         •ain11nan11 •anaal
+ Chapter                                                     .Chapter
+ Section                                                      Section
+  Subject                    Page              Date           Subject                    Page              Date
+  79-Title
+ •19-List of
+      Effective Pages             1          May 25/84
+   79-Contents                    1           Dec 2/77
+  79-00-00                        1           Dec 2/77
+   79-00-00                       2           Dec 2/77
+   79-00-00                       3           Dec 2/77
+   79-30-00                       1           Dec 2/77
+   79-30-00                       2           Dec 2/77
+   79-30-00                     101           Dec 2/77
+   79-30-00                     102           Dec 2/77
+   79-30-00                     103           Dec 2/77
+   79-30-00                     104           Dec 2/77
+   79-30-01                     201           Dec 2/77
+ •79.30.02                      201          May 25/84
+ •79.30-02                      202          May 25/84
+ ·19-30-02                      203          May 25/84
+  79-30-03                     201            Dec 2/77
+  79-30-04                     201            Dec 2/77
+  79-30-05                     201            Dec 2/77
+
+
+
+
+  Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+• Asterisk indicates pages revised, added or deleted by current revision.
+  The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                   79-LIST OF EFFECTIVE PAGES
+MM-98
+                                                                                                         Page 1
+                                                                                                     May 25/84
+                                                  ~
+                              •        GA1'E8 LEARJET CORPORATION
+
+                     ■a1n1■nan■■ ■anaal
+                                                                                 Chapter
+                                                                                 Section
+&Jbject                                                                          Subject       Page
+
+GENERAL • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •     79-00-00
+    General ••••••••••••••••••••••••••••••••••                                    79-00-00       1
+    Description •••••••••••••••••••••••••••••••                                   79-00-00       1
+    Operation •.•••••.•••••••••.••••••..••••••                                    79-00-00       1
+OIL INDICATIN"G • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •       79-30-00
+    General ••..•••.••••••.•••.•••.••.••••••••                                    79-30-00       1
+    Description • . .. . . . • . . . . • • . . • . . . . • . • • • • • • • • •    79-30-00       1
+    '!To-uble Ellooting •.•••.•••••••••••.••••••••••                              79-30-00
+        General •....••••..•...•.••••••..•••.•••                                   79-30-00    101
+        To·ols and Equipment • • . • • • • • . • . • • • • • • • . • • • •         79-30-00    101
+        Trollble Sb.ooting •••••••••••••••••.••••••••                              79-30-00    101
+    Oil Pressure Indicator - Maintenance Practices . . . . . • .                  79-30-01
+        General .•.......••.•.•.•.•..•••.•...••••                                 79-30-01     201
+        Removal/Installation ....••.•••••.•.••.•••••                              79-30-01     201
+    Oil Pressure Transmitter - Maintenance Practices • • . • •                    79-30-02
+        ~neral . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    79-30-02     201
+        Removal/Installation • . • . . • . • . • . • . • . • . • • • . • •         79-30-02    201
+       Adjustm.ent/Test ....•.•..•.•••..........••.                                79-30-02    202
+    Oil Pressure SWitch - Maintenance Practices • • . • • . . •                    79-30-03
+        General .••.•...•••••••••••••.•••••••.••                                   79-30-03    201
+        Removal/Installation ••....•.•..•••• ~ •..•.••                             79-30-03    201
+    Oil Temperature Indicator - Maintenance Practices • • • • •                  . 79-30-04
+        ~neral •.•....•..•.••••••••.•••••••..• •                                   79-30-04    201
+        Removal/Installation .•..••••..•••••••• ·· ••.••                           79-30-04    201
+    Oil Temperature Bulb - Maintenance Practices . • . • . • •                     79-30-05
+        General ••••..••••••••••••.•..•••.••••••                                   79-30-05    201
+        Removal/Installation • • . . • . • . . •.• • • • . . . • • • • • •         79-30-05    201
+
+
+
+
+EFFECTIVITY: ALL                                                                        79 ~ CONTENTS
+                                                                                                 Page 1
+                                                                                               Dec 2/77
+                                      ~
+                       •      GAlEB LEARJET CORPONmDN
+
+                ■11n1en1n1e ■1n■·11
+                  GENERAL - DESCRIPTION AND OPERATION
+
+1.   General
+     A • ._..The engine has a pressurized closed-circuit lubrication system de-
+             signed to lubricate the compressor rotor and turbine rotor shaft bear-
+            ings, accessory drive shaft assembly, and accessory drive gears.
+2~ Description
+   A. The engine lubricating system consists of an oil tank, lube and scav-
+       enge pump, oil cooler, oil filte-r, oil pressure transmitter, oil pres-
+       sure switch, and bypas·s and pressure relief valves. The stainless
+      ,steel oil tank is attached to the lube pump on the right side of the
+       engine and has a capacity of 4 quarts. The system is serviced by a
+       fill port located at the upper aft side of the tank. Attached to the cap
+       of the fill port is a dipstick graduated in pints of oil to be added. An
+       aluminum tube is attached to the pressure vent relief valve located on
+       top of the tank and is routed to the gang drain at the lower centerline
+       of the engine. A dwell chamber in the tank is used to separate the air
+       from the oil. An oil temperature bulb is mounted in the lower side of
+       the tank and provides an electrical signal to the oil temperature gage
+       on the instrument panel. The_lube and scavenge pump is a positive
+       displacement six-element pump, one element for pressure and five for
+       scavenge. The pump is mounted on.the aft side of the accessory gear-
+       box. A relief valve is installed on the pressure side to prevent system
+       overpressure ..The oil cooler is a liquid-to-liquid heat exchanger
+       mounted on the oil tank. It consists of numerous passages where both
+       fuel and oil pass simultaneously through adjoining passages and ex-
+       change of heat occurs between hot engine oil and cool fuel. A bypass
+       valve is contained within the assembly to allow bypassing of oil if the
+       cooler becomes clogged. The oil filter assembly is attached to the
+       lube pump housing. The screen filters out oil contaminants and is re-
+        movable for cleaning. A filter bypass valve is included in the core of
+       the filter element. If the filter element becomes clogged, the bypass
+       valve opens to permit a direct flow of oil through the unit with filtra-
+       tion. The oil pressure transmitter and oil pressure switches are
+        mounted on the nacelle bulkhead and are connected to an oil pressure
+        hose and an oil vent hose. The oil pressure transmitter provides an
+        electrical signal to the oil pressure gage on the instrument panel. The
+        oil pressure switch provides a completed circuit to the low oil pres-
+        sure light on the readout panel when the oil pressure drops to approxi-
+        mately 6 psi.
+3. Operation
+    A. The pressure element of the lube pump draws oil directly from the
+        tank and pumps it through the oil cooler and oil filter into the a_cces-
+         sory gearbox. Some of the oil lubricates the accessory gearbox bear-
+         ings and spur and bevel gears. The remainder nows through the
+
+ EFFECTIVITY: ALL                                                          79-00-00
+                                                                             Page 1
+                                                                           Dec 2/77
+                                     @
+               ·          . GATES LEARJET CORPORA110N
+
+              ■ainle■a■•• ·■an■al
+      gearbox to two outlet ports in the gearbox. Oil from one of the outlet
+      ports in the gearbox is carried by tubing to the front sump where it is
+      directed by an internal line to provide positive lubrication and cooling
+      for the front frame roller bearing. The oil is recirculated to the oil
+      tank from the sump through the bottom of the front frame strut and
+      into the accessory gearbox and through the scavenge element of the
+      lube pump. From the other outlet port, oil is directed to the remain-
+      ing compressor rotor and turbine rotor shaft bearings and -bevel gears
+      of the accessory drive shaft. Oil is scavenged from the compressor
+      rotor drive shaft housing and accessory gearbox and returned to the
+      tank through the scavenge element's of the lube pump.
+   B. The engine lubrication sump vent system is designed to maintain a
+      controlled positive pressure in the front bearing sump, compressor
+      rotor shaft sump, accessory gearbox, and oil tank. The purpose of
+      maintaining a positive pressure is to make the lubrication system in-
+      sensitive to altitude. Controlled engine compressor air leakage thru
+      the carbon seals pressurizes the sump. The scavenge pumps extract
+      an air-oil mixture from the sumps which is returned to the oil tank.
+      Excessive pressure buildup in the tank is vented overboard through a
+      vent relief valve set at 2 to 3 psi. The vent valve has a small orifice
+      through its center which depressurizes the system at engine shutdown.
+
+
+
+
+EFF·ECTIVITY: ALL                                                   79-00-00
+                                                                      Page·2
+                                                                    Dec 2/77
+                                      @
+                     •     OA1eB LEARJET CORPORATION
+
+                   ■11n11nan11 ■an■al
+
+
+
+
+                                      fMNTFRAM£Sl.lt?VENT
+
+
+
+
+oa. TBP
+ IIU.8
+
+
+
+
+                                                            ACCESSORY GEARBOX
+
+    AELEF \Al.VE
+
+
+
+
+                               varr   ID   ~NGE     £:ml
+                               PRfSStllE- ELECTRCAL---
+
+
+                     Engine Lubrication System Schematic
+                                  Figure 1
+
+EFFECTIVITY: ALL                                                           79-00-00
+                                                                             Page 3
+                                                                           Dec 2/77
+                                      @
+                    .   •    GATES LEARJET CORPORA11DN
+
+                ■a1n1enan11 ■a-n■al
+            . OIL INDICATING - DESCRIPTION AND OPERATION
+
+1.   General
+     A. Oil pressure and oil temperature indicating systems are installed
+        to provide the crew with visual indication of engine oil pressure and
+        temperature at all times.
+2.   Description                                               .           ·
+     A. The oil pressure indicating system consists of an oil pressure switch
+         and an oil pressure transmitter located on the nacelle bulkhead and a
+         dual reading indicator on the instrument panel. The system is
+         powere~ by 26 vac, 400 Hz through the R OIL PRESS and L OIL PRESS
+         circuit breakers.
+     B. The low oil pressure warning system utilizes the oil pressure switches
+         and a LO OIL PRESS (Red) warning light located on the glareshield.
+         The oil pressure switch completes a ground circuit, to light the warn-
+         ing light when engine oil pressure drops below 6 psi in either engine.
+     C. The engine oil temperature indicating system consists of a resistance-
+         type temperature bulb in each oil tank and two oil temperature indica-
+         tors on the instrument panel. The system is powered by 28 vdc
+         through the OIL TEMP circuit breaker.
+
+
+
+
+EFFECTIVITY: ALL                                                       79-30-00
+                                                                         Page 1
+                                                                       Dec 2/77
+                                                                              ~
+                                        •               GATES LEARJET CORPORATION
+
+                     ■a1■1■■a■•• ■-a■aal                                                                                                                          /'~
+
+
+
+                   J7se- - - :J.!122
+                   I                ~
+                            INSTAUIIENT
+                              CLUSTER
+                                   I I
+                                      I
+                                                 r,      L
+                                                                                              ,Hr I
+                                                                                               1
+                                                                                                     P12!.f: -
+
+
+                                                                                                    IA I
+                                                                                                          1    11
+                                                                                                               I
+                                                                                                                            -
+                                                                                                                        LH ENG OIL
+                                                                                                                        TEMP BULB
+                                                                                                                         MT2.-S
+                                                                                                                                      -    7 ·
+                                                                                                                                              I
+                                                                                                                                              I
+                   I               I Hi•                 F
+                                                                                                    L LJ - __ _J
+                   I     :~IND~p I I II                                                          r..Pl28 r- - - - 7
+                                                                                                        ,,
+                   I
+                   I
+                                 II
+                                                    IHI
+                                                                                              '1   H II
+                                                                                                         I I : 1~OIL I
+                                                                                                 \: IJ TEMP BULB I
+                                                       I                         OtTEMP                       -,-                             I
+                   I                                IE               HVDC              ti ESS
+                                                                                             8us
+                                                                                                               L- -             -~
+                   L_ -                                                            7.5A
+                                                                                  CRtf!2
+
+
+                           OIL TEMPERATURE INDICATING SYSTEM
+                                                             A.OIL PRESS
+
+
+
+       re;.,----, T~, ~ · ·
+                      !                                                                            '• H • ,
+                         o"t'o                     Z6VAC
+                                                               C1142
+                                                                              R AC BUS                             PM
+                                                                                                                   ,-,,-------,
+                                                                                                                           1 ~':iL PRESS. -                 ,
+         cmtR                 1 tE1                                       ·                                        18 1 1                                   1
+       l INS'IRUllfJIT        I I F                                                                                  C t I           I
+       IMNE\.
+      ·1                       1 ,1 & ,1
+                               1                                                                                   lo
+                                                                                                                    m.l1. ______ ....1
+                /~
+                   HI
+                  OIL :)." 1 c
+                                  I l
+                                      Qi            I                                                                        ------
+                                                                                                                           L. OIL PRESS JCIITR          7
+       I          ~-----------------41I I II
+                 PRESS     I D                                                                                      D 'I ' MTq                              II
+       1!____ .1.l T
+                                                                                                                                                                  /~
+             '\
+        IIIO    '--      I   8
+                                   "H. I I                   LOILPAESS
+                                                                                                                    8                                       I
+                                                                                                                                                            I
+                                                   2SVAC       _:t.,,__
+                                                              0 .5 0 L. AC BUS                                     '---!...I--------_.
+                                                               C.&3~
+
+                               OIL PRESSURE ~D~CATING SYSTEM
+
+                                                                                                     .r: UW;- - - 7
+                                                                                                   P69
+
+                       ('i,,- 7 Ps21
+                       I   33-14..00
+                           WARNING
+                           LIGHT
+                       1CONTROL
+                                            -~
+                                            ;I ~I •H
+                                                    ~
+                                                   . I
+                                            ..__.,._,
+                                                             l l .LOOIL
+                                                                                         I
+                                                                                                   (c I ~
+                                                                                             f p----i 8 I ~ OIL PRESS I
+                                                                                                   \,.;
+                                                                                                          -1
+                                                                                                      L - - - - _J
+                                                                                                                   ~I
+
+                                                                                                                                r.l
+                                                                                                                                      p
+                                                                                                                                          LH ENG
+
+                                                                                                                                          $Wl~H
+                                                                                                                                                   I
+                       L __ J                                     ~
+                                                                  A"'h.
+                                                                                                   r,°-hLm& - - -7
+                                                                                             ~ C ,~
+                                                                                                  ~ ltH ENG
+                                                                                         •I,.,---. 8
+                                                                                                              I·
+                                                                                                    OIL PRESS
+                                                                                                          A_J~ SWITCH                              I
+                                                                                                                     8tp
+                                                                                                              IL _ _ _ _ j
+
+                            LOW OIL PRESSURE WARNING SYSTEM
+
+   Oil Temperature, Pressure and Warning Electrical Control Schematic
+                               Figure 1                                                                                                                           ··~
+
+El:FECTIVITY: ALL                                                                                                                                      79-30-00
+                                                                                                                                                         Page 2
+                                                                                                                                                       Dec 2/77
+                                         ~
+                                GAlES LEARJET CORPORATION
+
+
+                  ■ai■ll!■il■II! ■il■■ill
+                     OIL INDICATING - TROUBLE SHOOTING
+
+1.    General
+
+      A.     The following trouble shooting procedures are for the airframe por-
+             tion of the oil pressure and oil temperature indicating systems. For
+             trouble shooting the engine oil system refer to manufacturer's main-
+           . tenance manual.
+
+2.    Tools and Equipment
+
+      NOTE:     Equivalent substitutes may be used in lieu of the following items.
+
+     NAME           NUMBER                 MANUFACTURER               USE
+
+Voltmeter              3430A                Hewlett Packard    . For checking
+                                                                 circuitry.
+      or
+
+Voltmeter                260                Simpson             For checking
+                                                                circuitry.
+
+
+3.    Trouble Shooting
+      A. See figure 101 for oil pressure transmitter system trouble shooting
+         procedure.
+      B. See figure 102 for oil pressure warning system trouble shooting pro-
+         cedure.                                 .
+      C. See figure 103 for oil temperature system trouble shooting procedure.
+
+
+
+
+EFFECTIVITY: ALL                                                            79-30-00
+                                                                            Page 101
+                                                                            Dec 2/77
+                                        @
+                       •       GAlES LEARJET CORPORATION
+
+               ■a1■111■an■• ·■ a-n■al
+
+                   ENGINE OPERATING, R OR L OIL PRESSURE
+                   INDICATOR READS LOW OR NO OIL PRESSURE
+
+
+
+
+                                          '
+                    CHECK APPLICABLE CIRCUIT BREAKERS
+                    (CB35 OR CB 42 PROPERLY POSITIONED).
+
+
+                                          I
+                    PERFORM CONTINUITY CHECK OF ELECTRI-
+          -        .CAL WIRING FROM PRESSURE TRANSMITTER
+                   ·To INDICATOR. IF
+
+
+
+
+          ,...._       NOT OK, REPLACE OR REPAIR
+                       WIRING AS NECESSARY.
+
+
+
+
+          -           OK, PERFORM FUNCTIONAL CHECK
+                      OF PRESSURE TRANSMITTER.
+                      REFER TO 79-30-02. IF
+
+
+
+
+                       NOT OK, REPLACE PRESSURE
+                       TRANSMITTER.                        -
+
+                           OK, REPLACE OIL PRESSURE
+                           INDICATOR.
+
+
+
+              Oil Pressure Transmitter System Trouble Shooting
+                                Figure 101
+
+EFFECTIVITY: ALL                                                 79-30-00
+                                                                 Page 102
+                                                                 Dec 2/77
+                                    ~
+                           GATES LEARJET CORPORATION
+
+               ■ain1enan1e ■an■al
+
+
+
+
+                     ENGINE OPERATING, NORMAL OIL
+                     PRESSURE WARNING LIGHT LIGHTED
+
+
+
+
+                NOTE:   The warning light is lighted when the
+                        oil pressure switch completes a ground
+                        circuit.
+
+
+
+
+                DISCONNECT ELECTRICAL PLUGS FROM
+           -    PRESSURE SWITCHES. CHECK CONTINUITY
+                BETWEEN PINS A & B OF SWITCH. IF
+
+
+
+
+                 OK. NO CONTINUITY BETWEEN PINS A & B.
+           -     PERFORM CONTINUITY CHECK OF WIRING
+                 TO WARNING LIGHT.
+
+
+
+
+                 NOT OK, CO_NTINUITY BETWEEN PINS
+           -     A & B. THIS INDICATES THAT SWITCH IS
+                 STUCK. REMOVE AND REPLACE SWITCH.
+
+
+
+
+               Oil Pressure Warning System Trouble Shooting
+                               Figure 102
+
+EFFECTIVITY: ALL                                                 79-30-00
+                                                                 Page 103
+                                                                 Dec 2/77
+                                     ~
+                            GAlES LEARJET CORPORATION
+
+            •ai:■1a■an1e -man■al
+
+
+
+
+                   ENGINE OPERATING, OIL TEMPERATURE
+                   TOO LOW OR NON-EXISTENT.
+
+
+
+                                       I
+                   1. CHECK OIL TEMP CIRCUIT BREAKER
+                      FOR PROPER POSITION.
+              ..   2. PERFORM CONTINUITY CHECK OF
+                      ELECTRICAL WIRING FROM OIL TEM-
+                      PERATURE BULB TO INDICATOR.
+
+                                       I
+                      INTERCHANGE OIL TEMPERATURE-
+          -           INDICATORS IF
+
+
+
+
+                    INDICATOR SHOWS SAME READING
+          -         AS PREVIOUS INDICATOR - REMOVE
+                    AND REPLACE TEMPERATURE BULB.
+
+
+
+
+                      INDICATOR READS CORRECTLY -
+          -           REMOVE AND REPLACE
+                      DEFECTIVE INDICATOR
+
+
+
+
+                   Oil Temperature System Trouble Shooting
+                                 Figure 103
+
+EFFECTIVITY: ALL                                             79-30-00
+                                                             Page 104
+                                                             Dec 2/77
+                                       ~
+                       •      GATES LEARJET CORPORA110N
+
+                 ■11n11n1n11 ■anaal
+           OIL PRESSURE INDICATOR - MAINTENANCE PRACTICES
+
+1..   General
+      A. The oil pressure indicator is located on the center instrument panel.
+         The indicator has dual pointers marked L and R with inputs from the
+         separate left and right oil pressure transmitters.
+      B. Maintenance practices consist of electrical wiring checks to and from
+         the indicator and replacement of defective indicator.
+
+2.    Removal/Installation
+      A. Remove Oil Pressure Indicator
+         (1) Remove avionics control heads from RH side of engine instrument
+             panel.
+         (2) Disconnect electrical plug from oil pressure indicator.
+         (3) Loosen and remove screws securing instrument clamp to panel.
+         (4) Remove oil pressure indicator from panel.
+         (5) Remove instrument clamp from indicator.
+      B. Install Oil Pressure Indicator
+         (1) Install instrument clamp on indicator.
+         (2) Install indicator and secure to engine instrument panel.
+         (3) Connect electrical plug to indicator.
+         (4) Install avionics control heads.
+
+
+
+
+EFFECTIVITY: ALL                                                      79-30-01
+                                                                      Page 201
+                                                                      Dec 2/77
+                                             ~
+                                    GATES LEARJET CORPOIU010N
+
+                    ■ai■ll!■a■■I! ■a■■al ·
+           OIL PRESSURE TRANSMITTER - MAINTENANCE PRACTICES
+
+1.      General
+        A. An oil pressure transmitter is installed on each engine nacelle bulkhead and
+            senses oil pressure between the fuel-oil cooler and the gear reduction box.
+                                                                                            1
+           Access to the oil pressure transmitter is gained by removing the upper and
+           lower nacelle covers. Refer to Chapter 71.
+
+2.      Removal/Installation
+        NOTE:    Removal and installation procedures for the LB and RH trans-
+                 mitters are typical.
+        A. Remove Oil Pressure Transmitter (See figure 201)
+            (1) Remove lower engine nacelle cover. (Refer to 71-10-00)
+            (2) Disconnect electrical plug from pressure trans~itter.
+            (3) Disconnect tubing from transµiitter. Cap tubes.
+            (4) Remove attaching parts and transmitter from brackets.
+        B. Install Oil Pressure Transmitter (See figure 201)
+            (1) . Install pressure transmitter and secure with attaching parts.
+            (2) Remove cap from tubing and connect tubing to transmitter .
+           .(3) Connect electrical plug to transmitter.           ·
+            (4) Install lower engine nacelle cover. (Refer to 71-10-00)
+
+
+                        Oil Pressure Switc
+
+
+
+
+                                                          High Pressure
+                                                          Hose
+
+
+
+
+                                  I /)1
+                               ~/             Oil Pressure Transmitter
+
+                                   L     Engine Nacelle B111kbead
+
+
+                      Engine Oil Pressure Transmitter Installation
+                                      Figure 201
+
+EFFECTIVITY: ALL                                                                 79-80-02
+MM-98
+                                                                                 Page 201
+                                                                                May 25/84
+                              Gates Learjet Corpc;,ration®
+                    ■ain11nana1 ■an■al
+3.      Adjustment/Test
+        A.   Functional Test of Pressure Transmitter (See figure 202. )
+
+              NOTE: • The following functional test procedure is performed with the
+                      pressure transmitter installed on the engine.
+
+                     • The following functional test shall be performed to check the
+                       integrity of an oil pressure transmitter.
+
+              (1)   Disconnect oil pressure line from transmitter. Cap exposed oil pres-
+                    sure line.
+              (2)   Connect test equipment.
+              (3)   Set Battery and Inverter Switches to ON.
+              (4)   Assure that R OIL PRESS and L OIL PRESS circuit breakers are
+                    depressed.
+              (5)   Adjust pressure regulator to bring pressure gage reading up to but not
+                    exceeding 40 psi. Lightly tap transmitter.
+              (6)   The oil pressure indicator on the instrument panel shall read 40 (±3)
+                    psi.
+              (7)   Repeat step (5), adjusting pressure regulator to 70 psi and lightly
+                    tapping transmitter.
+              (8)   The oil pressure indicator en the instrument panel shall read 70 (±4)
+                    psi.
+
+                    NOfE: If the indicator fails to respond to the pressure inputs, the
+                          transmitter shall be replaced. A transmitter known to be
+                          good may be substituted and the functional test re-run.
+
+              (9)   Reverse the procedure by adjusting pressure regulator to 40 psi.
+             (10)   The oil pressure indicator shall read 40 (±3) psi.
+             (11)   Set Battery and Inverter Switches to OFF.
+             (12)   Disconnect test equipment and connect oil pressure line.
+        B.    Oil Pressure Transmitter Test and Adjustment
+
+              NOTE: • The adjustment eccentric is located beneath the nut which is lo-
+                      cated adjacent to the vent (V) and pressure (P) ports on the trans-
+                      mitter.
+
+                      • If an oil pressure transmitter or indicator is replaced, the follow-
+                        ing test and adjustment procedures can be used to zero the indi-
+                        cator and the transmltter, if necessary.
+
+
+
+
+EFFECTIVITY: NOTED                                                                79-30-02
+MM-98                                                                             Page 202
+                                                                                May 25/84
+                       Gates Learjet Corporation@
+              ■ain11nan11 ■anual
+        (1)   Oil Pressure Transmitter Test
+
+              NOTE:   The following test and adjustment procedures are performed
+                      with~ pressure applied to transmitter.
+
+              (a)   Connect external power to aircraft.
+              (b)   Set Battery Switch and Inverter Switches on.
+              (c)   Check applicable needle on oil pressure indicator for zero
+                    indication.
+              (d)   If needle(s) are zeroed, return aircraft to service. If needle(s)
+                    do not zero, proceed with step (2)(a) thru (2)_(c).
+        (2)   Oil Pressure Transmitter Adjustment
+              (a)   Remove nut, located adjacent to vent (V) and pressure (P) ports,
+                    from transmitter. DO NOT lose small o-ring.
+              (b)   Using small wrench, turn eccen~ic· clockwise or counter-
+                    clockwise to zero indicator.
+              (c)   Install o-ring and ~ut on transmitter.
+
+
+
+
+                                       \    ~RESSURE GAGE
+                                           \ 0-200) PSI ±2:t
+
+
+ ~ ELECTRICAL PLUG (REF)                                   /PRESSUUE REGULATOR
+                                                          f      (0-200) PSI
+
+                                                               - - PRESSURE SOURCE
+                                                               - - (DRY NITROGEN)
+
+
+               - \_OIL PRESSURE TRANSMITTER
+
+
+
+
+                    Functional Test Oil Pressure Transmitter
+                                   Figure 202
+
+EFFECTIVITY: ALL                                                                79-30-02
+                                                                                Page 203
+MM-98
+                                                                               May 25/84
+                                            ~
+                               GAlEB LEARJET CORPORA110N
+
+                ■ain1ena■Ie ■an11al
+            OIL PRESSURE SWITCH - MAINTENANCE PRACTICES
+
+1.   General
+     A. An oil pressure switch is installed on each engine and senses the same
+        oil pressure that is sensed by the oil pressure transmitter. Access to
+        the oil pressure switch is gained by removing the lower engine nacelle
+        covers. (Refer to 71-10-00)
+2.   Removal/Installation
+     A. Remove Oil Pressure Switch (See figure 201)
+        (1) Remove lower engine nacelle covers. (Refer to 71-10-00)
+        (2) Disconnect electrical plug from pressure switch.
+        (3) Disconnect tubing from switch. Cap pressure tube.
+        (4) Remove attaching parts and pressure switch from engine.
+     B. Install Oil Pressure Switch (See figure 201)
+        ( 1) Install pressure switch and secure clamp.
+        (2) Connect electrical plug to pressure switch.
+        (3) Remove caps from tubing and connect tubing to pressure switch.
+        (4) Install lower engine nacelle covers. (Refer to 71-lo~oo)
+
+
+
+
+                     Oil Pressure Switch
+                                           ~ :
+
+
+
+
+                                                            High Pressure
+                                                            Hose
+
+                                                            Low (Vent)
+                                                            Pressure Hose
+
+
+
+
+                              ,1   //i
+                            /?,'./               Oil Pressure Transmitter
+
+
+                                L     Engine Nacelle Bulkhead
+
+                         Oil Pressure Switch Installation
+                                   Figure 201
+
+EFFECTIVITY: ALL                                                            79-30-03
+                                                                            Page 201
+                                                                            Dec 2/77
+                                       ~
+                              GATES LEARJET CORP0AA110N
+
+                  ■al■l■■a■■I! ■a■11al
+          OIL TEMPERATURE INDICATOR - MAINTENANCE PRACTICES
+
+1.   General
+     A. The oil temperature indicators are located on the instrument panel.
+     B. Maintenance practices consist· of electrical wiring checks to and from
+        the indicator and replacement of defective indicator.
+2.   Removal/Installation
+     A. Remove Oil Temperature Indicator
+           (1) Remove screws securing switch panel to instrument panel.
+           (2) Remove switch panel sufficiently to allow removal of instrument
+                cluster.                             ·
+           (3) Disconnect electrical plug from instrument cluster.
+           (4) Remove screw securing instrument cluster to switch panel and
+                remove instrument cluster from ·aircraft.
+           (5) Loosen screw in lower left corner of indicator and remove indi-
+                cator from cluster.                                  ·
+     B.    Install Oil Temperature Indicator
+           (1) Install indicator in cluster and secure with screw.
+           (2) Install instrument cluster and secure with attaching parts.
+           (3) Connect electrical plug to instrument cluster.
+           (4) Install and secure switch panel.         ·
+
+
+
+
+EFFECTIVITY: ALL                                                       79-30-04
+                                                                       Page 201
+                                                                       Dec 2/77
+                                      ~                     .
+                             GATES LEARJET CORPORATION
+
+                ■ain11nan11 ■anaal
+         OIL TEMPERATURE BULB - MAINTENANCE PRACTICES
+
+1.   General
+     A. An oil temperature bulb is installed on each engine. The temperature
+         bulb senses the temperature of engine oil in the· oil tank. Access to
+         the temperaturebulb is gained by removing the lower nacelle cover.
+         (Refer to 71-10-00)
+2.   Removal/Installation
+     A. Remove-OU Temperature Bulb (See figure 201)
+        (1) Remove upper and lower nacelle covers. (Refer to 71-10-00)
+        (2) Disconnect electrical plug from temperature bulb.
+        (3) Loosen and remove temperature bulb and 0-ring.
+     B. Install Oil Temperature Bulb (See ·figure 201)
+        (1) Install 0-ring and temperature bulb.
+        (2) Connect electrical plug to temperature bulb.
+        (3) Install upper and lower nacelle covers. (Refer to 71-10-00)
+
+
+
+
+      Oil Tan1c Filler---
+
+
+         Oil Tallk--_,
+
+
+               Oil Tank V e n t - - - -                     Oil Temperature Bulb
+
+                       LOOKING AT RIGHT SIDE OF ENGINE
+
+                        Oil Temperature Bulb Installation
+                                  Figure 201
+
+EFFECTMTY: ALL                                                          79-30-05
+                                                                        Page 201
+                                                                        Dec 2/77
+

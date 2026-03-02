@@ -1,0 +1,1177 @@
+               @.
+      GATES LEARJET CORPORATION
+
+ ■ainlenanae ■anual
+
+
+    CHAPTER
+
+
+
+
+ENGINE CONTROLS
+                                            Gates Learjet Corporation@                   ·
+                              ■ain11nan11 . ■ anaal
+~     · Chapter                                                     Chapter
+        Section                                                     Section
+        Subject                   Page              Date            Subject                    Page              Date
+       76-Title
+     •16-List of
+          Effective Pages            1            Aug 6/82
+     • 76-Contents                   1            Aug 6/82
+     ·16-00-00                       1            Aug 6/82
+     ·16-10-00                       1              Deleted
+     ·16-10-00                     201            Aug 6/82
+     ·76-10-00                     202            Aug 6/82
+     ·16-10-00                     203            Aug 6/82
+      76-10-01                       1            Dec 2/77
+       76-10-01                    201            Dec 2/77
+       76-10-01                    202            Dec 2/77
+       76-10-01                    203            Dec 2/77
+       76-10-01                    204            Dec 2/77
+     ·16-10-01                     205            Aug 6/82
+     ·76-10-01                     206            Aug 6/82
+     ·76-10-01                     207            Aug 6/82
+     ·76-10-01                     208            Aug 6/82
+     ·76-10-01                     209            Aug 6/82
+     ·16-10-01                     210            Aug 6/82
+     ·76-10-01                     211            Aug 6/82
+     ·16-10-01                     212            Aug 6/82
+~    ·16-10-01
+     ·76-10-01
+                                   213
+                                   214
+                                                  Aug 6/82
+                                                  Aug 6/82
+     ·16-10-01                     215            Aug 6/82
+     ·16-11-00                       1            Aug 6/82
+     ·76-11-00·                      2            Aug 6/82
+     ·16-11-00                       3            Aug 6/82
+     ·16-11-01                     201            Aug 6/82
+
+
+
+
+      Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+    • Asterisk indicates pages revised, added or deleted by current revision.
+     The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                        76-LIST OF EFFECTIVE PAGES
+                                                                                                              Page 1
+    MM-98                                                                                                  Aug 6/82
+                                . Gates·Learjet Corporation@
+                       ■ainlllillll ■ill■ill
+                                                                               Chapter
+                                                                               SecUon
+  Subject                                                                      SUbJect
+
+  POWER CONTROL - DESCRIPTION AND OPERATION . . .                         .    76-00-00
+     Descliption • • • • • • • • • • • • • • • • • • •.• • • • • • • • • • •   76-00-00     1
+  THROTTLE QUADRANT - MAINTENANCE PRACTICES •••                                76-10-00
+     RemovaVInstallaUon • • • • • • • • • • • • • • • • • • • • • • • •        76-10-00    201
+     Adjustui.ent/Test • • • • • • • • • • • • • • • • • • • • • • • • • •     76-10-00    203
+  THROTTLE CABLE - DESCRIPTION AND OPERATION •••                               76-10-01
+     General ••••••••••••••••••••••••••••••••                                  76-10-01     1
+     Throttle Cable - Maintenance Practices •••••••••••                        76-10-01
+          General ••••••••••••••••••••••••••••                                 76-10-01    201
+          General Control Cable Handling & InstallaUon
+                       Precautions • • • • • • • • • • • • • • • • • •         76-10-01    201
+          Removal/Installation • • • • • •. • • • • • • • • • • • • • •        76-10~01    201
+          Adjustinent/Test • • • • • • • • • • • • • • • • • • • • • •         '16-10-01   210
+  ENGINE SYNCHRONIZER SYSTEM - DESCRIPTION AND
+          OPERATION •••••••••••••••••••••••••                                  '16-11-00
+     Description • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •   76-11-00     1
+     Operation •••••••••••••••••••••••••••••••                                 76-11-00     1
+     Engine Synchronizer Control Box - Maintenance
+              Practices •••••••••••••••••••••••••                              76-11-01
+          Removal/Installation • • • • • • • • • ." • • • • • • • • • •        76-11-01    201
+
+
+
+
+                                                                                  '16 - CONTENTS
+                                                                                           Page 1
+NM-98
+                                                                                         Aug 6/82
+                                Gates Learjet Corporation@
+                     ■ainll!RilRII!                    1111111111
+                    POWER CONTROL - DESCRIPTION AND OPERATION
+
+1.      Description
+        A.   The engine throttle control consists of the thrust levers located in the center
+             pedestal and two cable assemblies for each engine.
+        B.   Two thrust levers, located in the cockpit center pedestal, control engine
+             power by regulation of each engine fuel control unit. The thrust levers are
+             connected to the fuel control unit by cables with adjustable clevis ends. Posi-
+             t! ve stops are provided in the thrust quadrant to retain the thrust levers in
+             the cutoff position and prevent inadvertent reduction of thrust below the idle
+             position. Throttle aural warning switches are located in the center pedestal.
+             The switches will actuate the aural warning at approximately 68% engine rpm
+             when the landing gear is in the up position.
+        C.   Two throttle cables for each engine are used to transmit the thrust lever
+             setting to the engine. The forward throttle cable is routed under the center
+             floorboards, through a pressure seal at frame 15, through the keelbeam, and
+             into the tailcone area. At this location, the fozward cable is coupled to the
+             aft cable by a coupling nut. The aft cable is routed through a cable guide,
+
+
+        D.
+             mounted on the engine pylon firewall, and to the right side of the engine. The
+             end of the cable is connected to the engine fuel control bellcrank by a clevis.
+             Some atrcraft have an engine synchronizer system installed or an engine
+             synchroscope (indicator). Refer to 76-11-00 for engine synchronizer system
+             description and operation.
+                                                                                             I
+
+
+
+
+EFFECTIVITY: ALL                                                                  76-00-00
+                                                                                    Page 1
+MM-98
+                                                                                  Aug 6/82
+                               Gates Learjet Corporation@
+                     ■ain1InanII ■an11I1
+                  THROTTLE QUADRANT - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+        A.  Remove Throttle Quadrant (See figure 201.)
+            (1)   Remove electrical power from aircraft.
+            (2)   Remove flap switch control knob.
+            (3)   Remove cap from top LH side of pedestal.
+            (4)   Remove thrust lever knobs.
+            (5)   Remove pedestal cover from pedestal.
+            (6)   Remove engine synchronizer switch (if installed) from support bracket.
+            (7)   Remove spoiler switch from support bracket.
+            (8)   Disconnect electrical wiring from autopilot release switch.
+            (9)   Remove ignition and aural warning switches from lockplate assembly.
+           (10)   Remove parking brake control linkage from parldng brake handle.
+           (11)   Remove power control linkage from sector wheel.
+           (12)   Remove hicUon knob stop and friction knob from shaft.
+           (13)   Remove throttle quadrant from pedestal, making certain not. to damage
+                  wiring.
+        B.  Install Throttle Quadrant (See figure 201.)
+            (1)   Install throttle quadrant in pedestal and secure with attaching parts.
+            (2)   Install friction knob and friction lmob st.op on shaft.
+            (3)   Install power control linkage on sector wheel.
+            (4)   _Inst.all parking brake control linkage on parking brake handle.
+            (5)   Install ignition and aural warning switches on lockplate assembly.
+            (6)   Connect electrical wiring to autopilot release switch.
+            (7)   install spoiler switch on support bracket.
+            (8)   Install engine synchronizer switch on support bracket.
+            (9)   Install pedestal cover on pedestal.
+           (10)   Install thrust lever knobs.
+           (11)   Install cap on pedestal.
+           (12)   Install flap switch control knob.
+           (13)   Restore electrical power to aircraft.
+
+
+
+
+EFFECTIVITY: ALL                                                               76-10-00
+                                                                               Page 201
+MM-98
+                                                                               Aug 6/82
+                                  ·. Gates Learjet Corporation®
+                           •ain1-1n·a-n11.- _•anaal
+                                                                   Friction Knob Stop
+,\(Assure that throttle controls are properly
+   rigged. Add washers as required to obtain                                Friction Knob
+   a force of 1. 5 (+o. 5, -o. 0) pounds to move
+   throttle controls with friction knob backed                   Bearing Block         _
+   off completely against stop.
+                                                                  Sha                             Wash
+                                      Spring Washer
+
+
+         Sector Wheel
+
+    Thrust Lever
+
+
+
+I                  /        . . ~ ---- ·-,,Q
+                        ~- .- .                  \
+                                                     \
+                                                                             Landing Gear Aural
+                                                                             Warning Switches
+                                                                             (LSW3, LSW4)
+                                                                               Ignition
+
+
+                                      "          /
+                                                             /
+                                                                   /
+                                                                        /
+
+
+                                                           Lockplate Assembly
+                                                                               Switch
+
+
+
+
+                                  /        'Cam Plate Assembly .
+
+
+
+
+                                                                             Power Control
+                                                                             Link.age
+
+                                           * * *Aircraft 25-070 thru 25-164
+                                             *       *Aircraft 25..;.165 and Subsequent
+                                      Throttle Quadrant Assembly
+                                                Figure 201 ·
+    ll-llC
+
+
+
+ EFFECTIVITY: ALL                                                                                 76-10-00
+                                                                                                  Page 202
+ MM-98
+                                                                                                  Aug 6/82
+                               Gates Learjet Corporation@
+                     •ain1enan1e •an11al
+2.      Adjustment/Test
+        A.   Landing Gear Aural Warning Switch Adjustment (See figure 202.)
+                                                                                         I
+             NOTE:    Position thrust levers and adjust switches individually.
+
+             (1)   Infiight adjustment of cmpplate assemblies which actuate landing gear
+                   aural warning switches is provided by recessed head cam adjustment
+                   screws. Insert an Allen wrench through access cutout in pedestal cover
+                   for screw adjustment. With aircraft in flight and landing gear in up
+                   position, perform the following:
+                    (a)   Position thrust levers to 68% ( +2%, -3%) rpm as indicated on
+                          engine tachometer.
+                    (b)   Turn cam adjustment screws until aural warning horn sounds
+                          from 68% ( +2%, -3%) rpm to thrust levers cutoff position.
+                   (c)    Refer to· Chapter 74 for Ignition Switch Adjustment.
+                                                                                         1
+
+
+
+               Landing Gear                     Cam Assembly
+               Aural Warning
+               Switch (LSW3, LSW4)
+
+
+
+
+                                                                     Cam Adjustment
+                                                                     Screw
+
+
+
+                           Ignition 6\vitch
+
+
+                      Landing Gear Aural Warning Switch Adjustment
+2-12C
+                                        Figure 202
+
+EFFECTIVITY: ALL                                                                 76-10-00
+                                                                                 Page 203.
+                                                                                 Aug 6/82
+                                             ~
+                                  GATES LEARJET CORPORATION
+
+                  ■ain1enan1e ■anual
+                 THROTTLE CABLE - DESCRIPTION AND OP EBA TION
+
+1.   General
+     A.   The throttle cable has linear-mounted ball bearings that are held in place by
+          ball separators and outer races. Located between the ball bearings is a
+          grooved center race where motion is transmitted with a minimum of friction
+          from thrust lever to engine fuel control bellcrank. The outer races, ball
+          separators, ball bearings, and center race are encased in flexible metal
+          tubing. Cable removal and installation is made easier by providing a forward
+          and an aft section coupled together by a coupling nut. The forwardthrottle
+          cable end is connected by a terminal to the thrust lever, located at the center
+          pedestal.
+
+
+
+
+                                  STAINLESS stEEL CENTER RACE
+
+
+
+
+                                  .
+                         RACE WITH STAINLESS STEEL BALLS IN BALL GUIDES
+
+
+
+
+                             STAINLESS STEEL OUTER RACES ADDED
+
+
+
+
+                             CABLE COMPONENTS ENCLOSED IN CASING
+
+
+
+
+                                        Throttle Cable
+                                          Figure 1
+
+
+EFFECTIVITY: . ALL                                                              76-10-01
+                                                                                  Page 1
+                                                                                Dec 2/77
+                                              ~
+                              •      GATES LEARJET CORPORAllON
+
+                       ■a1-n1e1an■e ■an■al
+                       THROTTLE CABLE - MAINTENANCE PRACTICES
+
+    1.   General
+         A.   Maintenance practices consist of removal and installation adjustment and
+              rigging of- the throttle control cables.
+
+    2.   General Control Cable Handling and Installation Precautions
+         A.   Maintenance personnel should familiarize themselves with the following pre-
+              cautions before removal and installation of the throttle control cable.
+              (1) Pliers or similar devices should not be used to grip the control cable.
+              (2) Wrenches are to be used on wrench flats to prevent twisting of the control
+                   cable when torquing jamnuts or attaching hardware.
+              (3) Minimum bend radius of control cable is six inches in the direction of the
+                   arrow on the wrench flat.
+              (4) Do not attempt bends opposite the arrow as cable binding will result and
+                  possible damage to the cable could result.
+              (5) Do not lubricate the control cable.
+              (6) Do not force sliding member against the internal stops.
+              (7) All clamps should be tightened firmly. Clamps are for support only and
+                   overtightening could result in binding.
+
+    3.   Removal/Installation
+         A.  The following procedure is applicable for removal of either throttle cable. It
+             is recommended that one cable be removed and new cable installed prior to
+             removing the remaining cable. This will provide a guide for routing, clamp-
+             ing, and positioning the new cables.
+         B.  Remove Throttle Cable (See figure 202)
+
+               CAUTION: IT IS EXTREMELY IM:PORTANT THAT THE THROTTLE CABLE
+                        BE HANDLED AS A DELICATE INSTRUMENT. BENDING OF
+                        THE CABLE IN THE WRONG PLACE WILL RESULT IN JAMMING
+                        OF THE THROTTLES.
+
+              (1)   Remove the tailcone access door and disconnect aircraft batteries and
+                    remove from aircraft.
+              (2)   Remove lower engine nacelle.
+              (3)   Remove safety wire and disconnect throttle cable at ball joint connector
+                    (refer to detail "H").
+              (4)   Remove safety wire and loosen jam.nuts securing cable to cable support
+                    bracket. Remove forward Jamnut and washer (refer to detail "G").
+              (5)   Remove clamps securing throttle cable to engine. Pull cable clear of
+                    support bracket and remove remaining washer and jamnut.
+              (6)   Remove asbestos wrap or firesleeve from throttle cable.
+              (7)   Remove bolts securing throttle cable guide to pylon firewall. This will
+~                   allow removal of cable without binding inside the pylon (refer to detail
+                    "F").
+
+    EFFECTIVITY: ALL                                                                 76-10-01
+                                                                                     Page 201
+                                                                                     Dec 2/77
+                                               ~
+                            •       GATES LEARJET CORPORATION
+
+                   ■a1nI11■a■■• ■a■ual
+
+
+
+
+1. The throttle control cable       2. Hold throttle cabfo upri~ht        3. Remove shipping wire.
+   is shipped in a figure 8            in both hands.                        Starting with· end fitting
+   configuration.                                                            nearest you, play out
+                                                                             loops one at a time with-
+                                                                             out forcing or twisting.
+
+
+
+
+    4. Final figure 8.                  5. Play out final loop.          6. Throttle control cable is
+                                                                            ready for installation.
+
+                                                                  Hold 90° vertically?hile
+                                                                  aligning internal compo-
+
+
+                                                            .     nents •
+
+
+
+
+           ,. Lay throttle cable on floor. With end opposite quick-disconnect held verti-
+              cally to form a 90° bend, have another man establish a hump in the cable
+              and carry it through to the quick-disconnect as shown. This will straighten
+              the internal components.
+
+                                STRAIGHTENING THROTTLE CABLE
+                                     Throttle Cable Handling
+                                           Figure 201
+
+
+EFFECTMTY: ALL                                                                                 76-10-01
+                                                                                               Page 202
+                                                                                               Dec 2/77
+                                            ~
+                                 .GATES LEARJET CORPORATION
+
+                   ma1nI11nan111 manual
+           (8) Remove support clamps and support halves and disconnect cable coupling.
+           (9) Pull throttle cable out through tailcone access opening while at the same
+                 time feeding the cable through the pylon.
+          (10) Remove all center access panels from beneath the aircraft.
+          (11) Remove clamps securing throttle cable to aircraft structure (refer to
+                 detail "D").
+          (12) ·Remove carpet and _floorboards from area between center pedestal and
+                frame 15.
+          (13) Remove screws securing. fuel .control panel to center pedestal. Lift fuel
+                 control panel sufficiently to gain access to electrical plug and disconnect
+                 plug. Remove remaining panels from center pedestal in the same manner.
+          (14) Remove screws securing pedestal extension covers to floor structure and
+                 remove pedestal extension covers from aircraft. Remove screws and
+                 quadrant cover from pedestal.
+          (15) Remove safety wire from ball joint and disconnect ball joint connector
+                 from cable (refer to detail "A").
+          (16) _ Remove dust cap. Remove safety wire, jamnut and washer securing
+                 throttle cable bracket.
+          (17) Remove screws and throttle cable support.
+          (18) Cut waxed string and heat-shrink tubing from both ends of vent tube
+                 assembly. Remove remaining washer and jamnut and remove vent tube
+                 assembly •
+        . (19) Remove cable retainers and sealant at frame 15 feedthru (refer to detail
+              "C").
+         (20) Pull throttle cable through tailcone access until cable is clear of the air-
+               craft.
+   C.     Install Forwa~d Throttle Cable (See figure 202)
+
+          CAUTION: IT IS EXTREMELY IMPORTANT THAT THE THROTTLE CABLE
+                   BE HANDLED AS A DELICATE INSTRUMENT. BENDING OF
+                   THE CABLE IN THE WRONG PLANE WILL RESULT IN JAMMING
+                   OF THE TlffiOTTLE.
+
+          NOTE:     The folloWing procedure is applicable for either forward throttle
+                    cable.
+
+          (1) The throttle cables are shipped in a figure 8 configuration. To prevent
+              damage, unfold as shown in steps (1) through (6) of figure 201.
+          (2) The forward throttle cables have a built-in 90° bend. The cables must
+              have the internal components aligned properly prior to installation. This
+              can be accomplished by laying the cable on the floor and, with one man
+                holding the 90° bend at one end vertically, have another man establish a
+                hump at this end and carry it through to the opposite end as shown in
+                step (7) of figure 201.
+
+
+
+
+EFFECTIVITY: ALL                                                                  76-10-01
+                                                                                  Page 203
+                                                                                  Dec 2/77
+                                        ~
+                       •      GMES LEARJET CORPORATION
+
+                ■a1-■I11-na■■1 . ■anual
+       (3) Stroke the cable rod back and forth by hand; cable rod should move freely
+           Without. any sign of excessive or increasing loads or erratic movement.
+       (4) With the throttle cable properly aligned, form a moderately large loop at
+           the aft end (quick-disconnect end). Retain this loop during routing of
+           throttle cable. This helps prevent the cable from twisting during installa-
+           tion.
+       (5) Insert end of throttle cable through tailcone access opening and route
+           through keel beam to frame 15 feedtbrough (refer to detail "J").
+       (6) Insert end of throttle cable through applicable frame 15 feedthrough and
+           route cable forward and up to the center pedestal (refer to· details ''K"
+           and "L").
+       (7) Cut two pieces of heat-shrink tubing (RNF 100-5/8, manufactured by
+           Rayclad Tubes, Inc. , Redwood C.i.ty, Calif. or equivalent) 1. 25 to 1. 50
+           inches long.
+       (8) Slide a piece of the tubing over the throttle cable barrel and install vent
+           tube assembly.
+       (9) Postion centerline of vent tube outlet 2. 25 (±.12) inches below the base of
+           the threads on the throttle cable barrel and rotate so that vent tube will
+           match plumbing (refer to detail "Q").
+    . (10) Slide remaining piece of heat-shrink tubing onto throttle cable barrel.
+           Position both pieces so that equal lengths overlap vent tube assembly and
+           throttle cable barrel (refer to detail "Q").
+      (11) Shrink tubing for 10 seconds at approximately 240°F using a heat gun •.
+      (12) Double wrap and tie over the heat shrink tubing using waxed nylon tying
+           tape (MIL-T-43435, Type I, Finish B, manufactured by Sunset Line and
+           Twine, Petaluma, Calif.) (refer to detail "Q").
+      (13) Install jamnut and washer on throttle cable barrel and insert -barrel
+           through the throttle cable bracket.
+      (14) Install remaining washer and jamnut. on throttle cable barrel. Adjust··
+           jamnuts so that throttle cable barrel extends 2.125 (:!:.125) inches above
+           throttle cable bracket (refer to detail "Q"). Safety wire jamnuts. Do not
+           connect or clamp cable at this time.
+      (15) Install dust cap over throttle cable barrel.
+
+              NOTE:   'When installing a new dust cap, do not enlarge hole for throttle
+                      cable rod. If friction is too great the cable may ·be cycled 20
+                      to 30 times to reduce friction.
+
+       (16)  Repeat steps 1 thru 15 to install opposite forward cable.
+  D.    Install Aft Throttle Cables (See figure 202)
+
+        NOTE:    The right and left aft throttle cables are of different lengths.
+                 The left aft cable is longer and is routed in a loop underneath
+                 the aft portion of the engine.
+
+
+
+
+EFFECTMTY: ALL                                                                  76-10-01
+                                                                                Page 204
+                                                                                Dec 2/77
+                                Gates Learjet Corporation•
+                     ■aln11nan1a ■1■1111
+              (1)   Prepare the cable for installation as shown in details "M" and "N".
+              (2)   Route cable (end opposite to coupling nut) through pylon and pylon fire-
+                    wall, assuring that cable does not rotate (refer t.o detail "P"). As cable
+                    is fed through firewall, place cable guide (detail "F") over cable. Con-
+                    tinue to feed the cable through the firewall until approximately 44 inches
+                    of cable extends from firewall.
+              (3)   Connect the forward and aft cables at the coupling.
+              (4)   Check to assure that the cable is properly installed by stroking several
+                    times by hand. There shall be no appreciable increase in load.
+              (5)   Repeat steps (2) through (4) of the above procedure to install the left
+                    aft throttle cable.
+              (6)   Secure cable guides (detail "F") to pylon firewall. Connect cable to
+                    ball joint connectors at engine (detail "H") and center pedestal (detail
+                    "A").
+              (7)   If applicable, slip firesleeve over cable.
+              (8)   Clamp aft cables in same locations old cables were clamped using
+                    existing hardware. Assure that a minimum of 1. 00 inch clearance
+                    exists between cables and hot section.
+              (9)   Clamp forward cables in same locations old cables were clamped using
+                    existing hardware.
+             (10)   Apply faying surface sealant to frame 15 feedthroughs and ilistall feed-
+                    throughs.
+             (11)   Install support halves (refer to detail "G").
+·~
+             (12)   Clean and apply sealant to firewall cable guides on both firewalls.
+             (13)   Rig throttle cables.
+             (14)   Install screws and quadrant cover on pedestal. Install pedestal exten-
+                    sion covers to floor structure.
+             (15)   Install center pedestal panels by connecting electrical plugs and secur-
+                    ing with screws.
+             (16)   Install floorboards and carpet.
+
+
+
+                                                                                               I
+             (17)   Install all center access panels beneath the aircraft.
+             (18)   Install lower engine nacelle.
+             (19)   Install aircraft batteries.
+             (20)   Connect and safety wire battery quick-disconnects and install tailcone
+                    access door.
+
+
+
+
+     EFFECTIVITY: ALL                                                               76-10-01
+                                                                                   Page 205
+     MM-98
+                                                                                   Aug 6/82
+                                                   -•••••-1
+                         Gates Learjet Corporation@
+
+                 ■ainl·ena■ae
+                     H G
+
+                          C
+                            '          E
+
+
+                                                                                Clip
+                                                               TYPICAL ALONG
+                                                              CABIN BULKHEADS ·
+
+                                                                Detail. B
+          ThrustL-ever~~             , ,
+
+
+
+          Cam   Bolt----;r
+                              lTerminal
+                              ---     Ball Joint    Jamnut
+                                      Connector                       2·. 00 (40. 25,
+                                                   Throttle                   -0. 00)
+                                                   Cable
+                                       Dust Cap
+
+
+
+                                    Bracket
+                 iu-----Throttle Cable
+                          Support
+
+                                                 Typical
+                                                 Wrapping
+                                             Throttle
+                                             Cable
+CONTROL PEDESTAL DETAIL                      Barrel
+
+A7-12B-1
+          Detail A      Throttle Cable Installation
+                         Figure 202 (Sheet 1 of 5)
+ 'l-27B
+
+
+
+EFFECTIVITY: ALL                                                             76-10-01
+                                                                             Page 206
+MM-98                                                                        Aug 6/82
+                                 Gates Learjet Corporation ;g)
+                       ■ain11nan11 ■an■al
+                                Clamp                     Aft Segment        ·
+
+Keelbeam
+
+
+                                                    Safety Wire
+    TYPICAL KEELBEAM CLAMP
+
+                Detail D
+                                                                             " -Coupling Nut
+
+
+
+                                                                  '--... Forward Segment
+
+
+
+PRESSURIZED BULKHEAD FEEDTHROUG H                       CABLE COUPLING INSTALLATION
+                  Detail C                                            Detail E
+                                           Rigid Portion of
+                                           Throttle Cable
+
+     Casing
+
+
+ NOTE:        Position support halves on cable so that chamfer
+              mates with control cable surface contour.
+
+ TYPICAL SUPPORT HALF INSTALLATION
+
+
+
+                                                                           ' - Cable Support
+                                                                 *~                 Bracket (Re~
+                                                                          Support
+                                    Throttle                              Half
+                                    Cable
+                                                                         Clamp
+
+            TYPICAL BOTH PYLONS                               TYPICAL BOTH ENGINES
+
+                Detail F                                            Detail 6
+ 7-UIA
+H7-31A
+D'l-lZD-2
+                                   Throttle Cable Installation
+                                    Figure 202 (Sheet 2 of 5)                                     I
+EFFECTIVITY: ALL                                                                       76-10-01
+                                                                                       Page 207
+MM-98
+                                                                                       Aug 6/82
+                              Gates Learjet Corporation@
+                   ■alnlenan■e. ■anual
+                              Jamnut and
+
+
+
+
+          Throttle Cable
+          Rod
+
+
+                           Connector
+
+
+
+
+                  Aircraft Not Equipped with Engine Synchronizer
+          ~                 TYPICAL BOTH ENGINES          .
+
+
+
+
+              '                   Jamnut
+
+
+
+                                        /
+                                            rThrottle Cable Rod
+
+                                                 Fuel Control Bellcrank
+                                                            Ball Joint
+                                                            Connector
+
+
+
+
+                           Speed Trimmer
+                           Rod End                                             Bolt
+
+
+                                                                         Nut
+
+                     Aircraft Equipped with Engine Synchronizer
+                                RH ENGINE ONLY
+
+                                       Detail H
+                              Throttle Cable Installation
+V-118-1                        Figure 202 (Sheet 3 of 5)
+V-ZTA
+
+
+
+EFFECTIVITY: NOTED                                                               76-10-01
+                                                                                 Page 208
+MM-98
+                                                                                 Aug 6/82
+                        Gates Learjet Corporation@
+             ■ain11n1n11 ■an1al
+                                 Tailcone Access
+                                 Opening
+
+
+
+
+                                 Forward Cable Assembly   _j
+            FORM APPROXIMATE 180° LOOP AT T H I S - - - - -
+            END OF CABLE AND ASSURE LOOP IS
+            RETAINED IN THIS POSITION DURING
+            FEEDTHROUGH OPERATION
+
+               Detail J            Tailcone Access
+                                   Opening
+
+
+
+
+              FEED THROTTLE CABLE INTO COCKPIT AS REQUIRED TO ALLOW
+              OPPOSITE END TO CLEAR TAILCONE ACCESS OPENING.
+
+                                Detail K
+                     Frame 15
+
+
+
+
+                                               " ' - - Tailcone Access
+                                                       Opening
+                   PULL THROTTLE CABLE FROM AFT END
+                   UNTIL FORWARD END CAN BE CONNECTED
+                   TO THE PEDESTAL.
+
+                                 Detail L
+                          Throttle Cable Installation
+                           Figure 202 (Sheet 4 of 5)
+
+EFFECTIVITY: ALL
+
+MM-98
+                                                                 76-10-01
+                                                                 Page 209
+                                                                 Aug 6/82
+                                                                            I
+                                        Gates Learjet Corporation@>
+                      •ai·n1ananaa-_ •anual
+
+                                                                Aft Throttle
+ Coupling End                                                   Cable (Typical)
+
+
+
+
+   Hold cable up and rotate so that both ends curl up as shown.
+
+                         Detail M
+                                                                                             Coupling End
+
+
+
+
+                     Bring coupling end up until it is tangent to center bend and can be held
+                     with one hand. Do not allow cable to rotate. This will properly align
+                     the cable for routing purposes.
+
+
+                                                     ;
+                                                                    Detail N
+                                  __J,:::_~\.,4i                 l f9
+                         ·------- ,        \     :              ;_,
+                                                                1 I
+                                                                     '
+                                                                      r------
+                                                                                   i
+                         -·--------41'      $
+                                            i
+                                                 :
+                                                 s              t
+                                                               !: ,:
+                                                                    I
+                                                                                    ,-------
+                         _,,.,,~
+                                 i
+                                     $
+                                    I,
+
+                                  ii!
+
+                                 I,.,.
+                                             : =
+                                             :s :~
+                                                   : i
+                                                   : s
+                                                   1a'__..-~
+                                                               ;! iI
+                                                                    '
+                                                                                    t-
+                                                                                    $
+
+
+
+
+                                   \\            .
+                                               J \
+                                                                        I\~
+                                                                         \
+                                                                                  Jl'
+                                        \      4,,,, w)             :,,J
+                                                                          $
+                                                                                  II
+                                         L-.,.,4         'I                   \_,J
+                Aft Throttle Cable LH                    !5                    Aft Throttle Cable RH
+                                                         Detail P
+                                            Throttle Cable Installation
+ 2-12B-l                                     Figure 202 (Sheet 5 of 5)
+
+
+I::FECTIVITY: ALL                                                                                      76-10-01
+                                                                                                       Page 210
+                                                                                                       Aug 6/82
+                                 Gates Learjet Corporation•
+                      ■ai11ena111 . ■a■aal
+4.      Adjustment/Test
+        A.   Throttle Cable Rigging (See figure 203. )
+
+              NOTE:    Prior to rigging, assure that fuel control bellcrank rod end is
+                       indexed 180° from fuel control pointer. If engine synchronizer
+                       system is Installed, assure that Synchronizer Switch 1s set to
+                       OFF and that trimmer has centered.
+
+              (1)   Using a ruler and string, mark a line on quadrant cover at midpoint
+                    (45°) between throttle cutoff and maximum positions.
+              (2)   Center travel· of table rod by adjusting to expose 2. 25 in_ches of rod.
+              (3)   Maintain 2.25 inch dimension and adjust balljoint connector in pedestal
+                    to center thrust lever on 45° mark.
+              (4) Wtth r()d remaining centered, adjust ball joint connector on engine end
+                    of.cable to align fuel control pointer at 45°. On Aircraft equipped with
+                    engine synchronizer system, center speed trimmer so that lengthening
+                    it by 2. 5 turns will allow 100% throttle setting. Shortening trimmer by
+                    5 turns from 100% setting shall allow throttle to reach cutoff position.
+              (5) · Set thrust l~ver to idle and· insert rigging pin. If rigging pin cannot be
+                    lnse·rted, adjlist b_all joint connector until rigging pin can be inserted.
+                    Tighten and safety wire ball joint connector.
+
+                    CAUTION:      THE CUTOFF AND MAXIMUM STOPS ARE SAFETIED
+                                  AND SEALED AT THE FACTORY AND NO ADJUSTMENT
+                                  IS REQUIRED.
+                        ,.
+
+
+                    NOTE:     On Aircraft 25-165 and Subsequent, an adjustable rod end
+                             . is installed on the fuel control bellcrank to allow further
+                               adjustment of the throttle.
+
+              (6)   Remove rigging pin and check for full travel of thrust leve~s.
+              (7)   R~ up engine and perform operational check. Engine idle speed shall
+                    be 49.5% (±0.5%). If engine speed adjustments are required, refer to
+                    Engine Maintenance Manual SEI-186.
+                    If engine synchronizer system is installed, perform functional test in
+                    accordance with applicable Woodward Govemor Company Bulletin.
+                    Refer to 76-11-00.
+                                                                                                  I
+
+EFFECTMTY: ALL                                                                        76-10-01
+                                                                                      Page 211
+MN-98                                                                                 Aug 6/82
+                       Gates Learjet Corporation®
+
+               ■ain1enan1e ■an11al
+                                                                       .---
+
+
+
+
+        ,.
+        frl!
+        i
+
+
+
+
+                                                                   /
+
+
+
+
+                      ♦ Part af Engine Synchronizer
+
+                           Throttle Cable Rigging
+                          Figure 203 (Sheet 1 of 4)                ,r-
+
+
+
+
+I
+EFFECTIVITY: 25-061, 25-070 THRO 25-164 EQUIPPED WITH   76-10-01
+             ENGINE SYNCHRONIZER                        Page 212
+MM-98                                                   Aug 6/82
+                       Gates Learjet Corporation@
+
+               111ain1enan1e ■anual
+
+
+
+
+                          Throttle Cable Rigging
+                          Figure 203 (Sheet 2 of 4)
+
+
+EFFECTIVITY: 25-061, 25-070 THRU 25-164 NOT EQUIPPED
+
+MM-98
+             WITH ENGINE SYNCHRONIZER
+                                                       76-10-01
+                                                       Page 213
+                                                       Aug 6/82
+                                                                  I
+                      Gates Learjet Corporation@
+              .■ ainlenanae                   -ma11ua.1
+
+
+
+
+                 *   Part of Engine Synchronizer
+
+
+                         Throttle Cable Rigging
+                         Figure 203 (Sheet 3 of 4)
+
+
+
+
+I
+EFFECTIVITY: 25-165 AND SUBSEQUENT EQUIPPED               76-10-01
+             WITH ENGINE SYNCHRONIZER                     Page 214
+                                                          Aug 6/82
+MM,98
+                      Gates Learjet Corporation~
+              mainlenance manual
+
+
+
+
+                         Throttle Cable Rigging
+                         Figure 203 (Sheet 4 of 4)
+
+
+EFFECTIVITY: 25-165 AND SUBSEQUENT NOT EQUIPPED
+             WITH ENGINE SYNCHRONIZER
+                                                     76-10-01
+                                                     Page 215
+                                                     Aug 6/82
+                                                                I
+MM-98
+                                 Gates Learjet Corporation@>
+                      111ai·n11nana■                      111anaal
+           ENGINE SYNCHRONIZER SYSTEM - DESCRIPTION AND OPERATION
+
+        Description (See figure 1.)
+        A. The engine synchronizer system consists of an actuator connected to the
+              throttle linkage, a synchronizer control box, an ENG SYNC caution light
+            · (amber), a te~inal. board·; a circuit breaker, and a system swit.ch.
+        B. Component ,Description
+              (1)   The synchronizer actuator ls located aft of the RH side of the aft engine
+                    beam and is connected to the throttle linkage on the RH (slave) engine.
+              (2)   The synchronizer control box is located between frames 6 and '1 a~d
+                    between stringers 12L and ~3L.
+              (3)   The ENG SYNC caution light (amber) is located on the glareshield          .--.:_.
+                    warning light panel.
+              (4)    The terminal board (TB 39) is located aft of frame 5 at RBL 7.
+              (5)    The circuit breaker is located on the copilot's circuit breaker panel.
+              (6)    The ON-OFF system switch is located on the quadrant cover.
+
+2.      Operation (See figure 2.)
+        A.   The engine synchronizer control box receives electric pulses from each
+             tachometer generator. A difference in the pulse rates causes the control box
+             to run the actuator. The actuator, through the throttle linkage, trims the
+             slave engine to correspond to the master engine. rpm. For further informa-
+             tion on the engine syrichronizer·system, refer to the applicable Woodward
+             Bulletin •. On Aircraft 25-061 and 25-070 thru 25-133, refer to Bulletin
+             No. 33071 (approved by STC SA412CE). On Aircraft 25-134 thru 25-223,
+             refer to Bulletin No. 33104 (approved by STC SA30GL). On Aircraft 25-224
+             and SUbseguent, refer to Bulletin No. 33144 (approved by STC SA30GL).
+             These Bulletins are published by Woodward Governor Company, Rockford,
+             illinois.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                                 '16-11-00
+                                                                                         Page 1
+MM-98
+                                                                                      Aug 6/82
+                        Gates Learjet Corporation~
+              ■aln1ena111e· ■anaal
+                                                                         -~~
+
+
+
+
+                                Synchronizer Actuator
+
+
+
+
+                                                                         /~
+
+
+
+
+                        Engine
+                        Synchronizer
+                        Swit.ch
+
+          - - Synchronizer Control
+              Box (76-11-01)
+
+
+
+               Engine Synchronizer System Component Locator
+                                   Figure 1
+
+
+EFFECTIVITY: OPTIONAL                                         76-11-00
+                                                                         ~
+                                                                Page 2
+MM-98                                                         Aug 6/82
+                                   Gates Learjet Corporation@
+                        ■ain11nan11 ■an■al
+        rsw:;;--7                                                 1 EIS~;~----,
+        I SYNC SWITCH       I            I1                           WARNING PANEL
+                                                                      31-50-02
+                                                                                              I
+                                                                                              I
+        I                  "l--,--- -----+                                       ENG SYNC
+                                                                                 (AMBER)
+                                                                                              I
+        1                                                         L --------'
+        I                    I
+        I t 1-----,--
+                  OFF
+                                                         ~ ; - ; ; ~ ~ ~ BOX                  I
+                                                  ~ - - ~ 31-so-02                            I
+        1         +
+                  ON
+                             I
+                                                                        ---                   I
+
+        I1·         I
+             .__. 1--,           -+---1~-t--t---+---
+
+         L ___ _j
+        ~;---
+            ENGINE
+            SYNCHRONIZER
+            CONTROL BOX
+
+
+
+
+                             I
+                             I
+                                                                  .-----,
+                                                                  I      I
+                                                                      ENG SYNC
+
+                                                                  I     ,.:t.__02avoc         I
+                                                                  ; COPILOT C/B PANEL       _JI
+                                                                        -------- --- -
+                                                                    24-50-01
+
+
+
+
+        L--~
+        I
+          - -
+            874
+            SYNCHRONIZER                               77-10-00
+                                                                        _ _ _ _ __J
+
+        I ACTUATOR
+        I
+        I
+        L----                                 77-11-00
+
+                   Engine Synchronizer System Electrical Control Schematic
+                                            Figure 2
+
+EFFECTIVITY: OPTIONAL                                                                       '16-11-00
+                                                                                              Page 3
+MM•98
+                                                                                            Aug 6/82
+                               Gates Learjet Corporation@
+                     ■ai111111a11a1 - ■ a1111al
+         ENGINE SYNCHRONIZER CONTROL BOX - MAINTENANCE PRACTICES
+
+1.      RemovaVInstallation
+        A.  Remove Synchronizer Control Box (See figure 201.)
+             (1)  Remove electrical power from aircraft.
+             (2)  Remove pilot's circuit breaker panel to gain access to synchronizer
+                  control box. (Refer to Chapter 24.)
+             (3)  Disconnect electrical connectors from synchronizer control box wiring.
+             (4)  Remove attaching parts and synchronizer control box from aircraft.
+        B.  Install Synchronizer Control Box (See figure 201.)
+             (1)  Install synchronizer control box and secure with attaching parts.
+             (2)  Connect electrical connectors to synchronizer control box wiring •
+            .(3)  Install pilot's circuit breaker panel. (Refer to Chapter 24.)
+             (4)  Restore electrical power to aircraft.
+
+
+
+
+                                                                  Engine Synchronizer
+                                                                  Control Box
+                                                              (            --Nut
+
+
+
+
+                                                                              FS 198
+                                     stringer 12L                             Frame 7
+
+
+
+
+                           Connector                        Detail A
+                       Engine Synchronizer Control Box Installation
+                                       Figure 201
+
+
+EFFECTIVITY: OPTIONAL                                                          76-11-01
+                                                                               Page 201
+MM-98
+                                                                               Aug 6/82
+

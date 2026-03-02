@@ -1,0 +1,936 @@
+         @
+■ain1iiiiiiPORAiianual
+
+    CHAPTER
+
+
+
+
+  WINDOWS
+                              Gates Learjet Corporation@
+
+                     ■ai■ll!■il■II! · ■il■■ill
+                                                           RECORD OF TEMPORARY REVISIONS
+
+
+
+
+ Rev.      Date         Date         Page      Rev.     Date         Date       Page
+ No.     Inserted      Removed      Number     No.    Inserted      Removed    Number
+
+                       Oct 16/81   ·56-10-00
+56-1    Mar 81/'78
+                       RevflO        Pg207
+                      .Oct 16/81    56-10-00
+56-2    Feb 1/80       Rev flO        Pg 207
+
+
+
+
+                                                                                        -
+
+
+
+
+                                                                                            -
+
+
+                                                                                        -
+
+
+
+
+MM-98
+                                           Gates Learjet Corporation~
+                             ■ai■11■a■■1 ■a■ual
+      Chapter                                                     Chapter
+      Section                                                     Section
+      Subject                    Page              Date           Subject                    Page               Date
+      56-Title
+      56-Record of Temp.
+         Revisions
+     .56-List of
+         Effective Pages              1           May 25/84
+      56-Contents                     1           Oct 16/81
+      56-00-00                      201           Oct 16/81
+      56-00-00                      202           Oct 16/81
+      56-10-00                      201           Oct 16/81.
+      56-10-00                      202           Oct 16/81
+      56-10-00                      203           Oct 16/81
+      56-10-00                      204           Oct 16/81
+      56-10-00                      205           Oct 16/81 .
+      56-10-00                      206           Oct 16/81
+      56-10-00                      207           Oct 16/81
+      56-10-00                      208           Oct 16/81
+      56-10-00                      209           Oct 16/81
+      56-10-00                      210           Oct 16/81
+     •55.10.00                      211           May 25/84
+     •55.10.00                      212           May 25/84
+      56-10-00                      213           Oct 16/81
+      56-20-00                      201           Oct 16/81
+      56-20-00                      202           Oct 16/81
+~
+
+
+
+
+      Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+    • Asterisk indicates pages revised, added or deleted by current revision.
+     The portion of the text affected by the current revision is Indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                       56-LIST OF EFFECTIVE PAGES
+    MM-98
+                                                                                                             Page 1
+                                                                                                         May 25/84
+                                    Gates Learjet Corporation@
+                       ■ain11nan■1 ■anual
+                                                                                 Chapter
+                                                                                 Section
+Subject                                                                          Subject
+
+GENERAL       . . . . . . .......................... . 56-00-00
+                .
+  General . . . . . . . . . . . • . . . . . . . . . . . . . . . . . . . . . .    56-00-00        201
+    Tools and Equipment •••••••••••••••••.•••.•••                                56-00-00        201
+    Cleaning/Painting • • • • • • • ·• • • • • • • • • • • • • • • • • • • •     56-00-00        201
+FLIGHT COMPARTMENT WINDSHIELD - MAINTENANCE
+  PRACTICES •••.••..••.••..•••.••......•• ·••                                    56-10-00
+  General . . . . . . . . . . . . . . . . . . . . . . . . . . ·. . . . . . . .   56-10"'."00     201
+  Tools and Equipment ••••.••••••••••••.••••••••                                  56-10-00       201
+  Removal/Installation ••••••••••••• _•••••.••••.•                                56-10-00       203
+    Remove Windshield • • • • • • •-• • • • • • • . • • • . • • • • •            ·55-10-00       203
+    Preparation for Installation of Existing Windshield • • •                     56-10-00       203
+    Preparation for Installation of New Windshield • • • • • •                    56-10-00       204
+    Installation of Windshield •••••••.•••••••.••••                               56-10-00       205
+  Approved Repairs ••••••••..• ••••••••••.••.•••                                  56-10-00       210
+CABIN WINDOW - MAINTENANCE PRACTICES •••••••••                                    56-20-00
+  Genera.I ••••••••••••••••••••••••••••••••••                                     56-20-00       201
+  Removal/Installation • • • • • • • •. • • • • • • • . • • • • • • • . •         56-20-00       201
+  Approved Rel)airs •.••••••••..•••••...••••••••                                  56-20-00       201
+
+
+
+
+EFFECTIVITY: ALL                                                                           56 - CONTENTS
+                                                                                                   Page 1
+MM•98                                                                                            Oct 16/81
+                               Gates Learjet Corporation@
+                     •ain;1an·ana1· ■an11-al
+                          GENERAL- MAINTENANCE PRACTICES
+
+1.      General
+        A.   The windows consist of th~ windshield and cabln windows.
+             (1)   The windshield consists of the pilot's and copilot's windshield halves.
+                   The two-piece impact resist.ant plexiglass windshield is secured to the
+                   fuselage structure and windshield center post structural members with
+                   screws and retainers.
+             (2)   The cabin windows consist of plexiglass windows secured to the fuse-
+                   lage structure by screws and retainers.
+        B.   Care must be exercised 't.o avoid scratches or gouges which may be caused
+             by dirty or rough cleaning cloths or grit carried in the water. ·
+        C.   All rubbing operations on the windows shall be done with as light a pressure
+             as possible.
+        D.   Assure that all detergent is completely removed after cleaning to prevent
+             stafning·and/or paint damage.
+
+              CAUTION: DO NOT USE THE FOLLOWING MATERIALS ON ACRYLIC
+                       PLASTICS: GASOLINE,. ALCOHOL, BENZENE, HEXANE,
+                       XYLENE, ACETONE, CARBON TETRACHLORIDE, FIRE
+                       EXTINGUISHER, OR DE-I(?ING FLUIDS, LACQUER THINNERS
+                       OR WINDOW CLEANING SPRAYS, AS THEY SOFTEN THE
+                       PLASTIC AND/OR CAUSE CRAZING.
+
+2.      ·Tools and Equipment
+        A.     The following materials are required.
+
+     NAME                              NUMBER                 MANUFACTURER
+
+Aliphatic Naptha Type 11               TT-N-95.           Commercially Available
+
+Mild detergents (non-abrasive)                            Commercially Available
+
+Chamois Skins or Soft Cloth                               Commercially Available
+
+
+3.      Cleaning/Painting
+        A.   Clean Windows
+             (1)   Remove loosely adhering dirt and grit from the window by flushing with
+                   water filtered free of dirt and abrasive materials.
+             (2) Use a soft, thoroughly clean cloth, sponge or chamois to carry soapy
+                   water to the window. Go over the surface only with the bare hand so
+                   that any abrasive can be quickly detected and removed before it
+                   scratches the plastic surface.
+             (3)   Thoroughly rinse window with clean water to assure all detergent is
+                   removed.
+
+EFFECTIVITY: ALL                                                                   56-00-00
+                                                                                   Page 201
+MM-98
+                                                                                   Oct 16/81
+                          Gates Learjet Corporation®
+               ■ain1ana-na1 ■a·naal
+              CAUTION: RUBBING THE PLASTIC SURFACE WITH A :QRY CLOTH
+                       WILL CAUSE SCRATCHES AND BUILD UP AN ELECTRO-
+                       STATIC CHARGE WHICH ATTRACTS DUST PARTICLES.
+                       ALL RUBBING OPERATIONS ON ACRYLIC PLASTICS
+                       SHALL BE DONE WITH AS LIGHT A PRESSURE AS
+                       POSSIBLE.
+
+        (4)   Dry the window with a clean, damp chamois. A clean, soft cloth or
+              tissue may be used if care is taken not to rub the plastic after it is
+              dry.
+        (5)   Remove oil and grease by lightly rubbing with a cloth dampened with
+              aliphatic naptba.
+
+              CAUTION: DO NOT USE THE FOLLOWING MATERIAI,S ON ACRYLIC
+                       PLASTICS: GASOLINE, ALCOHOL, BENZENE, HEXANE,
+                       XYLENE, ACETONE, CARBON TETRACHLORIDE, FIRE
+                       EXTINGUISHER, OR DE-ICING FLUIDS, LACQUER
+                       THINNERS OR WINDOW CLEANING SPRAYS, AS THEY
+                       SOFTEN THE PLASTIC AND/OR CAUSE CRAZING.
+
+
+
+
+EFFECTIVITY: ALL                                                              56-00-00
+                                                                              Page 202
+                                                                             Oct 16/81
+                                     Gates Lear~ Corporation®
+                         ■illllll!llilllll! lllillllill
+                 FLIGHT COMPARTMENT WINDSHIELD - MAINTENANCE PRACTICES
+
+    1.      General
+            A.     The flight compartment windows consist of the pilot's and copilot's wind-
+                   shield halves.
+            B.     The windshield is made up of three laminated layers of acrylic plastic. Both
+                   outer layers are made of stretched acrylic. 460 (+. 046/-. 030) inch thick~
+                   The middle layer is cast in place acrylic • 060 inch thick.
+            C.     The two-piece impact-resistant plexiglass windshield is secured ~ the fuse-
+                   lage structure and windshield centerpost structural members with screws
+                   and re1ainers.
+            D.     Removal and ins1allation procedures are identical for both the right and left
+                   windshield with the exception of the amount of primer to be appl;ied.
+            E.                      a
+                   When installing. new windshield the old windshield must be retained for use
+                   as a template for cutting and drilling the new Windshield.
+            F.     Replacement windshields do not con1ain the necessary attach holes. There-
+                   fore, special drilling precautions outlined below must be followed when in~
+                   stalling a replacement windshield.
+                   (1)    Recommended drill: speeds are: hand drill, 2100 to 2500 rpm, auto-
+                          matic constant speed drill, 2100 rpm. ·
+                   (2)    Recommended feed rate is. 001 inch per revolution. The drill should
+                          be allowed to do all the work with littl~ or no force by-the operator.
+                         ·Forcing the drill will cause the backside of the windshield to chip or
+                          flake as the drill breaks. through.      ·                          ··
+                   (3) A few practice holes can be drilled in the ·portion of the windshield
+                          which will be trimmed off.
+                   (4) ·During drilling operation the drill should be backed out several_times
+                          to clear chips and the. drill lubricated by dipping in AN-P-51 (Vaseline).
+
+    2.      Tools and Equipment
+
+         NAME                  NUMBER              MANUFACTURER                    USE
+
+    f12 Drill Sharpened                            Manufactured Locally     Drill pilot holes.
+     to a Point
+
+    3/8" Drill with a          LUT 9018             Gates Learjet Corp.     Final drilling of holes.
+     #12 Pilot
+
+    Vaseline                   AN-P-51             Commercially              Lubricate drills.
+                                                   Available
+    Hydrocal                    (100://= Bag)      Commercially              Cast old windshield.
+                                                   Available
+
+    Hemp                        (5 pounds)         Commercially              Mix with Hydrocal
+                                                   Available
+~
+    EFFECTIVITY: ALL                                                                      56-10-00
+                                                                                          Page 201
+    MM-98                                                                                 Oct 16/81
+                               Gates Learjet Corporation@
+                    ■ainl■nan■e ■an■al
+                         NUMBER·           .MANUFACTURER                                      .r-~
+    NAME                                                               USE
+
+Flannel Cloth            (4 yds x 36")     Commercially           Protective facing for
+                                           Available              Hydrocal cast.
+
+Pro-Seal                 890B, Class B     Coast Pro-Seal and     Seal windshield and
+                                           Mfg. Co.               retainers.
+
+Super Koropon ·          515-344           Desoto Chemical        Paint outer portion
+Green Primer                               Coatings Inc.          of windshield.
+
+Super ·Koropon           910-350           Desoto Chemical        Mix with primer.
+Curing ·Solution                           Coatings Inc.
+I
+Reducer                  020X304           Desoto Chemical
+                                           Coatings Inc.
+                                                                  Thin primer.
+
+
+Aliphatic Naptha         Federal Spec     Commercially            Clean windshield area
+                         TT-N-95, Type II Available               to be painted.
+
+Bm:tding Discs           36 grit .         Commercially           Smooth windshield
+                                           Available              edge.
+
+Sanding Discs            320 grit          Commercially
+                                           Available .
+                                                                  Smooth windshield
+                                                                  edge.                       --~
+Abrasive Paper           220 grit or       Commerc~               Roughen prim.er.
+Wet orDry                finer.            Available
+
+Hand Drill·.       (capable of 2100 to     Commercially
+                   ·2500 rpm)              Available
+
+Drill Motor        (capable of 2100 rpm)
+
+Band Saw           (speed for cutting to
+                    4000 fpm)
+
+Sander
+
+Reamer                   #12               Commercially           Ream holes in seal
+                                           Available
+
+step Pins                                  Manufactured Locally   To locate drill bushings.
+
+Drill Bushings                                                    For windshield drilling
+                                                                  operation.
+                                                                                              --
+                                                                                               ~
+EFFECTIVITY: ALL                                                               56-10-00
+                                                                               Page 202
+M~t♦98                                                                         Oct 16/81
+                               Gates Learjet Corporation~
+                     ■iliDll!DilDBI! ■anual
+     NAlv.IE              NUMBER            MANUFACTURER               USE
+
+Adhesive                  Silastic 732-RTV Dow Corning Corp.       To bond seals.
+                          White, Translu- Midland, Mich.
+                          scent, or Black
+
+                          RTV-102 White-,   General Electric       Alternate for Silastic
+                          RTV-103 Black,                           732-RTV.
+                          RTV-108 ·Translu-
+                          scent, or
+                          RTV-106 Red
+
+Rubber Cement                               Commercially           To glue flannel to
+                                            Available              Hydrocal Cast
+
+
+3.       Removal/Installation
+         A.  Remove Windshield (See figure 201)
+             (1)   Remove nose compartment access doors.
+             (2) Remo'Ve external defog nozzle. Refer to Chapter 30.
+             (3)   Remove screws and· lower instrument panel. Refer to Chapter 31.
+             (4)   Remove attaching parts securing glareshield and remove g]areshield.
+             (5)   Remove headlinei: and side panels as required.
+             (6)   Remove internal·defog diffuser. Refer to Chapter 21.
+             (7) Remove screws, nuts and washers which pass through the outer center
+                   post, inner center post, retainer, windshield and inner angles. Re-
+                   move inner and outer center posts.
+             (8)   Remove the two rows of screws which secure retainer. Remove re-
+                   tainer and windshield from aircraft.
+         B.  Preparation for Installation of Existing Windshield
+             (1)   Inspect entire surface of windshield for· scratches, chips, crazing,
+                   and damage of any kind.
+             (2)   If repair is required, refer to Approved Repairs for correct procedure.
+             (3)   Carefully remove any dirt or sealer adhering to the surface of wind-
+                   shield.
+             ( 4)  carefully remove peeling primer.
+             (5)   Mask off windshield. Very carefully use.220 grit or finer abrasive
+                   paper to feather edges of c¥pped or peeled areas.
+             (6)   Mix one part super Koropon Fluid Resistant Primer (green) #515-344
+                   and one part Curing Solution =11910-350. Thorough mixing with a paddle
+                   is sufficient agitation. Use a fine brush to touch up small areas. Add
+                   up to 10% of reducer #020X304 to thin primer for spraying large areas.
+                   Build up areas of left windshield to a minimum tbiclmess of o. 007 inch
+                   and o. 003 inch for right windshield.
+
+
+
+EFFECTMTY: ALL                                                                   56-10-00
+                                                                                 Page 203
+MM-98                                                                            Oct 16/81
+                             Gates Learjet Corporation@
+
+                  ■ai■-l■na·■••- ■an11al
+                 NOTE:• If primer is applied in dust free area, additional coats of
+                        primer may be added when previous coat is still tacky or when
+                        it is just past tacky stage.
+                      • If primer is not applied in a dust free area, allow primer to
+                        dry thoroughly. Use fine grit abrasive paper to sand off dust
+                        or dirt that may have adhered to primer surface and to
+                        roughen surface for next coat.
+
+          (7)      Allow primer to dry a minimum of two hours prior to application of
+                   sealer.
+            (8)    Peel old seals off of inner and outer retainers. Thoroughly clean re-
+                   tainers using clean rags dampened in MEK _or equivalent. While parts
+                   are still wet, wipe dry with clean cotton rags.
+            (9)    Install windshield.
+    C.      Preparation for Installation of New Windshield
+            (1)    Position removed windshield on a suitable work bench and remove old
+                   inserts. and bushings from holes in windshield.
+            (2)    Fabricate step pins as shown in figure 2 01 and install step pms in
+                   holes where inserts were removed.
+            (3)    Fabricate drill bushings as shown in figure 201 and install drill bush-
+                   ings on step pins •.
+            (4)    Mix ~ydrocal following manufacturer's instructions •
+           .(5) · Sa1nrate hemp in hydrocal_and.apply around the edge of the windshield
+                   as shown. As the hydrocal and hemp mixture begins to set, scrape
+                   excess from along sides. Do not let hemp extend over side of wind-.
+                   shield.
+            (6)    After hydrocal has set a minim.um of one hour, remove step pins and
+                   hydrocal cast from windshield.
+            (7)    Using rubber cement, glue flannel cloth to windshield side of hydrocal
+                   cast. This wfil help protect new windshield.
+            ( 8) . Using care ~ot t.o scratch new windshield, trim protective paper back
+                   approximately two inches from edge.
+         · (9)     Position hydrocal cast on new windshield. Assure the cast contour
+                   per~ectly fits new windshield contour.
+          (10) Spot drill approximately 10 pilot holes around the windshield using
+                   drill bushings cast into ~e hydrocal cast. Secure cast to windshield
+                   by installing bolts through :these holes •.
+          (11)     Using the hydrocal cast as a blade guide, trim windshield to size using
+                   a band saw. Sand the edge of the windshield t.o remove burrs and
+                   rough spots.
+          (12)     Drill remainder of pilot holes around windshield and remove cast from
+                   windshield.
+          (13)     Using the 3/8" drill with :/f:12 pilot, enlarge pilot holes to final size.
+          (14)     Sand completely around windshield so that corners are radiused 0.12
+                   inch.
+          (15) Install windshield.
+
+EFFECTIVITY: ALL                                                                   56-10-00
+                                                                                   Page 204
+                                                                                   Oct 16/81
+                                Gates Learjet Corporation@
+                     ■ain1enan1■ ■a■ual               .
+        D.   Installation of Wmdshield (See figure 201)
+             (1)   Install inserts into windshield.
+             (2) Apply a small amount of liquid soap to the bushings and install into
+                    inserts.                        ·
+
+                     NOTE:    Inserts an4 bushings are to be flush with both sides of wind-
+                              shield. If these protrude, trim excess with a razor blade.
+                              Always trim toward edge of windshield.
+
+             (3)     Position outer retainer on windshield and temporarily attach to wind-
+                     shield by inserting screws through retainer· and windshield attach holes.
+             (4)     Mask off wind.shield leaving 0.12 to 0.14 :inch between masking tape
+                     and inboard edge of retainer.                 ·
+             (5)     Remove retainer from windshield and .clean unmasked area with ali-
+                     phatic naptha. Assure that masking tape adheres to windshield and
+                     naptba is not allowed· to seep under masking tape.
+             (6)     Mix on~ part SUpe:r: Ko_ropon Fluid Resistant primer (green) #515-344
+                     and one part curing solution :J/:910-350. Thorough mixing with a paddle
+                     is sufficient agitation. Add up to 10% of reducer #~20X304_to thin
+                     primer for spraying.
+
+                     NOTE:    Unused, ·mixed primer ove:i: eight h~urs old must be discarded.
+
+              (7)    Apply a spray coat of mixed primer to unmasked portion of outer wind-
+                     shield to give a dry film thickness of O. 0006 too. 0012 inch. Apply
+                     seven coats to the left windshield and three to the right, to obtain a
+                     minimum thickness of O. 007 inch_for left windshield and o. 003 inch for
+                     the right.                         .
+
+                     NOTE: • If primer is applied in a dust free area, additional coats of
+                             primer may be added when previous coat is still tacky or when
+                             surface is just past tacky stage.
+                           • If primer is not applied in a dust free area, allow primer to
+                             dry thoroughly. Use fine grit abrasive paper to sand dust or
+                             dirt that may have adhered to primer surface and to roughen
+                             surface for next coat.
+
+              ( 8)   Allow primer to dry a m:inimum of two hours prior to application of
+                     sealant.                                         ·
+              (9)    Apply silastic RTV-732 or equivalent adhesive around outer face of
+                     inner retainer and around inner face of outer retainer and install new
+                     seals.
+             (10)    Using a No. 12 reamer, ream holes in new seal. The retainers should
+                     be used as a guide for reaming operation.
+
+
+
+EFFECTIVITY: ALL                                                                    56-10-00
+                                                                                    Page 205
+MM-98                                                                               Oct 16/81
+                 .        Gates Learjet Corporation@
+                ■ain11na·n•·• ■an■al
+        (11)   Position new windshield on inner retainer. · Apply fillet seal along
+               entire inner edge of outer retainer between crimp and seal, immedi-
+               ately prior to installation of outer retainer. Apply sufficient sealant
+               to. assure a continuous bead will be forced from under retainer when
+               retainer is secured and torqued.
+        (12)   P9sition windshield on aircraft and position outer retainer on wind-
+               shield.
+        (13)   Position inner and outer center posts on aircraft.
+        (14)   Secure center posts and outer retainer with.screws, nuts and washers.
+               Torque to 30 inch-pounds (3. 387 N. m).
+
+               NOTE:    Prior to iruttdJing screws through the windshield, the threads
+                        should be dipped in sealant.
+
+        (15)   Remove excess sealant from windshield using approved cutting tool
+               and soft clean cloth.
+        (16)   JD.stall bolts, Jlllts, and washers which secure inner angles together.
+        (17)   Pressure test aircraft to 9. ·s psi (65. 500 kPa.) and check for leaks.
+               Maximum allowable leakage is 115 SCFM.
+        (18)   After pressure test, back windshield screws off and retorque to 30
+               inch-pounds (3. 387 N• m). If screw turns when backing off nut, reseal
+               screw body as required.
+        (19)   Fill two lower center post screw holes with aerodynamic fairing
+               compound.                 ·
+        (20)   JD.stall internal defog diffusers. Refer to Chapter 21.
+        (21)   Install external defog nozzle. Refer to Chapter 30.
+        (22)   Install side panels and beadJiner.
+        (23)   Install glareshield.
+        (24)   Raise instrument panel and secure with screws.
+        (25)   Install nose compartment access doors.
+        (26)   Remove protective paper from windshield and clean :If necessary.
+
+
+
+
+EFFECTlVITY: ALL                                                             56-10-00
+                                                                             Page 206
+                                                                             Oct 16/81
+MM-98
+                             Gates Learjet Corporation@
+                   ■ainl■nan■e ■anual
+
+
+
+          Inner Centerpost
+
+
+
+Outer·centerpost
+
+
+
+
+                   Doubler                              Aircraft Skin
+
+
+
+
+                                 Windshield Installa.tion
+                                Figure 201 (Sheet 1 of 3)
+
+EFFECTIVITY: ALL                                                        56-10-00
+                                                                        Page 207
+                                                                                    I
+MM-98
+                                                                        Oct 16/81
+                                                   ~
+                              •      GATES LEARJET CORPORATION
+
+                           •a1n1anan11 •anaal
+                                                                        .       "eld
+    Hydrocal and Hemp Poured
+    Over Old Windshield
+
+
+                                     ':x:'..-<?·
+                                     ~~:,,,
+
+
+
+
+                                                        OLD WINDSHIELD PREPARATION
+
+
+
+
+               Material: As Desired.                                        Material: As Desired
+
+
+o. 37 5 11 Dfa•..1::17-,   .:1 /   0.19"   Dia. Stud   O. 375"      Dia•Jj l" I- /0.20± Dia. Hole
+              T
+                   r=]:==j    4                                              ?=J ~~
+         STEP PIN FABRICATION                               DRILL BUSHING FABRICATION
+
+
+
+
+     Typical Bushing          Typical Step Pin         Hydrocal and ,
+     Installation             Installation             Hemp Cast      \                 ____ _ _ / ~--.. _-·'
+                                                   Drill Bushings~~
+                                                           . .        _'--~e.
+                                                                       ~
+                                                                           · :.-···
+                                                                                  '"                    /.,,../
+
+                                                           ''     .    .                            /
+                                                                    .
+                                                                            =,~ ,. :_- .
+                                                                ~   \       .. '    )
+                                                                        '           .
+                                                                        J
+
+                                                   Cast Before
+                                                   Scraper Trim
+                                      Windshield Ins1alla.tion
+                                     Figure 201 (Sheet 2 of 3)
+
+
+I
+EFFECTIVITY: ALL                                                                                         56-10-00
+                                                                                                         Page 208
+                                                                                                         Oct 16/81
+ MM-98
+                                                                      ~
+                           •           GATES LEARJET CORPORATION
+
+                    ■a1a11aaa11 ■aa■al
+                                                                                                 New Windshield
+
+
+
+                                                                                                         .....
+
+                                                                                                                 -j
+                                                                                                        :.---:
+
+
+
+
+                          Trimmed Hydrocal                                New Windshield
+                          and Hemp Cast
+
+                                                                          Silastic
+                                                                          Seal
+
+
+                                                                                                     Silastic Seal
+
+
+                                                                                           /o.12" Radius Typical
+                                                                                            All Around Windshield
+
+        o. 45" Edge Distance                                               r---- o. 50" Edge Distance
+                                        '.t               .
+                               ?''\-:.
+                               •              •           •       I                    o. 50" Edge Distance
+                                     I   I.           /
+
+
+
+
+                                   I
+                                       .· I {     I           '
+
+
+
+                                       - _______ ....,
+        o. 50" Edge Distance
+                                           Windshield Installation
+                                          Figure 2 01 (Sheet 3 of 3)
+
+EFFECTIVITY: ALL                                                                                        56-10-00
+                                                                                                        Page 209
+                                                                                                                      I
+MM-98
+                                                                                                        Oct 16/81
+                                               ~
+                           •         GAlES LEARJET CORPORmtDN
+
+                    ■:a·1n11■a■■1- ·■a■aal
+4.      Approved Repairs
+        A.   Windshield and Cabin Window
+             (1)  A thorough analysis of windshield or cabin window damage must be
+                  made before attempting any repairs. .
+             (2)  Normally, light scratches or small pits can be repaired without re-
+                  ducing the structural integrity or reducing the optical quality of the
+                  windshield or cabin window.
+             (3)  In some instances repairs may be allowable with respect to the struc-
+                  1ural integrity of the windshield or cabin windows, but not allowable
+                  with respect to the optical distortion in911rred.
+             (4)  Scra.t.ches or pits which require removal of material that reduces wind-
+                  shield thickness to less than 1. o inch (2. 54 cm) are not permitted.
+             (5)  Scrat.ches or pits which require r.emoval of material that reduced the
+                  outer window glass thickness (outer laminate layer) to less than o. 400
+                  inch (10.16 mm) are not permitted.
+             (6). Optical distortion of the windshield or cabin windows caused by repairs
+                  is considered.the responsibility of the owner, crew, and/or the :facility
+                  performing the repairs.        ·
+
+                   NOTE:       Service experience has shown that removal of scratches
+                               greater than. 005 inch (0.12 mm) deep in the extreme
+                               curvature of the windshield often results in optical dis-
+                               tortion which is not acceptable.
+
+        B.   Removal of Scrat.ches or Pits from Windshield or Cabin Windows
+             (1) Tools and Equipment
+
+     NAME                          PART NUMBER                  MANUFACTURER
+
+Ultrasonic Thickness Gage          Caliper Model No.            Radiatronics
+                                     CL-202                     P. 0. Box 1230B
+                                                                Overland Park, Ks. 66212
+
+Abrasive Paper                     400A & 600A Grit             Available Locally.
+                                    Wet or Dry
+
+Polishing Compound                 Cerium Oxid~ #2              L. L. Fusco Company
+                                                                4937 Olympic Blvd.
+                                                                Los Angeles, Calif.
+
+Rubber Block                       40-50 Shore H                Available Locally.
+                                   (Medium-Ha.rd)
+
+
+
+
+EFFECTMTY: ALL                                                                        56-10-00
+                                                                                      Page 210
+                                                                                      Oct 16/81
+MM-98
+                             Gates Learjet Corporation•
+                   ■aln11na111 ■an■.al
+   NAME                       PART NUMBER               MANUFACTURER
+
+Cotton Flannel Cloth                                    Available Locally.
+
+
+
+                                                                                           I
+Cleaner                         403D                    PermaTex
+                              Federal Spec.             Kansas City, KS 66115
+                              P-P560 Type I
+
+Cleaner                       Wilco Anti-Sta.tic         Wilco Company
+                               Cleaner·                  IDs Angeles, Calif.
+
+Wax                           Simonize Paste Auto        Available Locally
+                              Johnson Paste Auto
+                              DuPont Paste Auto
+
+           (2)   Using an ultrasonic thickness gage determine the thickness of the glass
+                 adjacent to the scratch. or pit. Follow the· mamifacturer' s operating
+                 instructions for the instroment.
+           (3)   Using a depth gage or other ,:airniJar device measure the depth of
+                 scratch or pit as accurate]y as possible.
+           (4)   Using the thickness measured in step (2) and the depth of the scratch or
+                 pits as measured in step (3) determine whether repairs are allowable.
+
+                 NOTE: • Scratches or pits which require removal of material that
+                         reduces windshield thickness to less than 1. 00 inch (2. 54 cm)
+                          are not permitted. In such cases the windshield must be
+                          replaced~-·
+
+                        • Scratches or pits which require removal of material that
+                          reduces outer cabin window thickness to less than o. 400
+                          (10.16 mm) are not permitted. In such cases, the cabin·
+                          window must be replaced.
+
+           (5)   Thoroughly clean windshield or cabin window to be repaired. This will
+                 remove all foreign matter which may cause more scratches when re-
+                 pairs are begun.
+
+                 CAUTION:• EXTREME CARE MUST BE USED DURING REPAms
+                           TO PREVENT vmw DJSTORTION.
+
+                            • DO NOT USE SANDING BLOCK IN A BACK-AND-FOR-TH
+                              MOTION.
+
+           (6)   Wrap abrasive paper (400A, wet or dry) around a rubber sanding block.
+
+
+
+EFFECTIVITY: ALL                                                                66-10-00
+                                                                                Page 211
+MM-98                                                                          May 25/84
+                              Gares Learjet Corporationiii)
+                   · ■ a-i-nlenan■e ■anual
+         (7)       Using large amounts of water, lightly sand over and around the imper-
+                   fection in a circular motion. Sand an area 2 to 3 times that of lbe im-
+                   perfection in order to minimize optical distortion and excessive
+                   thinning.
+          (8)      Continue sanding lightly, using large amounts of water, until the
+                   initial imperfection is no longer apparent.
+          (9)      Change to 600A, wet or dry abrasive paper.
+        (10)       Using large amounts of water, continue to lightly sand until the hairline
+                   scratches caused by the first sanding are no longer apparent. Sand an
+                   area 2 to 3 times larger than covered by the first sanding to minim~ze
+                   op~ distortion and to "feather" out the repaired area.
+        (11)     . Mix c~rium oxide #2 with water to form a thm paste •
+
+                  .NOTE:    Poly-Sand may be used in lieu of cerhlm oxide #2.
+                            Follow mamrfactnrer's instructions.
+
+        (12)      Wrap sanding block in 2 or 3 layers of clean cotton flannel cloth to
+                  form a polishing pad.
+
+                  CAUTION:      DO NOT ALLOW CERIUM OXIDE #2 PASTE TO
+                                BECOME DRY.
+
+        (13)     · Apply cer~ oxide paste to surface of windshield or cabin window and
+                   °Ilghtl.y rub in a circular motion. Constantly add water to'. prevent paste
+                   from drying out and increase area of circular motion.
+        (14)       After. sanding marks are re~oveq, contitme rubbing with polishing pad.
+                   Do not apply additional paste to rework ar~, just water. Continue
+                   rubbing surf.ace while adding water. This action will restore a glossy
+                   surface to the windshield or cabin window.
+        (15)       Using a clean cotton flannel cloth, dry surface of windshield or cabin
+                   window.
+        (16)       Apply cleaner with .clean cotton flannel cloth. After cleaner has dried,
+                   wipe off cleaner film.
+        (l '1)     Apply wax and polish surface to a high gloss.
+        (18)       After completion of ·repairs,. the windshield must be ·inspected by the
+                   aircraft owner, crew, and/or facility performing the repair work to
+                  .determine whether the optical distortion (if any) is acceptable.
+
+                  NOTE:    This inspection should be performetl under both daytime and
+                           night time conditions.
+
+
+
+
+EFFECTIVITY: ALL                                                                    56-10-00
+                                                                                    Page 212
+MM-98                                                                             May 25/84
+                                Gates Learjet Corporation®
+                      ■1in11nan11 ■anual
+        C.    Removal of Scratches or Pits from W~dshield or Cabin Windows (Micro-
+              Mesh Scratch Removal and Restoration Kit)
+              (1)  Tools and Equipment
+
+  NAME                      PART NUl\IBER              MANUFACTURER
+
+Scratch Removal and          HP 100              Micro-Surface Fi:nishing Prod. Inc.
+ Restoration Kit                                 Box 456
+                                                 Wilton, Iowa 52778
+                                                 (Available thru Gates Learjet Corp. )
+
+
+              (2)    Using an ultrasonic .thiclmess gage, determine the thiclmess of the
+                     glass adjacent to the scratch or pit. Follow the mam.ifacturer 's
+                     operating instructions for the instrument.
+              (3)    Using a depth gage or other similar· device, measure the depth of
+                     scratch or pit as accurately as possible.
+             . (4)   Using the thiclmess measured in step (2) and the depth of the scrat~h or
+                     pits as measured in step (3) determine whether repairs are allowable.
+
+                     NOTE:• Scratches or pits which require removal of material that.
+                            reduces windshield thickness to less than 1. 00 inch (2. ~4 cm)·
+                            is not permitte!-1. In such cases the windshield inust be
+                            replaced.
+
+                            • Scratches or pits which require removal of material that
+                              reduces outer cabin window thickness to less than o. 400 inch
+                              (10.16 mm) is not permitted. In such cases the cabin
+                              windows must be replaced.
+
+              (5)    Perform windshield or window repairs. Carefully follow manufac-
+                     turer's instructions included in the kit.
+
+
+
+
+EFFECTIVITY: ALL                                                                    56-10-00
+                                                                                    Page 213
+MM-98
+                                                                                   Oct 16/81
+                               Gates Learjet Corporation@
+                    ■1in11n1111 ■11■11
+                      CABIN WINDOW - MAINTENANCE PRACTICES
+
+1.      General
+        A.   There are nine cabin windows installed in the aircraft including the emer-
+             gency exit door window.
+        B.   The cabin windows are made up of two panes of acrylic with a dead air space
+             between them. The two panes are held apart and sealed air tight by a spacer.
+             The outer pane is stretched acrylic • 414 inch thick. The inner pane is
+             stretched acrylic .252 inch thick. The air space between panes is. 090 inch.
+        C.   Removal and installation procedures for the cabin windows are identical with
+             the exception of the emergency exit door window.
+
+2.      Removal/Installation
+        A.   Remove Cabin Window (See figure 201)               .
+             (1)   Remove the upholstery in the immediate area of window to be replaced.
+             (2)   Remove foam as required to gain access to window retainers,· using a
+                   sharp knife or other -~it.able instrument.
+             ( 3)  Insert a small all en wrench into the shank portion of fastener and,
+                   using allen wrench to hold fastener stationary, loosen and· remove
+                   nuts securing Window ret.ainers and window.
+             (4)   Remove window retainers and window.
+        B.   Install Cabin Window (See figure 201)
+             (1) Remove old sealant from structure. Refer to 20-00-00.
+             (2) Apply a faying surface seal, approximately two inches wide, around
+                   perimeter of window cutout in aircraft structure. Allow sealant to
+                   cure before proceeding with installation. ·
+             (3) After sealant has cured, apply an additional faying surface seal t.o
+                   _mating surf.aces of aircraft s~cture and window.
+             (4) ·Insert four fasteners through cabin window attaching holes, equally
+                    spaced around· perimeter.
+             ( 5)  Inst.all window and retainers over fasteners. Install fastener nuts and
+                   tighten finger-tight.
+           · (6) . Install remaining fasteners and tighten finger-tight.
+             (7) Torque fasteners in a clockWise direction starting at 12, 3, 6, and
+                   9 o'clock. The fastener nuts ·incorporate a break-off torque limit.
+                    This assures that the .fasteners will be correctly t.orqued.
+             (8) Clean areas, inst.all upholstery and touch up exterior as necessary.
+
+
+
+
+                                                                                             I
+3.      Approved Repairs
+
+        A.    Refer t.o 56-10-00 Approved Repairs, Windshield and Cabin Window~
+
+
+
+
+EFFECTIVITY: ALL                                                                  56-20-00
+                                                                                 Page 201
+MM-98                                                                            Oct 16/81
+                                    Gates Learjet Corporation@
+                         ■al-nl■nan-1■ ■an11al
+
+
+
+
+            890B Sealant---...,_~
+
+
+
+              A-.                                                            Retainer
+
+                      Cabin Window
+
+
+
+
+             Apply Fillet Seal around                               Window Assembly
+            ·Window and fair to match
+             contoµr.
+
+                                                               Apply Faying Surface seal to.
+                                                               structure and allow to cure.
+                  Retainer                                     Apply additional coat when
+                                                               window is inst.alled.
+
+
+                                                             Aircraft Skin
+
+
+
+                                              Detail A
+                                        Cabin Window Installation
+                                                Figure 201
+
+I   EFFECTIVITY: ALL                                                                    56-20-00
+                                                                                        Page 202
+    MM-98                                                                               Oct 16/81
+

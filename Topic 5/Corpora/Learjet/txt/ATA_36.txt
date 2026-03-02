@@ -1,0 +1,867 @@
+              @.
+     GATES LEARJET CORPORATION
+
+■ain1enan1e ■an11al
+
+   CHAPTER -
+
+
+
+
+  PNEU·M ATIC
+                                       Gates Learjet Corporatione
+                         ■ai■11■a■11 ■a■ual
+  Chapter                                                       Chapter
+  Section                                                       Section
+  Subject                    Page              Date             Subject                    Page              Date
+
+ 36-Title
+*36-List of
+    Effective Pages              1          Apr 30/82
+ 36-Contents                     1          Oct 16/81
+ 36-10-00                        1          Oct 16/81
+ 36-10-00                        2          Oct 16/81
+ 36-10-00                        3          Oct 16/81
+ 36-10-00                       4           Oct 16/81
+ 36-10-00                       5           Oct 16781 .
+ 36-10-01                     201            Dec 2/77
+ 36-10-02                     201            Dec 2/77
+ 36-10-03                     201           Oct 16/81
+ 36-20-00                       1           Oct 16/81
+ 36-20-01                     201           Oct 16/81
+
+
+
+
+  Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+• Asterisk indicates pages revised, added or deleted by current revision.
+ The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                      36-LIST OF EFFECTIVE PAGES
+                                                                                                            Page 1
+                                                                                                        Apr 30/82
+MM-98
+                                      Gates Learjet Corporation@
+                        ■11■1e■1■■I! ■1■u11
+                                                                                        Chapter
+                                                                                        Section
+Subject                                                                               . Subject         ~
+
+Pneumatic       . . . . . .. . .. . ..................... . 36-10-00
+                          .
+                                                                                                          1
+     General ••..•••.•••••• ~ ••••••••••••••••••                                       36-10-00
+     Description • • . • • • • • • • • • • • • • • • • • • . • • • • . • • •           36-10-00           1
+Bleed Air Shutoff Valve - Maintenance Practices • • • • • • • •                         36-10-01
+     Genera.I ~ • • • • • • • ·• • • • ·• • ._ • • . • • • • ·• • • • • • • • • • •    36-10-01         201
+     RemovaVInstallation •••••••.•••••••••.••••••                                       36-10-01        201
+Bleed Air Check Valve - Maintenance Practices •. • • • • • • • •                       36-10"".'02
+     General •••· ••••••••••••••••••••••••••••••                                       36-10-02         201
+     Removal/Installation • • • • • • • • • • • • • • • •. • • ·• • • • • •             36-10-02        201
+E CS Valves Control Box - Maintenance Practices • • • • • • ••
+       Removal/Installation • • • • • ~ • • • • • • • • • • • • • • • • •
+llldicating System • • • • • • • • • • • • . • • • • • • • • • • • . • • • •
+                                                                                        36-10-03
+                                                                                        36~10-03
+                                                                                        36-20-00
+                                                                                                        201         I
+       General ••••••••••••••••••••••••••••••••                                       . 36-20-00          1
+       Description • • • • • • • • • • • • • • • • • • • • • • • • • • • • •            36-20-00          1
+Overtemperature SWitch - Maintenance Practices • • • • • • • •
+       General ••••••••••••••••••••••••••••••••
+                                                                                        36-20-01
+                                                                                        36-20-01        201
+                                                                                                                    I
+       Removal/Installation • • • • • • • • • • • • • . • • • • • . . • •               36-20-01        201
+
+
+
+
+EFFECTIVITY: ALL                                                                                  36 - CONTENTS
+                                                                                                          Pagel
+MM-98                                                                                                   Oct 16/81
+                               Gates Learjet Corporation@
+                    •ai■1·1-na·n11                     •anaal
+                       PNEUMATIC - DESCRIPTION AND OPERATION
+
+1.      General
+        A.   The engine bleed air (pneumatic) system is utilized for cabin air conditioning
+             cabin pressure control, windshield anti-icing and wing leading edge anti-icing.
+        B.   Engine bleed air is routed through ducts to a central distribution point within
+             the tailcone.
+
+2.      Description                                                     .
+        A.   On Aircraft 25-061 2 25-070 thru 25-226, the pneumatic distribution _system
+             consists of two basically independent systems (one for each engine) connected
+             to a common distribution point. Each ·duct system incorporates a bleed air
+             check valve to prevent loss of engin_e bleed air if one engine is shut down.·
+             Bleed air (pneumatic) is provided to the following:
+             (1)    A flow control valve to provide conditioned air for the cabin (Chapter
+                    21).         .                                    .
+             (2)    A shutoff valve and pressure regulator for windshield an1i-icing
+                    ( Chapter 30 ) •.
+             (3)    A shutoff valve to provide for wing leading edge anti-icing (Chapter 30).
+             (4)    Hydraulic reservoir pressurization (Chapter 29) and vacuum pressure
+                    regulator ( Chapter 37 ).
+        B.   On Aircraft 25-227 thru 25-256, the pneumatic system consists of two basic-
+             ally independent distribution systems (one for each engine) connected at a
+             common distribution point. Each distribution system consists of a check
+             valve, an emergency pressurization valve, and an engine bleed air shutoff
+             valve. (Refer to Chapter 21 for Emergency Pressurization Valve, and Pres-
+             surization Regulator Valve.) The emergency pressurization valves and
+             engine bleed air shutoff valves constitute the ECS control valves and are con-
+             trolled through two ECS Valve Control Boxes by the respective LH or RH
+             BLEED Am Switch. Each BLEED AIR Switch has three positions: EMER,
+             ON, and OFF, and is located on the main switch panel. Bleed air (pneumatic)
+             is provided to the following: ·
+             (1)    The alcohol anti-ice system to pressurize the alcohol supply tank
+                    (Chapter 30 ).
+             (2)    The flow control valve to provide conditioned air for the cabin ( Chap-
+                    ter 21).
+             (3)    A shutoff valve and pressure regulator for windshield anti-icing
+                    (Chapter 30).
+             (4)    A shutoff valve to provide for wing leading edge anti-icing (Chapter 30).
+             (5)    A fitting on the bleed air manifold for hydraulic reservoir pressuriza-
+                    tion (Chapter 29).
+             (6)    The temperature control system pressure regulator (Chapter 21) and
+                    the pressurization system (Chapter 21).
+             (7)    The vacuum pressure regulator (Chapter 37).
+
+
+
+
+EFFECTMTY: SEE TEXT                                                                36-10-00
+                                                                                     Pagel
+MM-98
+                                                                                   Oct 16/81
+                              Gates Learjet Corporation@
+                   ■a:i.■ll!■a■CI,. ••■■al
+        C.   On Aircraft 25-257 and Subsequent, the pneumatic system consi~ts of two
+             basically independent distribution systems (one for each engine) connected
+             at a common distribution point. Each distribution system consists of a check
+             valve, an emergency pressurization valve, and an engine bleed air shu,toff
+             valve. (Refer to Chapter 21 for Emergency Pressurization Valve, and Pres-
+             surization Regulator Valve.) The emergency pressurization valves and
+             engine bleed air shutoff valves constitute the ECS control valves and are con-
+             trolled through two ECS Valve ~ntrol Boxes by the respective LH or RH
+             BLEED Am Switch. Each BLEED Am SWitch has three positions, EMER,
+             ON, and OFF, and is located on the pressurization module control panel.
+             Bleed air (pneumatic) is provided to the following:
+             (1)   The alcohol anti-ice system to pressurize the alcohol supply tank
+                   (Chapter 30).
+             (2)   The flow control valve to provide conditioned air for the .cabin
+                   ( Chapter 21 ).
+             (3)   A shutoff valve and pressure regulator for windshield anti-icing
+                   (C~pter 30 ).
+             (4)   A shutoff valve to provide for wing leading edge anti-icing (Chapter 30).
+             (5)   A fitting on the bleed air manifold for hydraulic reservoir pressuriza-
+                   tion (Chapter 29).
+             (6)   The temperature control system pressure regulator (Chapter 21) and
+                   the pressurization system (Chapter 21 ).
+             (7)   The vacuum pressure regulator (Chapter 37).
+
+
+
+
+EFFECTIVITY: SEE TEXT                                                                 36-10-00
+                                                                                        Page2
+MM-98
+                                                                                      Oct 16/81
+
+
+                                             .....   --·-----·- -···-···· --·- - - - - - - - - - - - - - - - - -
+                           Gates Learjet corporation@
+                  ■ain11nan11 ■anaal
+
+                           ------------------------- .
+            r------                                               -~
+            I            LH ENGINE                                       I
+            II                                                           II
+            I                                                            I
+            L
+                 ------------------------- ----                      ,   '
+
+
+
+
+                                                                              Hydraulic Reservoir &
+                      Conditioned Air System                                  Pressurization Vacuum
+                                                                              Regulator
+
+
+                        Wing Anti-Ice ~stem
+                                                                     Windshield Anti-Ice System
+
+                                    Check Valve
+
+
+
+
+            ,----- ----- ~----~~--~---                    ~~
+                                                               --...., \
+            1                                                            I
+            I
+            I                                                            I
+            I                                                            I
+            I                                                            I
+            I           RH ENGINE                                        I
+                                                                         I
+                 -----------~~~--~---------~ -~-,,
+            I
+            ~                                                            J
+
+
+
+                            Pneumatic System Schematic
+                            ·   Figure 1 (Sheet 1 of 2)
+
+
+EFFECTIVITY: 25-061, 25-070 THRU 25-226                                                36-10-00
+
+MM-98
+                                                                                          Pa~e   a    I
+                                                                                       Oct 16/81
+                                 Gates Learjet Corporation~
+                     ■ainlenance ■anaal
+
+
+                  --- ~-- _ -------------------
+                                      ......                        -~~
+                                                                            '
+              r--
+              I          LH ENGINE
+                                                                                '1I
+              II                                                                    II
+              I                                                                     I
+              1                                                                     1
+              -------                                           ~                               Bleed Air Slut.off
+                    · ---                                                                       Valve
+                                 -----------------
+     nleed Air to Temperature-----------
+     Control System Pressure                                                                 r- Overtemperature
+     Hcb'l.Jlator, Pressurization
+     b"ystcm Pressure ReJ,11.alator,
+     Pressurization Vacuum Hcb'l.llator
+     & Alcoh<>l Anti-Ice Syste.m.
+                                                                            L
+                                                               a1--------- To Cabin Air
+                                                                                         /       SWitch
+
+                                                                                               Distribution System
+
+                           1-:mergcncy Pressurization                   I
+                           Vulve                                        +'---conditioned Air
+                                                                                             Hydraulic Reservoir
+                               Conditioned Air Systr.m
+
+                                                                      ~--Windshield Anti-Ice System
+                                Wing Anti-l~e System
+
+
+
+                                 Emergency Pressurization
+                                                                        t   [Conditioned Air
+
+                                 Valve
+     Bleed Air to Temperature-------
+     Control System Pressure
+                                                               ----         ~        To Cabin Air•
+                                                               ..,_ _ _....,......,_ Distribution System
+     Rcb'lllator, Prcosurization
+     b)'stcm Pressure Regulator,
+     Pressurization Vacuum Regulator                                                     "-._ Overtemperablre
+     & Alcohol Anti-Ice bystern.
+                                       - - - - - - - - _____    ~ SW!tch
+                          ______                                                ,               Bleed Air Slutoff
+              ,--
+              1
+                    --                                                              lI           Valve
+
+              I                                                                     I
+              I                                                                     I
+              I                                                                     I
+              I                                                                     I
+              ~          RH ENGINE                                                  I
+              ~-
+                    -------- -------~---------~~ --                         ,~
+                                                                                    J
+
+
+                                     Pneumatic System Schematic
+                                       Figure 1 ( Sleet 2 of 2)
+
+    EFFECTIVITY: 25-227 AND SUBSEQUENT                                                                    36-10-00
+I                                                                                                           Page 4
+                                                                                                          Oct 16/81
+                                                    Gates Learjet Corporation@
+                                 ■ainl■nana■ ■an■al
+~
+            ~7N~~--·1
+            I ABOVE 9500 •250"
+                                                          ~~----1-----.--pe~~~~~,
+                                                                    I  IL.:
+                                                               RH ECS VALVE CONTROL        I
+            I           O                     I           I                           I        I L _____                           J
+            I PSWSO~
+            I        pl                       (       I1• I1                                 . ~-----,
+                                                                                      Iit----~-LB8·2  IRH EMERGENCY
+                                                                                                    PRESSURE VALVE
+                                            1
+            L~_::oFT8
+            I            '                  I             I                           LI                 _ _ _ _ _J
+                                          _J              I                           nl•r-----7
+            ~------
+            I      I                                      I                           ~
+                                                                                      I ;I : _ J _JI
+                 El7 WARN LT
+            II 31-50-02
+                 CONJ' ASSY                    -          I                           I            ~- - - -
+                                                                                                    RH OVERTEMP SW
+
+
+            '-----_J                                      I
+            r----7·                                       1                           I            ~ RH FIRE PULL SW
+                                                                                                     (10 CLOSE RH SHUTOFF VALVE)
+
+
+
+                                                          !
+                                                                                                    (26·00·00)
+
+            I                        rl I~ i                                          I
+                                                                                      I
+                             EMER
+
+
+            1 RH               ♦ ~~I                                                               Ir;SCOPILOTCBPNL-7
+                                                                                                             ·
+            I BLEED            ON     I                                                                           CB98
+
+
+            I      AIR
+
+                             l
+                               J.     I
+
+
+                                          Q
+                                              l
+                                               I
+                                                                ~--- ~-~-----~~~J
+                                                                                                     RH ECS VALVES   I
+
+            II   25·227 THRU -256
+                 (E167 MAIN SW PNL
+                 39-40-02}                     II
+~
+                 25· 2!57 AND SUBSEQUENT
+            I MODULE PNL
+            .    (E!5ZI p ~ CONT               I
+            I    21-3o-oe)                     I
+            I                  ♦
+                             EIIER
+                                  'I 0.. I ~----7---:-.F--·--7
+                                                    ,,,
+                                                            B81E211                                       LH SHUTOFF VALVE
+
+            I . ~~D            ON <Vc'"~II LH     I I IL..:     I
+                               +
+                                                                  ECS VALVE CONTROL
+
+            I      AIR                I        I                                      I        fL----~
+            I                OFF               ',                                     ~ 8 3 - LH ;GENCY                       ,
+
+                                                                                                          ____ _J1
+                                                                                           PRESSURE VALVE
+
+            L            ---~J                                                        rl
+            r;;-;;;.;7T---,                                                           lit----''_·_r_-
+                                                                                                   __-_-
+                                                                                                       ____--1
+                ,~~
+                ~l-!50-02                 ~
+                                               ~,--~                                           .
+                                                                                                   I TSVOI o---'o--1
+                                                                                                                    ~
+                                                                                                                                    I
+                   ----                                                               I            l.!:!,0VERTEMP SW               _J
+            r;_;-;,;;;;;;;---,                                                        I                   -               -
+            I    ABOVE 9eo0 t 2!50 FT
+                             O                 II                                     I            s LH FIRE PULL SW
+            I       PSW!51     ~                                                      I
+                                                                                                     (TO CLDSE Ui SHUTOFf VALVE)
+                                                                                                       (26-00-00)
+
+            I   ~ . II•
+            I pt  l            8I                                                                  1767~~-;:;;;:-7
+            I
+            L----~
+                  I        .  .JI
+                  BELDW 8300 FT
+                        L____
+                                                                                                   I   UIECS vALVES
+                                                                                                   L----
+                                                                                                                    087
+                                                                                                                       ~~J
+                                              Bleed Air Electrical Control Schematic
+                                                             Figure 1
+~
+    EFFECTIVITY: 25-227 AND SUBSEQUENT
+
+    MM-98
+                                                                                                                                  36-10-00
+                                                                                                                                    Page 5
+                                                                                                                                  Oct 16/81
+                                                                                                                                              I
+'f.
+                                                ~
+                             •        GATES LEARJET CORPORAT10N
+
+                     ■illllllil.111 ■illllill
+                BLEED AIR SHUTOFF VALVE - MAINTENANCE PRACTICES
+
+1.     General
+       A.   A bleed air shutoff valve is installed in each engine pylon. Access to the shut-
+            off valve is gained thru access cover on the lower side of the pylon.
+
+2.     Removal/Installation
+       A.  Remove Bleed Air Shutoff Valve (See figure 201)
+           (1)   Remove access cover from lower side of engine pylon.
+           (2)   Disconnect electrical plug from shutoff valve.
+           (3)    Loosen clamps and remove shutoff valve from aircraft.
+       B.  Install Bleed Air Shutoff Valve (See figure 201)
+           (1)                                                                      +
+                 Install shutoff valve and secure with clamps. Torque clamps to 35 (-3)
+                 inch-pounds plus drag torque.
+           (2)    Connect electrical plug to shutoff valve.
+           (3)   Install access cover and secure with attaching parts.
+
+
+
+
+                                                          ---Check Valve
+
+
+                                                                         Bleed Air Shutoff
+                                                                         Valve (LH shown
+                                                                         RH Typical)
+
+ Conditioned Air--
+ Duct (Ref)
+
+
+                                                                               ,,.- ~
+     Check Valve-......---
+     (Ref)
+                                                                              Pylon Firewall
+                                                                              (Ref)      .
+                                                            Bleed Air ( For Pressurization &
+                                                            Temperature Regulators, vacuum
+                                                            Regulator (Jet Pump) and Alcohol
+                                                            Anti-Ice System)
+                                    LH Side Shown, RH Typical
+
+                                 Bleed Air Shutoff Valve Installation
+                                            Figure 201
+
+EFFECTIVITY: 25-227 AND SUBSEQUENT                                                      36-10-01
+                                                                                        Page 201
+                                                                                        Dec 2/77
+                        .
+                      , : .. '   ·-· ~-:.; .         .   .   ~   ~
+
+
+
+
+                                                                                 ': 1,
+
+
+
+
+                       .r                      "·\
+                     .•J-•,·
+
+
+
+
+                ,-
+
+
+
+
+•I·,·
+        ·•·
+
+
+
+
+                                                         _.,
+
+
+ .,,.
+
+
+
+
+              ,,,:
+
+
+
+
+                                                                     .. : ~-.·
+                                                ~
+                              •        GATES LEARJET CORPORATION
+
+                    ■a1111111a1111 ■a1111al
+                 BLEED AIR CHECK VALVE - MAINTENANCE PRACTICES
+
+1.   General
+     A.   A check valve (one RH and one LH) is installed adjacent to each 3-way emer-
+          gency pressurization valve. The check valve prevents loss of engine bleed air
+          if the engine is shut down.
+
+2.   Removal/Installation
+     A.  Reinove Bleed Air Check Valve (See figure 201)
+         (1)   Lower tailcone access door and disconnect aircraft batteries.
+         (2)   Loosen clamp and remove check valve from aircraft.
+     B.  Install Bleed Air Check Valve (See figure 201)
+         (1)   Install bleed air check valve and secure with clamps. Assure that arrow
+               on check valve points towards the bleed air manifold.
+         (2)   Torque clamps hand tight.
+         (3)    Connect aircraft batteries and secure tailoone access door.
+
+                     To Wing Anti-Ice System
+                 RB Emergency
+                 PressurizaUon Valve
+
+
+
+     To BH Engine Bleed
+     Air Shutoff Valve
+
+
+
+
+                  I
+      To Windshield.
+      Anti-Ice System
+                                                                                  Check Valve
+
+
+             ¥
+      RH OVertemperature
+      SWit.oh                                                                  To LH Engine Bleed
+            Windshield Anti-Ice
+                                                                               Air Slutoff Valve
+           Pressure Regulator
+                 Windshield Anti-Ice
+                 Shutoff Valve
+
+                                                                        LH OVertemperature &witch
+
+
+                                                         ~o Cabin Air
+                                                         Distribution System
+
+                                  Bleed Air Check Valve Installation
+                                             Figure 201
+
+
+EFFECTIVITY: 25-227 AND SUBSEQUENT                                                          36-10-02
+                                                                                            Page 201
+                                                                                             riec 2/77
+                                 Gates Learjet Corporation@
+                      ■ain11nan11 ■anaal
+                  ECS VALVES .CONTROL BOX - MAINTENANCE PRACTICES
+
+1.         Remova1/Installa1ion
+           A.  Remove ECS Valves Control Box (See figure 201)
+               (1) Open tailcone access door.
+               (2)   Locate ECS valves control box.
+
+                      NOTE:   E210 is on RH electrical equipment tray and just aft of
+                              frame 26. E211 is on LH electrical equipment tray and
+                              just aft of frame 26.
+
+                (3)   Disconnect electrical connector from control box.
+                (4)   Remove attaching parts and remove control box from aircraft.
+           B.   Install ECS Valves Control Box
+                (1)   Position ECS valves control box on electrical equipment tray and
+                      secure with attaching parts.
+                (2)   Connect electrical connector to control box.
+                (3)   Close and secure tailcone access door.
+                                                       Diode (CR3)
+
+
+
+
+                                                                          Printed Circuit
+                                                                          Board (PCBl)
+                                                                     n.u-u.--- Diode (CR6)
+
+Relay (KS)                                                                        Diode (CR5)
+
+
+
+                                                                                            Screw
+
+
+
+ Connector
+
+
+
+
+                                  E21 O shown looking forward
+                                  E211 shown looking aft
+
+                               ECS Valves Control Box Installation
+ !1•120B
+                                          Figure 201
+
+EFFECTIVITY: 25-227 AND SUBSEQUENT
+
+MM-98
+                                                                                        36-10-03
+                                                                                        Page 201
+                                                                                       Oct 16/81
+                                                                                                    I
+                                           ,•   ..
+
+
+
+                           ,·;:_·:
+         ·
+', ·:~. ..
+
+
+
+
+                                                     'I   ·., .. -.
+
+
+
+ ••-··              ,.:1 .....··.:·   l,
+
+
+
+
+                                                                              ·• •\
+
+
+                                                              :r
+
+
+
+
+                                                                                             /t
+
+
+
+
+                                                                                      '..{
+
+
+
+
+         •••   ti
+
+
+
+                                                          ,   ...
+
+
+
+
+                                                                      ·•,':
+                                  Gates Learjet Corporation®
+                       ■ain11nan11 · ■anaal
+                    INDICATING SYSTEM - DESCRIPTION AND OPERATION
+
+1.         General
+           A.   The indicating system for the bleed air (pneumatic) system consists of a
+                temperature warning system.
+           B.   The warning system protects the ca.bin from overheating if emergency cabin
+                pressurization is utilized.
+
+2.         Description
+           A.   Two overtemperature switches are installed, one in the LH air distribution
+                duct a;nd one in the RH air distribution duct. The switches complete a .ground
+                circuit to illuminate the respective CAB Am HT (red) warning light if the        I
+           B.
+                temperature of the bleed air routed into the cabin reaches 395 (±5)° F.
+                When the air temperature in the du.ct cools to 370° F (minimum), the over-
+                temperature switch will reset (open) and the warning light will extinguish.
+                                                                                                 I
+
+
+
+
+      r;;;~;;N-;;-7
+     II LtGHT CONTROL
+                                   fis':oo-00- 7                      r- - -- -,
+        3H50-02                    I            I                     ~~TSW50               1,
+     L ____ _J                     I      I
+                                   I ~10 RH ECS
+                                                          N~     •I    ~
+                                                                  I RH OVERTEMP SWITCH      I
+     lii"e~Lw;L-;7
+                                   ~~~- _J
+                                   L                                  I_
+                                                                       36-20-01
+                                                                          _____J
+         31-50-02                  [i2iiLHEcs - , ,                   r---~--,
+                                                    ~
+     1        L CAB AIR HT
+                                 I CONTROL
+                           l--tl~.,__---------------  TSW..                                 II
+     I        R CAB AIR HT -----            I            •
+     I                   J         !   3&_-oo-_oo   _.J   N.C.   'I    I~!!    P swrrcH     I
+     ~----                         ~                                   ~~~---J
+
+                         Bleed Air remperature Warning System Schematic
+                                            Figure 1
+                                                                                                 I
+EFFECTIVITY: 25-227 AND SUBSEQUENT                                                   36-20-00
+                                                                                        Pagel
+MM-98
+                                                                                     Oct 16/81
+                                    Gates Learjet Corporation@
+                           •ai.llll!llil■DI! •■■llill
+                    OVERTEMPERATURE SWITCH - MAINTENANCE PRACTICES                                             I.
+1.          General
+            A.   The overtemperature switch is installed in the air distribution duct (RH and
+                 LH) located in the tailcone equipment section.
+
+2.          RemovaVInstalla.tion
+            A.  Remove Overtemperature Switch (See figure 201)
+                (1) Lower tailcone access door and disconnect aircraft batteries.
+                (2)   Disconnect electrical plug from switch.
+                (3)   Loosen and remove switch from duct. ·
+            B.  Install Overtemperature Switch (See figure 201)
+                (1)   Install switch in duct. ·
+                (2)    Connect electrical plug to switch.
+                (3)   Connect aircraft batteries and secure tailcone access door.
+
+   RH ReguJat.or Valve
+   (LH ReguJat.or Valve                                     To Wing Antr.:.rce System
+   not shown for clarity)
+        To Windshield                                                          Cabin Air, Vent, and
+        Anti-Ice Sy.stem                                                       Temperature Control
+
+
+                                                                                        LH Check Valve
+
+
+
+                                                                                        LH Emergency
+                                                                                        PressurfZatton Valve
+                                                                                        (RH Typical)
+
+
+
+
+                                               Windshield
+                                               Anti-Ice
+                                               Slmt.off
+                                               Valve
+
+                              RH Overtemperature
+                              Switch (LH Typical)
+                                                                          LH Engine Bleed
+                                                                          Air Shut.off Valve
+                                                                          (RH 'lypical)---
+
+                                                                To Cabin Air
+                                                                Distribution System
+
+                            Bleed Air Overtemperatu.re Switch Installation
+ 1:s-1noc
+                                             Figure 201
+
+EFFECTMTY: 25-227 AND SUBSEQUENT                                                              36-20-01
+                                                                                               Page 201
+MM-98
+                                                                                              Oct 16/81
+f)...-.  ,
+                                                                                                                                            r..:;
+
+
+
+
+                                                                                •j:.
+
+
+
+
+                                                                                                                                                                                                .. ...
+                                                                                                                                                                                                   ~ ~
+
+
+
+
+                             ; .,
+
+
+
+
+               .
+               - :,
+                      l ·:                                                                       <..r~-~!:
+
+
+"',
+~ . .!...,
+                                                                                                                                               'ti:•:·.·
+                                                                                                                                                               ·,
+
+
+
+
+                                                                                                                       ,,
+                                                                I,'
+                                                                                                                  ·'·       .
+
+
+
+
+                                                                                                                  ·-
+/
+                                           ,~   • I_ ,'                                                                                                t.":)
+
+
+
+
+                                                                                                 ~        '
+
+
+                                                                      . ; -~   ...   ,
+
+
+
+
+                                                                                                                                                       ,,.
+
+                                                                                                                     ·,-1.::"':l
+
+
+                                    .J                                          . '·.
+                                                                                 ~        ; '•                                  : ~··:. :                      ) t ... : ~            ... : r
+
+                                                                                                                                                       n
+
+                                     '!~                                                 ....
+
+
+
+         ,,.                                                                                          f       ,r-.__ - i __ •                   ,, '           .. ;,,
+
+
+
+
+                                                           ..
+                                                          : :
+
+                                                                      -~;. ~                         _,:1:~r,·~:~-;!·_·f ',~\~ •:-.. .                                       --,,",
+

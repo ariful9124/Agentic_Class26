@@ -1,0 +1,275 @@
+                 @.
+   ;.   GATES LEARJET CORPORA110N
+
+ ■a1n1enan1e ■an11al
+
+   ·CHAPTER.
+
+
+
+
+ AIRWORTHINESS
+· . LIMITATIONS
+                           .       Gates Learjet Corporation•
+                     ■11111111111111 ■1■1111
+  Chapter
+  Sectlon
+  Subject
+                                      -Date
+
+   4-Title
+  *4-List of
+        Effecti.ve Pages       1        Jul 16/84
+  *4-Contents                  1        Jul 16/84
+  *4-00-00                     1        Jul 16/84
+  *4-00-01                     1        Jul 16/84
+  *4-00-01                     2        Jul 16/84
+  *4-00-01                     3      . Jul 16/84
+  *4-00-01                     4        Jul 16/84
+
+
+
+
+  Insert Latest ~evised Pages; Destroy Superseded or Deleted Pages.
+  *Asterisk indicates pages revised, added, or deleted by current revision.
+  The portion of the text affected by the current revision is indicated by a vertical
+  line in the outer margin of the page.
+
+
+
+                                                         4 - UST OF·EFFECTIVE PAGES
+MM-98
+                                                                              Page 1
+                                                                            Jul 16/84
+ I:
+      -i
+
+
+
+
+._J
+                                     Gates Learjet Corporation•·
+                        ■ain11nan■1 ■anaal
+                                                                                  Chapter
+                                                                                  Sectian
+ Subject                                                                          Subject
+
+. AffiWORTlilNESS LIMITATIONS                                                     4-00-00
+     General . . . . . ·. . . . . . . . . . . . . . . . . . . . . . . . . . . .   4--00-00         1
+  AffiWORTfilNESS LIMITATIONS - DESCRIPTION AND
+     OPERATION
+     General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    4-00-01          1
+     Replacement Items          .........................                         4-00-01          1
+
+
+
+
+ MM-98
+                                                                                             4 - CONTENTS
+                                                                                                   Page 1
+                                                                                                 Jul 16/84
+                              Gates Learjet Corporation•
+                   ■li■ll■l■II ■anaal
+                        AIRWORTHINESS LIMITATIONS - GENERAL
+
+1.      General
+        A.   The Airworthiness Limitati.ens Section reflects items in Gates Learjet
+             Corporation FAA Approved Report 25-84? as stated on the Type Certificate
+             Data Sheet.
+        B.   This chapter contains those "life limited" items which, at the ti.me of certi-
+             fication, would have prevented certification had the limits not been estab-
+             lished.
+        C.   It is intended that these Replacement Items be accomplished concurrently
+             with the inspection interval which most nearly coincides with the replace-
+             ment interval.
+        D.   Refer to Chapter 5 (5-10-04) for other replacement items.
+
+
+
+
+E;FFECTIVITY: ALL                                                                  4-00-00
+MM-98                                                                                Page 1
+                                                                                  Jul 16/84·
+                              Gates Learjet Corporation•
+                     ■1in11n1n11 ■1n11al.
+            AIRWORTIIlNESS llWTATIONS - DESCRIPTION AND OPERATION
+
+1.      General
+        A.   The following items must be replaced at the time interval specified.
+        B.   All intervals are in hours unless otherwise indicated.
+
+2.      · Replacement Items
+
+              SYSTEM AND COMPONENT                                            INTERVAL
+
+        Propulsion
+
+        Engine Yoke Assembly (2351038) (Engine mounting pad,                        20,000
+         support tube assembly and bolt (2851032)
+
+        .Flight Controls
+
+        Horizontal Stabilizer Installation
+
+           NAS464P6 Bolt - Actuator Attach                                           7,200
+           ID.nge Pin (2331028)                                                     20,000
+           Elevator Installation (2884001), torque tube, bellcranks,                20,000
+            and dual push-pull tubes
+           Elevator ID.nge Installa1ions (2332019, 2332018 & 233201_3)              20,000
+            attached to horizontal stabilizer
+
+        Wing Flap Installation
+
+            Flap Assembly (2325010)                                                 19,300
+             (Note: 2625010 assemblies not life limited)
+           Inboard and Outboard Track Attach Castings (2625023,                     20,000
+             2625024) (Ref. Note 4)
+           Outboard Flap Track Support (2322512-3 & -4)                             11,900
+             (Machined from bar stock)
+           Outboard Flap T~ck Assembly (2325022)                                    20,000
+           Inboard Flap Track Assembly (2325022)                                    20,000
+           Nose Roller Tracks (2322511-7 & -27; 2322512-7 & -13)                    20,000
+
+
+
+
+EFFECTIVITY: ALL.                                                                    4-00-01
+MM-98
+                                                                                      Page 1
+                                                                                    Jul 16/84
+                               Gates Lear;et Corporation•
+                    ■alnl■na■•• ■a-n11a1---
+              SYSTEM AND COMPONENT                                     .· INTERVAL
+
+        Aileron Installation
+
+           Aileron Surface, Hiilges, and lll.nge SUpport (2324027)          20,000
+           Aileron Actuator                                                 20,000
+              2324510 Support Assy Bearing
+              2324511 Yoke Assy
+              2324512, 2324517 Clevis
+              2324513 Pulley Assy-Aiieron Drive
+           Aileron Drive Yoke Bolt (NAB 1304-34H, NAS l104-38D                1,200
+              or NAB 464P4A33 and AN 320-4 Nut)
+           Center Hinge Bolt (AN4H12A or AN4Hl3A) ·                           l,~00
+
+        Rudder I:cµ3tallation (Surface, mnges, and lllnge Suppo~)            15,000
+
+        Control System Cables
+
+           Aileron (See Note 3)                                               2,400
+           Elevator (See Note 3)                                              2,400
+
+
+        Landing Gear
+
+           Nose Gear Strut and Actuator. (Hard surface runway        20, 000· Landings
+             landings only)
+
+           Main Gear strut (with Cylinder Assembly P/N 2341101)       9, 000 Landings
+             and Actuator, hard surface landings oniy
+
+           Main Gear Strut (with Cylinder Assembly P/N 2441011)      12, 000 Landings
+             and Actuator, hard surface landings only
+
+           Main Gear Strut (with Cylinder Ass_embly P/N 2441011       1, 800 Landings
+             and Actuator, sod runway landings· only •. (Aircraft
+             approved for unpaved runway operations.)
+
+           Nose Gear Strut and Actuator (sod runway landings only)    5, 000 Landings
+             (Aircraft equipped for unpaved runway operations~)
+
+           Main Gear Strut (with Cylinder Assembly P/N 2441011)       (See Note 1)
+             and Actuator, combination ef hard surface runw~y
+             landings and _sod runway landings (Aircraft approved
+             for unpaved runway operation).
+
+
+
+
+EFFECTIVITr: ALL.                                                            4-00-01
+MM-98
+                                                                              Page2
+                                                                            Jul 16/84
+                              Gates Learjet Corporation•
+                   ■ailil1-nan11 ■anaal
+             SYSTEM AND COMPONENT                                                 INTERVAL
+
+          Nose Gear strut and .Actuator (Con:ibinatl.on of hard               (See Note 2)
+            surface runway landings and sod ~way landings)
+            (Aircraft approved for unpaved. runway operations)
+
+
+        Air Conditioning
+
+          Air Conditioner Compressor Fan Blade (P/N 6608059-4.                       1,200
+            with st.eel stamp "A" near hub)              ·
+
+          Air Condi.ti.oner Compressor Fan Blade (P/N 6608059-5)                     2,400
+
+
+
+NorEs:
+
+1.      To compu~ total number of landings, apply the following formula:
+
+            (4 x Lson> + (1 x LIIARn>   ~ 12,000 landings
+        The formula reads "four times the number of ~od runway landings plus one times
+        the number of ~rd surface runway landings shall be equal to, or less than 12, 000
+        landings. "
+
+        EXAMPLE:
+
+            Total n~er of sod runway landings = 1500
+            Total number-of hard surface runway landings =; 5000
+
+            (4·x 1500) + (1 x 5000) = 6000 + 5000 = 11,000 computed total landings
+
+            In this case there are 11, oqo comput.ed total landings •. This means that there
+            are only 1,000 camputed total !~dings allowed before the strut must be re-
+            placed.
+
+2.      To compute total number of landi1_1gs, apply the folfowing formula:
+
+            (4 x Lson) + (1 x LHARn> ~ 20, 000 landings
+        The formula reads ''four times the number of sod :1"1lllway landings plus one ti.mes
+        the number of hard surface runway landings shall be equal to, or less than 20,000
+        landings. 11                                         ·            ·
+
+
+
+
+EFFECTIVITY: ALL                                                                      4-00~01
+MM-98
+                                                                                       Page 3
+                                                                                     Jul 16/84
+                              Gates Learjet Corporation•
+                   •ai■ll!·■■■■e· · ■a■■al
+        EXAMPLE:
+
+             Tata! number of sod runway landings = 1500
+             Total number of hard surface runway landings = 5000
+
+              (4 x 1500) + (1 x 5000) = 6000 +-5000 = 11,.0.00 computed· total landings
+
+             In this case there are 11, 000 computed total landings. This means·
+             that there are 9, 000 more computed landings allowed before the strut
+             must be replaced.
+
+3.      Replac~ment time applies to primary Aileron ~nd Elevator Control Systems:only.
+        Aileron (roll) and Elevator (pitch) servo cables are replaced as required. (Refer
+        to Cbapte~ 27 for control cable damage. limits.)
+
+4.      Flap Track Attach Castings (P/N 2625023 and 2625024) are riveted to Wing Flap
+        Assembly (P/N 2625010) which has !!2, time life limit.
+
+5.      Not a requirement of Gates Learjet Corporation FAA Approved Report 25-847. ·
+
+
+
+
+EFFECTIVITY: ALL                                                                      4-00-01
+MM-98
+                                                                                       Page4
+                                                                                     Jul 16/84
+

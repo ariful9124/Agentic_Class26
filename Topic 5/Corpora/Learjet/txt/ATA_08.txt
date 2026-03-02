@@ -1,0 +1,824 @@
+                 ®
+        GATES LEARJET CORPORATION
+
+   ■ain1enan1e               manual
+
+      CHAPT-ER
+
+
+
+
+LEVELING & WEIGHING
+                               -~
+                                 ;)
+
+
+
+
+     •;:·.:..•
+                 ·,·.
+                 t
+
+.•· ; ' '               -··.
+
+
+
+
+                               -~
+                               0 ...~)
+                               .      .
+                                   .. ..,
+                                       Gates Learjet Corporation•                           .
+                         malnl■nan■• manual
+Chapter                                                       Chapter
+Section                                                       Section
+Subject                     Page              Date            Subject                     Page              Date
+
+ 8-TitJe
+•8-List of
+   Effective Pages               1           Aug 6/82
+ 8-Contents                      1           Jul 17/81
+ 8-10-00                         1            Dec 2/77
+ 8-10-00                       ·2             Dec 2/77
+ 8-20-00                      201            Jul 17/81
+ 8-20-00                      202            Jul 17/81
+•5-20-00                      203            Aug 6/82
+ 8-20-00                      204            Jul 17/81
+ 8-20-00                       205           Jul 17/81
+ 8-20-00                      206            Jul 17/81
+
+
+
+
+  Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+• Asterisk indicates pages revised, added.or deleted by cuuent revision.
+  The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                        8-LIST OF EFFECTIVE PAGES
+                                                                                                             Page 1
+                                                                                                          Aug 6/82
+                                                 ~
+
+                      ••••••••••• ••••••
+                              .        GATES LEARJET CORPORAllON
+
+
+
+
+                                                                            Chapter
+                                                                            Section
+SUbject                                                                     SUbject        Page
+
+LEVELING         . . . . . . . . . . . . . . . . . . . . . . .......... .   8-10-00
+         General ••••••••••••••••••••••••••••••••                           8-10-00          1
+         Tools and :E:<;[ulpment •••••••••••••••••••••••                    8-10-00          1
+         Leveling •••••••••••••••••.••••••••••••••                          8-10-00          1
+
+
+                                                                                                       I
+WEIGIIING ••••••••••••••••••••••••••••••••••                                8~20-00
+         Weighing •••••••••.•••••••••••••••••••••••                         8-20-00        201
+         Dete:rmining Aircraft CG in Percent o~ MAC ••••••••                8-20-00        204
+
+
+
+
+                                                                                      8 - CONTENTS
+                                                                                            Page 1
+lflf-N
+                                                                                          Jul 1'1/81
+                                            ~
+                            •      GATES LEARJET CORPORATION
+
+                     ■al■ll■l■II ■1■1111
+                      LEVELING - DESCRIPTION AND OPERATION
+
+1.      General
+        A. Aircraft leveling is accomplished by using a plumb bob clip and level-
+           ing plate located in the upper and lower tailcone area immediately aft
+           of frame 26A (Sta. 492. 55) at BL 0. A string with plumb bob attached
+           is suspended down from the inboard side of the clip so that the plumb
+           bob point extends into the hole of the leveling plate. The aircraft is
+           considered level when the plumb bob· extends -into, but does not touch
+           the sides of the hole.
+2. · Tools and Equipment
+
+       NAME            PART NUMBER             MANUFACTURER               USE
+Plumb Bob                                    Commercially Available   Level aircraft ..
+String                                       Commercially Available .Level aircraft.
+
+
+3 ·.    Leveling
+        A. Level the Aircraft (See figure 1)
+              (1) Lower tailcone access· door.
+              (2) Attach plumb bob and string to plumb bob clip located.on the aft
+                  side· of frame 26A.
+              (3) Place aircraft on jacks. (Refer to 7..:.00-00)
+              (4) Adjust jacks until plumb bob point extends into leveling plate hole
+                   without touching sides of hole.
+
+
+
+
+EFFECTIVITY: ALL                                                              8-10-00
+                                                                                Page 1
+                                                                            Dec 2/77
+                                ~
+           •ain1iiiniriian11al
+
+
+
+
+                     FWD UP
+                          '1
+
+
+              Plumb Bob
+
+
+                                               Leveling Plate
+
+
+
+
+                               Detail A
+                           Aircraft Leveling
+                               Figure 1
+
+EFFECTIVITY: ALL                                                 8-10-00
+                                                                  Page 2
+                                                                Dec.-2/77
+                                         ~
+                         •      8'0'E8 LEARJET CORPOMnQN
+
+                    ■a:111I111a11■1- ■anaal
+                    WEIGHING - DESCRIPTION AND OPERATION
+1.    General
+      A. From time to time it will become necessary to weigh and re-establish
+            the aircraft basic weight and moment. Unless platform scales are
+            available, the aircraft is weighed electronically by means of load cells
+            attached to the jacks. The following pr~cedure is applicable when
+            using Cox and Stevens Electronic Scales.
+
+2.    Tools and Equipment
+
+     NAME            NUMBER             MANUFACTURER                  . USE
+Electronic          C-41150-1         Cox & Stevens Electronics      Weighing
+Scales                                Scales Division,               aircraft
+                                      Wallingford, Conn.
+
+
+
+3.    Weighing
+      A. Weigh the Aircraft (See figures 1 thru 3)
+
+            NOTE:    All weighing operations must be conducted. in a close.d
+                     hangar and care taken that no air currents pass over
+                     the aircraft during weighing.
+            (1) Place the weighing kit close enough to the aircraft so that the
+                50 foot·load cell cables will reach the three jack points and the
+                25 foot power cable will reach the 115 volt outlet (if 115 volts is
+                to be used).                            · ·
+            (2) Unreel load cell cables and, observing color coding,. connect the
+                load cells to the cables.
+                NOTE:    The load cells and their cables are color coded and
+                         must always be connected red to red, blue to blue
+                         and. yellow to yellow.
+            (3) Set CELL BALANCE switch on the indicator-amplifier to OFF.
+            (4) Set toggle switch on power supply box to either 115 VAC, 60 Hz.,
+                or 24 VDC BATT depending on power source to be used.
+                (a) When using 115 volts AC, connect one end of the 25 foot
+                   · power cable to the plug in the tip of the power supply box
+                     marked AC LINE and the other end to the power source. Set
+                     the BATTERY VOLTAGE switch on the indicator-amplifier
+                     ON. Turn the AC VOLTAGE ADJUSTMENT knob until the
+                     Balance Meter pointer rests in the center of the green area.
+
+EFFECTIVITY: ALL                                                            8-20-00
+                                                                             Page 1
+                                                                           Dec 2/77
+                                   ~            ·.r
+
+                          GAlEB LEARJET CORPDRA11DN
+
+            •alnll!nan■e ■an■al
+         (b) When using 24 volts DC, connect one end of the 15 foot power
+              cable to the connector (male) which exits out the right hand
+              side of the indicator-amplifier and the other end (battery. clips)
+              to the power source. Set BATTERY VOLTAGE switch on the
+              indicator-amplifier to ON. If the Balance Meter pointer
+              swings into the yellow se_ction,. the polarity is reversed and
+              the ·battery clips must be switched. If the-Balance Meter
+              pointer rests in either red section of the scale·, the battery
+              voltage is either too high or too low as indicated on the scale.
+              Replace battery and/or adjust voltage unfil Balance Meter
+              pointer rests in the center of the green section on the: sc~le.
+     (5) Select proper ceU-to-jack a~pters in accordance with.the pl~card
+         on the lid of the weighing kit-case and attach ._adap~ers -to load cells!
+         NOTE:     Assure that the cell-to~jack ad~pters are threaded.fully
+                   into· the 'load cells .an~ that the proper adapters ~re ·.used;
+                   otherwise, damage tb' the aircraft, cell damange _or in-
+                   accurate weight readings may oc_cur..                ·
+     (6) With power on, allow the equipment to warm up a .mi~lmum. of 20
+         minutes; this can be concurrent wlth air.craft preparation;. A· · ·
+         partial load on 'the cells is recommended during warm-up period.
+     (7) Remove all loose equipme~t ·from· the aircraft which is riot a pa~
+         of the aircraft empty weight'.. . .             .
+     (8) Inventory the aircraft for items which are not part of the empty
+         weight but will have to be weighed with the aircraft •. Enter each
+         item, its weight and its arm under Column I :in the Ai~craft Weigh~
+         ing Record. The jack pa~s· and attaching bolts are not part of-the
+         aircraft empty weight and must be entered wider Column) in tlie · .
+         Airc~aft Weighing_ Record.              .
+     (9) Inventory the aircraft for _items which are .fixed equipment but ·
+         will not be weighed with the aircra~. ·For example, a seat which
+         has been removed for repair.·. Enter each- item, its weight and i~s
+         arm under Column II of the Aircraft Weighing Record;
+    (10) Defuel the aircraft. (Refer to 12-00-00)
+         NOTE:     The basic weight of the aircraft includes trapped and
+                  •unusable fuel. If the fuel system has been purged, the
+                   trapped and unusable fuel weight and moment must be
+                   entered under Column n in the Aircraft Weighing Record.
+                   Model 25B/D fuel weight is 156. 2 pounds (based on 6. 7
+                   pounds per gallon) and fuel moment is 58, 100. Model
+                   25C/F fuel weight is 156. O pounds (based on 6. 7 pounds
+                   per gallon) and fuel moment is 58, 900.
+
+
+
+FFECTIVITY: ALL                                                          8-20-00
+                                                                          Page 2
+                                                                        Dec 2/'17
+                                               §)
+                         .   •      . GmE8 LEARJET CORPORATION
+
+                  ■a1n11n1n11 ■an■al
+
+
+
+
+                                                    10              0           0
+
+                        Indicator-Amplifier----._
+
+
+
+
+                             acun@
+Power Supply -
+
+
+
+
+                 @=
+                  u•
+                  "'
+
+                 @r;e
+                 ----
+
+
+                                                          au.           um,rr
+                                                         UUIICI         IOU.
+
+                 c-·L-~
+                  c::.:-             ~
+
+
+
+
+                                 Aircraft Electronic Weighing Kit
+                                             Figure 1
+
+EFFECTIVITY: ALL                                                         8-20-00
+                                                                          Page 3
+                                                                        Dec ?/'11
+                                     @
+                   •        GIOE& LEARJET CORPDAA110N
+
+             ma1■11■a■■1 ·ma■-ua-1
+     (11) If necessary, wash aircraft to remove any accumulation of mud,
+          dirt or grease.
+     (12) Service the following to normal operating capacity: oil tanks,
+           hydraulic reservoir, hydraulic accumulator, refrigeration system,
+           oxygen bottle, emergency air bottle, nose gear strut and main
+           gear struts. Refer to 12-00-00 .for servicing procedures.
+     (13) Lower tailcone access door and attach leveling plumb bob. (Refer
+           to 8-10-00)
+     (14) Attach jack pads to nose and wings. (Refer to 7-10-00)
+     (15_) Attach load cells to jacks (see figure 2) assuring the adapters are
+           properly secured.
+
+          NOTE:    When ring type cell-to-jack adapters are used, assure
+                   that it is centered flush on the jack ram and apply a
+                   downward pressure before tightening setscrews.
+
+     (16) Position jacks, with cells attached, under, but not touching, jack
+          pads.
+     (17) Set CELL BALANCE switch on the indicator-amplifier to ON.
+          There must not be any load on the cells at this time.
+     (18) Set WEIGHT dial and INITIAL LOAD selector to 0.
+     (19) Set the CELL SELECTOR to 1. Turn ZERO SET knob,- marked
+          CELL 1, until Balance Meter Pointer is on 0. Repeat this P.ro~
+          cedure for CELL 2 and CELL 3. Once the circuits have been
+          zeroed, the ZERO SET knobs should not be changed.
+
+          CAUTION: KEEP THE AIRCRAFT LEVEL WHILE:JACKING.
+                   EXCESSIVE SIDE LOADS MAY CAUSE CELL
+                   DAMAGE, DAMAGE 'IO THE AIRCRAFT OR IN-
+                   CORRECT WEIGHT READINGS.
+
+                       USE PROPER ADAPTERS ON JACKS TO PREVENT
+                       SLIPPING OR BUCKLING.
+
+                       NEVER APPLY A LOAD ON THE RIM OF THE
+                       CELLS.
+
+     (20) Jack the aircraft until it is clear of the floor.
+     (21) Level the aircraft.  (Refer to 8-10-00)
+     (22) Remove plumb bob and secure tailcone access door.
+     (23) Close aircraft cabin door.
+     (24) Drain tip tank, wing and fuselage sumps.
+
+
+
+
+EFFECTIVITY: ALL                                                     8-20-00
+                                                                      Page 4
+                                                                    Dec 2/71
+                                         ~
+                         •      GA1E8 LEARJET CDRPOJUmON
+
+                  ■a1n11nan■1 ■a■■al
+          (25) Set CELL SELECTOR to 1. The Balance Meter pointer will swing
+                 to the right. Turn the INITIAL LOAD selector until the Balance
+                 Meter pointer swings to the left. Set INITIAL LOAD selector to._
+                 next lower calibration. Adjust WEIGHT dial until Balance Meter
+                 pointer rests on O. The combined read~ of the INITIAL LOAD
+                 selector and WEIGHT dial is the weight on that cell. Record the
+                 weight° in the proper space marked Scale Reading in the Aircraft
+                 Weighing Record. Repeat for CELL 2 and CELL 3. A minimum
+                 of two weight readings should be taken on each cell, upsetting the
+                 cell balance each time~                    .
+          (26) Lower the jacks until all load·is removed ·from·the cells.
+          (2'1) Set INITIAL LOAD selector to O. Adjust the WEIGHT dial until
+                 the Balance Meter pointer is on·o. If there 1s a-plus reading on
+                 the WEIGHT dial, ·divide it by two and enter it as a negative num-
+                 ber under Tare on the Aircraft Weighing Record. If there is a
+                 rpinus reading on the WEIGHT dial, enter it as a positive number .
+                 under Tare on the Aircraft Weighing Record. Repeat for the
+                 other two cells. If the tare is greater than 25 pounds_ the weighing
+                 procedure must be repeated.
+          (28) Turn off all switches, discoiUlect power and cell cables and return
+                 all components to the kit case. Set WEIGHT dial to read minus
+                 50 pOUllds.                            .           .
+~         (29) Add or subtract the tare of each cell to or .from its respective
+                 scale reading; enter the result under Net Weight in the Aircraft
+                 Weighing Record.
+          (30) Subtotal the left and right ja.ck net weights.
+          (31) Multiply the net weight of the left and right jacks combined by
+                 their arm (414. 85) to obtain moment. Record under Moment in
+                 the Aircraft Weighing Record.
+          (32) Multiply the net weight of the nose jack by its arm (183. 78) to
+                 obtain moment. Record under Moment in the Aircraft Weighing
+                 Record.
+          (33) Add the two moments.
+          (34) Add the net weights.
+          {35) Divide total moment by total weight to obtain CG of the aircraft
+               · as weighed.
+          (36) Total Column I weights and subract from aircraft total weight.
+          {3'1) Total Column I moments and subtract from aircraft total moment.
+          (38) Total Column n weights and add to aircraft total weight. This is
+                 the aircraft basic weight.
+          (39) Total Column II moments and add to aircraft.total moment. This
+                 is the aircraft°basic moment.
+          (40) Divide basic moment by basic weight. This is the CG of the
+                 aircraft.
+
+
+
+    EFFECTIVITY: ALL                                                        8-20-00
+                                                                             Page 5
+                                                                           Dec 2/77
+4.
+               ................          -~
+
+
+
+
+     Determining Aircraft CG in Percent of MAC
+     A. From the following formula it can be determined whether the aircraft
+         CG is within the prescribed limits as defined by the Weight and
+         Balance Data Manual. .The formula states:
+         % of MAC = Fuselage Station~~ading Ed~e of MAC
+
+         Where:          (1) Fuselage station is the CG or arm as defined in
+                             the Weight and Balance Data Manual
+                         (2) Leading edge of MAC is 360. 02
+                       . (3) MAC is 84.49
+         Therefore:
+                        OJ. of MAC = Fuselage station - 360. 02
+                        D                       .   84.49
+
+
+
+
+                         Jack Pad _ __,
+                         (Nose, Typical)
+
+
+
+
+                         Adapt'3r - - -
+
+
+
+
+                            Safety Ring - - .
+
+
+                      Attaching Weighing Cell to Aircraft Jack
+                                     Figure 2
+
+EFFECTIVITY: ALL                                                         8-20-00
+                                                                          Page 6
+                                                                        Dec 2/77
+                                                               ~
+                     ,        •               GATES LEARJET CORPORATION
+
+                         n1a1n11nan■1 ■anaal
+
+                                              AIRCRAFT WEIGH ING RECORD
+     Date Wetghed                             IModel    25B/C/D/F                           Serial No,
+                                                                              Welghlno Personnel:
+
+     Place Weighed
+                            ble                                 Nel
+         Reaction          ..MIIIIG            Tare            W•IQIII              Arm                   Moment
+                                                                                                               -   :II
+                                                                                                                                  -
+      Left Jack                                                                                                           I            ~
+
+                                                                                                                              •
+                                                                                                                                      II
+
+
+      Right Jack                                                                                                                      II
+                                                                             IC
+
+
+      Sub Total                                                                   414. 85
+
+      Nose Jack                                                                   183.78
+
+          Total
+      Cas weighed)
+
+      Total Items
+       Column l                                           -
+      Total Items
+      Column D                                            +
+         Basic
+        Airplane
+
+                           COLUMN I                                                          COLUMN II
+     Items weighed but                                                   Basic Items not
+      not pan of basic    Weight      . Arm           Moment             tn when weighed     We1ght      Arm             Moment
+         Airplane·
+
+
+
+
+         TOTAL                                                              TOTAL
+
+
+
+
+                                        Aircraft Weighing Record
+                                                Figure 3
+
+EFFECTIVITY: ALL                                                                                                                      .8-20-00
+                                                                                                                                    Page 7
+                                                                                                                                  Dec 2/77
+                                 Gates Learjet Corporation@
+                      ■a.in1■nan1■ ■an■al
+                            WEIGffiNG - MAINTENANCE PRACTICES
+
+ 1.      Weighing
+         A.   TQOls and Equipment
+
+      NAME            PART NUMBER               MANUFACTURER                       USE
+
+ Electronic          ·c-55800-s-10             Revere Corp. of America           Weighing
+ Scales               or ~quivalent            Wallingford, Conn.                aircraft
+
+
+         B.   Weigh the airc_raft (electronic scales) (See figure 201)
+              (1)  ·Refer to the electronic kit operating manual for specific weigbing
+                    instructions.
+
+                      NOTE: •    ~ weighing operations must be conducted in a clos.ed
+                                 hangar and care taken that no ·air currents pass over the
+                                 aircraft during weighing, or inaccurate readings will result.
+
+                               • The basic weight. of the aircraft includes trapped 8.lld un-
+                                  usable fuel. If the fuel system is drained (dry aircraft),' the·
+                                  trapped and unusable fuel weight and moment· must be
+                                  entered under Tabie II in th~ Aire~ Wetgbing Record.
+                                  Refer to Approved Airplane Flight Manual~. Weight and
+                                · Balance Section, for unusable fuel weights.
+
+              (2)      Record the· weight on each scale cell in the proper space marked Scale .
+                       Reading 1n the Aircraft Weighing Record-Electronic Scale.
+              (3)      With all weight removed from the cells and scale switches adjusted to
+                       zero, a small plus or minus weight reading may occur on the scale. -·If.
+                       the~ is a pl~ ~eading, divide it by two and.enter it_ as ·anegativeninn-··
+                       ber under Tare on the Aircraft Weighing Record. ·If there is_ a ·.minus ·
+                       reading, divide it by two and enter it as a positive number under Tare
+                       on the Ai~raft Weighing Record. If the tare is greater than ±5. pounds ·
+                       (±2~2'1 kg) for any one cell, repeat the weighing procedure.
+              (4)      Add' or subtract the tare of each cell to or from its respective scale
+                       reading. Enter the result under Net Weight in the Aircraft Weighing
+                       Record.
+              (5)      Subtotal the left and right jack net weights.
+              .(6)     Multiply the net weight on the left' and right jacks co~ined by their
+                     . arm- (414. 85) to obtain moment. Record under Moment in the Aircraft
+                       Weighing Record.                                                       ·
+              ('1)     Multiply the net weight on ~e nose jack by its arm (183. '18) to obtain
+                       moment. Record under Moment 1n the Aircraft Weighing Record.
+              (8)      Add the two moments.
+
+
+EFFECTIVITY: ALL                                                                         8-20-00
+                                                                                       Page 201
+MM-911
+                                                                                       Jul 1'1/81
+                           Gates Learjet Corporation@
+
+                aain1anan11a aan■a.l
+          (9)  Add the n~t weights.
+         (10)  Divide total moment by total weight to obtain CG of the aircraft as
+               weighed.
+         (11)  Total Table I weights and subtract from aircraft total weight.
+         (12)  Total Table I moments and subtract from aircraft total moment.
+         (13)  Total Table II weights and add to aircraft total weight. This is the
+               aircraft basic weight.
+         (14)  Total Table II moments and add to aircraft total moment. This is the
+               aircraft basic moment.
+         (15)  Divide basic moment by basic weight. This is the CG of the aircraft~
+    C.    Weigh the Aircraft (Platform Scales) (See figure 201)
+
+          NOTE:    All weighing operations must be conducted in a closed hangar and
+                   care taken that no air currents pass over tbe aircraft during
+                   weighing.
+
+          (1)   Remove all loose equipment from the aircraft which is not a part of the
+                aircraft empty weight.
+          (2)   If necessary, wash aircraft to remove any accumulation of mud, dirt
+                or grease.
+          (3)   Defuel the aircraft. Refer to Chapter 12.
+
+                NOTE:    The basic weight of the aircraft includes trapped· and unusable
+                         fuel. If the fuel system has been drained (dry.air.craft), the
+                         trapped and unusable fuel weight and moment most be entered
+                         under Table II in the Aircraft Weighing Record. Refer to
+                         Approved Airplane Flight Manual, Weight and Balance Section,
+                         for unusable fuel weights.
+
+          (4)   Service the following to normal operating capacity; oil tanks, hydraulic
+                accumulator, refrigeration system, oxygen bottle, and emergency air
+                bottles. Refer to Chapter 12 for servicing procedures.
+          (5)   Inventory the aircraft for items which are part of the empty weight but
+                will have to be weighed with the aircraft. Enter each item, its weight,
+                and its arm under Table I in the Aircraft Weighing Record {figure 201).
+
+                NOTE: If the platform scales are not equipped with built-in chocks,
+                      the wheel chocks used after the aircraft is placed on the
+                      scales will need to·be weighed and entered per step (5).
+
+          (6)   Inventory the aircraft for items which are fixed equipment but will not
+                be weighed with the aircraft; for example, a seat which has been re-
+                moved for repair. Enter each item, its weight and its arm under
+                Table II of the Aircraft Weighing Record (figure 201).
+          (7)   In:fiate tires to proper pressure. Refer to Chapter 12.
+
+
+~~FFECTIVITY: ALL                                                              8-20-00
+                                                                              Page 202
+                                                                              Jul 1'7/81
+                        Gates Learjet Corporation@
+              ■ain111an11 ■an■al
+        (8)     Deflate the landing gear shock struts.
+        (9)    Jack the aircraft (refer to Chapter '1) until the wheels are off the floor
+               far enough to place the platform scales under the wheels.
+       (10)     Position the platform scales under tbewheels and lowe~ the aircraft
+                onto the scales. Install wheel chocks and remove jacks 8:Jld jack pads
+               from the aircraft.
+       (11)     Lower tailcone access door and attach a plumb bob and string to the
+               plumb bob cllp located on the aft side of frame 26A.
+       (12)     Inflate the main gear struts until the aircraft is level (the plumb bob
+                point extends into· the leveling plate hole without touching the sides of
+                the hole).
+       (13)     Remove plumb bob and secure tailcone ~cess· door.
+       (14) Close passenger/crew door.
+       (15)     Drain wing· and fuselage sumps.
+       (16)     The nose wheel axle centerline fuselage-.station is J6'1._13 which is
+                entered as· the nose jack reaction point under '~~rm'~ 'in the Aircraft
+                Weighing Recol'd.
+       (1'1)    Measure the perpendicular distance from the centerline of the nose
+                wheel axle to a line joining the centerlines of the main wheels. A4d
+                this ~~asu~ent to the nose wheel reaction point. -. Enter this flgu~
+                (main wheel reaction point) under "Subtotal Arm" in the Aircraft
+                Weighing Recol'd.
+       (18) ·Read the weight from each platform scale and enter 1n· the "Scale
+                :Reading" column of the Aircraft Weighing Record.
+       (19)     Install jack pads and jacks.
+       (20). · Jack the aircraft until it is completely ·off of the scales and remove
+                wheel chocks from the scales. If there is a plus reading on the scale~,
+                divide it by two and enter it as a negative number under Tare on the
+                Aircraft Weighing Record. If there is_ a negative reading on the scales,
+                enter it as a positive number under Tare on the Aircraft Weighing
+              . Record. If the tare is greater than ±5 pounds· (±2. 2'1 kg) for any one
+                scale~ the scales need to be recalibrated and certtfled and ·the weighing
+                procedure repeated.
+       (21)     Remove.the platform scales and lower the aircraft to the ground.
+       (22)     In:D.ate nose gear shock strut and main gear shock struts. Refer to
+                Chapter 12.
+       (23)     Add or subtract the tare of each scale to or from its respective scale
+                readtng; enter tbe results under Net Weight in the Aircraft Weighing
+                Record.
+       (24)     Subtotal the left and right wheel scale net weights.
+       (25)     Multiply the net weight of the left and right scales combined by their
+                arm (39'1. 00) to obtain moment. Record under "SUbtotal Moment"
+                in the Aircraft Weighing Recol'd.
+                                                                                            I
+
+
+EFFECTIVITY: ALL                                                                8-20-00
+                                                                               Page 203
+                                                                               Aug 6/82
+                                                     .·••••·•I
+                              Gates Learjet Corporation~
+
+                    ••i•l1•••■·1
+            (26)    Multiply the net weight on the nose wheel scale by its arm· (16'1.13) to
+                    obtain moment. Record under Moment in the Aircraft Weight Record.
+            (2'1)   Add the two moments.
+            (28)    Add the net weights.
+            (29)    Divide total moment by total weight to obtain CG of the aircraft as
+                    weighed.
+            (30)    Total Table I weights and subtract from aircraft total weight.
+            (31)    Total Table I moments and subtract.from.aircraft.total moment.
+            (32)    Total Table II ·weights and add to aircraft total weight. This is the
+                    aircraft basic weight.
+            (38)    Total Table II moments and add to aircraft total moment. This is the
+                    aircraft basic moment.
+            (84)    Divide basic moment by basic weight. This ls the CG of the aircraft.
+
+2.      Detennlntng Aircraft CG in Percent of MAC
+        A.   From the following formula it can be determined whether the aircraft_ CG is
+             within the prescribed limits as defined by the Weight and Balance Data·
+             Manual. The formula states:
+
+             CG in% of MAC = Fuselage station - Leading,Edge_of MAC            x 100
+                                               MAC
+
+             Where:     (1) Fuselage station is the CG or arm as defined in 1he Weight
+                            and Balance Data Manual -located in the Approved- Airplane
+                            Flight Manual.
+                        (2) Leading edge of MAC is 360. 02.
+                        (3) MAC is 84. 49.
+
+             Therefore:
+
+              CG in % of MAC = Fuselage station - 360. 02         XlOO
+                                        84.49
+
+
+
+
+EFFECTMTY: ALL                                                                         8-20-00
+                                                                                   Page 204
+                                                                                   Jul 1'1/81
+NN•IS
+                                 Gates Learjet Corporation@
+                     ■ainlenanae manual
+
+      Date Weighed                      Model   25B/C/D/F        Serial Nu.
+
+
+      Place Weighed
+      ReacUon           Scale Reading   Tare                                  Munu,n(
+
+
+      Left Jack
+
+
+      RlghtJiu,k
+
+
+      Bub Total                                              414.85
+
+                                                             183 •. '18
+         Total
+       (Aa Wefgbed}
+
+        Total Items
+          Table I
+
+        Total Items
+          TableD                                +
+       Baalo Airplane
+
+                                                 TABLE I
+         Items wefgbed but not
+                                                    Weight       4'rm         Momrnl
+         mrt of basic atn,lane
+
+        jack pads
+
+
+
+         TOTAL
+                                                 TABLED
+         Baeto Items not
+                                                    Weight       Arin          Mumrnl
+         In when wetcmed
+
+        unusable fuel
+
+
+
+
+       TOTAL
+
+
+                           Aircraft Weighing Record - Electronic Scales
+                                     Figure 201 (Sheet 1 of 2)
+
+EFFECTIVITY: ALL                                                                         8-20-00
+                                                                                        Page 205
+                                                                                        Jul 1'1/81
+                                 Gates Learjet Corporation@
+
+                     ■ai■ll■il■II ■il■■ill
+     Date Weighed                      Model   25B/C/D/F      Serllll Nu.
+
+     Plaoe Weighed
+     ReaoUon           Scale Reading   Tare                                 Munu,nt
+
+
+     LertJaok
+
+
+      Right.Jack
+
+
+     Sub Total
+
+
+      NoaeJao1t                                             167.13
+        Total
+      (Ae Weighed)
+
+       Total ttema
+         Table I
+
+       Total ltema
+        Table U                                +
+      BReic Airplane
+
+                                                TABLE I
+        Items weighed but not                      Weight     f.rm .        Mnment
+        part of baetc airplane
+
+       jack pads
+
+
+
+        TOTAL
+
+                                                TABLED
+        Baste items not
+        In when wetimed
+                                                   Wetgbt     Arm·          Moment
+                                                                                      ..
+       unusable fuel
+
+
+
+
+       TOTAL
+
+
+
+
+                            Aircraft Weighing Record - Platform Scales
+                                     Figure 201 (Sheet 2 of 2)
+
+
+E FFECTIVITY: ALL                                                                           8-20-00
+                                                                                           Page 206
+                                                                                           Jul 17/81
+

@@ -1,0 +1,631 @@
+                @.
+  •    GATES LEARJET CORPORATION   .
+
+■a111enan1e ■anual ·
+
+      CHAPTER
+
+
+
+
+      STARTIN.G .
+                                       Gates Learjet Corporation@
+                         ■ai■ll!■ID■I! Dll■■al
+ Chapter                                                     Chapter
+ Section                                                     Section.
+ Subject                    Page               Date          Subject                     Page              Date
+  BO-Title
+ •aO-List of
+     Effective Pages               1         May 25/84
+  BO-Contents                      1           Dec 2/77
+  80-00-00                         1           Dec 2/77
+  80~00-00                         2           Dec 2/77
+  80-10-00                         1           Dec 2/77
+  80-10-00                         2           Dec 2/77
+  80-10-00                        3            Dec 2/77
+  80-10-01                      201            Dec 2/77
+  80-10-01                      202          . Dec 2/77
+ ·ao-10-01                      203          May 25/84
+  80-11-00                        1            Dec 2/77
+  80-11-00                      201            Dec 2/77
+  80-11-00                      202            Dec 2/77
+
+
+
+
+  Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+• Asterisk indicates pages revised, added or deleted by current revision.
+  The portion of the text affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                    BO-LIST OF EFFECTIVE PAGES
+ MM-98                                                                                                    Page 1
+                                                                                                      May 25/84
+                                                              ~
+                                •           GATES LEARJET CORPORATION
+
+                    ■a1n11111a11■11 ■an■al
+                                                                           Chapter
+                                                                           Section
+Subject                                                                    SUbject           Page
+
+GENERAL        .................................                              80-00-00
+   General                                                                    80-00-00         1
+   Description . • . • • • . . • • • • . . • . • • • • • • • • . • • • • • · 80-00-00          1
+CRANKIN'G ••••••••••••••.••••••••...•.....• 80-10-00
+   General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80-10-00          1
+   Operation • • • • • • • • • • • . • • . • • ·. . • • • . . . . . • • . • • 80-10-00         1
+   Starter - Maintenance Practices ••..••••••.•••.• 80-10-01
+       General •••••••••.••..•.••••••••••.••• 80-10-01                                       201
+       Removal/Installation ••••••..•••••..•••..• 80-10-01                                   201
+       Adjustment/Test • • . . • • • • • • • • . . • . • • • . • . • 80-10-01                203
+       Inspection/ Check • . • • . • • • . . • • • . . . . • • • . • . 80-10-01              203
+   Overheat Detector                                                          80-11-00
+       General a e •        I   Ie • e
+                                    I   •e    I   I   e
+                                                      I   e e e e • e e e • e
+                                                          I   •   I   I       80-11-00         1
+       Description • • . • . . • . • . • • • • • • • . . • . . • • • • • 80-11-00              1
+       Operation ••••••.•••••••••.•.••.•••••• 80-11-00                                         1
+       Overheat Detector System - Maintenance Practices                       80-11-00
+            General .••••••.•.••.••••.••.•••••. 80-11-00                                     201
+            Rell!oval/Installation .•••.•.••••••••••• 80-11-00                               201
+
+
+
+
+EFFECTIVITY: ALL                                                                     80 - CONTENTS
+                                                                                              Page 1
+                                                                                            Dec 2/77
+                                         ~
+                         •      GATES LEARJET CORPORA110N
+
+                  ■-ill■ll!■il■II! ■a■aal
+                      GENERAL - DESCRIPTION AND OPERATION
+
+1.   General
+     A.   The engine starting system consists of two starter-generators, two system
+          switches and utilizes the generator control box which incorporates the start
+          control relays.
+     B.   On Aircraft certified for Operation in France, the engine starting system con-
+          sists of two starter-generators, two system switches, the generator. control box
+          which incorporates the start control relays, and overheat detector system on
+          each starter-generator.
+
+2.   Description
+     A.   The starter-generator is installed on engine accessory gear boX: by six bolts.
+          All electrical connections are made to a terminal block on the starter-genera-
+          tor. The starter-generator operates from power supplied by either an ex-
+          ternal power source or the battery system. Refer to 24-00-00 for further
+          information on the external power source and the battery system.
+     B.   The system switches are three position lever lock type switches located on the
+          switch panel. The switches are labeled GEN-OFF-START.
+     C.   The generator control box incorporates the starting relay functions. For
+          Maintenance Practices of the generator control box refer to 24-31-02.
+     D.   On Aircraft certified for Operation in France, the overheat detector system
+          provides the crew with a visual indication of each starter-generator. The sys-
+          tem is tested by the GEN OV HT TEST-NORM SWitch.
+
+
+
+
+EFFECTIVITY: ALL                                                               80-00-00
+                                                                                 Page 1
+                                                                               Dec 2/77
+                      .
+                                        ~
+                               BA1EB LEARJET CORPORA110N
+
+             .■a·l■l■■a■■■. ··•a■■-al -
+
+                      Overheat Detector
+                      Control Unit
+                      (80-11-00)
+
+
+
+
+                                                                                                 Overheat Detector
+                                                                                                 (80-11-00)
+
+
+                                                     "7----starter-Generator
+                                                                                         (80-10-01)
+
+
+
+
+                                                      Starter-Generator
+                                                      SWitch
+
+                                                 ®             Q:~Q •
+    Generator Overheat
+    Test 5witch
+                                                 ~~@ CII.TI•    AC""'tl    kt~
+
+
+
+
+                                                                      ij'
+                                                 ~ r7,';"7:                -••!•,~                                      .
+
+
+
+                                                 •r·- ,,.,~~, ,--,i'
+                                                 ~ ~ : .. ' •. >                                                    '
+
+                                                 I ...         i ••,, .....          I       s                      .
+
+                                                                          -~             _o.,. .........
+                                                 ~
+                                                              ,, , t·~,: co~             @            Ji'=-.
+                                                                                                               ~f
+
+
+                                                                                                                @
+
+
+
+  Pedestal Switch Panel_J                                      Switch       Panel_/
+  (French Aircraft Only)
+
+                                     Detail A
+                          starting System Component Location
+                                        Figure 1
+
+
+EFF ECTIVITY: ALL                                                                                                   80-00-00
+                                                                                                                     Page2
+                                                                                                                    Dec 2/77
+                                          @
+                    .      •     GATES LEARJET CORPORAJlON   .       .
+
+                  ■11■11!■1■11!' ■1■■11
+                         CRANKING - DESCRIPTION AND OPERATION
+
+1.   General
+     A.    starting (cranking) is accomplished by applying power to the aircraft and
+         · setting the starter-Generator Switch to START.
+
+           CAUTION:       IF ENGINE START IS NOT ACCOMPLISHED AFTER THE
+                          THm.D ATTEMPT, THE STARTER-GENERATOR MUST BE
+                          ALLOWED TO COOL TO AMBIENT TEMPERATURE. LIMIT
+                          EACH STARTING ATTEMPT TO A MAXIMUM OF 30 SECONDS.
+
+2.   Operation (See figu~e .l) ·
+     A.   First Engine Start
+          (l) When the.Starter-Generator SWitch is set to START, 28 vdo is applied to
+              the start control relay within the fuel control relay panel and to a control
+              relay (Kl or K2) within the generator control box. With the start control
+              relay energized, 28 vdc is applied thru a set of contacts to close the
+               motive flow valve and at the same time 28 vdc is applied to ·energize the
+               standby boost pumps. When the motive flow valve closes 28 ydc is
+               applied thru the motive flow valve, · thru the start control relay, thru a
+               set of contacts on the energized relay (Kl or K2) to energize the appli-
+               cable starter relay. When the engine speed exceeds idle rpm the Starter-
+               Generator Switch is then set to GEN.
+     B.   Second Engine Start
+          (1) Starting the second engine is_ the same as the first_ engine start except that
+               the output of the first generator is utilized in assisting the second engine
+                start.
+
+
+
+
+EFFECTIVITY: ALL                                                                   80-10-00
+                                                                                     Page 1
+                                                                                   Dec 2/77
+ ~
+ en
+• I
+ 0
+ 0)
+
+.......
+ ~
+ en
+  I
+ 0
+ -::i
+ 0
+
+
+ ~d
+ ~
+ en
+   I
+                                                                                                                        IEmR1UL ·
+ 0                                                                                                                          PIR
+ CD                                                                                                                     I
+ .
+ co                                                                                                                     I
+ ~
+ en                                                                                                                     I
+ 0
+     I                                                                                                                  I
+ co
+ .....                                                                                                              ,I
+                                                                                                                     I
+                                                                                                                        I
+                                                                                                                        I
+                                                                                                                        I
+                                                                                                                        I
+                                                                                                                        I
+                                                                                                                    J
+                                                                                                          r<JIIIE!IIIIIID LN BIT
+                                                                                                                        I
+
+
+
+          *25-061,
+           Diode added Aircraft 25-084 and Subsequent and Aircraft
+                   25-070 thru 25-083 when Modified per AMK70-13.,
+                                                                     2.4-~ -00 .....c~t>--'
+                                                                                    cat
+                                                                                          ~'·3\•00
+                                                                                                     {~A~
+                                                                                                      a
+
+                                                                                                     ::F--oJ
+                                                                                                               •
+
+
+
+                                                                                          .     •IF,-t:•-o-----
+
+
+                                                                                                                                   \
+
+                                                                                                                                  L
+           l\.:>
+
+
+
+                   ••II
+           en
+            I
+           0
+
+
+
+
+                   -·---
+           co
+           ..
+           0
+
+
+
+                   II
+                   11
+                   ii1
+                   -~
+                    . I
+
+                    II
+                    II
+                    II
+                   -II
+
+
+tj         ~
+CD a-       I
+C,   "IJ   ....
+  N fO 0
+......._ oq I
+-..:J Cl) 0
+-..:J CA, 0
+                                         ~
+                                GATES LEARJET CORPORATION
+
+                  ■ai■11■a■11 ■a■aal.
+                        STARTER - MAINTENANCE PRACTICES
+
+1.   General
+     A.   Maintenance practices on the starter-generators consist basically of trouble
+          shooting, starter-generator ·brush wear check and replacement of defective
+          components.
+
+2.   Removal/Installation
+     A.  Remove Starter-Generator (See figure 201)
+         (1)   Lower tailcone access door and disconnect aircraft batteries.
+         (2)   Remove lower engine nacelle.
+         (3)   Disconnect and tag starter-generator electrical wiring.
+         (4)   Loosen clamps and remove air duct·from forward nacelle and starter-
+               generator.
+         (5)   Remove safety wire from Q. A. D. clamp bolt.
+         (6)    Loosen Q.A. D. clamp bolt sufficiently to allow removal of generator.
+         (7)   Remove starter-generator from aircraft.
+         (8)   If replacement starter-generator is to be installed, loosen and remove
+               attaching parts and existing Q. A. D. adapter assembly and use new
+               adapter assembly furnished with generator.
+     B.  Install Starter-Generator (See figure 201)
+         (1)   Before installing new Q.A.D. adpater assembly on engine, check.that
+               the three (3) screws attaching adapter plate to the adapter ring do not
+               protrude above the mounting surface. Inspect Q.A. D. clamp for possible
+                damage.
+         (2)    Check that Q. A. D. assembly slides freely over the .gearbox studs and
+                fits against gearbox.
+         (3)   Assure that gearbox housing, starter-generator housing, adapter plate
+                mounting surface, Q. A. D. clamp and spline are clean and free of
+                foreign matter.                 ·                     ·
+          ( 4)  Install adapter assembly on gearbox housing and secure with attaching
+                parts. Torque ·nuts 160 to 190 inc~-pounds plus drag torque.
+
+                 CAUTION:     ASSURE THAT BOTH SPLINES ARE CLEAN BEFORE·
+                              APPLYING NEW GREASE, THIS WILL PREVENT
+                              CONTAMINATION OF NEW GREASE.
+
+           (5)   Apply Mobil grease No. 29 (mfg. by Mobil Oil Corp.) or Braycote No.
+               · 664S (mfg. by Bray Oil Co.) to male spline of starter-generator. Apply
+                 grease to screw threads and V-groove of Q.A.D. clamp.
+           (6)   Install starter-generatorand   Q.A. D. clamp on engine. · Torque Q.A. D.
+                 clamp to 60 inch-pounds while moving end of generator back and forth.
+                 This Will assure tlutt no binding occurs. After torquing clamp to 60 inch-
+                 pounds check space between ends of clamp. Distance should be between
+                 1/32 inch minimum to 9/32 inch maximum. Safety wire bolt.
+
+
+EFFECTIVITY: ALL                                                                 80-10-01
+                                                                                 Page 201
+                                                                                 Dec 2/77
+                                        @).
+                             GATES LEARJET CORPORATION
+
+               -■ ain1e-nanIe ■-anual
+        (7)   Remove tags and connect electrical wiring to generator. Install and
+              secure terminal cover.
+
+              NOTE:   Effective Aircraft 25-219 and Subsequent, the generator wiring
+                      has identification tags installed on each wire approximately 2
+                      inches from the terminal. These tags will aid when wiring is
+                      connected to the starter-generator.
+
+
+                                                                               QAD Clamp
+
+
+
+
+                                                 1/16 Inch GaP-t---i+<H
+                                                 with Edges
+                                                 Parallel.
+
+
+
+
+                                            orque Clamp Bolt
+                                             60 Inch-pounds .
+                                           and safety wire .
+
+                                1/32 Inch Min.
+                                9132 Inch Max.             Starter-Generator
+
+
+
+                              Q. A. D. Clamp Installation
+
+
+
+
+                          Starter-Generator Installation
+                                    Figure 201
+
+
+EFFF(:TIVITY: ALL                                                                          80-10-01
+                                                                                           Page 202
+                                                                                           Dec 2/77
+                                 Gates Learjet Corporation@
+                    •ai■le■a■ae •a■ual
+             (8)   Install starter-generator cooling duct and secure with clamp.
+             (9)   Install and secure lower engine nacelle.
+            (10)   Connect aircraft batteries and secure tailcone access door.
+            (11)   Perform operational check of starter-generator.
+
+3.      Adjustment/Test
+        A.   Operational Test of Starter
+             (1)  Connect external power source to aircraft.
+             (2)  Set Battery Switch(es) to 11on".
+             (3)  Set applicable starter-generator switch to START.
+             (4)  Monitor engine rpm; at 8% to 10% rpm·set Starter-Generator Switch to
+                   OFF.
+             (5)   Set Battery Switch to o'FF.·
+             (6)   Disconnect external power source.
+
+4.       Inspection/ Check
+         A.    Starter-Generator Brush Wear Check (See figure 202.)
+               (1)   Remove lower engine nacelle.
+               (2)   Remove starter-generator from engine.
+               (3)   Remove brush cover {rom starter-generator.
+               (4)   Refer to figure 202 and check brush wear.
+               (5)   Install brush cover on start.er-generator.
+               (6)   Install start.er-generator on engine.
+               (7)   Install lower engine nacelle.
+                            .        ~---.···--~
+                    ~                    j               * Measure from outsjd,e surface
+                    tstarter-Gener~tor                     of housing to end of brush.
+                    Housing (Outside                 ·
+                    Surface )
+
+
+                                    Brush
+
+
+
+                            Commutator              * New brush ( zero wear ) distance
+                                                      is • 4 79 to • 606 inch.
+                                                    * Replace brushes when measured
+                                                         distance becomes 1. 00 inch.
+
+                                                          Starter-Generator   <n,
+
+
+                                Starter-Generator Brush Wear Check
+                                            Figure 202
+
+
+EFFECTIVITY: .ALL                                                                    80-10-01
+MM-98                                                                                Page 203
+                                                                                    May 25/84
+                      : ·•··.. ~~: ·. ~                  ~~:       .:.~ .- ..... _.. ~. :. ~
+              :: ...;:·•'.,   .
+                                                          f    '
+
+                                                         ••I.~~•
+                                                                   ..     t·~
+                                                                                ' ,J• • <I',
+
+
+
+
+      .J ..
+
+
+
+                                           ..·,:,·
+
+
+
+                                                                                                      ( ., : ',., 1 ; .
+
+
+
+
+" .
+
+
+
+
+                                          .,.                                                  .. :
+
+
+
+
+                                           ,' V   •.,1
+                                         ~
+                         •      GAlEB LEARJET CORPORATION
+
+                  ■a1n11naa■1 ■anaal
+           OVERHEAT DETECTOR SYSTEM - DESCRIPTION AND OPERATION
+
+1.   General
+     A.   The overheat detector system consists of a detector element on each starter-
+          generator, two warning (red) lights, two control units and a system test switch.
+
+2.   Description
+     A.   A detector element is installed on the aft portion of each starter-generator
+          such that it senses the temperature of the cooling air as it exhausts from the
+          starter-generat!)r. The element is secured to the element bracket by quick
+          release fasteners.         ·
+     B.   Two warning (red) lights are installed in the glareshield warning light assem-
+          bly. The lights· are labeled L GEN OV HT and R GEN OV HT. The lights will
+          illuminate when an overheat condition exists.
+     C.   The system test switch, labeled GEN OV HT TEST-NORM, is located on the
+          pedestal switch panel. The switch is used to operationally test the system
+          and is normally in the NORM position.
+     D.   The control units, one for RH and one for LH are installed on the RH electrical
+          equipment tray in the tailcone.
+
+3.   Operation
+     A.   The starter-generator cooling is. provided by air routed thru a flexible ducting
+          from the nacelle nose cap air intake to the starter-generator. The detector
+          element, installed over the exhaust openings at the rear of the starter-genera-
+          tor, senses the temperature of the air as it exhausts from the starter-gener-
+          ator. If the air temperature increases, due to overheating of the generator,
+          the conirol units are energized and light the warning lights on the glareshield.
+
+
+
+
+ EFFECTIVITY: AIRCRAFT CERTIFIED FOR OPERATION                                   80-11-00
+              IN FRANCE                                                            Pagel
+                                                                                 Dec 2/77
+                                          ~
+                         •       GATES LEARJET CORPORATION
+
+                  ■a11111a111 ■an■al
+            OVERHEAT DETECTOR SYSTEM - MAINTENANCE PRACTICES
+
+1.   General
+     A.   Maintenance practices consist basically of removal and installation of compo-
+          nents.
+
+2.   Removal/Installation
+     A.  Remove Detector Element (See figure 201)
+         (1)   Remove starter-generator. (Refer to 80-10-01)
+
+                 CAUTION: DO NOT ATTEMPT TO LOOSEN NUT ON AFT SIDE OF
+                          BRACKET.· DAMAGE TO THE SENSING ELEMENT MAY
+                          OCCUR.
+
+           (2)   Loosen and remove jamnut from forward side of bracket. Remove re-
+                 maining nut.
+           (3)   Release quick release fasteners and remove element from bracket.
+     B.    Install Detector Element (See figure 201)
+
+           CAUTION:     WHEN SECURING ELEMENT IN BRACKET ASSURE THAT
+                        ELEMENT AND GROMMET ARE CENTERED IN CLAMP.
+
+           (1)   Position element and grommet in clamp and secure.
+           (2)   Install nut and jamnut and secure. Assure that nut on aft side of bracket
+                 is used to hold element steady while tightening the nut and jamnut on the
+                 forward side.
+           (3)   Install starter-generator. (Refer to 80-10-01)
+     C.    Remove Control Unit (See figure 201)
+           (1)    Lower tailcone access door.
+           (2)    Disconnect both aircraft batteries.
+           (3)    Disconnect electrical plug from control unit.
+           ( 4)  Remove attaching parts and control unit from panel.
+     D.    Install Control Unit (See figure 201)
+           (1). Install control unit and secure with attaching parts.
+           (2)    Connect electrical plug to unit.
+           (3)    Connect aircraft batteries.
+           (4)    Secure tailcone access door.
+
+
+
+
+EFFECTIVITY: AIRCRAFT CERTIFIED FOR OPERATION                                    80-11-00
+             IN FRANCE                                                           Page 201
+                                                                                Dec 2/77
+                                          ~-
+                       .        GATES LEARJET CORPORATION
+
+                  •ai■ll!■al■I ma■ual.
+
+
+
+
+                                              ~ O v e r h e a t Detector
+                                                        Control Unit.
+                                                        (Lower Side of Tray)
+    RH Electrical Equipment      .
+    Tray (Ref)
+
+
+
+
+         Element Bracket                    0~
+                                          /\
+                                                  ---
+                                              I         I   "
+                                                        )       ',
+                                     //                              \         .
+                                                                         ~ Starter-Generator
+                                                                         ,         (Ref)   .
+Sensing Element
+
+                                                                     ,)      Bracket
+                                           ~------:-::--
+
+
+
+
+                           Overheat Detector System Installation
+                                       Figure 201    .
+
+
+EFFECTIVITY: AmCRAFT CERTIFIED FOR OPERATION                                               80-11-00
+             IN FRANCE                                                                     Page 202
+                                                                                           Dec 2/77
+

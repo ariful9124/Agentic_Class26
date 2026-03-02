@@ -1,0 +1,1933 @@
+         @.
+■ainliiinlePORAiianual
+
+    CHAPTER
+
+
+
+
+    OXYGEN
+                                          Gates Learjet Corporation5ei>
+                            ■ain1enan1e ■an■al
+~    Chapter                                                     Chapter
+     Section                                                     Section
+     Subject                    Page              Date           Subject                    Page              Date
+      35-Title
+     .35-List of
+         Effective Pages             1          May 25/84
+      35-Contents                    1           Dec 2/77
+      35-Contents                    2           Dec 2/77
+      35-00-00                       1           Dec 2/77
+      35-00-00                       2           Dec 2/77
+      35-00-00                       3           Dec 2/77
+      35-00-00                       4           Dec 2/77
+      35-00-00                     101           Dec 2/77
+      35-00-00                     102           Dec 2/77
+     •35-00-00                     201          May 25/84
+     •35-00-00                     202          May 25/84
+     •35.00-00                     203          May 25/84
+     •35.00-00                     204          May 25/84
+     •35.00-00                     205          May 25/84
+      35-10-00                       1           Dec 2/77
+      35-10-00                       2           Dec 2/77
+      35-10-01                     201           Dec 2/77
+      35-10-01                     202           Dec 2/77
+      35-10-01                     203           Dec 2/77
+      35-20-00                       1           Dec 2/77
+~     35-20-00
+      35-20-00
+                                     2
+                                     3
+                                                 Dec 2/77
+                                                 Dec 2/77
+      35-20-00                       4           Dec 2/77
+      35-20-00                       5           Dec 2/77
+      35-20-00                       6           Dec 2/77
+      35-20-01                     201           Dec 2/77
+      35-20-01                     202           Dec 2/77
+      35-20-01                     203           Dec 2/77
+      35-20-02                     201           Dec 2/77
+      35-20-02                     202           Dec 2/77
+      35-20-03                     201           Dec2/77
+      35-20-04                     201           Dec 2/77
+      35-20-04                     202           Dec 2/77
+      35-20-05                     201           Dec 2/77
+      35-20-06                     201           Dec 2/77
+      35-20-06                     202           Dec 2/77
+      35-20-06                     203           Dec 2/77
+      35-20-07                     201           Dec 2/77
+      35-20-07                     202           Dec 2/77
+
+
+
+
+      Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+    • Asterisk indicates pages revised, added or deleted by current revision.
+     The portion of the text affected by the current revision ls indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                       35-LIST OF EFFECTIVE PAGES
+                                                                                                                  Page 1
+     MM-98
+                                                                                                               May 25/84
+                                                   ~
+                              •         GAlES LEARJET CORPORATION
+
+                     ■a11·11.111·11 .■a■■al
+                                                                                 Chapter
+                                                                                 Section
+SUbiect                                                                          SJbject        Page
+
+OXYGEN      .... . . . . . . . ........................ . 35-00-00
+   Gen.era! ••••••••••••••••••••••••••••••••                                    35-00-00          1
+   Description • .• • • • • • • . . • • • • • • • • • . • • • • • • • • • • •   35-00-00          1
+   Trouble Sllootin.g ••••••••••••••••••••••••.•••                              35-00-00
+     General • • • • • • • • • • • • • • • • . • •.••••••••••••                 35-00-00        101
+      Tools and Equipment • • • • • • • • • • • • • • • • • . • • • • •         35-00-00        101.
+      Trollble Sb.oot:ing •••••••••••••••• ~ •••••••••                          35-00-00        101
+   Oxygen - Mailitenance Practices • • • • • • • • • • • • • • • • .            35-00-00
+      General ••••••••••••••••••••••••••••••••                                  35.;.00-00      201
+      Oxygen Mainteilance Precautions and Procedures ••••                       35-00-00        201
+      Servicing Oxygen Cylinder. • • • • • • . • • • • • • • • • • • •          35-00-00        202
+     Adjustment/Test • • • • • • • • • • • • • • • • • • • • • • • • •          35-00-00        202
+CREW ••••••••••••••••••••••••••••••••••••• ~ . 35-10-00
+    General ••••••••••••••••••••••••••••••••••                                  35-10-00          1
+    Description • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •   35-10-00          1
+    Crew Oxygen -Mask - Maintenance Practices • • • • • • • • •                 35-10-01
+       Q-~eral • ~ •. • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 35-10-01        201
+       Tools 8lld Equipment • • • • • • • • • • • • • • • • • • • • • • •       35-10-01        201
+       Removal/Installation •••••••••••••••••••••••                             35-10-01        201
+       Inspection/Check • • • • . • • • • • • • • • • • • • • • • • • • .       35-10-01        201
+       Cleaning/Pa:intjng •••••••••••••••••••••••••                             35-10-01        201
+       Approved Repairs • • • • • • • • • • • • • • • • • • • • • • • • •       35-10-01        202
+PAB.43ENGER • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •   35-20-00
+    General •••••••••••••••••••••••.••••••••.•                                  35-20-00          1
+    Description • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •   35-20-00          1
+    Operation •••••••••••••••••••••••••••.••••                                  35-20-00          2
+    Passenger Mask - Maintenance Practices •••••••••••                          35-20-01
+       Gener-al. ••••••••••••••••••••••••••••••••                               35-20-01        201
+       Tools and Equipment • • • • • • • • • • • • • • • • • • • • • • •        35-20-01        201
+       Removal/Installation • • • • • • • • • • • • • • • • • • • • • • • -35-20-01             201
+       Inspection/Check           . . . . . . . .. . . . . . . . . . . . . . .
+                                        .         .                             35-20-01        203
+       Cleaning/Painting • • • • • • • • • • • • • • • • • • • • • • • • •      35-20-01        203
+    Oxygen Cylinder - Maintenance Practices • • • • • • • • • • •               35-20-02
+       G8lleral .•.•.•.•.••..•.•.....••...••.•..                                35-20-02        201
+       Tools 8lld Equipment .••••••••••••••••••••••                             35-20-02        201
+       Removal/Installation • • • • • • • • • • • • • • • • • • • • • • •       35-20-02        201
+     Oxygen Pressure Gage - Maintenance Practices • • • • • • •                 35-20-03
+        General ••••••••••••••••••••••••••••••••                                 35-20-03        201
+
+
+
+
+EFFEC-TIVITY: ALL                                                                     35 - CONTENTS
+                                                                                                 Page 1
+                                                                                             • Dec 2/77
+                                                    ~
+                                        GA1ES LEARJET CORPORATION
+
+                      ■alnl■-·nanc■ ■a-■ual
+                                                                                  Chapter
+                                                                                  Section
+&lbject                                                                           Slbject
+
+    Slut.off Valve and Regulat.or Assembly - Maintenance
+    Practices ••. · •••..•............•.•........•                                35-20-04
+       General •••••....•.•••••••••••••..•••••.•                                  35-20-04 ,·      201
+       Removal/Installation • • . . . . . . • • • • • • . • . . . • • • •         35-20-04         201
+       ~urst Disc Replace1:11ent ••..•••••••• ·••• ·~ •.••.•                      35-20--04 ·      201 ·
+    Aneroid SWitch - Maintenance Practices . . • . . • . . • • • •                35-20-05
+       General ~ •..•.••••••.•.•.•••••••••.•••••                                  35-20-05         201
+       Description • • • • • • . • • • • • • • . • • • • • . . . • . . •· • •      35-20-05        201
+       Removal/Installation • • • • • • . • • • • . • • . • •. • • • • • •         3~-20-05        201
+    Lanyard Actuat.or Valve - M~tenance Practices •••••.                          35-20-06
+       General •.•..••...••.••••.•••.•.••.•••••                                    35-20-06        201
+       DescriptiOn • • • . . . • . . • • • • . • . • . . . . . • . . • • . . •    35-20-06         201
+       Removal/Installation • . . . • . . . • . • . • • • • • • • . . • •          35-20-06        201
+    Door Actuat.or Valve - Maintenance Practices ••••.•••                         .35-20-07
+          General. ••••••••••••••••••••••••••••••••                                35-20-07        201
+          Description . • . . • . . • . • • . . • • • • • • . • . • • • • • • •    35-20-07        201
+          Removal/In.stallation . • . . . • . . • • . • • • • • • . • . • • •     35-20-07         201
+
+
+
+
+EFFECTIVITY: ALL
+                                                                                      35 - CONTENTS
+                                                                                                  Page2
+                                                                                                Dec 2/77
+                                      ~
+                       •     GA1E8 LEARJET CORPORATION
+
+                ■illRIIRilRII ■ilR■ill
+                 OXYGEN - DESCRIPTION AND OPERATION
+
+1.   General
+     A. The oxygen system con~ists of the crew distribution and passenger dis-
+        tribution systems, a high pressure storage cylinder, a direct reading
+        pressure gage, a shutoff valve and pressure regulator assembly, an
+        overboard discharge indicator, an oxygen aneroid switch, a manual
+        aneroid bypass valve, an oxygen solenoid valve and a manual passenger
+        oxygen valve.
+
+2.   Description
+     A. Crew Distfibution System
+         (1) The crew distribution· system is installed to provide oxygen in the
+              event of pressurization system failure or for flight altitudes that
+              require oxygen masks to be worn at all times. The crew masks
+              are connected to quick-disconnects. Oxygen flow is available at
+              all times.
+     B. Passenger Distribution System
+         ( 1) The passenger distribution system is installed to provide oxygen
+              in case of pressurization syste;m failure or any other condition
+              requiring oxygen. Oxygen flow is initiated automatically through
+              the oxygen aneroid valve or manually by opening the manual aner-
+              oid bypass valve.
+     C. Oxygen Storage Cylinder
+         (1) The oxygen storage cylinder has a capacity of 38 cubic feet at a
+              pressure of 1800 (±50) psi. The cylinder is installed in the dorsal
+              fin and is secured by clamps.
+     D. Oxygen Pressure Gage
+         (1) The direct reading oxygen pressure gage is installed in the upper •
+              portion of the copilot's flight panel. The gage is illuminated by a
+              post light.
+     E. Shutoff Valve and Regulator Assembly
+         (1) The shutoff valve and regulator assembly form an integral part of
+              the oxygen cylinder and regulate oxygen pressure at 60 to 80 psi
+              for the crew and passenger distribution systems. The shutoff
+              valve and regulator assembly incorporates connections for the oxy-
+              gen distribution line, oxygen pressure gage capillary line, over-
+              board discharge indicator and the service valves. The shutoff
+              valve and regulator assembly also incorporates a burst disc relief
+              valve. The burst disc is designed to relieve at 2700 to 3000 psi.
+          (2) When the shutoff valve and regulator assembly is closed the oxy-
+               gen distribution line is vented to ambient as evident by a slight
+               hissing sound. When the service valve cap is removed, a slight
+               leakage may be detected through the fill valve.
+
+
+
+EFFECTIVITY: ALL                                                      35-00-00
+                                                                        Page 1
+                                                                      Dec 2/77
+                                     @
+                    •   _   GAlES LEARJET CDRPORmlON
+
+              ■a1n1■-••••• · ■anaa·1 ·
+   F. Overboard Discharge Indicator
+      (1) The overboard discharge indicator is installed on the RH side of
+           the dorsal fin. The indicator is secured to the aircraft skin with
+           rivets and incorporates a green blowout disc secured by a snap
+           ring.
+   G. Oxygen Aneroid Switch
+      The oxygen aneroid switch is installed on the LH inner skin forward of
+      the instrument panel. The switch energizes the oxygen solenoid valve
+      if cabin altitude exceeds 14,000 (±750) feet.
+   H. Oxygen Solenoid Valve
+      (1) The oxygen solenoid valve is located on the LH side of the cockpit
+           above the circuit breaker panel and behind the upholstery panels.
+           The solenoid valve (normally closed) is actuated by-the oxygen
+           aneroid switch to provide oxygen flow to the passenger distribution
+           system.
+   I. Manual Aneroid Bypass Valve
+      (1) The manual aneroid bypass valve is installed on the LH side of the
+           cockpit above the circuit breaker panel and behind the upholstery
+           panels. The valve (normally closed)· is installed in a bypass· !in~
+           around the oxygen solenoid valve and must be opened in case of
+           aneroid switch malfunction.
+   J. Manual Passenger Oxygen Valve
+      ( 1) The manual passenger oxygen valve .is installed· on,the .LH side of
+           the cockpit above the circuit breaker panel. The valve (normally
+           open) is installed downstream of the manual aneroid bypass valve
+           and the oxygen solenoid valve. The valve-may-be closed to pro-
+           vide oxygen to the crew only.
+
+
+
+
+EFFECTIVITY: ALL                                                   ·35-00-00
+                                                                      Page.2
+                                                                    Dec 2/77
+                                               §>..
+                             •        OA1E8 LEARJET CORPORATION ·
+
+                   DIIIDll!DIDII! manual
+                                                                                  Oxygen Cylinder
+                                                                                  (35-20-02)
+                                                                               Discharge Indicator
+    Oxygen Pressure                                                            (35~20-04)
+    Gage                                                      Passenger Mask~
+                                                              (35-20-01)     \
+       Oxygen Solenoid
+       Valve (35-10...:00)
+
+
+
+
+                  ~~--crew Mask
+                             (35-10-00)
+
+
+
+          *-                                            Bulkhead Connection
+
+OxygenJ                                                   • Provisions for optional masks.
+Aneroid
+                                                '-.
+                                               **On aircraft equipped with singl~ piece upper
+SWitch                                            center panel, omit bulkhead connection of
+(35-20-05)                                 _/'    oxygen line at frame 13. The oxygen line
+                                  Frame 13        is a one-piece line between the oxygen box
+                                                  assemblies.
+                                   25B/D Aircraft, 25-183 and Subsequent
+
+
+
+
+                                 25C/F Aircraft, 25-183 and Subsequent
+
+                                       Oxygen System Locator
+                                       Figure 1 (Sheet 1 of 2)
+
+                                                                                             35-00-00
+ EFFECTIVITY: 25-183 AND SUBSEQUENT                                                           Page 3
+                                                                                             Dec 2/77
+                                                    ~
+                              •           GATES LEARJET CORPOR'°1ON
+
+                   ■a1■1e■a■1e ma■a.al
+                                                                                "--0xygen Cylinder
+                                                                                         (35-20-02)
+  Oxygen ·Pressure
+  Gage                                                                                Discharge Indicat.or
+                                                                                      (35-20-04)
+                                                              *    Provisions for optional masks.
+
+                                                             **On      aircraft equipped with single piece upper
+                                                                   center panel, omit bulkhead connection of
+                                                                   oxygen Jines at frame 13. The oxygen line
+                                                                   is a one-piece line between the oxygen box
+                                                                   assemblies.
+
+
+
+
+                         ----crew Mask
+                                      (35-10-00)
+
+
+
+
+OXygen~                  )~                                  =-----Passenger Mask
+Aneroid              .            '                                         (35-20-01)
+SWitch       Frame 13
+(35-20-05)
+
+
+
+
+                         ulkhead Connection
+
+
+
+
+             Frame 13
+
+
+
+
+                                                          \_Bulkhead         ·Connection
+
+                                         25C Aircraft, 25-070 thru 25-182
+
+                                          Oxygen System Locator
+                                          Figure 1 (Sheet 2 of 2)
+
+EFFECTIVITY: 25-070 THRU 25-182                                                                _35-00-00
+                                                                                                 Page 4
+                                                                                                Dec 2/77
+                                       ~
+                              GATES LEARJET CORPORATION
+
+                 ■ai1111a111 · ■a111al
+                    OXYGEN SYSTEM - TROUBLE SHOOTING
+
+1.    General
+      A. A trouble shooting chart, figure 101, -is provided as an aid in trouble
+         shooting the entire oxygen system. The chart should be used in con-
+         junction with reported discrepancies and with maintenance practice
+         system tests.
+      B. Prior to performing maintenance on the system, personnel should
+         familiarize themselves with and strictly adhere to the maintenance
+         -precautions and procedures described in 35-00-00 General Mainten-
+         ance Practices.
+
+2.    Tools and· Equipment
+
+     NAME            PARTNUlVIBER MANUFACTURER                      USE
+
+Sherlock Lead            Type CG       Zep Aero Corp.       For leak test.
+ Detector                              El Segundo, Calif.
+
+Altimeter or                                                For checking altitude
+ Vacuum Gage                                                or vacuum during oxy-
+                                                            gen aneroid switch
+                                                            actuation.
+Vacuum Pump                                                 For actuation of oxy-
+                                                            gen aneroid switch.
+
+
+
+
+3.    Trouble Shooting
+      A. Refer to figure 101 for trouble shooting procedure.
+
+
+
+
+EFFECTIVITY: ALL                                                          35-00-00
+                                                                          Page 101
+                                                                          Dec 2/77
+           l:%J
+           t'%j                                         OXYGEN CYLINDER PRESSURE
+           ~
+           ()
+                                                        1800 PSIG, SHUTOFF VALVE AND
+                                                        REGULATOR ASSEMBLY POSI-
+           i-3                                          TIONED TO ON. IF
+
+
+
+           ~                                                         I
+           >                                                                                                                 I
+                                                                                                                             •-·
+           t'-4
+
+
+
+
+                                                                h~
+           t'-4                 NO OXYGEN FLOW TO PILOT'S OR
+                                                                                                                             II
+                         9=
+                         (D
+                                COPILOT'S MASK. FLOW DETECTOR
+                                PLUNGER RETRACTED. ASSURE
+                                THAT BAYONET IS PROPERLY EN-
+                                                                                 NO OXYGEN FLOW TO PASSENGER
+                                                                                 MASK WHEN ANEROID SWITCH IS
+                                                                                 ACTUATED. CHECK OXY VAL
+                                                                                 CIRCUIT BREAKER IF
+                                GAGED IN QUICK-DISCONNECT. IF                                                                11111111
+                         ~                                                                                                   111
+                         ~
+                     a
+                         (D
+                                                                                                                             llm
+                  t'%j                                                           OK, CHECK ELECTRICAL CIRCUIT                Iii
+                  ~ .,
+                  ~- i-3
+
+                  ~~
+                                OK, REPLACE PRESSURE REGULA-
+                                TOR AND SHUTOFF VALVE.          ~            ~   FROM CIRCUIT BREAKER TO
+                                                                                 ANEROID SWITCH. IF                h l'®J
+                  b~                                                                                                 11§1 ·
+                  t-m                                                                                                                   i!
+                    5
+                         a
+                         5·
+                         aq
+                                 PROPERLY ENGAGE BAYONET IN
+                                 QUICK-DISCONNECT. REPLACE
+                                 QUICK-DISCONNECT IF DAMAGED.   ~ y
+                                                                                 NOT OK, RESET CIRCUIT BREAKER,
+                                                                                 IF CIRCUIT BREAKER IS DEFEC-
+                                                                                 TIVE REFER TO 24-50-01 FOR CIR-
+                                                                                                                     11
+                                                                                                                     II
+                                                                                                                             •
+                                                                                 CUIT BREAKER REMOVAL/INSTAL-
+                         ()                                                      LATION PROCEDURES.
+                         i
+                                                                                                                             ■
+                                                                                                                             -
+                         ::1.
+                                                                                                                             II
+                                                                                  OK, REMOVE AND REPLACE
+                                                                                  ANEROID SWITCH. REFER TO
+                                                                                  35-20-05.
+                                                                                                                   LI
+t, tow
+(1) p:J c.n
+n crq I                                                                          · NOT OK, REPAIR ELECTRICAL
+I.\:» (D   g                                                                       WIRING AS REQUIRED.             i--
+
+"-. t- I
+-:i 0 0
+-:i I.\:» 0
+
+
+
+
+                  L1                                                L
+                                                                         \                                               \
+
+                                                                                                                         L
+                                          ~
+                     ■ain1iiiiiiPOIWlian■al
+~                       OXYGEN - MAINTENANCE PRACTICES
+
+    1.   General
+         A. Maintenance personnel should read and thoroughly understand the fol-
+            lowing maintenance precautions and procedures. strict adherence to
+            these instructions will aid in maintaining a trouble-free system.
+         B. The oxygen system should be functionally tested at the time interval
+            specified in Chapter 5-00-00.
+
+    2.         en Maintenance Precautions and Proce~r.es
+          .   Maintenance on the oxygen system or any other system requiring re-
+              moval of an oxygen system component requires strict adherence to
+              the following procedures and precautions.
+
+              WARNING:      DO NOT PERMIT -SMOKING OR OPEN FLAME IN OR
+                          . NEAR Am.CRAFT WffiLE MAINTENANCE IS BEING
+                            PERFORMED ON THE OXYGEN SYSTEM. ASSURE
+                            ALL ELECTRICAL POWER IS DISCONNECTED FROM
+                            AffiCRAFT AND THAT AIRCRAFT IS PROPERLY
+                            GROUNDED. OILS, GREASE, AND SOLVENTS MAY
+                            BURN OR EXPLODE SPONTANEOUSLY WHEN CON-
+                            TACTED BY OXYGEN UNDER PRESSURE. BE SURE
+                            HANDS AND CLOTHING ARE FREE OF GREASE AND
+                            OIL.
+
+              (1) Deplete oxygen system pressure.
+              (2) Use extreme caution to assure every part of the system is kept
+                   thoroughly clean and free of water, oil, grease, and solvent con-
+                   tamination.
+              (3) Cap all openings immediately upon removal of any component.
+                   Do not use tape or caps which will inh·oduce moisture.
+              (4) Observe extreme caution to avoid bending tubing or damaging the
+                   flares on tubing that is not being removed.
+              (5) If an opening becomes uncapped or unplugged, the affected com-
+                   ponent must be removed and cleaned by degreasing with MIL-T-
+                   81533 1, 1, 1, trichlorethane, then drying with dry nitrogen
+                   (MIL-N-6011, Grade A, Type 1).
+              (6} All tools used for installation of oxygen tubes or fittings must be
+                   free of dirt, grease, or oils.
+              (7) Maintenance personnel. must assure that their hands are free of
+                    dirt or grease prior to installation of oxygen tubing or fittings.
+               (8) When connecting straight threaded fittings, align tubing and press
+                    flare end firmly against fitting end. Tighten nut 1/2 to 1 turn and
+                    apply MIL-T-5542 thread compound sparingly to the remaining
+                    exposed threads.
+
+
+    I
+    EFFECTMTY: ALL                                                            35-00-00
+                                                                              Page 201
+                                                                             May 25/84
+                             Gates Learjet Corporation@
+
+                   ••-i-■1e■a■11e. •a■aal
+             (9)   When connecting tapered threaded fittings, place polytetrafluorethylene
+                   anti-seize tape (Iv.llL-I-27730) so that ·a minimum of 1-1/2 threads re-
+                   main uncovered at the starting end of the fitting. Stretch tape during
+                   wrapping of fitting and apply 1-1/2 turns of tape to fitting.
+
+3.      Servicing Oxygen Cylinder
+        A.    Refer to Chaper 12 for complete servicing proc~dures.
+
+4.      Adjustment/Test
+        A.   Tools and Equipment
+
+             NOTE:    Equivalent substitutes may be used in lieu of the following items.
+
+
+     NAME                          PART NUMBER                MANUFACTURER
+
+Pressure Gage (0-200 psi)          10985-1                   U. S. Gauge
+
+Shutoff Valve                      VZ902                     Zep Aero Corp.
+                                                             El Segundo~ Calif.
+
+Nipples ( 2 ea.)                    AN816-5D                 Commercially Available
+
+Hoses (4 ea.)                       ZH740-12                 Zep Aero Corp.
+                                                             El Segundo, Calif.
+
+Tee                                AN824-5D                  Commercially Available
+
+Sherlock Leak Detector             Type CG                   Zep Aero Corp.
+                                                             El Segundo, Calif.
+
+
+        B.   Le~kage Test of Crew Oxygen System (See figure 201.)
+             (1)  Fabricate oxygen system test set as shown.in figure 201.
+             (2)  Charge oxygen cylinder. (Refer to Chapter 12.)
+             (3)  Close shutoff valve and pressure regulator assembly.
+             (4)  Install oxygen system test set as shown in figure 201.
+             (5)  Assure that manual passenger shutoff valve is closed.
+             (6)  Open shutoff valve and pressure regulat.or assembly. Charge the oxy-
+                  gen system to approximately 70 psig by slowly opening the test set
+                  oxygen shutoff valve. Close oxygen shutoff valve.
+             (7)  Close shutoff valve and pressure regulator assembly.
+             (8)  Allow system to stabilize for one hour. Read and record oxygen sys-
+                  tem pressure (60 psig minim.um).
+
+
+
+
+EFFECTIVITY: ALL                                                                   35-00-00
+MM-98                                                                              Page 202
+                                                                                  May 25/84
+                                   Gates Learjet Corporatbn@
+                         ■ain11nan11 ■an■al
+~                  (9)    After two hours, read and record oxygen system pressure. There is
+                          no allowable pressure loss during the two hour period.
+                  (19)   A loss· in system pressure indicates system leakage.
+                  (11)    Open shutoff valve and pressure regulator assembly.
+                  (12)    Open test set oxygen shutoff valve, again charging system to approxi-
+                          mately 70 psig.
+                  (13)    Check pilot's and copilot's mask outlets using Sherlock type CG leak
+                          detector fluid.
+                  (14)    Remove equipment and upholstery from L. H. side of cockpit as re-
+                          quired to ·gain access to oxygen system valves and fittings. Check all
+                          fittings and connections for leakage.
+                  (15)    If leaks are found, close shutoff valve and pressure regulator assem.:.
+                          bly. Oxygen pressure is automatically vented to ambient.
+                  (16)    Make .necessary repairs and repeat leak test of the-system.
+                  (17)   .Wash leak test fluid off with water and clean cloths.
+                  (18)    Unless additional tests are required, install previously removed up-
+                          holstery and equipment.
+                  (19)    Remove oxygen system test set. Install system tubing.
+                  (20)    Open shutoff valve and pressure regulator assembly and check tubing
+                          installed in step (19) for leaks.
+            c.   Oxygen System ·Functional Test
+
+                 WARNING:       DO NOT PERMIT SMOKING OR OPEN FLAME IN OR
+                                NEAR AIRCRAFT WHILE MAINTENANCE IS BEING
+                                PERFORMED ON THE OXYGEN SYSTEM. ASSURE
+                                ALL ELECTRICAL POWER IS DISCONNECTED FROM
+                                AIRCRAFT AND THAT AIRCRAFT IS PROPERLY
+                                GROUNDED. OIL, GREASE, OR SOLVENTS MAY
+                                BURN OR EXPLODE SPONTANEOUSLY WHEN CON-
+                                TACTED BY OXYGEN UNDER PRESSURE.
+
+                 (1) Check oxygen cylinder pressure for approximately 1800 psig.
+                     Recharge if necessary.
+                 (2) Check to assure that shutoff valve and regulator assembly is open
+                      and the manual passenger shutoff valve is closed.
+                 (3) Using either the pilot's or copilot's oxygen mask, insert the bayo-
+                      net end of hose in the pilot's oxygen valve, don·mask, and check
+                      for presence of oxygen. Check the copilot's oxygen in the same
+                      manner.
+                  (4) Open the manual passenger shutoff valve.
+                  (5) Connect a vacuum source and altimeter (or vacuum gage) to the
+                       open port of the oxygen aneroid switch. The aneroid switch is
+                       located under the instrument panel on the left side of the cabin
+                       near frame 5 .
+                  (6) Set Battery switch(es) to ON.
+
+
+    EFFECTIVITY: ALL                                                                     35-00-00
+                                                                                         Page 203
+    MM·98
+                                                                                        May 25/84
+                      Gates Learjet Cqrporation~
+
+
+        '
+             •ainlenanca ••n■al-
+      (7) Slowly pull a vacuum until an altimeter reading of 14, 000 feet       ,
+                                                                                    ,--   )
+                                                                                          ~
+          ( 17. 57 inches Hg) is obtained. Between 13,250 feet (18. 11 inches
+          Hg) and 14, 750 feet (17. 05 inc~es Hg), the aneroid switch should
+          actuate and the passenger masks should drop out. On Aircraft
+          25-090, 25-094 and Subsequent and Aircraft modified per AAK
+          73-6, the cabin upper center panel lights will illuminate.
+      (8) Check each mask for the following:
+          (a) Face-piece for holes, cuts or tears.
+          (b) Front and back valve housings for cracks, bre~s and damage
+                to valve seats.                                  ·
+          (c) Economizer bag for torn or imperfect seams, holes and
+                mildew.
+          (d) Tubing clamp for security of installation, cracks and distor-
+                tion.
+          (e) Tubing for cracks or kinks.
+          (f) Head strap for corroded or distorted clips, elasticity, clean-
+                liness and security of attachment.
+
+              WARNING:      CHECK THAT THE MASK LANYARD IS· TIED
+                            TO AN APPROXIMATE DOUBLE LENGTH OF.
+                            3 INCHES. THE LANYARD SHOULD BE
+                            PULLED WHEN MASK IS PUT TO FACE.
+
+       (9) Pull the lanyard of each individual mask and check-for oxygen            _.--v)
+           flow.
+     (10) Close the shutoff valve and regulator assembly. When the shutoff
+           valve ana regulator assembly is closed and the oxygen solenoid
+           valve is energized the pressure in the oxygen system will be
+           vented to ambient.
+     (11) Slowly rel~ase vacuum from aneroid switch. At approximately
+           8, 000 feet the aneroid switch will open deenergizing the oxygen
+           solenoid valve. On Aircraft 25-090, 25-094 and Subsequent
+           and Aircraft modified per AAK73-6, the cabin upper panel
+           lights will go out.                       ·
+     (12) Set Battery switch(es) to OFF.
+     (13) Disconnect altimeter (or vacuum gage) and vacuum source from
+           the aneroid switch.                                          ·
+     (14) stow the crew and passenger masks and close the manual passen-
+           ger shutoff valve.
+     (15) Recharge the oxygen cylinder in accordance with 12-10-00.
+
+
+
+
+I
+:.FECTIVITY: ALL                                                    35-00-00
+                                                                    Page 204
+                                                                   May 25/84
+                              Gates Learjet Corporation@
+                    ■ain1enan1e ■an■al
+                                         Pressure
+                                         Gage
+
+                    Shutoff                                          Connect to Tubing
+    Connect to      Valve                                            going to OXygen
+    Qxygen                                                           System
+    Bottle          Nipple
+
+
+
+
+              Hosej                       Test Set Schematic
+                                                                            Hose
+
+  * Disconnect this tube and connect
+        Test Set between Shutoff Valve and
+        Pressure Regulator and system
+        supply tube.
+
+                      Shutoff Valve and, .
+                      Pressure Regulator ~
+
+
+                              *
+
+                                                    Nose Compartment Installation
+                                    --
+                                             ',~
+
+                                              ( 0      \   --,
+
+
+
+
+                              Crew Oxygen System Leakage Test
+                                           Figure 201
+
+
+EFFECTIVITY: ALL                                                                     35-00-00
+                                                                                    Page 205
+MM-98
+                                                                                    May 25/84
+                                      @
+                      •      GATES LEARJET CORPORATION   .   .
+
+               -ma1■1eaa■■e ■a■aal
+                  CREW - DESCRiPTION AND OPERATION .
+
+1.   General
+     A. Oxygen flow is initiated to the crew members when the oxygen cylinder
+         shutoff valve and pressure regulator is open (normal position) and the
+         bayonet· fitting on the diluter-demand masks is inserted into the oxygen
+         quick-disconnects. The crew distribution system consists of two
+         diluter-de·mand·masks and two oxygen quick-dis~onnects.
+
+2.   Description
+     A. Crew Masks
+         (1) The masks are stowed on hangers for easy access to the crew
+              members. The mask incorporates a quick-donning head harness.
+         (2) Crew masks consist of either the diluter-demand type or the
+              pressure-demand type. The diluter demand mask has a two
+              position lever on the regulator which allows the crew members
+              to select either NORMAL or 100% OXY. The pressure demand
+              mask has a two position function knob and a two position diluter
+              knob. The function knob may be either set to NORM or EMER
+              and the diluter may be set to either DILUTE or 100%.
+         (3) Each mask incorporates a microphone. An electrical cord ex-
+              tends from the mask and is plugged into the phone jack adjacent
+              to the oxygen. quick-disconnect.
+         (4) A flow detector is installed in each crew mask supply line. The
+              flow detector is basically a spring loaded plunger which becomes
+              visible (green) when oxygen pressure is present in the crew mask
+              supply line.
+     B. Quick-Disconnect
+         ( 1) A quick disconnect is installed for each crew member. Inserting
+              the bayonet into the quick-disconnect moves a spring loaded poppet
+              off its seat and allows oxygen flow. The quick-disconnect also in-
+              corporates a spring loaded cover for the quick-disconnect opening
+              when not is use.
+
+
+
+
+EFFECTIVITY: ALL                                                        35-10-00
+                                                                          Page 1
+                                                                        Dec 2/77
+                                     ~
+                    •       GATES ISUIJET CORPORATION
+
+           ■a1·■1e■a■■• ■a■aal
+
+
+                                     Oxygen
+                                     Bottle
+
+           Filler                                                    Discharge
+           Valve                                                     Indicator
+
+
+                                                                    Pressure
+                                                                    Gage
+
+                                   Pressure Regulator
+                                   & Shutoff Valve
+
+
+
+                                                               Pilot's
+                                                               Mask_
+
+
+
+
+                                                        Flow
+                                                        Detector
+                                                           To Copilot's
+                                                           Face Mask
+
+
+
+
+                                         Ouick
+         Manual Passenger                Disconnect
+         Shutoff Valve
+
+
+
+
+                                      Passenger
+                               ____ Distribution
+                                    System
+              35-20-00                (35-20-00)
+              Aneroi~ Switch
+
+                        Crew Oxygen System Schematic
+                                 Figure 1
+
+EFFECTIVITY: ALL                                                                 35-10-00
+                                                                                   Page 2
+                                                                                 Dec 2/77
+                                        -~
+                         •      GATES ~ E T CORPORATION
+
+                  ■al■lllll■I ■a■■al
+               CREW OXYGEN MASK - MAINTENANCE PRACTICES
+1.    General
+      A. Removal and installation of the crew masks are identical.
+2.    Tools and Equipment
+      NOTE:    Equivalent substitutes may be used for the following items.
+     NAME                    NUMBER         MANUFACTURER              USE
+
+Cleaning and           C420-1000-l-F        Zep Aero Corp.      Cleaning and
+Sanitizing Kit                              El Segundo, Calif•. sterilization of
+                                                                masks.
+
+
+3.    Removal/Installation
+      A. Remove Mask
+          (1) Disconnect microphone from phone jack.
+          (2) Disconnect bayonet from oxygen quick-disconnect.
+        · (3.) Remove mask from hanger.
+      B. Install Mask
+          (1) Connect microphone to phone jack.
+          (2) Connect bayonet to oxygen quick-disconnect.
+          (3) Place mask in hanger.
+
+4.    Inspection/Check
+      A. Check Mask
+          ( 1) Visually check crew mask and connections for general condition
+               and installation.
+          (2) Check microphone circuit, refer to 23-00-00.
+
+5.    Cleaning/Painting
+      A.  Clean Mask
+          (1) Use a clean container.                        .
+          (2) ·Add 1/2 oz. mild detergent to one gallon of water.
+                CAUTION:       DO NOT ALLOW WATER TO ENTER MICROPHONE
+                               OR ELECTRICAL CONNECTION.
+            (3) Apply solution with brush or towel as required to remove contam-
+                ination.
+            (4) Rinse mask.
+            (5) Allow to air dry or wipe dry.
+
+
+
+EFFECTIVITY: ALL                                                            35-10-01
+                                                                            Page 201
+                                                                            Dec 2/77
+                                      ~
+                             OATES LEARJET CORPORm10N
+
+
+                ■al■l■■a■■a ■a■■a,I
+         (6) Lightly spray internal surface of mask, including valves and
+              microphone, with antiseptic spray.
+         ('7) Allow to air dry or wipe dry.
+
+6.   Approved Repairs
+     A. Flow Detector and Hose Replacement (See figure 201)
+         (1) Remove crew oxygen mask.
+
+             NOTE:    If microphone cord keepers are attached to hose, cut
+                      off keepers with a knife or scissors, using caution not
+                      to damage microphone cord.
+
+         (2) Remove oxygen regulator assembly from mask.
+         (3) Insert two number 60 {0. 040) diameter pins of the same length
+             through the two outer holes in oxygen regulator and slot of regu-
+             lator valve assembly.
+         (4) Loosen fitting and remove hose assembly from regulator.
+         (5) Holding pins (installed in step 3) securely to prevent rotation of
+             valve assembly, carefully install new flow detector and hose
+             assembly in regulator. Tighten·hand tight and remove pins.
+         (6) Torque flow detector and hose assembly to 30 inch-pounds.
+
+             NOTE:    Visually inspect to insure that holes and slot are
+                      aligned.
+         ( '7) Install oxygen mask on regulator assembly.
+         (8) Insert bayonet in oxygen quick-disconnect.
+         {9) Connect microphone jack.
+
+
+
+
+EFFECTIVITY: ALL                                                       35-10-01
+                                                                       Page 202
+                                                                       Dec 2/77
+                                            ~
+                          •       GATl:S LEARJET CORPORATION
+
+                 ■a1■11nan11 ■an■al
+
+
+   Diluter Demand, 100%
+   Regulator
+                              A                  - - - - - - - - - - - Crew Mask (Ref)
+
+
+
+
+                                                          /             Microphone Jack (Ref)
+
+
+
+
+                                                 -~                      Cover
+
+
+
+
+  Bayonet
+                                                                ~~ Oxygen Line (Ref)
+
+                                                         ~ Oxygen.Quick-Disconnect
+                                                               NOTE:     Align slot in valve
+                                                                         assembly with holes
+                                                                         in oxygen regulator.
+
+
+
+
+                                                 Valve
+                                                 Assembly      Valve Assembly~A
+                                                 Stem
+                                                                                          -Stem
+
+
+                                                                       Spring
+
+                                                    Oxygen Regulator Assembly ~~~=-sl;. ot
+                                                    (Mask Removed)
+
+
+                                      Detail .A.                                 Seal
+                    Oxygen Flow Detector and Hose Assembly
+                                 Figure 201
+
+EFFECTIVITY: ALL                                                                        35-10-01
+                                                                                        Page 203
+                                                                                         T)P.~ 21'1'1
+                                       ~
+                        •     GATES LEARJET CORPORATION
+
+                 ■a1n11nan11 ■an11al
+                PASSENGER - DESCRIPTION AND OPERATION
+
+1.   General
+     A. Oxygen flow is initiated automatically through the oxygen solenoid
+        valve or manually through the manual aneroid bypass valve. The
+        passenger masks are stowed in storage compartments located in the
+        upper center panel.
+     B. On 25B/D aircraft, the passenger oxygen system consists of five
+        storage compartments, five lanyard actuator valves, eleven passen-
+        ger masks, and provisions for four optional masks.
+     C. On 25C/F aircraft, the passenger oxygen system consists of four
+         storage compartments, four lanyard actuator valves, nine passenger
+         masks, and provisions for three optional masks.
+
+2.     Description
+       A. Oxygen ·Supply System
+            (1) An oxygen system supply line connects to the main distribution
+                system at F ~ S. 221. 59 and is routed aft, on the LH side of the
+                uppe~ center panel. The line actuates the storage door release
+                and supplies oxygen to the ·oxygen masks.
+     · B. Storage Compartment
+          . (1) On 25B/D aircraft, five storage compartments are installed in
+                the upper center panel. The forward compartment contains three
+                masks. The remaining compartments contain two masks each
+                with provisions for an optional mask.
+            (2) On 25C/F aircraft, four storage compartments. are installed in
+                the upper center panel. The forward compartment contains three
+                masks. The remaining compartments contain two masks each
+                with provisions for an optional mask.
+            (3) The storage compartment incorporates a door.
+       C. Lanyard Actuator Valve
+            (1) The lanyard actuator valves incorporate a spring loaded, pressure
+                actuated latch which secures the compartment door in the up-and-
+                locked position. The valves are connected to the passenger dis-
+                tribution system pressure line. When pressure is supplied to the
+                passenger distribution system the spring loaded latch retracts,
+                allowing the doors to fall open and the masks to fall out. When
+                the doors are opened and passenger oxygen has not been utilized,
+                 one of the lanyards must be pulled to relieve oxygen pressure
+                 from the system. As soon as the pressure is relieved the spring
+                 loaded latch will extend, then the door may be stowed in the up-
+               and-locked position.
+
+
+
+
+EFFECTIVITY: ALL                                                        35-20-00
+                                                                          Page 1
+                                                                        Dec 2/77
+                                                   §).
+                            •       GATES U:AAJET CORPORATION
+
+                  lllillRll!■ilR■I! lllil■Uill
+          (2) On Aircraft 25-183 and Subsequent, the lanyard actuator valve
+              also incorporates one inlet port and three outlet ports to which
+              the passenger mask is connected. The ports incorporate plungers
+              which are held closed by the lanyard pin. When optional masks
+              are not installed the outlet port is capped and the lanyard is safety
+              wired.
+     D.   Manual Door Release            .
+          (1) The manual door release consists of a knob attached to the lan-
+              yard valve actuator latch. The manual door release is used to
+              open the storage compartment door when flight altitude requires .
+              masks to be worn.
+     E.   Masks
+          (1) The mask consists of a soft silicone rubber face piece molded to
+              facial contour, an economizer bag, head strap, length of plastic
+              tubing and a lanyard cord with lanyard attached. An orifice is
+              incorporated in the mask to provide a constant flow of 4. 1 "liters
+              per minute" to the passenger.
+
+3.    Operation
+     ·A. Oxygen pressure is present at the oxygen solenoid valve and the
+          manual aneroid bypass valve at all times. Oxygen flow can be initiated
+         by two methods: (1) automatically through the aneroid controlled ·sole~ •               , ,.- . . . . . . . )./
+          noid shutoff valve or (2) manually by opening the manual -aneroid by-                        ...J
+         pass valve. If pressurization system failure should occur, the aneroid
+          switch senses the rise in cabin altitude. If cabin altitude reaches
+          14,000 (±750) feet the aneroid switch completes-pawer circuit to.the
+          solenoid shutoff valve. The· solenoid valve:.opens :-and·--oxygen- pressure
+          of 60 to 80 psi then flows to the lanyard actuator valves. If the.. aneroid
+          switch or the solenoid valve fails, the manual aner·oid bypass valve is
+         then opened to initiate oxygen flow to the lanyard actuator valve. The
+          oxygen pressure causes the valve latch to retract, opens the storage
+          compartment doors, and releases the.passenger masks. When the
+          masks are donned and the lanyard is-pulled, oxygen-flows at 4.1 LPM.
+
+
+                 On Aircraft 25-090, -094 and Subsequent and Aircraft Modified
+                 per AAK 73-6, refer to 33-50-00 for Depressurization Lighting
+
+
+              LESS BUS   o¼
+                         OXY~
+                                 2hdc      A=af
+                                               I
+                                                   T   j •I ~-------~-,I
+                                                            I ~D
+                                                                BU
+                                                                                 .
+                                                                      . _ _ ,..__,I
+                                                                _______
+                         CBl~I             -
+
+                                   INCR ALTt   8    PSWIG
+
+
+             Passenger Oxygen Syste;i~~!<1rical Control Schematic                                     __J
+                                                                                                 ,.....
+
+
+EFFECTMTY: ALL                                                                        35-20-00
+                                                                                        Page 2
+                                                                                      Dec 2/77
+                                           ~
+                       •         GA'TES LEARJET CORPORATION
+
+                 ma1n11nan11 man11al
+    Oxygen Cylinder                                                            Manual Shutoff Valve
+                                                                               & RE-gulator
+                                                                               (Normally Open)
+
+                                           .---~~-____ J r D i s c h a r g • Indicator
+                      Flow Detector                           ',   (                           .
+
+                                                              ~                Pressure Gage (On
+       Filler Valve                                                            Instrument Panel)
+   Quick Disconnect
+                                                                                Manual Passenger
+                                                                                Oxygen Valve
+
+                                                                               Crew Oxygen Mask
+
+     Solenoid Valve
+                                                                               1fanualAneroid
+
+
+
+     Aneroid S w i t c h ~
+                           ("-
+
+
+                                 :==================
+                                                          V
+                                                          '
+                                                                               Bypass Valve
+
+
+
+
+                                                                               Mask Storage Door
+
+
+Manual Door Release
+                                                                       *   Prm•ision For Optional
+                                                                           O>..·yg en ~1asks
+ Mask Storage Door
+ Release Valve
+
+
+
+                                                                               Lanyard
+
+
+
+
+    Passenger Mask
+
+
+
+
+                       Passenger Oxygen System Schematic
+                             Figure 2 (Sheet 1 of 4)
+
+EFFECTMTY: 25B AIRCRAFT (25-061, -070 THRU -182)                                              35-20-00
+                                                                                                Page 3
+                                                                                              Dec 2/77
+                                                   @)
+                  -ain1iiiiiiRAiianu-al
+   Manual Shutoff Valve
+   Ii Regulator
+   (N~mally Open)
+
+                                                                        Discharge Indicator
+
+                          Flow Detector
+          FWer Valve
+
+
+
+    Crew Oxygen Mask
+                                                                        Crew Oxygen Mask
+
+
+        Solenoid Valve
+
+
+
+        Aneroid   Bwltoh--i                                                  Passenger Mask
+           Door Latch                                              I
+                                                                   I
+                                                                   I-Storage
+                                          I
+                                                                I     Compartment
+        Lanyard Actuator
+        Valve                             L--------------~                Lanyard
+
+                                I
+                                          r--- - ---- - -------,
+           Door Laich -----1+~;-•Trc'IF.'111111!"8_.
+                                                                  r-,----
+                                                                   I
+                                                                             Passenger Mask
+
+                                                                   I
+                                                            I - Storage
+                                                            l   Compartment
+        Lanyard Actuator                  I
+        Valve                             [_______________ J       Lanyard
+
+                                          1---------------7              *Oxygen
+                                                                          Provisions for Qltional
+                                          I
+           Door Laich ---..U...,c:::'~~11111
+                                                          **       I
+                                                                    I
+                                                                                 Masks
+
+                                                                    I
+                                                                   i-- Storage
+                                                                   I   Compartment
+                                                                   I
+        Lanyard Actuator                                                   Lanyard
+        Valve                             l---------------~
+                                          1
+                                                       = = = = = ~01----Passenger Mask
+           Door Latch -----1-+--►>-r;,;,p,"llil!           *        I
+                                                                    I
+                                                                    I-Storage
+                                                                    I   Compartment
+        Lanyard Actuator
+        Valve                                                              Lanyard
+                                          1----------------,
+                                          t                       r-,---      Passenger Mask
+           Door Latch                     '                         I
+                                                                    I
+                                                 I-Storage
+                          ~                      I   Compartment
+                            I
+         Lanyard
+         Valve   Actuator           l======f1
+                            [_ ____ __ ________ J      Lanyard
+
+                            Passenger Oxygen System Schematic                                            ,,--.
+                                  Figure 2 (Sheet 2 of 4)
+
+EFFECTIVITY: 25B/ D AIRCRAFT (25-183 AND SUBSEQUENT)                                          35-20-00
+                                                                                                Page 4
+                                                                                              Dec 2/77
+                                       ~
+                       ■ai■1iiiiii■ita■11al ·
+
+
+    Oxygen Cylinder                                          Manual Shutoff Valve
+                                                             & Regulator
+                                                             (Normally Open)
+                                                             Discharge Indicator
+
+
+
+        Filler Valve
+   Quick Disconnect
+                                                               Manual Passenger
+                                                               Oxygen Valve
+
+                                                              Crew oxygen Mask
+     Solenoid Valve
+
+
+                          ,-
+    Aneroid Swttch ~
+                                                             Mask Storage Door
+
+Manual Door Release
+
+
+
+ Mask storage Door
+                                                             * Oxygen
+                                                               Provision For Optional
+                                                                      Masks
+ Release Valve
+
+
+
+
+   Passenger Mask
+
+
+
+
+                         Passenger Oxygen System Schematic
+                               Figure 2 (Sheet 3 of 4)
+
+EFFECTIVITY: 25C AIRCRAFT (25-061, -070 THRO -182)                         35-20-00
+                                                                             Page 5
+                                                                           Dec 2/77
+                                                               @
+                    n1ain1iiiiiiPORAiianual
+  Manual Shutoff Valve                                                                                                         Oxygen Cylinder
+  & Regulator
+  (Normally Open)
+
+
+                                                                                                                              Discharge Indicator
+                         Flow Detector
+         Filler Valve
+                                                                                                                              Pressw-e Gage
+                                                                                                                              (On Instrwnent Panel)
+                                                                                           _ _..:...-=:.:.::                  Manual Passenger
+   Crew Oxygen Mask                                                                                                           Oxygen Valve
+                                                                                                                              Crew Oxygen Mask
+
+
+       Solenoid Valve
+                                                                                                                              Manual Aneroid
+                               ,-                                                                                             Bypass Valve
+
+       Aneroid S w i t c h ~
+
+                                                                               ----- -- -7
+                                                                                                                       r,----
+                                                                                                                        I
+                                                                                                                              Passenger Mask
+                                                                                                                         I
+                                                                                                                         '-   Stor ac-e
+                                                                                                                         :    Comp-artment
+                                         I
+      Lan~·ard Actuator
+                                         I
+      Valve                              l- -      -   -   -       -   -       -       -   -   -    -   -      -   -   _J       Lanyard
+                                         r------ - - - - - - - - - - -,
+                                                                                                                       -i--- Passenger Mask
+                                                                                                                         I
+                                                                                                                         I
+                                                                                                                         I - Storage
+       Lanyard Actuator _ _,.,..
+                                                                                                                         l   Compartment
+       Valve                                                                                                             I      Lanyard
+                                         l _   -   -   -   -       -   -       -       -   -   -    -    -     -   -   _.;
+
+                                         r- - - - - - - - - - - ----7                                                          * Oxy~e
+                                                                                                                                 Provis ions for Opti onal
+                             I
+         Door Latch -----++-►L:J.ri;:E
+                                         1             ~ ~'-·-*
+                                                       7
+                                                       -·    '*                                                          I
+                                                                                                                         I
+                                                                                                                                       n Masks
+
+                                                          -,                                                             I
+                                                                           -                                             i - Storage
+                                                        · •·                       ·                                     I   Compartment
+                                                       -=,                                                               I
+      L anyard Actuator
+      Valve
+                                                           :*
+                                         ' - - - - - - - - - - - - - - _ _,
+                                                                                                                                 Lanyard
+                                         r- - - - - - - - - - - - - --7
+                                                               ,                                                       -;-,- - - - P asse ng-er Mask
+                                                                                                                         I
+                                                                                                                         I
+                                                                                                                         1-stor'4!e
+                                                                                                                         I   Compartment
+      Lanyard Actuat or                  I
+      Valve                              t__ __                                _ _ _ _ ___ _                                     Lanyard
+
+                           Passenger Oxygen System Schematic
+                                 Figure 2 (Sheet 4 of 4)
+
+EFFECTIVITY: 25C/F AIRCRAFT (25-183 AND SUBSEQUENT)                                                                                              35-20-00
+                                                                                                                                                   Page 6
+                                                                                                                                                 Dec 2/ 77
+                            .
+                                         ~
+                                GATES LEARJET CORPORATION
+
+
+                  •ai■1e■a■111! •a■11al
+              PASSENGER MASK - MAINTENANCE PRACTICES
+
+1.    General
+      A. Prior to performing maintenance, personnel should adhere to safety
+         precautions and procedures described in 35-00-00, Oxygen Mainten-
+         ance Precautions and Procedures.     ·
+
+2.    Tools and Equipment
+
+     NAME               NUMBER               MANUFACTURER .            USE
+
+Cleaning and          C420-1000-1-F          Zep Aero Corp.       Cleaning and
+ Sanitizing Kit                              El Segundo, Calif.   sterilization o"f
+                                                                  mask.
+
+
+
+3.    Removal/Installation
+      A. Remove Mask (See figure 201)
+         (1) Close manual passenger oxygen valve.
+         (2) Depress manual storage door release.
+         (3) Disconnect mask supply tube from oxygen service valve.
+         (4) Remove lanyard from oxygen service valve.
+      B. Install Mask (See figure 201)
+         (1) Connect mask supply tube to service valve.
+         (2) Assure that mask lanyard is tied by a double strand cord approxi-
+              mately 3 inches in length. This will assure that lanyard will be
+              pulled before mask is donned.
+         (3) Install oxygen mask in stowage compartment as follows:
+               (a) Let mask hang and remove all supply tube entanglements.
+               (b) Hold mask open end up.
+               (c) Fold head strap into mask.
+               (d) Fold economizer bag lengthwise to width slightly smaller than
+                   width of mask opening.
+             • (e) Fold economizer bag into mask.
+               (f) Coil supply tube into mask.
+               (g) Fold lanyard cord over supply tube and insert lanyard in
+                   oxygen service valve.
+               (h) Place mask in stowage compartment and close door.
+
+
+
+
+EFFECTMTY: ALL                                                             35-20-01
+                                                                           Page 201
+                                                                           Dec 2/77
+                                            ~
+                           •       GATES LEARJET CORPORATION
+
+                 ma1a1eaaa■e ·manual,
+
+
+
+
+OXygen Supply Line
+
+
+
+
+                                                                               Upper Center Panel
+
+                                                                          Door Actuator Valve
+
+               Oxygen Compartment                                   Manual Door Release
+               Door
+                               Aircraft 25-061, -070 thru -182
+
+
+
+
+                                                                Lanyard Actuator
+                                                                Valve
+
+
+
+
+                 Lanyard
+
+
+                                                      Oxygen Line
+                                Aircraft 25-183 and &lbsequent
+                               TYPICAL OXYGEN MASK INSTALLATION
+
+
+
+
+                           Passenger Oxygen Mask Installation
+                                      Figure 201
+
+EFFECTIVITY: ALL                                                                       35-20-01
+                                                                                       Page 202
+                                                                                       Dec 2/77
+                                      ~
+                       •     GAlES LEARJET CORPORATION
+
+                ■a11111a111 ■an■al
+4.   Inspection/Check
+     A. Unfold Mask and Check the Following:
+         (1) Face-piece for holes, cuts or tears.
+         (2) Front and back valve housings for cracks, breaks, and damage
+              to valve seats.
+         (3) Economizer bag for torn or imperfect seams, holes and mildew.
+         (4) Tubing clamp for security of installation, cracks and distortion.
+         (5) Tubing for cracks or kinks.
+         (6) Head strap for corroded or distorted clips, elasticity, cleanliness
+              and security of attachment.
+
+5.   Cleaning/Painting
+     A. Clean Mask (Pur.itan-Zep)
+         (1) Using suitable container, add 1 teaspoon of mild detergent to
+             18 oz. of water.
+         (2) Install valve shield in mask.
+         (3) Apply solution to mask with soft bristle brush or towel.
+         (4) Rinse mask.
+         (5) Remove valve shield.
+         (6) Wipe or air dry.
+         (7) Spray internal surface, including valves, lightly with antiseptic
+             spray.
+         (8) Wipe or air dry.
+         (9) Apply talcum powder to external surfaces of rubber face piece.
+        (10) Install mask in stowage compartment.
+     B. Clean Mask (Sierra Engineering)
+         (1) Using a suitable container, add 1/2 teaspoon of mild detergent to
+             each gallon of warm water. Do not use water hotter than 140°F.
+         (2) Apply solution to face cup with soft bristle brush on towel.
+         (3) Rinse all parts in cold water.
+         (4) Allow to air dry at room temperature.
+         (5) Wash exterior of bag and. oxygen tube.
+
+               NOTE:   Keep ends of oxygen tube and bag closed to prevent
+                       detergent solution from entering.
+
+         (6)  After all parts are thoroughly dry and no visible residue remains,
+              disinfect with a solution o{ 3 parts zephiran chloride to ·l part
+              water.
+         ( 7) Allow parts to dry thoroughly.
+         (8) Lightly dust outside of facecup with Neo-Novacite powder. (P/N
+              00-736, Sierra Engineering Co., Sierra Madre, Calif.)
+
+
+
+
+EFFECTIVITY: ALL                                                      35-20-01
+                                                                      Page 203·
+                                                                      Dec 2/77
+                                          ~
+                         •       GATES LEARJET CORPORATION
+
+                   ■a1n11nana1 ■anaal
+               OXYGEN CYLINDER - MAINTENANCE PRACTICES
+
+1.    General
+      A. The oxygen cylinder assembly is installed in the dorsal fin. The
+         cylinder assembly stores 38 cubic feet of. oxygen under a pressure of
+         1800 (±50) psi. A manual shutoff valve and regulator assembly is in-
+         stalled on the cylinder assembly.
+      B. Prior to performing maintenance, personnel should adhere to safety
+         precautions and procedures described in 35-00-00, Oxygen Mainten-
+         ance Precautions and Procedures.
+
+2.    Tools and Equipment
+
+      NOTE:     Equivalent substitutes may be used in lieu of the following items.
+
+     NAME                    NUMBER           MANUFACTURER              USE
+
+Sherlock Leak                Type CG          Zep Aero Corp.        For leak test
+ Detector Compound                            E 1 Segundo, Calif.   fluid.
+
+
+
+3.    Removal/Installation
+      A. Remove Oxygen Cylinder (See figure 201)
+            (1) Open dorsal access door.
+            (2) Close shutoff valve and regulator. assembly.
+
+                NOTE:    Oxygen pressure in system lines will bleed to ambient
+                         through shutoff valve and regulator assembly ~hen the
+                         shutoff valve and regulator assembly is closed.
+
+            (3) Disconnect and cap oxygen pressure gage line, oxygen distribu-
+                tion system lin~ and discharge indicator line.
+            (4) Loosen clamps and remove oxygen cylinder from aircraft.
+      B.    Install Oxygen Cylinder (See figure 201)
+            (1) Position oxygen cylinder in cradle.
+            (2) Remove caps from tubing and connect tubing to appropriate fitting.
+            (3) Tighten clamps around oxygen cylinder.
+            (4) Open shutoff valve and pressure regulator.
+            (5) Check for leaks, using Sherlock Leak Detector Compound.
+            (6) Close and secure dorsal access door.
+
+
+
+
+EFFECTIVITY: ALL                                                              35-20-02
+                                                                              Page 201
+                                                                              Dec 2/77
+                                               ~
+                                      GA1E8 LEARJET CORPORA11DN
+
+                        ■aln11■a■■1. . ■ anual
+
+
+
+
+                   r--
+               ( \
+               I          \
+
+
+
+               '-::-'-.       ~-
+
+         [_ ~                     "                   utoff Valve and
+                                                            or Assembly .
+
+
+                   ..                                 \ --~
+Dorsal (Ref)                                                      ',~
+
+                                                                        '•
+
+
+
+Relief Valve Assembly
+                                                                                      Tube (To Oxygen
+(Torque 190 to 210 Inch-Pounds)
+                                                                                      Distrlbutlon System)
+      Discharge Indicator---
+                                                                             Capillary Line
+                                                                             (To Oxyg~ Pressure Gage)
+
+
+
+
+                                   Oxygen Cylinder Installation
+                                          Figure 201.
+
+EFFECTIVITY: ALL                                                                          35-20-02
+                                                                                          Page 202
+                                                                                          Dec 2/77
+                                       ~
+                       •      GATES LEARJET CORPORATION
+
+                ■illRIIRilRII ■an■al
+         OXYGEN PRESSURE GAGE - MAINTENANCE PRACTICES
+
+1.   General
+     A.. The oxygen pressure gage is located in the upper portion of the co-
+         pilot's flight panel. The gage is plumbed by a capillary line directly
+         to the oxygen cylinder. The gage is illuminated by a post light.
+         Refer to 31-00-00 for instrument markings.
+
+
+
+
+EFFECTIVITY: ALL                                                        35-20-03
+                                                                        Page 201
+                                                                        Dec 2/77
+                                        @.
+                        •      GATES LEARJET CORPORATION
+
+                  ■a1■11■a■11 ■a■aal
+                SHUTOFF VAL VE AND REGULA TOR ASSEMBLY -
+                       MAINTENANCE PRACTICES
+
+  1.   General
+       A. The shutoff valve-and regulator assembly, an integral part of the oxy-
+          gen cylinder, regulates the high pressure oxygen at 60 to 80 psi for
+          the crew and passenger distribution systems. The shutoff valve incor-
+          porates connections for the oxygen distribution line, . oxygen pressure
+          gage capillary line, overboard discharge line and service valve.
+       B. The shutoff valve and regulator assembly also incorporate a burst
+          disc. This disc allows thermal discharge of the O?CYgen cylinder thru
+          the overboard discharge line and indicator. The burst disc is designed
+          to relieve at- 2700 to 3000 psi.·
+       C. When the shutoff valve and regulator assembly is closed,the oxygen
+          distribution lines are vented to ambient.
+
+· 2.   Removal/Installation
+       A. The shutoff valve and regulator assembly is an integral part of the
+          cylinder and may not be removed. If the shutoff valve and regulator
+          assembly is defective, replace the entire assembly.
+
+  3.   Burst Disc Replacement
+       A. Remove Burst Disc (See figure 201)
+           ( 1) Open dorsal access door.
+           (2) Close shutoff valve and regulator assembly.
+           (3) Disconnect plumbing from shutoff valve and regulator assembly
+                and cap all exposed lines and fittings.
+           (4) Remove relief valve assembly from shutoff valve and regulator
+                assembly. Part of the ruptured burst disc will be released when
+                relief valve assembly is removed.
+           (5) Loosen clamps securing oxygen cylinder in cradle.
+           (6) Rotate oxygen cylinder until relief valve assembly port is up.
+           (7) Using a suitable tool, extract washer and remainder of burst disc
+                from port.
+       B. Install Burst Disc (See figure 201)
+           (1) Assemble burst disc and washer in relief valve assembly port as
+                shown.                           .
+           (2) Install relief valve assembly arid tighten 1/2 to 1 turn. Apply
+                MIL-T-5542thread compound sparingly to remaining exposed
+                threads.                                                       .
+            (3) Slowly tighten relief valve assembly until it is firmly seated.
+                Torque assembly 190 to 210 inch-pounds.
+            (4) Rotate oxygen cylinder to its original position.
+            (5} Remove caps and connect plumbing. Tighten connections 1/2 to
+                 1 turn. Apply MIL-T-5543 thread compound sparingly to remain-
+                 ing threads ·and tighten connections.
+
+  EFFECTIVITY: ALL                                                     35-20-04
+                                                                       Page 201
+                                                                       Dec 2/77
+                                       ~
+                         •    GATES LEARJET CORPORATION
+
+             ma1n11na1111 manual
+      (6) Install new indicator disc in discharge indicator.
+      (7) Service oxygen system.' (Refer to 12-10-00)
+      (8) Leak check all connections using Sherlock Leak Detector Com-
+          pound.
+      (9) Close and secure dorsal access door.
+
+
+
+
+            Relief Valve
+            Assembly
+
+
+
+          Burst Disc
+          (P/N 1409-28)
+
+         Washer (P/N
+         F3'16-1024-2)
+
+
+
+
+                             Burst Disc Replacement
+                                   Figure 201
+
+EFFECTIVITY: ALL                                                35-20-04
+                                                                Page 202
+                                                                Dec 2/77
+                                           ~
+                                  GATES LEARJET CORPORATION   .
+
+                ■liDIIDIDII ■anaal
+              ANEROID SWITCH - MAINTENANCE PRACTICES
+1.   General
+     A. The aneroid switch, located on the left inner skin forward of the -in-
+        strument panel, is installed in the pressurized portion of the cabin.
+
+2.   Description
+     A. The switch senses cabin pressure an() applies an open signal to the
+         solenoid shutoff valve when cabin pressure is equivalent to an altitude
+         of 14,000 (:1:750) feet.
+
+3.   Removal/Installation
+     A. Remove Aneroid Switch (See figure 201)
+        (1) Assure that Battery and stall Warning Switches are off.
+        (2) Lower pilot's instrument panel.
+        (3) Disconnect electrical plug from aneroid switch.
+        (4) Loosen attaching parts and remove aneroid switch from aircraft.
+     B. Install Aneroid Switch (See figure 201)
+        (1) Install aneroid switch and secure with attaching parts.
+        (2) Connect electrical plug to aneroid switch.
+        (3) Raise and secure pilot's instrument panel.
+
+
+
+
+                                    II~•~\
+                      InnerSkin/\•
+                      (LH Side)
+                                          ~
+                                              '1~
+                                                         \J
+                            OXygen Aneroid
+                            Switch
+
+
+
+                            Aneroid Switch Installation
+                                    Figure 201
+
+EFFECTIVITY: ALL                                                       35-20-05
+                                                                       Page 201
+                                                                       Dec 2/77
+                                          @.
+                    111ain1iiiiii°AAiian11al
+          LANYARD ACTUATOR VAL VE - MAINTENANCE PRACTICES
+
+1.    General                             .
+      A. A lanyard actuator valve is installed in each oxygen storage compart-
+         ment.
+
+2.    Description
+      A. On Aircraft 25-061, -070 thru -182, a lanyard actuator valve is in-
+          stalled for each mask installed in the mask storage compartment.
+          The actuator valve incorporates a spring loaded plunger which is held
+          in the closed position by a lanyard. Pulling the lanyard allows the
+          plunger to open and oxygen to flow to the mask.
+      B. On Aircraft 25-183 and Subsequent, the lanyard actuator valve (figure .
+          201) incorporates one inlet port, three outlet ports, and a spring
+          loaded pressure actuated latch. The latch is used to hold the storage
+          compartment door in place. The inlet port is connected to t he main
+          oxygen system line. The outlet ports have a fitting assembly installed
+          to which the passenger mask supply lines are connected.
+3.     Removal/Installation
+       A. Remove Lanyard Actuator Valve (See figure 202)
+          (1) Lower upper center panel sufficiently to gain access to the
+              storage compartment.                                      ·
+          (2) Disconnect oxygen line from tee. Cap exposed lines.
+          (3) Remove tee from storage compartment.
+          (4) Release storage compartment door and disconnect oxygen mask
+              from valve.
+          (5) Remove attaching parts and valve from storage compartment.
+
+
+       Fitting Assembly- - - - - - -             ---Lanyard (Typi cal)
+
+
+
+
+                              Lanyard Actuator Valve Schematic
+                                          Figure 201
+
+     EFFECTIVITY: ALL                                                    35-20-06
+                                                                         Page 201
+                                                                         Dec 2/ 77
+  B.
+             ••.•,.,••••• ••••••
+                    •
+                                    @.
+                           GATES LEARJET CORPORATION
+
+                                             '
+
+
+
+
+       Install Lanyard Actuator Valve {See figure 202)
+       (1) Install valve and secure with attaching parts.
+       (2) Connect oxygen mask supply lines to outlet port.
+       (3) Install mask and door in storage compartment.
+       (4) Install tee on storage compartment.
+       (5) Connect oxygen lines to tee.
+       (6) Install upper center panel and secure.
+
+
+
+
+EFFECTIVITY: ALL                                              35-20-06
+                                                              Page 202
+                                                              Dec 2/77
+                                          ~
+                        •        GATES LEARJET CORPORATION
+
+                 ma1■11■a■11 ma■aal
+        Passenger Oxygen                                      Lanyard Actuator Valve
+        Mask (Ref)
+
+ Oxygen SUpply                                                      --Door Release
+ Line                                                                  Actuator Valve
+
+
+
+
+                            Aircraft 25-061, -070 thru -182
+
+
+           Passenger Oxygen
+           Mask (Ref)
+                                                             Lanyard }\ctuator Valve
+
+                                                                [   Oxygen Line
+
+
+
+
+                              Aircraft 25-183 and Subsequent
+
+
+                        Lanyard Actuator Valve Installation
+                                   Figure 202
+
+EFFECTIVITY: ALL                                                                  35-20-06
+                                                                                  Page 203
+                                                                                  Dec 2/77
+                                          ~
+                                 GATES LEARJET CORPORATION
+
+                  ■ain11n1n11 ■1n11I
+              DOOR ACTUATOR VALVE - MAINTENANCE PRACTICES
+
+1.   General
+     A.   Each oxygen mask storage compartment incorporates a door actuator valve.
+          The actuator valve is actuated when oxygen pressure is applied to the passen-
+          ger distribution system.
+     B.   The actuator valves can be manually overridden at anytime.
+     c. On Aircraft 26-i83 and &tbsequent, the door actuator is incorporated into the
+          lanyard actuator valve.
+
+2.   Description
+     A.   Under normal conditions, the door actuator valves maintain the passenger
+          mask storage compartment doors in the up-and-locked positions. The valves
+          are connected to the passenger distribution system by a common 1/4-inch line.
+          When oxygen pressure is supplied to the passenger distribution system, the
+          valve plungers extend, allowing the doors to swing open. The door release
+          valves do not incorporate bleed orifices. Should a condition arise where the
+          doors opened and no passenger oxygen was utilized, one of the lanyards should
+          be pulled to bleed oxygen pressure from the distribution system. The valve
+          plungers will retract and the doors may be stowed in the up-and-locked position.
+
+3.   Removal/Installation
+     A.  Remove Door Actuator Valve (See figure 201)
+         (1)   Lower upper center panel sufficiently to gain access to the storage
+               compartment.
+         (2)   Disconnect oxygen line from tee. Cap exposed lines.
+         (3)   Remove tee from storage compartment.
+         (4) Release storage compartment door.
+         (5)   Remove attaching parts and door actuator valve from storage compart-
+                ment.
+     B.  Install Door Actuator Valve (See figure 201)
+         (1)    Install valve and secure with attaching parts.
+         (2)   Install mask and door in storage compartment.
+         (3)   Install tee on storage compartment.
+         (4)    Connect oxygen lines to tee.
+         (5)   Install upper center panel and secure.
+
+
+
+
+EFFECTIVITY: ALL                                                                35-20-07
+                                                                                Page 201
+                                                                               Dec 2/77
+                                         @.
+                        •       GATES LEARJET CORPORATION
+
+                ■a1n11nan11 ■anual
+
+
+
+
+     Passenger Oxygen                                       Lanyard Actuator Valve
+     Mask (Ref)
+
+Oxygen &lpply                                                   --Door Release
+Line                                                                 Actuator Valve
+
+
+
+
+                            Door Actuator Valve Installation
+                                      Figure 201
+
+
+EFFECTIVITY: 25-061, -070 THRU ~182                                             35-20-07
+                                                                                Page 202
+                                                                                Dec 2/77
+

@@ -1,0 +1,883 @@
+                            -E)
+             I‘   GATES LEAH-.IEl' cnnmmnnu   I
+
+-‘III’
+
+
+
+
+                  CHAPTER
+
+
+
+
+Zr“
+
+
+
+
+           % INDICATING /
+         RECORDING SYSTEMS
+
+i’
+                                              Gates Learjet Corporation@                        "
+                        mainlenane manual
+Chapter                                                          Chapter
+Section                                                          Section                            -
+Subject                     Page                    Date         Subject                P899              Date
+
+31-Title
+'31-List of
+    Effective Pages                                 Apr 30/82
+ 31-Contents                                        Dec 18/81
+ 31-20-00                        5-in- no-1         Dec 18/81
+ 31-20-01               1       201                 Dec 18/81
+ 31-20-02                       201                 Dec 18/81
+ 31-30-01                         1                  Dec 2/77
+ 31-30-01                   2    -2                  Dec 2/77
+ 31-30-01                     3   3                  Dec 2/77
+ 31-30-01                       501                  Dec 2/7.7
+ 31-30-01                       502                  Dec 2/77
+ 31-30-01                       503                  Dec 2/77
+ 31-30-01                       504             1    Dec 2/77
+ 31-30-01                       505                  Dec 2/77
+ 31-50-01                          1                 Dec 2/77
+ 31-50-02                              1             Dec 2/77
+
+
+
+
+ Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.             _              ~
+ Asterisk indicates pages revised, added or deleted by current revision.                        .    ~ 2       3 - .
+ The portion of the text-affected by the current revision is indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                     3.1-LIST OF EFFECTIVE PAGES
+                                                                                       1              2   ' Page 1
+MM-98                                                                                                         Apr 30/82
+                              _ I (33335l43mﬂet<Zcrpxx3mkx1ee>
+                          IIIIIIIIEIIIIIE IIIIIIIII                                                                       0
+
+
+
+
+                                                                                                                                                          Chapter
+                                                                                                                                                          Section 1
+Subject                                                                                                                                               I   __J___3‘-1b'°°t    232;
+INDEPENDENT INSTRUMENTS - DESCRIPTION AND
+‘       CﬂHEIhAT1£H§. ...... ... ... ... ....... ... ... ...                                                                                              31-20-00
+        Description ....'...........................                                                                                                      31-20-00                 1
+        0peration.................g...............                                                                                                        31-20-00                 1
+    CLOOK— NANCEPRAOTICES---------------                                                                                                                  menu
+                                                  OOIIQOOIIOOOOOIIOOIIIOOI                                                                                memm                    201
+                  _                                                                                       I I I I I I 0 I I I                             mama
+                                                  oooocoooooooobooooobocoo                                                                                31-2 0-02               201
+FLIGHT RECORDER -V DESCRIPTION AND OPERATION                                                                                                              31-30-01
+        Gen-era1‘IIOIIIIIIIIIIIIIIIO'IIIIIIIO_OCIOOO                                                                                                      31-30-01                 1
+                          I.'II'IIII.I‘IIIIICII,IOOIIIOO__OIII                                                                                            31-3.0-01                1
+        Op8I‘3.II-I011‘.-¢¢¢¢‘.¢--¢"¢.‘§-_.-.3--¢¢¢¢3-3-...                                                                                               32-30-g-.01             ~1
+    FLIGHT RECORDER SYSTEM -I ADJUSTMENT/TEST . . . .                                                                                                     31-30- 01
+        'G8I181‘8.I3.-3-3}..-3.13.3.3...-....-......-                                                                                                     31-30-01                501
+        Too1sandEquipment                                                                                                                                 31-30-01                501
+_       Adjusment/TestIOIIIIIIIIIIIIIIIIIIIIIIIII                                                                                                         31-30-01                501
+AURAL WARNING UNIT - DESCRIPTION AND OPERATION .                                                                                                          31-50-01
+                I I I     I   I   I   I   I   I   I   I   I. I    I   I I     I   I   I   I   I I I       I I     I   I       I   I .I    I   I   I       31-50-01                  1
+                      I   I   I   I   I   I   I   I   I   I   I   I   I   I       I   I   I   I   I   I   I   I   I   I       I   I   I   I   I   I       31-50-01            -     1
+GLARESHIELD-WARNING LIGHT, SYSTEMS - DESCRIPTION
+                                          OOISIIIIISIIIIIIIIOIIOOAIIIII                                                                                   31-50-02
+        GeneralIOAOIIIIIIIIIOIIIOOOIOIO                                                                       IIIIOOIIO                                   31-50-02                  1
+
+
+
+
+                                                                                                                                                                  31- - CONTENTS
+MM-98                                                                                                                                                                      Page 1
+                                                                                                                                                                            Dec 18/81
+                          '       GatesLearjetCorporation@
+                       maintenance manual
+           INDEPENDENT INSTRUMENTS - DESCRIPTION AND OPERATION
+
+1.    Description                                                  .                                    A
+      A.     Independent instruments consist of components or systems which are not
+           . related to any major systems of the aircraft.       A
+             (1) The clock is a conventional stem-wormd, spring-actuated eight-day
+                   unit. A knob is located in the lower left portion of the clock face for
+                   winding and resetting. A clock is installed in the pilot's and copilot's
+                   instrument panels.
+             (2) The hour meter system consists of a 28 vdc circuit breaker installed
+                   in the copilot's circuit breaker panel and anhour meter instal1ed.in_
+                   the copi1ot's instrument panel or in the tailcone.
+
+2-    _Q@L11l>2 (See ﬁgure 1)
+      A.       A ground circuit to the hour meter is completed when the cabin door is L
+               closed and latched. A 28 vdc circuit to the hour meter is completed through
+               a set of contacts in the squat switch relay panel when the aircraft is air-
+               borne.
+
+
+
+
+           .                               .
+
+
+
+                                       .
+
+
+       I-‘.6 SOUAT SWITCH                                                   nouauiftn           '
+       |                                                                          5
+                  Am                                aouarrtn _              -                       .
+
+
+
+
+               "iii
+                                                             Z 0                  0       A
+                                                     '   C888
+
+
+
+
+                      ‘-*>-'                    rf3§:|——mc'§e0
+
+       E. -It. gt“?
+                 GN
+                                                 F5w"§'
+                                                 noon)
+                                                        3r              '
+                                                                       4:
+                                                                            I "
+                                                  noon          nor
+                                                  amen          mam
+                                                L..............l
+
+
+                              _   Hour Meter Electrical Schematic
+                                  5          Figure 1
+
+EFFE CTIVITY: ALL                                                                     I       3]__2 0_o0
+                                                                                                 Page 1
+"M3                                                                                           Dec 18/81
+                                                                              Gates Learjet Corporationm
+                                                                  I
+
+
+
+
+                                                               CLOCK — MAINTENANCE PRACTICES
+
+1.           Remg/Installation
+             A. Remove Clock (See ﬁgure 201)
+                (1) Assure that Battery and Stall Warning Switches are OFF.
+                (2)   Lower either instrument panel.
+                (3) Remove screws and clock from instrument panel.
+             B.                  Install Clock (See ﬁgure 201)                   _
+                                 (1) Install clock and secure with attaching parts.
+                                 (2)              Raise and secure -instrument panel.
+
+
+                  -.
+
+                       F    ix‘ -sir :.B&°1‘;'..~3
+                                H                    .? I          .:   ‘;~;-2
+                                                                          .
+
+
+
+      ‘.. Q   .                  "'   .       '
+                                                  relies.-at
+                                                   !‘.."..""*°:"'“"""..
+                                                                              --"""
+      .- 1                 -.12-.2’
+                                                                        fa       .i_-9
+                                          l=..'!Q=\1i'=."1"‘?§ 1' -'1-‘E .;;2-. _- )[
+                                                                                   3)’ -.' ..
+     #1 '
+        "‘ .-I,-E '1“ -
+                             '.-=-3, -go Q:-F:-r!31I:4-§_--_§_-"""""¢
+                                           .‘=-._--71-"-§?=.,‘g$,,.;;-=.“:.r..-._s7'
+                                                                                . _
+                                                                                     _ |=:,i;".-
+                                                                                            .
+     §._ f,      81;),                            ¢;'!l'lﬂI!!-iw
+                                                             :"..; =,-              -E-_‘-_.: -,
+                  .r'_-.0;                                                          .
+
+
+
+                             A.                                   A
+                                                                                                                Clock
+                                                       Screw
+                                                       (Typical)                                    Q
+
+
+                                                                                                   .-©\ __
+                                                                                                          @@
+
+                                                                                   Typical Clock Installation
+
+                                                                                                   Detail A
+                                                                                            Eight-Day Clock
+                                                                                              Figure 201-
+
+EFFECTIVITY: ALL                                                                                                         31-20-01
+ mm                                                                                                                      Page 201
+                                                                                                                        Dec 18/81
+                                                                                                  _ Gates Learjet Corporation-5->
+                                                                                                mamlenanoe manual
+                                                                                                       HOUR METER - MAINTENANCE PRACTICES
+
+    1.                                  Removglz Installation               _
+                                        A.  Remove Hour Meter (See figure 201)
+                                            (1) Remove electrical power from aircraft-
+                                            (2) loosen quick release fasteners and pull hour meter panel out of
+                                                   copilot's instrument panel.
+                                            (3) Disconnect electrical connector from hour meter and remove meter
+                                                   from aircraft.                                                                                                                                                       5
+
+
+
+
+                                            (4) Remove attaching parts and hour meter from'_meter panel.
+                                        B.  Install Hour Meter (See figure 201)
+                                            (1) Install hour meter in meter panel and secure with attaching parts.
+                                            (2)    Connect electrical connector to hour meter.
+                                            (3) Install hour meter panel assembly on copilot's instrument panel and
+                                                   secure with quick release fasteners
+                                                                    (4)                         Restore electrical power.
+
+
+                         .             V. .- -   -__.J__"'-; 1 _
+                    .                             -1,
+                                  -Q     ‘n.¢_     41:1: — _ —                              9                   ‘-1-.
+
+
+                                                  . -                                                                              \
+                                                                                                                                                                                                       Copilot's Instrument
+                                             ii
+                                                                                      —-  Q
+                                                                                                            __,_                                                                                 L 0   Panel (Ref)
+                                             i
+
+
+
+
+@   1   F
+        I‘.-‘,
+            o-;:_|»II              "'
+                                                              - '3.                   ‘-I
+
+
+
+
+                   I“'
+                        '~a3-nsee12;-‘
+                            '.'
+                        r.-I .
+
+
+                             I
+                                 ~.l
+                                    _I_
+                                   -,-j':t\;__
+                                  0 I
+                                 -'
+                                 I__
+                               'In
+                                   ‘T3r.» -53*.’j__;‘__.e.,I L-"1,. .
+                      0-0' - — 1I '\
+                  """M;            ';'
+
+                                         _
+                                          Q      ‘Zr
+                                                 Q!
+                                                 at
+                                                        M
+                                                           .2
+                                                        ;.._=..“
+                                                       I‘
+                                                       3_.
+
+                                                                   Inn
+                                                                              1.'.
+                                                                         l'\-0no-pu   a
+                                                                                      J}v
+                                                                                      LI‘.
+                                                                                       '.l‘I
+
+
+                                                                                          ,
+                                                                                              ‘I‘er'2af
+                                                                                             ',H           ..
+                                                                                                        ’ "0
+                                                                                                        O
+                                                                                                        \       '_»r'._v’.-'0I“.   LI
+
+
+
+
+                                                                                                                                   i='"i*f'.i€*"'* c'f'.3»"‘
+                                                                                                                                                                                                                     Post Light
+                                                                                                                                                                                                                     (Ref)
+                                                               W*3.3’
+                        ;:'E'r }.:‘-
+                                 I“- 5                             0-                 i
+
+
+                                                              Q
+                        ‘vi
+                          I
+            .-330:5???                                                                £5                    ".
+                                                                                               "ii“
+                                                                                          I-I14.9
+
+
+                                                                                      A                               Hour Meter
+                                                                                                                                                                     G3             mu‘
+
+
+                                                                                                                                                                             (-1 [*1 E] ['1[*1
+                                                                                                           Screw
+                                                                                                            (Typical)
+                                                                                                                                            3                        <9                           ,.-Q
+
+                                                                                                                                                                              Detail A
+                                                                                                                                                               Hour Meter
+                                                                                                                                                               Figure 2 01
+                                                                                                                                                                                I
+
+
+
+
+    EFFECTIVITY: ALL                                                                                                                                                                                                   31-20-02
+    MM-93
+                                                                                                                                                                                                                       Page 201
+                                                                                                                                                                                                                      Dec 18/81
+                                                        -$3
+                                               GATES LEARJET CORPORATION   A
+
+
+
+
+                          FLIGHT RECORDER - DESCRIPTION AND OPERATION
+
+     1.           General                  ~
+                  A_.—'The flight recorder is installed to automatically record the following
+                      aircraft parameters: airspeed, altitude, vertical acceleration, head-
+                      ing and elapsed time. The recorder parameters may be analyzed by
+                      maintenance personnel to establish overhaul and maintenance re-
+                  .      quirements or in the event of an accident, establish the cause.
+                  B.     The flight recorder system consists of a flight recorder, an auto- g
+                         event marker, an accelerometer and circuit‘br.eakers.-
+     2.           Description                                                  '
+                  A. On Aircraft 25C/F equipped with the Flight Recorder System, the W
+                   ‘ flight recorder, event marker,‘ accelerometer and pitot static accu-
+                  ‘ ' mulator assemblies are installed on the baggage floor at approximate
+                     aircraft center line.                 ~                       3 A
+              A B. A On Aircraft 25B/D equipped with the Flight Recorder System, the y
+          ~            ' flight recorder is installed on the RH side of the baggage compart-
+                          ment. The accelerometer is installed on the floor in front of the
+                        1 baggage compartment floor." The event marker is installed on the
+                          forward side of frame 21 at approximate water line 39. 00.
+(W   3.             Operation        '      t       '       I    I                  A
+                    A. When power is applied to the aircraft and the flight recorder circuit
+                  I     breakers are depressed, flight recorder operation is automatic.
+                    B. The accelerometer provides signals proportional to vertical acceler-
+                      2 ation forces occurring to the aircraft. The accelerometer is cali-
+                        brated to respond to acceleration forces from -3G to +6G along its
+                        vertical axis.                              _
+                  C. , The flight recorderconsists of four subsystems: drive, altitude and
+                         airspeed, heading indicator. and accelerometer indicator.
+                         (1) ' The drive subsystem provides a smooth continuous drive for the
+                             foil record assembly. The amount of foil onthe take-up spool
+                             increases with each revolution of the take-up spool, foil speed
+                             varies from 6 inches per hour at start to 12 inches per hour after
+                             200 hours of flight recorder operation. As the foil is transported,
+                             styli of the applicable subsystems emboss the foil.
+                         (2) The flight recorder includes a time-remaining counter system.
+                             The time-remaining counter is a Veeder-Root counter which is
+                             mounted on the front panel assembly. The counter indicates the
+                             time remaining in hours and should be reset when the foil is
+                             replaced (normally 200 hours).        ~
+                         (3) The flight recorder verification-of-operation signal (beep) is a
+                             keyed 400-cps tone. The rate changes proportionally with the
+                              elapsed time from the start of the foil spool, and varies from
+              .               approximately 8 per minute at the start to 20 per minute after
+
+     EFFECTIVITY: OPTIONAL                                                             31-30-01
+                                                                                           Page 1
+                                     -                                                 Dec 2/7'7
+                                          -B3
+                                 GRTEB LEARJEF OORPORATION            "
+
+
+
+          200 hours of recording time.
+      (4) The altitude and airspeed subsystem consists of a gas-tight
+                housing which contains two independently functioning bellows
+                assemblies. Fittings on the gas-tight housing provide connect-
+                ion to aircraft pitot and static lines. Each of the bellows assemb-
+                lies drives a styluswhich embosses the foil.
+      (5) The heading indicator subsystem consists of the heading indicator
+                assembly and the electronics related to heading servo amplifica-
+                tion. The input signal to the heading indicator subassembly is
+                obtained from the aircraft directional compass and is connected
+                directly to the heading indicator subassembly heading synchro.
+                If the heading synchro rotor is not electrically aligned with the
+                directional compass synchro, an error signal is developed in the
+                heading synchro. The error signal is applied to the input of the
+                heading servoamplifier circuit where the error signal is ampli-
+                fied to a level sufficient to drive the heading servo motor. The
+                servo motor direction of rotation depends upon the phase of the
+                error signal. When the heading servo motor has driven the head-
+                ing synchro rotor to correspond to the aircraft heading, the error
+                signal is_reduced to zero and heading servo motor rotation stops.
+      (6)       The accelerometer indicator subassembly comprises the acceler-
+                ometer servo assembly and -electronics applicable to accelerom-
+                eter servo amplification. Input for this subsystem is obtained
+                from the Flight Recorder system remote accelerometer. The
+                remote accelerometer is a differential transformer with its out-
+                put connected in series with the stator windings of the accelero-
+                meter servo assembly synchro transmitter. Thus any output
+                from the remote accelerometer generates a signal that is applied
+                to the accelerometer servoamplifier input. The amplifier raises
+                the level of the signal to a value sufficient to drive the accelero-
+                meter motor-generator until a null is created between the remote
+                accelerometer output and the linear induction potentiometer out-
+                put. Thus, the summation signal is returned to zero and accel-
+           erometer servo motor-generator rotation is stopped.
+      For further information on the flight recorder system refer to Over-
+      haul Manual, Model 109-D Flight Recorder, published by the
+      Lockheed Aircraft Service Company, Ontario, California.
+                             I
+                         0
+
+
+
+
+            3
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                     31-30-01
+                                                                            Page 2
+                                                                          Dec 2/7'7
+                                    -@
+                           BRIE LEARJET DORPORRITON
+
+             IIIHIIIIEIIIHE manua
+
+
+
+
+                                                      FLT RCDR
+                 AE73                                  JR
+     BEEP        FLIGHT RECORDER                       I I O ||5VAc
+    INPUT
+
+    EVENT                                              FLT RCDR
+
+                                                       0 ls O ZGVAC
+
+     PITOT
+
+                                                       ACCELEROMETER p         I7
+    STATIC
+
+                                                       joinecrioum.
+                                                        svao
+
+
+
+                 A806                                 AUTO-EVENT MKR
+                 AUTO"'EVHiT
+                 |,|A|§|(E|q                           0 2 OZBVDC
+
+
+
+
+                       0
+
+
+
+
+                 Flight Recorder Block Diagram
+                     n      Figure 1
+
+EFFECTIVITY: OPTIONAL                                                    31-30-01
+                                                                           Page 3
+                                                                         Dec 2/'7'!
+                                                                     -E)
+                                                           cares LEARJET conr-cannon
+
+                  0
+
+
+
+
+                            F LIGHT RECORDER SYSTEM - ADJUSTMENT/TEST
+1.           General                                                                                                       '         -
+             A.   The following procedures are for the Lockheed, Model 109-D Flight 3
+         '        Recorder System.                                                 A
+             B.   The pitot-static system must be functionally checked.prior to check-
+                  ing the flight recorder system. Refer to 34-11-00.
+2.           Tools and Equipment -                                   A       -
+
+     NAME                                             NUMBER                         MANUFACTURER                              USE
+
+Pitot and Static                                      MB-1                           Aircraft Products Co.                Pitot Static
+System Tester                                     L       ' '    ~                   Bridgeport, Pa.                      check.
+Turn Table                            ~               TN26409                        Gates Learjet        -       ‘       For direct-
+Assembly                                                                                                                  ional gyro
+                                                                                                                          check. 3
+Extension "Cable                          A                                          Fabricate Locally                '
+External Power                                        ----                           Commercially
+Source                            ~                                                  Available.       L       -
+Linear Scale                                          4024511-1                      Lockheed Aircraft n
+                                                                                     Service Co. -
+Spool & Foil                                  '       4020538-1                      Lockheed Aircraft
+     -                                                                               Service Co.                               A
+
+3.           Ad-justment/Test                                            I   A        .
+             A. » Functional Test of Lockheed 109-D Flight Recorder System.
+                      (1)    Perform operational ‘check of pitot - static system. Refer to
+                             34-11-00.                                           -
+                                                                                           0
+
+
+
+
+                             CAUTION:                     DO NOT APPLY PRESSURE FASTER THAN 20
+                                                          KNOTS PER SECOND.
+
+                                                          ASSURE THAT THE FLIGHT RECORDER
+                                                          PNEUMATIC PITOT SELECTOR IS SET TO OPEN.
+
+                      (2) Connect pitot-static-tester to pilot's and copilot's pitot tubes and-
+                      static system and apply pitot pressure to give an indication of
+                      300 knots airspeed. Block off other static ports.
+                  (3) Turn off pressure and seal the system. System pressure drop
+                        .    shall not exceed 5 knots in 5 minutes.                               '
+
+                             CAUTION:                     DO NOT RELEASE PRESSURE FASTER THAN 20
+                              .                           KNOTS PER SECOND.
+                                                                                                                                         0
+                                                      0
+                                                                                                                                         0
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                                                                          31-30-01
+                                                                                                                               Page 501
+                              —                                                                                                Dec 2/'77
+                                      . antes usnnaer convorurnou
+                                  '   J
+                           0
+
+
+
+
+                   CAUTION:           ASSURE THAT THE PITOT-STATIC TESTER
+                                                                                             /‘
+                                                                                                  J
+                                      CROSS-BLEED IS OPEN TO PREVENT DAMAGE
+                                      TO AIRCRAFT INSTRUMENTS AND TESTER .
+                                      AIRSPEED INDICATOR.
+
+                   NOTE:       Assure that the flight recorder pneumatic static
+                               selector is in the open position.
+
+               (4) Open the tester cross-bleed.
+ 5-..a   Q0
+               (5) Apply vacuum to the copilot's static system until the tester
+                    altimeter indicates 28, 000 feet.
+               (6) Shut off vacuum and seal the system. The altimeter shouldnot
+                    indicate less than 27, 440 feet in one minute.
+               ('7) Release the vacuum on the system slowly, at a rate within the
+                    range of the aircraft rate-of-climb indicator.
+                   CAUTION:           TO PREVENT DISENGAGEMENT OF ALTITUDE
+                                      STYLUS ARM BALL AND SOCKET JOINT (INSIDE
+                                      HOUSING), USE CARE WHEN INSTALLING OR
+                                      REMOVING FOIL RECORD ASSEMBLY.
+
+               (8) The foil record assembly must be held at an angle of approxi-
+                   mately 30 degrees from vertical as the slotted legs are engaged
+                   with the alignment rod in the recorder mounting plate. It may             an
+                   then be pivoted until vertical and secured by tightening the knob
+                   nearest the centerline of the recorder. Likewise, on removal,
+                   the foil record assembly is released by loosening the knob near-
+                   est the recorder centerline, carefully tilting the foil record '
+                   assembly at least 30 degrees from vertical, then lifting it off. .
+               (9) The foil record assembly is serially matched in calibration to
+                   the particular recorder with which it is to be used. Check that
+                   the serial number on the foil recorder assembly matches the
+                   serial number of the flight recorder.
+              (10) Remove magazine from flight recorder and replace existing spool
+                   with a spool of test foil. Lightly scribe a start line on the test
+                   foil before inserting magazine into flight recorder.
+              (11) Remove secondary directional gyro from aircraft. Refer to
+                   <34-22-00.
+              (12) Install secondary directional gyro on turn table and connect to
+                    aircraft wiring with patch cable.              ~ n
+              (13) Connect external power to the aircraft.           '
+              (14) Set Battery Switches to "on".
+              (15) Set Inverter Switches to "on".
+              (16) Assure that flight recorder 115 and 26 vac circuit breakers are
+                   depressed.                                                                 /"""'
+              (17) Assure that Auto-Event Marker 28 vdc circuit breaker is de-
+                                                                                                  N
+EFFECTIVITY: OPTIONAL                          A                                  31-30-01
+                                                                              Page 502
+                                                                              Dec 2/'77
+                                               .     I
+                                                   OKKQ‘.       . -
+
+
+
+
+                                                   -@
+                                    l3Rl'ESLEARJEl'OOFIPO'Flﬂl'lON
+
+
+                                3
+
+
+
+
+                pressed.
+       (18) Insert headset phone plug in monitor jack.
+       (19) Verify 400'cycle beeptone is audible in headset. The beep signal
+                is the ﬂight recorders verification-of-operation.
+                NOTE:      The rate of tone interruptions changes proportionately
+                           with the elapsed time from the start of the foil spool,
+                           and varies from approximately 20 per minute atthe
+                           start of a full spool to 80 per minute after 200 hours of
+                           recording time.                                             .        e            "       1
+                                                                                                         n
+
+
+
+
+       (20) Remove headset. S
+       (21) Select the proper event marker. Energize the selected event                                                                    3
+            marker at the beginning and end of each segment or check point
+         . of the test being performed.               - j        '
+       (22) Auto-Event Marker is initiated by depressingthe pilot's or
+                copilot's microphone PTT button.)                                                   A
+       (23) Use the manual event marker for this test.
+       (24) 1 Remove mounting screws from accelerometer.
+       (25) Place accelerometer in the positions as shown in table 1. Allow
+            accelerometer to rest in each position for."not less than one
+            '   minute.                                                   ‘                                      -
+
+Accelerometer <            Acceleration                     3                 Acceleration              _’ Tolerance
+    Physical      - -       Position in                                            in G's               1 n
+    Position        .        1 Degrees _                                      '
+
+Connector facing up                  0
+Connector facing                    coo                                            9!“ oo                                |+|+ PF’ Mix QQ
+outboard                                                                                    g
+Connector facing down           180                                               -1. 0                                  =30. 2 G
+
+                                               TABLE I
+
+       (26) Install accelerometer on mounting bracket and tighten screws
+             securely.                                  - ~
+       (27) Use the pilot's Auto-Event Marker for. this test.
+       (28) Assure secondary directional -gyro circuit breaker is depressed
+             and wait three minutes for system to synchronize. Set the
+             SLAVE-FREE Switches to the "FREE" mode of operation.
+       (29) Position the turn table with secondary directional gyro to four n
+           , cardinal headings - N, E, S, W (3:1) degree. Refer to table ll.
+       (30) Allow gyro to remain at each heading for not less than ‘three
+        ~       minutes.                   '                          2
+
+
+
+EFFECTIVITY: OPTIONAL                                                                                                    31-30-01
+                                                                                                                         Page 503
+                                                                                                                         Dec 2/7'1
+                                            0
+
+
+
+
+                                 cares “LEARJET conronmnu
+
+
+  "       '1-1'e‘edH"n"g' ' "_—_—___'__DEGRE
+                                         Tolerance
+              N                             360                                    333°
+              E     A                        90                                    43°
+                                                1-I @ O                            43°
+                                                                                   :1:       O
+              Q01
+
+
+                                        TABLE H
+
+          (31) Pull the secondary directional gyro circuit breaker. Permit the
+              _ gyro to coast down in speed before removing the directional gyro.
+               Remove secondary directional gyro from turn tableand install in
+              ' aircraft, maintaining the gyro level during movement.)
+      A   (32) Use the copilot's Auto-Event Marker for designated test points.
+          (33) Connect the pitot-static tester to the pilot's and copilot's pitot
+                tube and static system. Block off other static ports.
+          (34) Adjust the pitot-static tester to obtain the readings listed in
+                table III. Seal off tester and allow pressure to remain at each
+           A    test point value for not less than one minute               -
+
+                                          Pitot           1   '
+                    Airspeed                                          Tolerance
+                        Knots                                          =|= Knots
+                         100                                             10                      /-
+                         200                                             10                              J
+                         250 -                                           10
+                         300                                             10
+
+                                        TABLE III
+
+                                          Static
+                    Altitude                                          Tolerance
+                        Feet                                           1 Feet
+                     2, 000                                             100              '
+                    10, 000                                             150
+                    20, 000         A                                   300
+                    40, 000                                             600
+
+
+                                        TABLE IV
+
+          (35) Adjust the pitot static tester to obtain the readings listed in table
+               IV. Seal off tester and allow vacuum to remain at each test point
+               value for not less than one minute.
+          (36) Disconnect pitot- static tester from pitot copilot's static system
+               and remove tape from static ports.                                                .3 v
+                                                                                                        -Q»
+
+
+
+
+                                                                  n
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                                31-30-01
+                                                                                    Page 504
+                                                                                    Dec 2/77
+                       _    temsscsnnusrconeonnnnu _.
+
+
+(‘S        <30 Pull the FLT RCDR and AUTO- EVENT MKR circuit breakers.
+               Setthe Battery Switches to OFF and disconnect external power
+               source from aircraft.
+               Remove magazine from flight recorder and replace test foil with
+               new foil. The time-remaining counter should be manually reset
+               to indicate the minimum time remaining for recorder operation '
+                (normally 200 hours) whenever the foil is replaced. The time-,
+                remaining counter is a Veeder-Root counter which is mounted on
+                the panel of the ﬂight recorder front cover assembly (or front
+                panel assembly).                -
+                Use scale overlay on test foil and evaluate recorded tracings for
+                sequential directions and values against input data. Refer to ~
+                tables I, ll, III and IV for trace tolerances. Refer to Calibration
+                Chart furnished with each ﬂight recorder. Insure that all foil
+                tracings are legible. -                                       _
+                Check test foil for all Event Marker tracings, time marks ~
+                (minutes, quarter hour and hour marks), aux. trace and          p
+                reference line.
+
+
+
+
+to
+
+
+
+
+      EFFECTIVITY: OPTIONAL                                              31-30-91
+                                                                         Page 505
+                                                                         Dec 2/7'7
+                                                                                 0
+                                    cares LEARJET oonnonanou
+
+
+                  AURAL WARNING UNIT — DESCRIPTION AND OPERATION
+     n
+
+
+
+
+1.        General
+          A.   The aural warning unit is located on the aft side of frame 5 at approx-
+                imately aircraft centerline.                                                   -
+                                                                                           .‘_..   - ._.         .\,
+                                                                        '     \I   '   '   .         0.    I’;
+                                               .,   -‘l~.   I.‘   \‘-    II                          .-
+
+
+
+2.        gperation      -                     ' \ "9'                                                                 .
+           .   Cabin altitude aural warning is obtained when a ground signal is
+              applied to pin B of '71. (Refer to 31-50-01 in the Wiring Manual) The
+              tone is applied to the audio system. The tone varies approximately
+              700 cps within a frequency rangeof 1680 to 3360 cps every 0.3 (=|=0. 06)
+              seconds. When 28 vdc is applied to pin K, P71 (reset) the tone will
+              cease for approximately 60 seconds before starting again.
+         n B. Mach aural warning is obtained when a ground is applied to pin H of
+            - P71. The tone increases approximately 900 cps within a frequency
+               range ofn1900 to 3000 cps every 1. 5 seconds. The tone is applied to
+               the audio system. The mach aural warning will continue until correc-
+                tive action has been taken.                                3      .
+          C.    The autopilot disengage aural" warning is obtained when 28 vdc is
+                removed from pin F of P71. The tone is 550 cps and lasts approxi-
+                mately one second. The tone is applied to the audio system. *
+          D.    The gear aural warning is_ obtained when a ground is applied to pin D
+                of P71. The tone is a continuous 220 cps tone and is applied to the
+                audio system. The tone may be muted by holding the TEST-MUTE
+               ~ Switch on the gear control panel to MUTE.
+
+
+
+
+E FFECTIVITY: ALL                                                                                                 31-50-01
+                                                                                                                    Page 1
+                                                                                                                  Dec 2/77
+                                           E3
+                                 GRIEB LEARJET GIJFIPORRIION
+
+
+
+
+GLARESHIELD WARNING LIGHT SYSTEMS - DESCRIPTION AND -OPERATION
+
+1.       General                v »
+         K._—.‘I"l1_<-5 glareshield warning light system provides the crew members
+                 with a visual indication of a system condition.
+         B.   The warning light panel is located in the center of the glareshield and
+              contains warning (red), caution (amber), indicator (green) and spare
+              (white) lights.                                              i
+         C.   Each light on the glareshield has a legend which describes the appro-
+              priate system malfunction. Red lights indicate a warning malfunction,
+              requiring immediate corrective action. Amber lights indicate a
+              caution malfunction and require. attention, but not immediate action.
+     i        The warning light on the glareshield will remain lighted until correc-
+              tive action is taken.                                     y       v
+         D.   The glareshield warning lights are controlled by the warning light
+             control box assembly which is located on the aft side of frame 5 at
+             the aircraft centerline. All electrical connections are madeby two
+           - electrical connectors.
+         E. Bulb replacement is accomplished by pulling the lens assembly out
+              and removing the bulb. Refer to bulb replacement (33-00-00) for
+              bulb part number.         V        ~          '         i    h ‘
+
+
+
+
+EFFECTIVITY: ALL                                                               31-5°-°2
+          i                                                                      Page 1
+                                                                               Dec 2/77
+

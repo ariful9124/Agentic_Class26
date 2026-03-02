@@ -1,0 +1,1161 @@
+               @
+  •   GATES LEARJET CORPORATION
+
+■a1n1enan1e ■anual
+
+
+      CHAPTER
+
+
+
+
+STABILIZERS
+                                           Gates Learjet Corporation@
+                             ■ai■le■a■ae ma■ual
+~
+     Chapter                                                     Chapter
+     Section                                                     Section
+     Subject                    Page              Date           Subject                     Page              Date
+       55-Title
+     • 55-List of
+          Effective Pages             1          May 25/84
+     • 55-Contents                    1          May 25/84
+      55-00-00                        1           Jul 17/81
+      55-00-00                        2           Jul 17/81
+       55-10-00                       1           Jul 17/81
+       55-10-00                       2          .·Jul 17 /81
+      55-20-00                        1            Dec 2/77
+       55-20-00                       2            Dec 2/77
+      55-20-01                      201            Dec 2/77
+       55-20-01                     202            Dec 2/77
+       55-20-01                     203            Dec 2/77
+       55-30-00                       1           Jul 17/81
+       55-30-00                       2           Jul 17/81
+      55-40-00                        1           Jul 17/81
+      55-40-00                        2           Jul 17/81
+       55-40-00                       3           Jul 17/81
+      55-50-00                        1           Jul 17/81
+       55-50-00                       2           Jul 17/81
+       55-50-00                       3           Jul 17/81
+       55-50-00                       4           Jul 17/81
+       55-50-00                       5           Jul 17/81
+~    •55-50-01
+     •55.50-01
+                                    201
+                                    202
+                                                 May 25/84·
+                                                 May 25/84
+     •55_50-01                      203          May 25/84
+     •55.50-01                      204          May 25/84
+     •55_50.01                      205          May 25/84
+     • 55-50-01                     206          May 25/84
+
+
+
+
+      Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+    • Asterisk indicates pages revised, added or deleted by current revision.
+     The portion of the text affected by the current revision ls indicated by a vertical line in the outer margin of the page.
+
+
+                                                                                       55-LIST OF EFFECTIVE PAGES
+    MM-98
+                                                                                                             Page 1
+                                                                                                         May 25/84
+                            Gates Learjet Corporation•
+                  •aln11nana1 •anaal
+                                                                 Chapter
+                                                                 Section
+Subject                                                          Subject        !.Y!.
+STABILIZERS - DESCRIPTION AND OPERATION • • • • • • • • • •      55-00-00
+   Description   •••••••••••••••••••• • •                        55-00-00           1
+HORIZONTAL STABILIZER - DESCRIPTION AND OPERATION ••• • •        55-10-00
+   Description • • • • • • • • • • • • • • • • • • • • • • •     55-10-00           1
+ELEVATOR • • • • • • • • • • • • ~. • • • • • • • • • • • . .    55-20-00
+   General • • • • • • • • • • • • • • • • • • • • • • • • •     55-20-00           1
+   Elevator - Maintenance Practices • • • • • • • • • • • •      55-20-01
+      Removal/Installation • . • • • • • • • • • • • • • • • •   55-20-01         201
+VERTICAL STABILIZER - DESCRIPTION AND OPERATION • • • • • •      55-30-00-
+   Description • • • • • • • • • • • • • • • ·• • • • • • • •    55-30-00           1
+RUDDER - DESCRIPTION AND OPERATION • • • • • • • • • • • • •     55-40-00
+   Description • • • • • • • • • • • • • • • • • • • • • • •     55-40-00           1
+ATTACH FITTINGS - DESCRIPTION AND OPERATION • • • • • • • •      55-50-00
+
+
+                                                                                         I
+   Description • • • • • • • • • • • • • • • • • • • • • • .     55-50-00           1
+   Horizontal Stabilizer Attach Fitting - Approved Repairs.      55-50-01
+      Approved Repairs • • • • • • • • • • • • • • • • • • •     55-50-01         201
+
+
+
+
+MM-98                                                                 55 - CONTENTS
+Disk 857                                                                        Page 1
+                                                                             May 25/84
+                               Gates Learjet Corporation@
+                     ■ain·l■■anae ·■anaal
+                      STABILIZERS - DESCRIPTION AND OPERATION
+
+1.      Description
+        A.   Stabilizers include the horizontal stabilizer, elevat.ors, vertical stabilizer
+                                                                                          . '
+             and rudder.
+        B.   The one-piece horizontal stabilizer is attached t.o the vertical stabilizer at
+             two points. The aft attach point serves as a pivot and consists of a large
+             pin inserted through heavy bearings in the horiZontal and vertical stabilizers.
+             The forward attach point attaches t.o the horizontal stabilizer actuator. The
+             bottom of the actuat.or is secured to the vertical stabilizer forward spar.
+             The horizontal stabilizer is constructed of spars and ribs covered ·with skin.
+             Access covers on the bottom skin of the horizontal stabilizer provide access
+             to the hinge points. For additional information on the horizontal stabilizer,
+             refer t.o Chapter 2 7.
+        c. Each elevator is connected to the horizontal stabilizer at three hinge points.
+             The elevat.or consists of ribs and spars covered with skin. Counterbalance
+             weights are located in the leading edge of the tip cover. An access cover
+             located on the leading edge of the elevator provides access t.o the center
+             hinge point. For additional in:lbrmation on the elevator• refer t.o Chapter 27.
+        D.    The vertical stabilizer structure consists of spars and ribs covered with
+              skin. Access covers located on the vertical stabilizer provide access for
+              structural inspection and access to electrical wiring, horizontal stabilizer
+              actuator, elevator controls,· and rudder hinges. Attach fittings for the
+              rudder ~d horizontal stabilizer are located on the vertical stabilizer.
+        E.    The rudder is mounted on a torque 1nbe with a bellcrank attached t.o its
+              lower end. The bellcrank pr~vides attach points for the rudder control
+              cables. Counterbalance weights are located in the rudder leading· edge. A
+              rudder trim tab is located on the rudder lower trailing edge and is controlled
+             by an actuator located in the rudder leading edge. Access covers on the
+              leading edge of the rudder provide access to the hinge points, ba1ance
+             weights, and trim tab actuator.
+
+
+
+
+EFFECTIVITY: ALL                                                                    55-00-00
+MM-99                                                                                 Pagel
+                                                                                    Jul 17 /81
+                           Gates Learjet Corporation@
+
+                  ■ain1■na-n1■ ■an■al
+
+
+
+
+   Horizontal Stabilizer
+   (55-10-00)
+
+
+
+
+   - Vertical Stabilizer
+     (55-30-00)                                   •     Rudder
+                                                        (55-40-00)
+
+
+                                                        Rudder Trim Tab
+                                                        (Chapter 27)
+
+
+
+
+                                  Stabilizers
+                                   Figure 1
+                                                                                  .---·-
+EFFECTIVITY: ALL                                                     66-00-00
+                                                                          Page2
+                                                                     Jul 17/81
+                             Gates Learjet Corporation@
+                  ■ain1enanIe ■anual
+            HORIZONTAL STABILIZER - DESCRIPTION AND OPERATION
+
+1.   Description
+     A.   The horizontal stabilizer is a one-piece unit constructed of spa.rs and ribs
+          covered with skin.
+     B.   The horizontal stabilizer is attached to the upper portion of the vertical
+          stabilizer and serves as a pitch trim· controller.
+     C.   The horizontal stabilizer has two attach points. The aft attach point serves
+          as a pivot point and is attached t.o the vertical stabilizer with a large pin.
+          inserte~ through bearing~. The forward attach point is attached to the arm
+          of the horizontal stabilizer actuator and the actuat.or is attached t.o the for-
+          ward spar of the vertical stabilizer.
+     D.   A fiberglass bullet fairing is installed on each side of the horizontal stabili-
+          zer where it passes.through the vertical stabilizer cutouts. The fairings
+          cover the open area at the vertical s1abilizer cutouts when the horizontal
+          stabilizer is in the full up or down position.
+     E.   The fiberglass fairings are coated with an anti-static coating to prevent
+          buildup of static electricity on the non-conductive fairings.
+     F.   Horizontal stabilizer position is controlled by the horizontal stabilizer
+          actuat.or. (Refer t.o Chapter 27. )
+
+
+
+
+EFFECTIVITY: ALL                                                                  55-10-00
+                                                                                    Pagel
+                                                                                  Jul 17/81
+                                        Gates Learjet Corporation@
+                        .■ai:n11nan11 ■a11■al
+
+    ~-Horizontal Stabilizer
+         Bullet Fairing
+
+
+
+
+                 Detail B
+                      ----Elevat.or
+                                     Attach
+                                     Fittings
+
+         \
+
+
+
+
+             \   \.
+                                                - - Stabilizer
+                                                   .. Center Hinge
+
+
+                  \   \,\
+                            \
+                                                                ~ - - - R e a r Spar
+                                \\
+
+
+Stabilizer Actuat.or
+Attach Fittings
+
+                                                                    Forward Spar
+
+
+
+                                                Detail A
+                                            Horizontal Stabilizer
+                                                  Figure 1
+
+
+EFFECTIVITY: ALL                                                                       55-10-00
+                                                                                         Page2
+                                                                                       Jul 17/81
+                                              -~-
+                            •       GATES LEARJET CORPORATION
+
+                 ■a1■1en1n1e ■an■al
+                                                                           Aft Fin Tip Fairing
+
+ Fin Tip Access F a i r i n g - - - - - - - - _ /
+
+
+
+
+        Forward Fin T i p - - - - - /
+        Fairing
+
+
+                                                                 i,-~Rib Fairing Assembly
+
+
+
+
+                                                                           rtical Stabilizer Hinge
+                                                                        Fittings (Ref)          .
+
+
+                                                                       ulkhead Fairing Assembly
+
+
+                                      Detail B                                                     . · Horizontal
+                                                          Upper Bolt                                   Stabilizer
+                                                                                              [
+                                       Horizontal
+                                       Stabilizer
+                                                          Retainer                 .
+                                                                                             .    ---
+                                                       Spacer
+
+
+                                                                                          Stabilizer Actuator
+                                                                                        --Lower Bolt
+                                                                                              Retainer
+
+
+
+                        v-Vertical
+                        ~       Stabilizer
+                         "b     Spar Assembly V ert·1ca1 Stab"liz
+                                                             1    er
+                                              Spar Assembly
+
+  Aircraft 25-061, 070 thru 25-199                           Aircraft 25-200 and subsequent
+
+                                             Detail C
+                                    Horizontal Stabilizer
+                                   Figure 1 (Sheet 2 of 2)
+
+EFFECTIVITY: ALL                                                                                    55-10-00
+                                                                                                      Page 3
+                                                                                                    Dec 2/77
+                                      ~
+                       •     GATES LEARJET CORPORATION
+
+                m1·1n11n1n11 ■1n1111
+                ELEVATOR - DESCRIPTION AND OPERATION
+
+1.   General
+     A. The elevators provide longitudinal control ·of the aircraft. The ele-
+          vators are controlled by push-pull tubes located in the vertical stab-
+          ilizer. The push-pull tubes are connected to elevator bellcranks
+          located inside the vertical stabilizer fairing. The bellcranks are
+          connected to torque tubes which extend into the· elevators. Access to
+          the elevator control is through vertical stabilizer fairings and access
+          covers.
+     B.   Each elevator is connected to the horizontal stabilizer at three hinge
+          points. Access covers adjacent to the hinge points allow access to
+          the hinge bolts.
+     C.   The elevators are constructed using the standard ribs and spars con-
+          figuration. Each elevator contains a balance weight located in the out-
+          board leading edge. The balance weights are accessible by removing
+          the elevator tips.                       . ·
+     D.   Bonding jumpers are connected -between the vertical stabilizer and the
+          inboard leading edge of the elevators. Static dischargers are located
+          on the outboard trailing edge of the elevators.
+     E.   For additional. information on the elevators, refer to Chapter 27.
+
+
+
+
+EFFECTIVITY: ALL                                                       55-20-00
+                                                                         Page 1
+                                                                       Dec 2/'1'1
+                                            ~
+                       •           GATES LEARJET CORPORATION
+
+                  •a1■ll!■a■■I! •a■ual
+
+
+
+
+                              ,.
+
+
+                                                                 Elevator Bellcrank
+
+
+
+
+                                                                          Elevator
+
+
+
+                                                         Inboard Hinge
+                                                         Plate
+                   INBOARD ELEVATOR HINGE POINT
+
+                                      Detail A
+                                                                             Elevator Tip Cover
+
+
+&abilizer
+Center Hinge
+
+
+
+                           Center Hinge
+                           Access Door                 ELEVATOR TIP AND OUTBOARD
+                                                              HINGE POINT
+   CENTER ELEVATOR HINGE POINT
+
+
+               Detail B                                        Detail C
+
+                                          Elevators
+                                          Figure 1
+
+ EFFECTIVITY: ALL                                                                     55-20-00
+                                                                                        Page 2
+                                                                                      Dec 2/77
+                                       ~
+                              GATES LEARJET CORPORATION
+
+                 ■ain11nan■1: ■an■al
+                   ELEVATOR - MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+     A. Remove Elevator Tip Cover
+        (1) Remove screws from upper and lower surfaces of the elevator
+            tip cover.
+        (2) Slide elevator tip cover straight out and off of the elevator.
+        (3) If a new tip cover is to be installed and the scupper and/or static
+            discharger are to be reused, drill out rivets and remove scupper
+            and/or static· dis.charger..
+
+                NOTE:   The static discharger is bonded to the surface and must
+                        be pried off.
+
+     B.   Install New Elevator Tip Cover (See figure 201)
+          (1) Position tip cover over the end of the elevator and push on to the
+               elevator as far as possible.                        ·
+
+                NOTE:   The open end of the tip cover will have to be spread
+                        slightly to go completely onto the elevator ribs. The
+                        tip cover will probably protrude past the rib and over-
+                        lap the scupper on the elevator.
+
+          (2)   Using a hole finder, locate as many holes in the tip cover as
+                possible assuring the holes are located on center.
+
+                NOTE:    There are three basic methods of locating the remaining
+                         holes. One method is to place a sheet of heavy mylar
+                         or clear plastic over the elevator rib structure and mark
+                         the hole locations on the mylar. The mylar is then
+                         transferred to the tip cover and aligned with the· holes
+                         previously located. After locating the mylar on the tip
+                         cover, pilot holes are drilled into the tip cover through
+                         the mylar. The second method of locating the holes is
+                         by using the old tip cover, if it is not damaged too se-
+                         verely. The old tip cover may be cut in half, carefully
+                         aligned on the new tip cover, and used as a template to
+                         locate the holes. The third method is to locate several
+                         holes, using a hole finder, remove the tip cover,
+                         measure the hole locations in •the rib structure and
+                         transfer the measurements to the tip cover.
+          (3) After all holes have been located, final drill using a No. 19
+              C. 166 +. 005/-. 001) drill.
+          (4) Excluding the hole located at the inboard most trailing edge of
+              the tip cover, dimple all holes . 329-. 339 Dia. x 100°.
+
+EFFECTIVITY: ALL                                                         55-20-01
+                                                                         Page 201
+                                                                        nee  2/77
+                                           ~
+                            •     GATES LEARJET CORPORATION
+
+                  ma1■1■■•••• ma■■al
+
+
+
+
+                                                      +
+                                            +                  f-i--+--- This surface to be
+                                                                         flush with rib.
+                                                                      Scribe and trim between
+                                                                      these two points.
+
+
+
+
+                  +.005
+    No. 19 (. 166 -. 001)
+    Hole (Typ)                                                               .30 E.D.
+
+                                                  +
+                                                               .25R
+
+
+
+        AD32ABS
+                                                  +
+                                         R2249ADF Rivet
+                                                               ~        r-   Tip Cover prior
+                                                                             to trim
+
+        Pop Rivet                         Reqd)        .50R                .40 E.D.
+        (5 Reqd)                                   +
+   Scupper                                                 +
+   (Lower Surface)
+                                       static Discharger
+                                       (Upper Surface)
+                                                                         ssure lower surface is
+                                                                        rimmed to clear scupper
+
+
+
+
+                            Elevator Tip Cover Installation
+                                      Figure 201
+
+EFFECTIVITY: ALL                                                                           55-20-01
+                                                                                           Page 202
+                                                                                           Dec 2/'7'1
+                                       ~
+                              GATES LEARJET CORPORATION
+
+                 ■al■ll!■illll! ■il■llill
+~          (5) Position tip cover on elevator and align holes. Secure with
+               several screws on both the upper and lower surface.
+           (6) Scribe a line on the inside of the tip cover along the rib at the
+               forward inboard portion of the tip cover. This line should follow·
+               the rib down to and along the .elevator hinge bracket.
+           (7) Remove tip cover and trim along the scribe line. Reinstall tip
+               cover and check to see that it is flush with rib and hinge bracket.
+           (8) Trim and radius the remaining portion of the inboard side of the
+               tip cover to obtain correct edge distance as shown in figure 201.
+
+                 NOTE:   If the elevator is painted, the paint line where the old
+                         tip cover was, may be used as a trim guide.
+
+           (9)  Locate and drill drain hole on lower surface as shown in figure
+                201.
+          (10) Locate scupper on lower surface as shown in figure 201. Drill
+                holes and secure scupper with AD32ABS pop rivets.
+          (11) Locate static discharger base on upper surface as shown in
+                figure 201. Install static discharger in accordance with
+                23-60-00.
+          (12)- Install elevator tip and secure with screws.
+          (13) Paint tip cover. Ref er to 20-50-00.
+          (14) Check elevator overbalance. Ref er to 27-00-00.
+~-
+
+
+
+
+     EFFECTIVITY: ALL                                                      55-20-01
+                                                                           Page 203
+                                                                           Dec 2/77
+                             Gates Learjet Corporation@
+                  •ain1enan1e •anual
+             VERTICAL STABILIZER - DESCRIPTION AND OPERATION
+
+1.   Description
+     A.   The vertical stabilizer is a fully-cantilevered structure consisting of spars
+          and ribs covered with skin. The lower leading edge of the vertical stabilizer
+          is faired into the fuselage by the dorsal inlet which is made of fiberglass and
+          provides ram air for the heat exchanger.
+     B.   Removable fairings are located at the upper tip of the vertical stabilizer.
+          The fairings provide access to the horizontal stabilizer actuator, inboard
+          elevator hinge fitting, navigation.light electrical wiring, and ~orizontal
+          stabilizer rigging plate. Access covers are located on the RH and LH sides
+          of the vertical stabilizer and provide access to electrical wiring, lower hori-
+          zontal stabilizer actuator attach point, elevator downspring assembly~ and
+          elevator controls.
+     C.   Navigation light and horizontal stabilizer actuator wiring is also routed
+          through the vertical stabilizer.
+     D.   Attach fittings on the vertical stabilizer consist of a lower attach point for
+          the horizontal stabilizer actuator, and hinge fittings for the horizontal
+          stabilizer and the rudder. ·
+     E.   The vertical stabilizer is attached to the ·tailcone by attaching the stabilizer
+          spars to the tailcone bulkheads and by an attach angle on each side of the
+          stabilizer that is riveted to the tail.cone.
+
+
+
+
+EFFECTIVITY: ALL                                                                55-30-00
+                                                                                  Pagel
+                                                                                Jul 1'7/81 ·
+                     Gates Learjet Corporation@
+
+                  ■ainlenan■e ■an■al
+
+          A
+
+                                                   Horizontal Stabilizer
+                                                   Attach Fittings
+
+
+
+
+                                                  Rudder Attach
+                                                  Fitting
+Dorsal Inlet (R
+                                                  Attach Angle
+
+
+
+
+                            --~-Vertical Stabilizer
+                                  Attach Fitting
+
+
+                            Detail A
+                         Vertical Stabilizer
+                              Figure 1
+
+
+EFFECTIVITY: ALL ·                                               55-30-00
+                                                                    Page2
+Mt.1-98
+                                                                 Jul 17/81
+                               Gates Learjet Corporation@
+                     ■ainlenan■e ■anual
+                        RUDDER- DESCRIPTION AND OPERATION
+
+1.      Description                                                                        I
+        A.   The rudder is attached to the vertical stabilizer at two hinge po~ts. A
+             third hinge point is located in the tailcone below the vertical stabilizer.
+        B.   The rudder structure is made up of spars and ribs covered with skin. A
+             torque tube extends out the lower end of the rudder. The lower enc of the
+             torque tube fastens to the lower hinge point and has a bellcrank attached.
+             Balance weights are located in the rudder leading edge.
+        C.   A rudder trim tab is attached to the rudder trailing edge by a piano-type
+             hinge. A push-pull tube attaches the trim tab to an .electrical actuator
+             located in the rudder leading edge. The lower leading edge of the trim tab
+             contains balance weights~
+        D.   Access covers on the rudder leading edge provide access to the balance
+             weights, hinge bolts and trim tab actuator.
+        E.   For additional information on the rudder and trim tab, refer to Chapter 27.
+
+
+
+
+EFFECTIVITY: ALL                                                                 55-40-00
+MM-98                                                                              Pagel
+                                                                                 Jul 17/81
+                            Gates Learjet Corporation@
+
+                  ■linll!■il■■I! ■il-■ll·al
+ * adjustments
+   Make final balance weight
+               using this weight.
+
+
+Upper Acce8s C o v e r \
+                                             Balance Weight
+
+
+
+
+  enter Access Cover
+
+
+                                                     Upper Hinge Point
+                                                           I
+                                                         Center Hinge Point
+
+
+
+                                                                Rudder Trim Tab
+
+
+
+
+                                                               Rudder Trim Tab
+                                                               Actuator
+
+
+
+
+                                         ........__Bellcrank
+
+                Detail A
+                                 Rudder Assembly
+                               Figure 1 (Sheet 1 of 2)
+
+
+EFFECTIVITY: 25-206 AND SUBSEQUENT AND EARLIER                                55-40-00
+MIMIII       AIRCRAFT EQUIPPED WITH REDUCED                                      Page2
+             APPROACH SPEED SYSTEM                                            Jul 17/81
+                         Gates Learjet Corporation@
+               ■ai■lena■ae ■a■■al
+
+
+
+                Balance Weight
+
+
+                        Bolts
+                                       ,··
+
+
+
+                                                                       Nuts
+ Upper Access Cover
+
+
+
+
+    Upper Hinge Point--
+
+           Lower Hinge Point                                 ' - - Rudder Trim. Tab
+                                                                   (Chapter 27)
+
+  Lower Access Cover
+
+
+
+                                                         Rudder Trim Tab Actuator
+                                                         {Chapter 27)
+
+
+
+
+                                                  Lower Attach Point
+
+
+
+                          Detail A                           * Make final balance
+                                                                weight adjustment
+                                                                using this weight.
+
+                                 Rudder Assembly
+                               Figure 1 (Sheet 2 of 2)
+
+EFFECTNITY: 25-061, 25-070 THRU 25-205 NOT EQUIPPED                           55-40-00
+IUl-98      WITH REDUCED APPROACH SPEED SYSTEM                                  Page 3
+                                                                              Jul 1'1/81
+                               Gates Learjet Corporation~
+
+                     ■ai■-11■a1-11 ■a■■al
+                    ATTACH FITTINGS - DESCRIPTION AND OPERATION
+
+1.      Description
+        A.   Stabilizer attach fittings consist of fittings in the vertical and horizontal
+             stabilizers for attachment of the horizontal stabilizer, rudder, rudder trim
+             tab, and elevators.
+        B.   One attach fitting for the horizontal stabilizer is located on the forward spar
+             of the vertical .stabilizer and the other at the upper ~ edge of the verti
+             cal stabilizer•. The aft attach point serves as a pivot point for the movable
+             horizontal stabilizer and consists of a large· hinge pin inserted through heavy
+             bearings in the horizontal stabilizer and vertical• stabilizer.· The forward
+             attach point is to a heavy~chi.ty electrical actuator. The bottom end of the
+             actuator is secured to the ·vertical stabilizer forward spar with a bolt and
+             nut. The upper end of the actuator is attached by a bolt and nut to a fitting
+             on the horizontal stabilizer. For horizontal stabilizer removal and installa-
+             tion, refer to Chapter 27.                   .
+        C.   Attach fittings for the elevators are located on the rear spar of the horizon-
+             tal stabilizer. The inboard attach point consists of a bearing block secured
+             t.o the horizontal stabilizer and inserted into the elevator torque tube. The
+             center and outboard hinge points consist of a bracket and a bearing to which
+             the elevator hinge points consist of a bracket and a bearing to which the
+              elevator is secured with a bolt and nut. For elevator removal and installa-
+             tion, refer to Chapter 27.
+        D.    Two attach fittings for the rudder are located on the vertical stabilizer rear
+              spar and one in the tailcone below the vertical stabilizer. The attach points
+             on the vertical stabilizer spar consist of a bracket and bearing~ The lower
+              end of the rudder torque tube sits on a bear~g block and is secured by a
+             bolt. For rudder removal and installation~ refer to Chapter 27. ·
+        E.   Attach fittings for the rudder trim tab consist of a piano-type hinge attached
+              to the lower trailing edge of the rudder. · For rudder trim tab removal and
+              installation, refer to Chapter 27.
+        F.   Attach points for the vertical stabilizer consist of the spars that are
+              attached to the tailcone bulkheads and an attach angle on each side of the
+              vertical stabilizer that is riveted to the tailcone. For vertical stabilizer
+              removal, refer to Chapter 27.
+
+
+
+
+EFFECTMTY: ALL                                                                     55-50-00
+MM-98                                                                                 Pagel
+                                                                                   Jul 17/81
+                               Gates Learjet Corporation~
+
+                   ■ainl-■na-n■e ■an■al
+                   B                                                               Horizontal
+                                                                                   Stabilizer
+
+
+
+
+                                               Spacer
+
+
+
+
+                               Vertical Stabilizer
+                               Spar Assembly
+
+
+
+
+                                                  Aircraft 25-061, 070 thru 25-199
+                        Upper B o l t ~
+                        Retainer        ·          .,,.---
+
+
+                  Spacer
+
+
+ Stabilizer Actuat.or                                 wer Bolt
+                                                    Retainer
+
+
+
+
+                                                 ~           Vertical Stabilizer
+                                                             Spar Assembly
+
+
+                          Aircraft 25-200 and Subsequent
+
+
+                                       Detail A
+                            Horizontal- Stabilizer Atta.ch Fittings
+                                   Figure 1 (Sheet 1 of 2)
+
+
+EFFECTMTY: ALL                                                                       55-50-00
+MM-98
+                                                                                       Page2
+                                                                                     Jul 17/81
+                       Gates Learjet Corporation@
+              ■ain111nan111 ■-a·n11al
+
+
+
+             Bolt
+                                                  ~Horizontal Stabilizer
+
+
+
+
+                                                       I •
+                              --,_.,.._Horizontal Stabilizer
+                                       Attach Fittings
+
+
+
+
+                                                             Hinge Pin
+                                                             Access Cover
+
+                               Detail B
+
+
+                    Horizon1al Stabilizer Atta.ch Fittings
+                           Figure 1 (Sheet 2 of 2)
+
+EFFECTIVITY: ALL                                                            55-50-00
+                                                                              Page 3
+                                                                            Jul 17/81
+                             Gates Learjet Corporation~
+                 aainlenan■e ■an■al                ·                    ·
+          Eievator Center         --Elevator
+          Hmge Bracket                Center Hinge
+
+
+
+
+                                Center Hinge
+     orizontal Stabilizer       Access Door
+    CENTER ELEVATOR HINGE POINT
+
+           .Detail B                                         /Elevat.or Bellcrank
+
+                Bonding Jumper
+
+
+                                                                            Elevator
+
+
+
+                                                               Inboard Hinge
+                                                               Plate
+                            INBOARD ELEVATOR HINGE POINT
+
+                                        Detail A
+
+
+                                                          Elevator Tip Cover
+
+                        ELEVATOR TIP AND OUTBOARD
+                                    filNGE POINT
+
+                                   Detail C
+                               Elevator Attach Fittings
+                                      Figure 2
+
+EFFECTIVITY: ALL                                                               55-50-00
+                                                                                 Page4
+                                                                               Jul 17/81
+                              Gates Learjet Corporation@
+                  •ain1enan1e · •anual
+   Vertical Stabilizer Trailing
+   Edge Hinge Bracket
+
+             I
+             ,
+
+
+
+
+    Detail A
+
+
+   ~==er ~
+                  Leading
+                                          Hinge Bolt                  yHingeBolt
+
+                                                                      ®
+
+
+ -----~--~-~
+             _(                       I
+                                     ·/
+         ~,~                      I
+ -----~- _____
+    ~f
+ ---------~ / ~             _../
+                            ~ --.J
+
+
+
+
+   "C._    Vertical Stabilizer Trailing
+           Edge Hinge Bracket
+                                             Lower Hinge Bearing
+                                             (Tailcone )
+          Detail B
+                                                                   Detail C
+                                  Rudder Attach Fittings
+                                        Figure 3
+
+EFFECTIVITY: ALL                                                           55-50-00
+                                                                             Page 5
+                                                                          .rul 17/81
+                                      Gates Learjet Corporation@
+                          ■ain·1anan·•• ■anaal
+               HOltIZORrAL STABILIZD. AT'lACB PlffDIG -APPROVED REPAD.S
+
+1 • .APPBPVED llEPAillS
+
+   ROTE:     Maintenanc.e __ personnel should read this complete set of instructions
+             and become thoroughly familiar with tool part numbers and their func-
+             tions prior to beginning rework procedures.
+
+   A. 'lools and Equipment
+
+                           RIDIBEll              MABOP.ACTOltEll          USE
+Bushing Reamer            FCT 34379             Gates Learjet Corp.   Install and ream
+  Tool Set                                                            bushings.
+
+Rivet Gun, SX                                                         Remove and install
+                                                                      bushings.
+
+Bucking Bar                                     Procure locally       Fitting backup
+
+Dry Ice                                         Procure locally       Cold soak bushings
+
+Methyl Alcohol (Methanol)                       Procure locally       Cold soak bushings
+
+Zinc Chromate Primer                            Procure locally       Prime fitting holes
+
+
+   B. Remove Bushings
+      (1) Remove horizontal stabilizer. (Refer to _Chapter 27.)
+      (2) Remove LH and RH bushings from horizontal stabilizer attach fittings
+           using removal tools P/N FCT 34379-7 (LR) and FCT 34379-8 (RR) and a
+           rivet gun with driving tool FCT 34379-13. Back up fi-ttings with an
+           acceptable bucking bar while driving out bushings.
+   c. Inspect Pitting Boles (See figures 201 and 203.)
+      (1) Inspect hole diameter in attach fittings.     Tolerance for LR fitting
+           hole diameter is 1.2500 (+0.0005, -0.0000) inches. Tolerance for RH .
+           fitting hole diameter is l.1875 (+o.0005, -0.0000) inches. If either
+           hole is out of tolerance, contact GLC Field Service Department for
+           instructions.
+   D. Install LB Bushing (See figure 201.)
+      ( 1) Place new bushings in an alcohol/ dry ice mixture for a minimum of 20
+           minutes.
+      (2) Prime hole in LH fitting with zinc chromate primer just prior to
+           installing new bushing.
+      (3) Position FCT 34379-9 guide pin i_n RH fitting with threaded end toward
+           LR fitting.                                          .
+      (4) Slide cold-soaked LH bushing onto FCT 34379-7 driving plug and thread
+           -9 pin into -7 plug to properly align bushing in Ul fitting.
+
+BFPECT.lVITY: ALL                                                               55-50-01
+MM-98                                                                           Page 201
+Disk 857                                                                        May .25/84
+                              Gates Learjet Corpaatione
+
+                     •ainlenanae ·••■■al
+      (5)   Drive LR bushing into fitting (within 14 seconds after removing bush-
+            ing from alcohol/dry ice mixture) using a SX rivet gun with FCT
+            34379-13 driving tool.
+
+            NOTE:   The bushing is to be flush with the outboard surf ace of the
+                    elevator attach fitting within ¼0.002 inch. (See figure 202.)
+  B. Beaa LR Bushing (See figure 202.)
+     ( 1) Install FCT 34379-2 tool guide into RH fitting with shank of FCT
+          34379-11 reamer in tool guide.
+     (2) Ream LB bushing through with -11 l".eamer using· -FCT 34379-5 handle for
+          turning reamer. Apply adequate lubricant while reaming.
+     (3) Remove -11 reamer from tool guide.
+     (4) Ream· LH bushing through again using FCT 34379-1 reamer in -2 tool
+          guide. Apply adequate lubricant while reaming.
+     (5) Remove -1 reamer and -2 tool guide from RH fitting.
+     (6) Inspect reamed LR bushing inside diameter. Tolerance .for reamed LR
+          bushing ID is 1.0937 (+0.0005, -0.0000) inches. If bushing ID is out
+          of· tolerance, contact GLC Field Service Department for instructions.
+  F. Install ll.H Bushing (See figure 203.)
+     (1) Prime hole in RH fitting with zinc chromate primer just prior to
+          installig new bushing.
+     (2) Position FCT 34379-10 guide pin in LH bushing with threaded end toward
+          RH fitting.
+     (3) Slide cold-soaked RH bushing onto FCT 34379-8 driving plug and thread
+          -10 pin into -8 plug to properly align bushing in RH fitting.
+     (4) Drive RH bushing into fitting (within 14 seconds after removing bush-
+          ing from alcohol/dry ice mixture) using a SX rivet gun with FCT
+          34379-13 driving tool~
+            BOTB:   The bushing is to be flush with the outboard surface of the
+                    elevator attach fitting within ±0.002 inch. (See figure 204.)
+
+  G. Ream BB Bushing (See figure 204.)
+     ( 1) Install FCT 34379-4 tool guide into LR bushing with shank of FCT
+          34379-12 reamer in tool guide.
+     (2) Ream RH bushing through with -12 reamer using FCT 34379-5 handle for
+          turning-reamer. Apply adequate lubricant while reaming.
+     (3) Remove -12 reamer from tool guide.
+     (4) Ream R bushing through again using FCT 34379-3 reamer in -4 tool
+          guide. Apply adequate -lubricant while reaming.
+     (5) Remove -3 reamer and -4 tool guide from LR bushing.
+     ( 6) Inspect reamed RH bushing inside diameter.    Tolerance for reamed RH
+          bushing ID is 1.0312 (+o.0005, -0.0000) inches. If bushing ID is out
+          of tolerance, contact GLC Field Service Department for instructions.
+  B. Install Borlzontal Stabilizer (Refer to Chapter 27.)
+
+
+
+
+EFPECTIVITY: ALL                                                        55-50-01
+MM-98                                                                   Page 202
+Disk 857                                                                May 25/84
+                           Gates Learjet Corporation•
+
+                    ■alaleaaa■e ■aa■al
+
+
+
+
+                     * Bushing
+
+
+                -7 Plug                                     ·----RH
+                                                                  Fitting
+
+
+
+                                                            -9 Guide Pin
+
+
+                             Driver           LH Fitting*
+
+
+
+
+*Tolerance for LR fitting hole diameter is 1.2500 (+0.0005, -0.0000) inch. Apply
+ zinc chromate primer to fitting immediately prior to installing cold-soaked
+ bushing.
+
+
+
+
+  5-30C
+
+
+           Horizontal Stabilizer Attach Pi.ttiog LB Bushing Installation
+                                    n.gure 201
+
+EnBC'.fiVITY: ALL                                                          55-50-01
+MM-98                                                                      Page 203
+Disk 857                                                                   May 25/84
+                                Gates Learjet Corporation•
+                    ■ainlenanae · ■an■al
+
+                                                 r-5      Randle
+
+
+
+
+                                                     -2 Tool Guide
+
+
+
+
+                                                   1st-Stage Reamer
+                                                   2nd-Stage Reamer
+
+
+
+
+   *Bushing outboard
+    edge is to be
+    flush with fitting
+    ±o.002 inch.
+                                                        Horizontal Stabilizer
+                                                        Attach Fitting
+                     Bushing*
+
+
+
+
+       5-30C
+                                      Detail A
+               Horizontal Stabilizer Actach Pi.tting Reaming LR Bosld.ng
+                                      figure 202
+
+BPPBCTIYITY: ALL                                                           55-50-01
+MM-98                                                                      Page 204
+Disk 857                                                                   May 25/84
+                            Gates Learjet Corporation•
+                   m1in1en1nae man■al
+
+
+
+
+                                                        -8 Plug
+
+   -10 Guide Pin
+
+
+
+
+  LH Bushing
+
+
+
+
+*Tolerance for RH fitting hole diameter is 1.1875 (+0.0005, -0.0000) inch •. Apply
+ zinc chromate primer to fitting immediately prior to installing cold-soaked
+ bushing.
+
+
+
+
+     5-30C
+
+             Borlzoo~al Stabilizer Attach Pitting RH Bush:log.Iostallation
+                                      ftgure 203
+
+BnBC'fiVITY: ALL                                                             55-50-01
+MM-98                                                                        Page 205
+Disk 857                                                                     May 25/84
+                                Gates Learjet Corporation•
+                      ■ainlena■■e ■an11al
+
+
+
+      -12 lst-st·age Reamer
+      -3 2nd-Stage Reamer
+
+
+
+
+                    -5 Handle
+
+
+
+   *Bushing outboard
+    edge is to be
+    flush with fitting
+    :t:o.002 inch.
+
+
+
+                        Bushing*
+                                                             Horizontal Stabilizer
+                                                             Attach Fitting
+
+
+
+
+       5-30C
+                                     Detail A
+               Horizontal Stabilizer Attach Pltti:og Reaming 1lB Bushing
+                                      l'lgure 204
+
+BPPBC'fiVITY: ALL                                                           55-50-01
+MM-98                                                                       Page 206
+Disk 857                                                                    May 25/84
+

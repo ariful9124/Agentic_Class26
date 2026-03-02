@@ -1,0 +1,3638 @@
+   .            @.
+       GATES LEARJET CORPORATION
+
+ ■ain1enan1e ■an11al
+
+       CHAPTER
+
+
+
+
+COMMUNICATIONS
+                                            Gates Learjet Corporation@
+
+
+~     Chapter
+      Section
+                              ·■ai■ll■il■_l·I
+                                                                    Chapter
+                                                                    Section
+                                                                            •••••••
+      Subject                    Page               Date            Subject                     Page              Date
+
+      23-ntle                                                        23-12-03                     201            Apr 30/82
+    •23-List of                                                   · 23-12-03                    . 202            Apr 30/82
+         Effective Pages              1             Jul 5/83 ·      '23-12-03                     203            Apr 30/82
+      23-List of                                                     23-12-04                     201            Apr 30/82
+         Effective Pages             2           Apr 30/82           23-12-05                     201            Apr 30/82
+      23-Contents                    1           Apr 30/82           23~13-00                       1            Apr 30/82
+      23-Contents                    2           Apr 30/82           23-13-00                       2·           Apr 30/82
+      23-00-00                       1           Apr 30/82           23-13-00 ·                     3            Apr 30/82
+      23-10-00                       1           Apr 30/82 ·         23-13-00                     201            Apr 30/82
+      23-11-00                       1           Apr 30/82           23-13-00                     202            Apr 30/82"
+      23-11-00                       2           Apr 30/82           23-13-01 ·                   201            Apr 30/82 ·
+      23-11-00                       3           Apr 30/82         · 23-13-02                     201            Apr 30/82
+      23-11-00                       4           Apr 30/82           23-13-03                     201            Apr 30/82
+      23-11-00                     201           Apr 30/82           23-13-04                     201          · Apr 30/82
+      23-11-00                     202           Apr 30/82           23-13-05                     201            Apt 30/82
+    · 23-11-00                     203           Apr 30/82           23-20-00                       1               Deleted
+      23-11-00                     204           Apr 30/82        · 23-20-00                        2               Deleted
+      23-11-01                     201           Apr 30/82           23-20-00                     201               Deleted
+      23-11-01                     202           Apr3O/82            23-20-00                     202               Deleted
+      23-11-02                     201           Apr 30/82           23-20-00                     203               Deleted.
+      23-11-02                     202           Apr 30/82         ·23-30-00                        1            Apr 30/82
+      23-11-02                     203           Apr 30/82           23-30-00                     201               Deleted
+~     23-11-02                     204           Apr 30/82           23-30-00                     202               Deleted
+      23-11-03                     201           Apr 30/82 .         23-30-01                     201            Apr 30/82
+      23-12-00                       1           Apr 30/82           23-30-02                     201            Apr 30/82
+      23-12-00                       2           Apr 30/82           23-30-02                     202            Apr 30/82
+      23-12-00                       3           Apr 30/82           23-50-00                       1            Apr 30/82
+      23-12:.00                      4           Apr 30/82           23-50-00                       2            Apr 30/82
+      23-12-00                       5           Apr 30/82         . 23-50-00                       3            Apr 30/82
+      23-12-00                       6           Apr 30/82           23-50-00                       4            Apr 30/82
+      23-12-00                        7          Apr 30/82           23-50-00                     201               Deleted
+      23-12-00                     ·201          Apr 30/82         · ?3-50-01                     201            Apr 30/82
+      23-12-00                     202           Apr 30/82          '23-50-01                     202            Apr 30/82
+      23-12-01                      201          Apr 30/82           23-50-02                     201            Apr30/82
+      23-12-01                      202          Apr 30/82           23-50-03                     201            Apr 30/82
+      23-12-02                     201           Apr 30/82 .         23-60-00                     201            Apr 30/82
+      23-12-02                   . 202           Apr 30/82_          23-60-00.                    202            Apr 30/82
+
+
+
+
+      Insert Latest Revised Pages; Destroy Superseded or Deleted Pages.
+    • Asterisk indicates pages revised, added or deleted by current revision.
+      The portion of the text affected by ·the current revision is indicated by a vertical line In the outer margin of the page.
+
+
+                                                                                           23-LIST OF EFFECTIVE PAGES
+                                                                                                                 Page 1
+    MM,98   ·                                                                                                  Jul5/83
+                       Gates Learjet Corporation®
+
+               ■al■I■■•••• · ■a■■al
+    Chapter                           Chapter                                       /-~
+    Section.                          Section
+    Subject     Page        Date      Subject           Page          Date
+·23-60-00 ·    203       Apr 30/82
+·23-60-00      204       Apr 30/82
+·23-60-00      205       Apr 30/82
+·23-60-00      206         Deleted
+·23-70-00        1       Apr 30/82
+·23-70-00       .2       Apr30/82
+·23-70-00        3       Apr 30/82
+·23-70-00      201         Deleted
+·23-70-00      202         Deleted
+·23-70-01      201       Apr 30/82
+·23-70-01      202       Apr 30/82
+·23-70-01      203       Apr 30/82
+·23-70-01      204       Apr30/82
+·23-70-01      205       Apr 30/82
+·23-70-01      206       Apr 30/82
+·23-70-02      201       Apr 30/82
+
+
+
+
+                                                    23~LIST OF EFFECTIVE PAGES
+                                                                          Page 2
+MM-98
+                                                                      Apr 30/82 ·
+                                  Gates Learjet Corporation@
+                     ■ainll!RIIIII! ■IIIUII
+                                                                                  Chapter
+                                                                                  Section
+ Subiect                                                                          Subject
+
+COMMUNICATIONS - DESCRIPTION AND OPERATION                               ...      23-00-00
+   Description • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •        23-00-00           1
+SPEECH COMMUNICATION - DESCRIPTION AND
+     · OPERATION • • • • • • • • • • • • • • • • • • • • • • • • • •               23-10-00
+   Description • • • • • . • ·• • • • • • • • • • • • 4! • • • • • • • • • •       23-10-00          1
+   Operation ••••••••••••••.•••••••••••••••••                                      23-10-00          1
+VHF COMMUNICATION- DESCRIPTION AND OPERATION.                                      23-11-00
+   Descripti"on • • ~ • • • • • • • • • • • • • • • • •· • • • • • • • • • ~     . 23-11-00          1
+     Operation • • • •_·• • ~ • .• • • • • • • • • • • • • . • • • • • • ~ • •     23-11-00          2
+    VHF Communication - Maintenance Practices •••••••                              23-11-00
+       Inspection/ Checlt • • •· • • • • • • • • • • • • • • • • • • • •           23.;.11:..00   . 201
+   VHF Transceiver - Maintenance Practice~ •••••••••                               23:-11-01
+       Removal/Installation . • • • • • • • • • • •. • • • • • • • • •           . 23-11-01        201
+   VHF Antenna - Maintenance Practices ·• • • • • • • • • • • •                    23-11-02
+       Removal/Installation • • • • • .,. • • • • • • • • • • • • • •            . 23-11-02        201
+    VHF Control Bead. - Maintenance Practices • • • • • • • •                     -23-11-03
+       Removal/Installation •.••••••••••••.•••••••                                 23-11-03        201
+BF COMMUNICATION - DESCRIPTION AND OPERATION ••                                    ,23-12-00
+   DeScription • • • • •. • • • • • • • • • •. • • •·• • •. • • • •-• • • • •     '23-:12-00         1
+     ~eratton ; • • •.•.-• • • • • • • • • • • • • • • . . • • • • • • • • •       23-12-00          5
+    BF Communication - Maintenance Practices •· •••••••                            23-12-00
+         Inspection/ CheCk • • • •. • • • • • • • • • • ·• • • • • • • • •         23-12-00        201
+    Receiver/Exciter or Transceiver - Maintenance
+             Practic eS • • • • • • • • • • .- • • • • .• . • • • • • • • •       23-12-01
+         Removal/Installation • • • • • • • ~ • .• • • • • • • • • • • •          23-12-01         201
+    Power Amplifier/ Coupler - Maintenance Practices ••.•                         23-12-02
+         Removal/Installation • • • • • • • • • • • • • • • . • • • • •          ·23-12-02         201
+    BF Antenna - Maintenance Practices • • • • • • • • • • • • •                  23-12-03
+         Removal/Ins.tallation • • • • • • • • • • • • • • • • • • • • •          23-12-03         201
+    HF Control Panel - Maintenance Practices • • • • • • • • •                    23-12-04
+         Removal/Installation • • • • • • • • • • • • • • • • • • • • •           23-12-04         201
+    BF Audio Adapter Box - Maintenance Practices ••••••                           23-12-05
+         Removal/Installation • • • • • • • • • • • • · • • • • • • • • -         23-12-05         201
+FLITEFONE - DESCRIPTION AND OPERATION ••••••••                                    23-13-00
+    Description • • • • • • • • • ·• • • • • • • • • • • • • • • • • • • • •      23-13-00           1
+    OJ,eration • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •      23-13-00           1
+    Flitefone System - Maintenance Practices •••••••••                           ·23-13-00
+         Inspection/ Check • • • • • • • • • • • • ~ • • • • • • • • • •          23-13-00         201
+    Flitefone Transceiver - Maintenance Practices • • • • • •                     23-13-01
+         Removal/Installation • • • • • • • • • • • • • • • • • • • •             23-13-01         201
+
+
+
+                                                                                         23 - CONTENTS
+                                                                                                  Page 1
+                                                                                               Apr 30/82
+                                 Gates Learjet Corporation®
+                     ■ain1enana1 ■anaal
+                                                                               Chapter
+                                                                               Section
+Subject                                                                        Subject
+
+    Flitefone Antenna - Maintenance Practices .• • • . • • • . •               23-13-02
+         Removal/Installation •••••••••••••••.••••                             23-13-02      201
+    Flitefone Control Unit - Maintenance Practices ••••••                      23-13-03
+         Removal/Installation •••••••••••••••••.••                             23-13-03      201
+   HF/Flitefone Interface Relay - Maintenance Practices •                      23-13-04
+         Removal/Installation • • • • • • • . • • • • • • • • • • • •          23-13-04      201
+    Flitefone Sonalert - Maintenance Practices ••••• , •••                     23-13-05
+         Removal/Installation ••••.•••••••••..••••                             23-13-05      201'
+PASSENGER ADDRESS AND ENTERTAINMENT -
+         DESCRIPTION AND OPE AA TION .• -•••••••••.•.                           23-30-00
+   Description . . . . . . . . . . . . . . . . • . . . . . . . . . . . . .      23-30-00        1
+   Operation ~ . _. . ~ . . . . . . . ·. . . . . . . . . • . . . . . . . . .    23-30-00 ·      1
+    Passenger Speaker - Maintenance Practices ••.•••••                          23-30-01
+         Removal/Installation • • • • • • • • • • • • • • • . • • • • •         23-30-01·     201
+    Tone Generator - Maintenance Practices • • • • • • • • • •                  23-30-02.
+         Removal/Installation ••••••••••••• _••••••••                           23-30-02      201
+AUDIO INTEGRATING - DESCRIPTION AND OPERATION ••                                23-50-00
+   Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . •      23-50-00        1
+    Operation • • ~ • . . • . . . • • • . . . . . . . . . . • • . . . . . .     23-50-00 ..     1
+   Audio Control - Maintenance Practices • • • • • • • • • • •
+         Removal/Installation ••••••••••••••_••••••
+                                                                                23-50-0l
+                                                                               .23-50-01    - 201
+                                                                                                      ,r   -.J
+         Adjustment/Test . -. . . . . . . . . . . . . . . . • . . , ...         23-50-01      201
+    Microphone Control Panel - Maintenance Practices •••                        23-50-02
+         Removal/Installation •.•••..•••••.•••••••.•                            23-50-02      201
+    Cockpit Speaker - Maintenance Practices • • • • • • • • • •                 23-50-03
+         Removal/Installation •••••.••••••••.•••••                              23-50-03      201
+STATIC DISCHARGING - MAINTENANCE PRACTICES ••••                                 23-60-00
+   Removal/Installation •••••••••••••••••••••••                                 23-60-00      201
+   Adjustment/Test • • • • • • • • • • • • . • . • . • . • •.••••               23-60~00      203
+   Inspection/ Check . . . . . . . . . . . . . . . . . .. . . . . . . . .       23-60-00.     205
+VOICE RECORDER - DESCRIPTION AND OPERATION ••••                                 23-70-00.
+    I>escription . . • . . . . . . . . . . . . . • . . . . . . . . . . . . •    23-70..:00      1
+    Operation . . . . . . . . . . . . . . . . . • . . . . . • • . . . . . •     23-70-00        1
+    Voice Recorder - Maintenance Practices •••••••.•• -                         23-70-01
+         Removal/Installation . • • . . . . . . . . . • . . . • • • . .         23-70-01      201
+         Inspection/ Check . . . . . . . . . . . . . . • . . • . . . • .        23-'10-01     202
+    Voice Recorder Control Panel - Maintenance Practices •                      23-70-02
+         Removal/Installation . . . . . . . . . . . . . . . . • • •.            23-'10-02     201
+
+
+
+
+EFFECTMTY: ALL                                                                      23 - CONTENTS
+                                                                                             Page 2
+                                                                                          Apr 30/82
+                           Gates Learjet Corporation@>
+                 -ai■1enan1e ■an■al
+                COMMUNICATIONS - DESCRIPTION AND OPEBATION
+
+1.   Description
+     A.   This chapter includes maintenance information for speech communication,
+          passenger address and entertainment, audio integrating, static discharging,
+          and voice recordmg systems.
+
+
+
+
+EFFECTIVITY: . ALL                                                           23-00-00
+                                                                               Pagel
+                                                                            Apr 30/82
+                                                                                                                                            . , ..
+
+                                                                                                                                                     ..• • • r. • • ~: .: •• ••
+                                                 .. ·\. . .
+                                                    . . ·-                                                                                                 . ·-·
+
+
+
+                                                                                           ,.:••.:
+                                                        . . ~ .·_...
+                                                  .••••••,?•••I
+                                                                            .~.:       '
+
+
+
+
+                                    ;       ..                                                                                                                                           ',.   ·:·
+                 . ·, :-:.
+
+
+
+
+                                                                  -:• ..                                                                                                                                                             ,:·-· ·....
+                                                                                                                                                                         •·.
+
+
+                                                         .. ·:..,; .·
+                                                                                                                                                                                                     ,
+                                                                                                                                                                                                         ·,..
+                                                    •   ...                                                                                                                                                                        ·.:
+
+
+                                                                                                                                                            •,     ...
+                                                                .... .
+                       .. ...
+
+                                                                                                                                                                                                                                                              . .· ..
+
+
+
+
+                             .      ·...
+           : : _..        ···•: ♦                                                                                                                                                                               .   ......... .
+                                                                                                                         : ....
+
+
+      ' ..                          ·   ..                                 :.-..
+                                                                                                     . . ••.                                         ·.· ..
+      ;·    .-   .. . .                             . ..                                        :. : -:
+    . . :::      .·:· ·.: .;:_·.::.                                                .       ·.         :   .....
+                                                                                                              ..
+                                                                                                    ':. · ··' .
+                                                                                                . .::,,._·.·:·; ..   ·
+                                                              . •···. -
+                             .. ..      _
+
+
+
+
+                                                                                                                                                                                                                         ·......
+.. ·...                                                                                         . ··:
+
+                                                                                                          . • ...
+                                                                                                                                           .. : ..
+                                                              ....
+
+
+                     ...
+                      .   ·... ·..-
+                                                                                                                                                                                  .•··
+                                                                                                     ···:..     ..
+                                                                             ..... :- ..
+
+
+                                                                                                                                                                     ..· :.· .
+                                                                                                                                                                                                                                                   ·.......
+
+                                                                                                                              ; ·- ·•.•:
+                                                                                                                              •·. -..-·.
+
+
+
+
+                                                                                                                             ·. ·.:· ···:.
+                            Gates Learjet Corporation@
+                 ·111ain1enan■e ■an■al
+             SPEE.CH COMMUNICATION - DESCRIPTION AND OPERATION
+
+ 1.   Description
+      A.   The· speech communication system consists of the VHF communication sys-
+           tem, HF communication system, and UHF Flitefone system.
+
+           NOTE:    The speech communications installations may vary depending on
+                    optional equipment installed. The mechanic should check the list
+                    of optional equipment on his particular airplane to determine which
+                    particular system is installed before proceeding further.
+
+ 2.   Operation
+      A.   VHF and HF systems provide for communications between aircraft and
+           ground stations and from aircraft to aircraft. Flitefone systems provide
+           for communications from aircraft to ground using UHF frequencies (or HF
+           frequencies if so equipped).
+
+
+
+
+· EFFECTIVITY: OPTIONAL                                                        23-10-00
+                                                                                 Page 1
+                                                                              Apr 30/82.
+             "{   -~
+
+             .~   .
+
+
+
+
+:.,.·_· ..
+                    .. .   Gates Learjet Corporation.,
+                   ■ai·111■a■111 ■a■■al
+             VHF 00:MMUNICATION - DESCBIPTION AND OPERATION
+
+1.   Description
+
+     NOTE: The do.al VHF system may utilize the VHF20A or VHF20B in any combi-
+           nation for COMM 1 and COMM 2.           .
+
+     A.   Collins VHF20A/VHF20B
+          (1) The do.al VHF system provides for VHF airborne communication for ·
+                 COMM 1 (VHF20A) in the frequency range from 117. 000 MHz to
+               · 135. 975 MHz and COMM 2 (VHF20B) in the frequency range from
+                 116. 000 MHz to 151. 975 MHz.
+          (2) The OOMM 1 (VHF20A) system consists of a transceiver, antenna,
+                 and control head. ·
+                 (a) The transceiver is mounted 1n the nose compartment.
+                 (b) The antenna ts mounted on t.op of the fuselage at frame 17 or
+                        frame 14.
+                 (c) The control head is located on the center instrument panel.
+          (3)    The 00~2 (VHF20B) system consists of a transceiver, antenna,
+                 and a control head.      ·
+                 (a) The transceiver is mounted in the nose compartment.
+                 (bf The antenna is mounted on the bott.om of the fuselage at frame 27.
+                        or frame 17.
+                 (c) The control head is located on the center :instrument panel.
+          (4) The transceivers are complete~ solid-state and cc;,ntain automatic
+                 carrier-to-noise and carrier-override squelch circuits. A modulator
+                 compression circuit prevents transmitter over-modo.lation.
+          (5)    The received VHF information is routed through the pilot's or copilot's
+                 audio control panel for audible control.
+     B.   Wulfsbe:rg WT200, Triple VHF System
+          (1) The triple VHF system provides for VHF alrborn.e communication.
+          (2) The triple VHF system utilizes three separate systems. Two systems
+                 make up COMM lA and COMM lB, and the third system makes up
+                 COMM2.
+          (3)    COMM 2 is used as a secondary system and as the emergency system
+                 in the event of electrical power loss on the aircraft.
+          (4) COMM lA and COMM 1B utilize the same antenna, located on the top
+                 of the fuselage at frame 17 or frame 14.
+          (5)    The COMM 2 antenna is located on the bott.om of the fuselage at frame
+                 27 or frame 17.
+
+
+
+
+EFFECTlVITY: OPTIONAL                                                         23-11-00
+                                                                                Pagel
+                                                                             Apr 30/82
+                            Gates Learjet Corporation~ -
+                  ■ainlenance ■anual
+          (6)    The three VHF transceivers are mounted in racks located in the nose
+                 compartment.
+           (7)   Frequency range of each transceiver is from 118. 00 M~ to 135. 975
+                 MHz in 25 KHz increments.
+          (8)    Control heads for COMM lA, COMM lB, and 00::MM 2 are located on
+                 the cent.er instrument panel.
+
+2.   Operation
+     A.   The operation of each VHF syst.em is 1he same.
+          (1) Select the frequency on the VHF control head to be used for communi-
+               cation.
+          (2)  The selected transceiver will receive all communications transmitted
+               within its range on the selected frequency.
+          (3)  The received signal is picked up by 1he ·VHF antenna and routed to the
+               transceiver, which will filt.er the audible COIIlPlunication from the
+               carrier signal. The audible signal is then amplified and sent to 1he
+               audio control panel where it is directed to the speakers or headphones.
+          (4)  To transmit, the operator speaks into the keyed microphone which will
+               modulate the carrier frequency being transmitted by 1he transceiver.
+          ( 5) The carrier frequency is the frequency selected-on the control head.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                         23-U-OO
+                                                                                Page2
+                                                                             Apr 30/82
+                           Gates Learjet Corporation@
+                   •ain1enan1e •an11al
+
+
+
+
+VHF Control Head
+(23-11-03)
+
+
+
+
+                   :VHF Transceiver
+                   (23-11-01) .
+
+
+
+
+                      VHF Communications Equipment Locator
+                                  Figure 1
+
+EFFECTIVITY: OPTIONAL.                                        23-11-00
+NM-t&                                                           Page 3
+                                                             Apr 30/82
+                                        Gates Learjet Corporation@
+                                 main1anan111 -·-a■■al
+
+
+
+
+           VHFl                  --          28 VDC       re   COMM 1
+        TRANSCEIVER              ·-                   I
+                                                      I    PRI COMM ANTENNA .   l
+                                         -                PILOTS AUDIO CONTROL P NL  } (REFER TO
+                                        T
+                                                          COPILOTS AUDIO CONTROL PNL    23-50-00)
+                         j   l
+         ,   I
+
+
+
+
+                  COMMl           -      -
+                 CONTROL                T                 PILOTS AUDIO CONTROL P NL  ) (REFER TO
+                   HEAD.                                  COPILOTS AUDIO CONTROL PNL    23-50-00)
+
+                                                          PILOTS INSTR PNL
+
+              COMM2
+             CONTROL                     1                PILOTS AUDIO CONTROL P NL  }'(REFER TO
+                  HEAD
+                                 --
+                                        -                 COPILOTS AUDIO CONTROL PNL    23-50-00)
+
+         ~~
+                             I
+
+                                         l                PILOTS AUDIO CONTROL P NL    l (REFE~      TO
+
+           VHF2                   -
+                                         -            I
+                                                          COPILOTS AUDIO CONTROL PNL     . 23-50..,;00)
+
+        TRANSCEIVER                                   I       COMM ANTENNA      I
+                                 --          28 VDC ~ O COMM 2
+
+
+
+
+                                      VHF Communications Block Diagram
+                                                 Figure 1
+
+
+I.   EFFECTIVITY,· OPTIONAL                                                                    23-11-00
+                                                                                                 Page4
+                                                                                              .Apr 30/82
+                         . ..     Gates Learjet.Corporation•             .
+                      ■ain1ena11aI·:: manual
+                    . VHF COMMUNICATION·- MAINTENANCE PRACTICES.
+
+1.· ·   Inspection/Check . · .           ..                                              .
+        A~    Operational Check' (Dual Col.li:ils 20A/20B VHF System) _(See figures 201 and
+              202.)                                             .                      ·
+
+             · NOTE: . The operation of ctu:a1 Collins 20A/20B BHF system is the same for
+                      .·each systein. . . .           ..    .   .        . .
+
+              (1)     Apply electricai:power 1:9 aircraft•.
+              (2)     Depress COMM 1 and/or COMM 2 circuit breaker located on pilot's
+                      and/or copilot's circuit breaker panel. . · '
+              (3)     Turli VOL-OFF Switch on control head CW until i~ clicks. Further
+                      rotation of mt.ch adjusts transmit volume •.
+              (4)   · Set Frequency Select Control on control head to desired frequency •.
+              (5)     On pilot's or copilot's audio control panel, set Microphone Function
+                      Selector to desired VHF system and set VHFl-OFF and/or VHF2-OFF
+                      Switch to either VHFl or VHF2. Then set SPKB/PHO~-PHONE-
+                      EMERGENCY SWitch to PHONE.
+              (6)     Push COMM TEST Switch on control head and listen for noise on head-
+                      set as transceiver squelch circuit is overridden and noise is applied to
+                      aircraft audio system.
+              (7)     Adjust_ MASTER VOL control on audio control panel to desired audio
+                      level.
+              (8)     Key ~crophone and obtain communication check with selected local
+                      station.
+
+                     NOTE: • The VHF communication range is generally termed as line
+                             of sight within a maximum range of 200 miles •
+
+                            .. • Aircraft altimde affects line-of-sight range as follows:. At
+                                 10, 000 feet, range is approximately 100 miles. The 200-
+                                 mile range or maximum range occurs at 30, 000 feet and
+                                 above.
+
+                                • Communication range while aircraft is on ground will vary
+                                  drastically due t.o interference from buildings and other
+                                  objects.
+
+        B.     Operational Check (Triple Wulfsberg WT200 VHF System) (See figures 201
+               and 202.) ._        .
+             · (1 ). . Apply electrical power to aircraft.
+               (2) . Obtain two local VHF test frequencies from tower or test facility; set
+                       COMM lA Frequency Select Control to highest test frequency and set
+                       COMM lB Frequency Select Control to lowest test frequency.
+
+
+EFFECTIVITY: OPTIONAL                                                               · 23-11-00
+                                                                                      Page201
+                                                                                    Apr 30/82
+                                   Gates Learjet Corporation~
+
+                      -ai■l■na■ae -a■■al
+COMM2 Frequency Indicator                                      COMM2 Control Head
+
+
+
+
+COMMl Frequency Indicator
+
+
+COMM! Frequency Select Control                                                   OMMl Frequency Select Contro
+
+
+
+
+                                  . Dual Collins VHF 20A and VHF 208 Systems              OMM 1 Control Head
+
+
+
+
+COMM2 Frequency Indicator                          ---COMM2 Control Head
+
+
+COMM2 Frequency Select Control
+
+
+
+COMM2 VOL-OFF Swltch---.....11
+
+
+
+
+                                                                               /OMMl              Conool Heod
+
+
+
+
+                                          Triple Wulfsberg W1200 System        COMMlB Frequency Select Control
+
+COMMlA Frequency Select Control           VHF Control Heads
+                                             Figure 201
+
+EFFECTIVITY: OPTIONAL                                                                         23-11-00
+                                                                                               Page 202
+                                                                                              Apr 30/82
+                           Gates Learjet Corporation~              .
+                ···aainle■a■ae ■.an11al
+         (3)    Assure that COMM lA circuit breaker located on pilot's circuit
+                breaker is depressed. .
+         (4)    Assure that COMM lB, COMM 2, and COMM 2 A/C BAT circUit
+                breakers located on copilot• s circuit breaker panel are depressed.
+         (5)    On COMM lA, COMM lB, and COMM:~ control heads, rotate VOL-
+                OFF Switches CW until they click. Further rotation adjusts transmit •
+                volume.
+         (6)    On pilot or copilot's audio control panel, set Microphone Function
+                Selector to VHFl, VHFl-OFF Switch to VHFl, and SP~PHONE-
+                PHONE-EMERGENCY Switch .to PHONE.                               .
+         ('7)   Depress COMM 1 TEST Switch oJi control head and listen for noise on
+                heads• as transceiver squelch circuit is overridden. and noise is
+                applied to aircraft audio system.          .
+         (8)    Adjust MASTER VOL control on audio control panel to desired audio
+                level.                                                .
+         (9)    Depress COMM lA TFR Switch on COMM 1 control Jiead. COMM lA
+                TFR light shall ffluminate.
+        (10)    Make contact With local tower or test facility and verify frequency
+                setting and transceiver operation.
+        (11)    Depress COMM lB TFR Switch on COMM 1 control head. COMM lB
+                TFR)ight shall ffluminate.
+        (12)    Make contact with local tower or test facility and verify frequency
+                setting and transceiver operation.
+        (13)    Set COMM 2 Frequency Select Control to highest test frequency
+                obtained.
+        (14)    On pilot•s and' copilot's audio control panels set Selector Switch to
+                VHF2, VHF2-OFF Switch to VHF2, and VH.Fl-OFF Switch to OFF.
+        (15)    Make contact with local tower or test facility and verify frequency
+                setting and transceiver operation.
+        (16)    Set EMER BAT 2 ON-OFF Switch, located on pilot's instrument panel,
+                to ON. Emergency power light located on pilot• s instrument panel
+                shall ilb1miuate.
+        (17)    Remove electrical power from aircraft.
+        (18)    Set pilot's and copilot's audio control panelSPKR/PHONE-PHONE-
+                EMERGENCY Switches to EMERGENCY.
+        (19)    Make contact with local tower or test facility and verify frequency
+                setting and transceiver operation on emergency power.
+        (20)    Set EMER BAT 2 ON-OFF Switch to OFF. Emergency power light
+                shall extinguish.
+        (21)    Set pilot's and copilot's audio control panel SPKR/PHONE-PHONE-
+                EMERGENCY Switches to PHONE, VHF2-OFF Switches to OFF, and
+                 VHFl-OFF Switches t.o VHFl.
+        (22)     Apply electrical power to aircraft.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                       · 23-11-00
+                                                                              Page 203
+                                                                           · Apr 30/82
+                               (;.ates Learjet Corporation@
+
+                    . ■al■ll!■a■■I! .naa11■al
+             (23)   Depress CO:MM lA TFR Switch. COMM lA TFR light shall i11nminat.e.
+             (24)   Pull COMM lA circuit breaker. COMM lA TFR. light shall extinguish,. -
+                    and COMM lB TFR light shall illuminat.e.
+             (25)   Contact local tower or test facility and verify that contact is made on
+                    COMM 1B frequency setting.
+             (26)   Depress COMM 1A circuit breaker.
+             (27)   Depress COMM lB TFR SWitch. COMM lB TFR light shall illuminate.
+             (28)   Pull COMM lB .circuit breaker. COMM lB light shall extinguish and
+                    COMM lA TFR light shall iJb1minat.e.
+             (29)   Contact local tower or test facility and verify that contact is made on
+                    COMM lA frequency setting.
+             (30)   Rotat.e COMM lA, COMM lB, and COMM 2 VOL-OFF Switches t.o
+                    OFF.
+             (31)   Remove electrical power from aircraft.
+
+
+
+
+         Mixer Switches
+
+
+
+
+                                 !IIERGOICY
+
+                                        AUDIO CONTROL
+
+                                                                  Microphone
+                                                                  Function Selector
+
+
+
+
+                                    Audio Control Panel
+                                         Figure 202
+
+
+EFFE CTIVITY:. OPTIONAL                                                          23-U-oo:
+                                                                                  Page204
+JIM-ff
+                                                                               · Apr 30/82
+                           Gates Learjet Corporation®
+                 ■ain111■a■1111 ■a■ual
+                 VHF TRANSCEIVER - MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+     A.  Remove Transceiver (Collins VHF20A/VllF20B) (See figure 201.)
+         (1)   Remove electrical power from aircraft. ·
+         (2)   Remove RH nose compartment access door.
+
+                CAUTION: . DO NOT SHAKE SIDEWAYS OR TWIST TRANSCEIVER
+                           WHILE REMOVING FROM MOUNT RACK AS DAMAGE
+                           TO MATING CONNECT.ORS CAN RESULT.
+
+          (~)   Loosen hold-down nuts securing transceiver in mounting rack.
+          (4)   Pull transceiver straight out of mounting rack.
+     B.   Install Transceiver (Collins VHF20A/VHF20B) (See figure 201.)
+
+          NOTE: Inspect transceiver and mounting rack electrical. connecj;ors for
+                damaged, tarnished, or bent p:ins and sockets before :installation.
+
+          (1)
+          (2)
+          (3)
+
+
+A
+
+
+
+                                                                     --Electrical.
+                                                                          Connector
+                                                                     --.Int.erface
+                                                                         ~elay
+                                                                         Electrical.
+                                                                         Connector
+                                                                      "-FS152
+
+                                                                      Mounting Rack
+                                              ~                .
+
+                                                    '--FS13'1
+                COMM 2 Transceiver       Collins VHF 20A and VHF 20B Transceivers
+                                           Detail A
+                     VHF Transceiver and Rack Installation
+                               Figure 201
+EFFECTIVITY: OPTIONAL                                                        23-11-01
+                                                                             Page 201
+                                                                            Apr 30/82
+                                 Gates Learjet Corporation~
+                       ■ain1e■a■1e ■a11■al
+          c,.   Remove Transceiver (Wulfsberg WT200) (See figure 202.)
+                (1) Remove electrical power from aircraft.
+                                                                                                   4
+                (2) Remove RH nose coro.parbnent access door.
+                (3)    Disconnect antenna coax connector from transceiver.
+                (4)    Disconnect electrical connector from transceiver.
+                (5)    Loosen hold-down nuts and remove transceiver from mounting rack.
+         D.     Inst.all Transceiver (Wu1fsberg WT200) (See figure ~02. )
+                (1)    Install transceiver in mounting rack and secure with hold-down nuts.
+                (2)    Connect antenna coax connector to transceiver•...
+                (3)    Connect electrical connector to transceiver.
+                (4)    Install RH nose compartment access door•. · ·
+                ( 5)   Restore ·electrical power to aircraft.
+
+
+
+                                           COMM 2 Transceiver
+
+
+
+
+    Electrical Connector~
+
+
+
+
+                ~
+                                                                          ~FS152
+                                                       ..            COMM lA Transceiver
+                                                    . . . . . . . ~ F S 13'1
+                                   Wulfsberg Triple (WT200) Transce2vers ·
+       · Hold-Down Nut
+
+                                         Detail A
+
+                             VHF Transceiver and Rack Installation
+    10-am.                               Figure 202
+                                                                                                 ·-·_..;
+                                                                                                     .. •••·'··'·!
+
+
+
+
+i                                                                                   . 23-11-01
+    EFFECTIVITY: OPTIONAL
+                                                                                      Page 202
+                                                                                   .Apr 30/82
+                               Gates Learjet Corporation@
+                     ■aia1111a1111 ■an■al
+                      VHF ANTENNA - MAINTENANCE PRACTICES
+
+ 1.   Removal/Installation
+      A~  Remove VHF Antenna· (Aircraft 25-061 1 25-0701hm 25-226) (See figure
+          201.)
+           (1)   Remove electrical power from aircraft.
+           (2)   Remove items as necessai:y t.o gain access t.o base of antenna.
+           (3)   Loosen nut and remove antenna rod.
+           (4)   Disconnect coax cable from antenna.              .
+           (5)   Cut sealant. Loosen and remove knurled nut from aircraft exterior.
+           (6)   Remove antenna base and washers from aircraft.
+      B.  Install VHF Antenna (Aircraft 25-061 2 25-070 1hm 25-226) {See figure 201.)
+           (1) · Clean all traces of old sealant from fuselage skin •
+          .(2)   Inst.all. t.op of antenna base in hole in fuselage and secure with attaching
+                .   parts.
+            (3)   Inst.all. antenna rod, ensuring that it is aligned with aircraft centerline.
+                  Tight.en antenna rod nut.
+            (4) • Apply Pro-Seal 890 sealant around knurled nut. (Refer t.o Chapter 20.)
+            (5)   Connect coax cable to antenna base.
+            (6)   Install items previously· removed t.o gain access t.o antenna.
+            {7)   Rest.ore electrical power to aircraft.
+      C.    ~move VHF Antenna (Aircraft 25-227 and Subsequent) (See figure 201.)
+            (1)   Remove electrical power from aircraft.
+            (2)   Remove attaching parts securing antenna t.o fuselage •.
+
+                    CAUTION:     USE CARE NOT TO DAMAGE AIRCRAFT SKIN WHEN
+                                 REMOVING SEALANT •
+
+           . (3)  Using cautio~,. break sealant bond between antenna and fuselage.
+             { 4) Pull antenna from fuselage and attach a length of string around the
+                  coax cable just behind tbe connect.or.
+            {5) . Disconnect coax connect.or from antenna and secure loose end of string
+                  t.o keep coax connect.or from slipping back int.o fuselage.
+            (6)   Remove antenna from aircraft area.
+      D.    Install VHF Antenna (Aircraft 25-227 and Subsequent) (See figure 201.)
+
+             CAUTION:        USE CARE ~OT TO DAMAGE AIRCRAFT SKIN WHEN
+                             REMOVING SEALANT.
+
+             (1)     Prepare antenna mounting surface and mounting area on fuselage for
+                   . electrical bonding. (Refer t.o Chapter 20 of Wiring Manual. )
+             (2) Connect coax connect.or t.o antenna and remove string.
+             (3) · Clean coax connector with N-BUTYL alcohol (TT-B-846). ·
+
+
+
+
+. ErFECTIVITY: OPTIONAL                                                             23-11-02
+                                                                                    Page 201
+                                                                                   Apr \30/82
+                          Gates Learjet Corporation~
+                ■ai■lenaa■e                       111a·n11al
+         (4)   Cover entire area of coax connector with clear Silastic 732 potting       .-~
+               compound.
+         (5)   Attach antenna to fuselage with attaching screws.
+         (6)   Cleu antenna base and fuselage mating area with clean cloth and
+               methyl-ethyl-ketone.
+         (7)   Apply fillet seal (Pro-Seal 890) around entire base of antenna.
+         (8)   Restore electrical power to aircraft.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                        23-11-02'
+                                                                             Page 202
+IOl-99
+                                                                            Apr 30/82
+                           Gates Learjet Corporation@
+                   ■ain1enan1e                     manual
+
+
+                                                                    ~tennaRod
+                                                                /
+
+
+
+
+                         :Apply Fillet
+Knurled Nut              Seal Here
+                         (Pro-Beal 890)
+                                                                          Washer
+
+
+
+   Antenna-
+   Base
+
+
+              Detail B                                          .
+                                                                /
+                                                                     /Antenna
+                                                                        Base
+                                            B
+
+
+
+                                           Aircraft 25-061 1 25-070 thru 25-226
+
+
+
+                              VHF Antenna InstalJ atiou
+                              Figure 201 (Sheet 1 of 2)
+
+
+   EFFECTIVITY: OPTIONAL                                                    23-11-02
+                                                                            Page203
+                                                                           Apr 30/82
+                                                                                       I   .
+                         Gates Learjet Corporation@
+               ■ai111enance ■an11al
+
+
+
+
+                                Antenna\
+
+                                                                             I
+
+                                                           Apply Fillet Seal Here
+                                                           (Pro-Seal 890)
+              Fuselage
+
+
+
+
+    Apply Potting C.Ompound
+    (Sil.astic 732)
+
+
+                                   Detail C
+                         Aircraft 25-227 and Subsequent
+
+
+
+
+                              VHF .Antenna Jnatallat,fon
+                              Figure 2 01 (Sheet 2 of 2)
+
+
+EFFECTIVITY: OPTIONAL                                                   23-11-02
+                                                                        Page 204
+                                                                       Apr 30/82
+                                      Gates Learjet Corporation@>
+
+l..,
+                           11ain1e■anIe                                        naanIa1·
+                          VHF CONTROL HEAD - MAINTENANCE PRACTICES
+
+       1.      Removal/Installation
+
+               NOTE:   Removal/Installation procedures for bo1h heads are identical.
+
+               A.   Remove COMM Control Head (See figure 201. )
+                    (1)   Remove electrical power from aircraft.
+                    (2)   Release quick-attach fasteners on face of control head.
+                    (3)   Pull control head out of instrument panel to gain access to electrical
+                          connectors.
+                    (4)   Disconnect electrical connectors from control head.
+                    (5)   Remove control head from aircraft.
+               B.   Install COMM Control Head (See figure 201.)
+                    (1)   Connect electrical connectors to control head.
+                    (2) Slide control head int.o position.
+                    (3)   Fasten quick-_attach :fasteners.
+                    (4)   Rest.ore electrical power to aircraft.
+
+
+
+
+               Quick-Attach Fasteners~···------------
+                                           ►        ~-■~0,
+                                           i                 oi&-~·ia, ,........--COMM 2 Control Head
+                                                •
+                                                11-.
+                                                             i~~-~
+                                                             y,<:>
+                                               --·-·-· ·•·---------....----·
+                                                      A . , - ~18 -             '
+
+               COMM 2 Control Head---i
+                                                    ~       '
+                                                             ...
+                                                              118 co           0.
+
+                                                '§~~o-
+                                               ..
+
+                                                       Detail A
+                                      VHF Control Head Installation
+                                                Figure 201
+
+       . EFFECTIVITY: OPTIONAL                                                                   23-U-03
+       MN-DB
+                                                                                                 Page20l
+                                                                                                Apr 30/82
+                                                                                                                                                                                                                                                                                  ,•,
+
+
+
+
+                                                                                                                                                                                                                        .•··
+
+                                                                                                .......
+
+                       •,,
+
+                                                                                                                                                                  ·:.
+                                    :   ...
+:,: ·..                                                                                                                                                                                            ,·.
+         .                                                                                                                                                                                                                                    ·•..
+ }.·•
+                                                                                                                                                                                                                                                                                          .....
+                                                                                                                                                                                                   ,     .... ·..
+                                                                                                                                                                                                                                            ..· .
+                                                                                                                              .· .
+
+
+
+
+                         . ,'.                       ...
+
+                                                                                                                                              ;,':   ..
+                        .... :
+                                                                                                                                                                                                                                   ....
+                                                                                                                                                                                                                                 . -:··
+
+
+                       .. .. ·.•
+                             .,
+                              ::,
+                                                                                                                        :. J."
+                                                                                                           . :.
+
+                                                           . _:· :· .                                             . ..:·.
+                                                                                                                                                                                                          ··, -~;
+                                                                                              .:.· ■                           ·•.-,:_.                                                                                                                           .,
+             ·,. .:·
+                                                                                          •
+
+
+                                                                                                                     ·; ...          -~                                                                    ,   ....                       ··.··
+                                                                                                                                                                                                                                          ......               ; .i·~ .'.
+
+                                                                                                                                                                                                                                                                                            ·.·..
+                                                                                                                                                                                      ..'./....,         ,.:.: ·--.!
+ :·.-.:-:                                                                                                                                 .....                                                          ....
+                                                                        .-:                                                      .·,        . .::....·                                             t,          . ·, .
+                                                            ·:-·                                                                                                                                                                                   ·:~ __ ·:
+                                                             ··:-·                                                                                                      ■ : •   ...
+
+                                                                                                                                                                                                               .,.
+                       '•;.
+                                                                                                                                                                                                          ...·. ,.                            -.~. .·.:-~:i
+                                                                                                                                                                          ·.'.i
+                       . ~;.? .
+  ,,:·       - ...
+                                                                                                                                                                                                                                                                                             . ,·
+                                                                                                                                                                                                                                                                                    .,
+                                                                                                                                                                                                                                                                                  .
+                                                                                                                                                                                                                                                                              ·-• .-::,
+                                                                                                                                ....
+                                                                                                                              :·-··...'                   . -··
+                                                                                                                                                                                                                        •'
+                                                                                                ... ...                                                                                                                      ,                                              ·.:
+                                                                              .. . ·.,:
+                                                                                                       _
+
+
+
+
+             .··•.
+                                              ·..·
+
+                                                C
+                       Gates Learjet Corporation@
+                   -ainl■nana■ ■an■al
+              HF COMMUNICATION - DESCRIPTION AND OPERATION
+
+1.   Description
+     A.   Collins 718U-5M HF Communication System
+          (1)    The HF communication system consists of a receiver/exciter, power
+                 amplifier-coupler, control panel, an antenna, and on Aircraft 25-205
+                 and Subsequent, an audi_o adapter box. (See figure 1.)
+                 (a)   The receiver/ exciter is located on the forward side of the aft
+                       pressure bulkhead.
+                 (b)   The power amplifier-coupler is located on the forward side of
+                       the aft pressure bulkhead.
+                 (c)   The antenna is suspended between the antenna support bracket,
+                       on the upper leading edge of vertical stabilizer, and the insulated
+                       feedthru, located on top of the fuselage at frame 18.
+                 (d) ·The control panel is located on the aft portion of the pedestal.
+                 (e)   On Aircraft 25-205 and Subsequent, an audio adapter box is
+                       installed at frame 7 between stringers 11 and 12, adjacent to
+                       the copilot's seat._                .
+          (2)    The HF control panel is.used to remotely control and monitor the
+                 receive and transmit functions of the receiver/exciter by the following
+                 selectors and indicators. (See figure 2.)                                 ·
+                 (a)   The Mode Select Switch selects the desired function mode.
+                 (b)   The five Frequency Select Switches may be operated in any order
+                       until the desired operating frequency is indicated.
+                 (c)   The Volume Control (VOL) is used to adjust .for desired audio .
+                       from the speaker. CW position equals maximum volume.
+                 (d)   The Squelch Control (SQL) is used to mute the undesired back-
+                       ground noise.
+                 (e)   The Channel Select Switch proVides   for nine preset channels with
+                       half-duplex capability and one (MAN) po~ition that 1s for simplex
+                       operation only.                            ·
+                 (f)   Preset control consists of the Preset SWitch, LOAD Switch, and
+                       Channel Select SWitch. ·These switches allow for front-panel
+                       prog:rammfng of the preset channels.
+                 (g)   The three indicators on the HF control panel indicate the
+                       following: ,                             ·
+                       1)     The MODE indicator indicates the mode in which system is
+                              operating.
+                       2)     The MHz indicator indicates the frequency 1n which system
+                              is operating.
+                       3)     The CHAN indicator indicates the channel on which system
+                              is operating.                                         , ->'.
+                 (h)   The RF TEST lamp indicates operational status of the HF system.
+
+
+
+
+EFFECTMTY: OPTIONAL                                                              23-12-00
+                                                                                   Page 1
+                                                                                Apr 30/82
+                             Gates Learjet Corporation~
+               ·-· ·. --a1n111na:n• ·- -a■■al
+    B.   Slmair ASB 500 BF CommuntcaUon System
+         (1)  The BF communicaUon system consists of.a·transcelver, ·control panel,
+              antenna and antenna coupler. (See figure 1.)
+              (a)   The transceiver is located on the forward side of the aft pressure
+                       bulkhead.                 .
+                 (b)   The antenna coupler is located OD the forward side of the aft
+                       pressure bulkhead.
+                 (c)   The antenna is suspended between the antenna support bracket,
+                       OD the upper leec:Jfng edge of the vertical stabilizer, and the insu-
+                       lated feedthru, located on top of the fuselage.
+                 (d)   The control panel is located on the aft portion of the pedestal.
+         (2)     The HF control panel is used to remot.ely control and-monitor the
+                 receive ·and transmit functlons of the transceiver=by the following sel-
+                 ectors and indicators. (See figure 2. )
+                 (a)   The Volume Control (VOLUME)· is used· t.o.. ~ust for ~sired
+                      ·audio. · Clockwise posiUOD equals maximum volume.
+                 (b)   The Frequency Selectors may be operated 1n any,order until
+                       desired operating frequency is indicated.
+                 (c) . The Squelch Control (SQUELCH) is used to_mute undesired.back-
+                       ground noise •. '
+                 (d)   The ON Switch controls elec~cal primary power to the HF· .
+                       system.
+                 (e)   The Mode Select Switch~ (LSB, AM, and USB) are used to select
+                       mode or modes for receiving and transmittlng communica~ons.
+                 (f)   When the Tune SWitch (TUNE) is. depr~sed, it starts the antenna
+                       coupler ·tuning cycle at the frequency selected. ·
+                 (g) ·The Frequency ~lay displays the frequency selected.by the
+                                                          0
+
+
+                       Frequency Selectors. · ·
+
+                       NOTE:       If a frequency below 2. 00 MHz or above l '1. 999 MHz -·
+                                   ls selected, the transceiver is disabled ·anci display
+                                   flashes OD and off.
+
+                 (h)   The READY XMIT light (green)· milcates the an1eDDa is .tuned· and·
+                       system is ready for use when in receiv~ mode. When in transmit
+                       mode, it indicates transmitter RF ou1put on modulation peaks.
+               - (i)   The TUNE-FAULT light (amber) indicates a fault in the .trans-
+                       mitting system, coupler. or antenna.
+
+
+
+
+E FFECTIVITY: OPTIONAL                                                              23-12-00
+                                                                                    Page 2
+                                                                                  Apr 30/82
+                                    Gates Learjet Corporation@>
+                             ■ai■1enan1e ■anaal
+~
+
+
+
+
+                                         HF An:umna--~
+                                         (23-12-03)
+
+
+
+
+             udio- Adapte                                ..,__,...,.___ Power Amplifier
+             2~05)                                                      Coupler (23-12-02)
+
+
+
+
+                                      Receiver/Exciter or Transceiver
+                HF Control Panel.     (23-12-01)
+                (23-12-04)
+
+
+
+
+                              HF Communi~ations Equipment Locator
+                                           Figure 1
+
+    EFFECTIVITY: OPTIONAL
+                                                                                    23-12-00
+    MM-113                                                                            Page 3
+                                                                                   Apr 30/82
+                                Gates Learjet Corporation@             .
+                        .■ain111·na·-11■11 · ■a■■al .
+
+
+
+                                                             Channel
+            Mocle---                                         Indicator
+            lDdicator
+PGM Indicating Light
+
+
+
+
+     Mode Select
+     Switch
+                                                          Volume
+                              Channm----                  Cootrol
+                              ::ec~ Collins '118U!"'5M Controi Panel
+             Volume Control      tc       Detail A            Frequency Display
+
+
+
+
+                                                                           ·Frequency Selectors
+                                                                           Light Dimming Control
+       TUNE-FAULT Light
+                           ON Switch                                       Tune Switch
+                                 Sunair SCU55 HF Control Panel
+
+                                           Detail B
+   1&-30A                     HF Communication Control Panels
+   16-29A                                Figure 2
+
+   EFFECTIVITY: OPTIONAL                                                               23-12-00
+                                                                                         Page4
+   MM-98
+                                                                                      Apr 30/82
+                            Gates Learjet Corporation~
+                  RlliRll!■IIII! Rlll■II
+2.   Operation
+     A.   Collins 718U-5M
+          (1)   The HF communication system 1s capable of receiving continuously in
+                all modes once power has been applied to the system. Transmitting
+                is limited to 1. 0 minute transmit and 3. 0 minutes receive for SSB voice.
+
+                 WARNING:      STAND CLEAR AND DO NOT TOUCH THE ANTENNA OR
+                               ANTENNA FEEDLINE WHILE SYSTEM IS TRANSl\fiTTING
+                               AS PAINFUL RF-BURNS AND DEATH MAY RESULT
+                               FROM filGH RF VOLTAGE.
+
+           (2)   The HF system will perform as stated :bl the following modes.
+                 (a)  OFF mode. When the Mode Select Switch on the control panel
+                      is set to OFF, the HF system is turned off, independent of
+                      Channel Select Switch setting and control panel display, all
+                      controlled indicators will be extinguished and the transceiver
+                      will go on low power.
+                 (b)  MAN mode. With the Channel Select SWitch set to MAN and the
+                      Mode Select Switc~ set to OFF, the_ HF system is turned off. The
+                      transceiver will respond to the Mode Select Switch setting, and ·
+                      the mode is displayed on the control panel. The operating fre-
+                      quency is selected with the Frequency Select Swii:Qhes and is dis-
+                      played by the frequency indicator on the control panel. Ji the
+                      Channel Selector·Switch is set to a preset channel, the manual
+                      mode information is stored in memory and is recalled when the
+                      Channel Select Switch is returned to MAN.
+                 (c)  USB, LSB, or AM mode.
+
+                       NOTE:    The sequence is the same for USB (upper sideband),
+                                LSB (lower sideband), and AM (amplitude modulation).
+
+                      Set the Frequency Select Switches to the desired operating fre-
+                      quency and rotate the SQL control CCW until the background nose
+                      is reduced to a low level or_ until the SQL control is rotated fully
+                      CCW. The receiver should mute after a short delay. Tune the
+                      system by depressing the lVIIC switch momentarily; the system
+                      will then tune automatically.
+
+                       NOTE: • A constant tone will be heard in the headset during
+                             · the tune cycle.
+                              • The tune cycle is approximately 3 seconds in duration.
+                              • When the tune cycle is complete, the constant tone will
+                                disappear and receiver noise will be heard.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                            23-12-00
+                                                                                   Page 5
+                                                                               Apr 30/82
+                           Gates Learjet Corporation@.
+               ·mai■ll!Dl■II! ■a■■:1-1
+               (d)  VOL control. By rotating the VOL (volume) control CW or·CCW,
+                    the audio can be adjusted to the desired level~
+        (3)   To preset operation, perform the following:
+              (a)   Assure that the Mode Select Switch is -in BJ;ly position other
+                    than OFF.                .
+              (b)   Set OPR/PGM Switch to OPR.
+              (c)   Set Channel Select Switch to preset channel de~ired.
+        (4)   To preset channel loading, perform the following:           ·
+              (a) Assure that Mode Select Switch is in any position other than.OFF.
+              (b)   Set OPR/PGM Switch to PGM.
+             (c) · Set Channel Select Switch to channel desired~ ·
+             (d)    For single frequency for both transmit and receive (simplex
+                    operation), set Mode Select Swit.ch to desired· mode and Frequency ·
+                    Select Switches to desired frequency.                             ·
+             (e)    Depress LOAD Switch on control panel.
+             (f)    For separate frequencies for transmit and receive (half duplex
+                  · operation), perform steps 1 tbru 5 to load the receive frequency.
+                    Hold MIC Switch closed while setting Frequency ~ect Switches
+                    to the desired transmit frequency. Depress 1he LOAD Switch;
+                    loading 1s now complete.
+        Sunair ASB 500 HF Commllllication System           .
+        (1)  The HF communication system is capable of receiving continuously in
+             all modes.
+
+              WARNING:      STAND CLEAR AND DO NOT TOUC'H THE-ANTENNA OR
+                            ANTENNA FEEDLINE WHILE SYSTEM IS. TRANSMITTING,
+                            AS PAINFUL RF BURNS AND .DEATH MAY RESULT
+                            FROM mGH RF VOLTAGE.
+
+        (2)     The HF system will perform as stated in the following modes:
+              (a)    On 1he HF control panel, press the ON Switch. The ON light
+                     shall illumtnate, the frequency display shall indicate the fre-
+                     quency to which the system is tuned, and 1he TUNE-FAULT light
+                      shall illuminate.
+                (b)   On pilot's or copilot's audio panel, set Selector Switch to HF.
+              • (c)   On HF control panel, rotate Squelch Control and Volume Control
+                      fully CW. Audio noise will be present in aircraft speakers.
+                      Reduce volume to desired level.
+                (d)   Rotate Squelch Control fully CCW. . The aircraft speakers will be
+                    · silenced except when a strong signal 1s present. Rotate Squelch
+                      Control to mid-range.
+
+
+
+
+EFFECTIVITY: OPTIONAL ·                                                       23-12-00.
+                                                                                Page6
+                                                                             Apr 30/82
+                        Gates Learjet Corporation®
+               ■ai■1enan1e ■an■al
+             (e)   Adjust Light Dimming Control on HF control panel. The control
+                   panel lamps and frequency display shall vary in intensity.
+             (f)   Set Frequency Selectors to a local ground station frequency, then
+                   depress the desired Mode Select Switch and depress the _TUNE
+                   Switch. The TUNE-FAULT or READY light shall not illuminate,
+                   and the TUNE light shall remain illuminated during. the antenna
+                   coupler tune cycle. The TUNE light shall exttnguish, the READY
+                   light shall illuminate, and audio noise should be heard from air-
+                   craft speakers when the tune cycle is complete.
+             (g)   Make con1act with ground station and request a radio check. The -
+                   READY light shall extinguish when transceiver is keyed but shall
+                   ilhnnfnate when operator speaks into microphone (starts modu-
+                   lating transmitter).
+             (h)   Using the Frequency Selector, select and depress TUNE Switch.
+                   The antenna coupler shall tune all frequencies selected.
+             (i)   Verify frequency settings with ground station.
+             (j)   Depress ON Switch on the HF control panel. The ON light shall
+                   extinguish and power shall be removed from the HF system.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                   23-12-00
+                                                                          Page '1
+                                                                       Apr 30/82
+                             .: '__.. t..,
+
+
+
+                                             :·•·.·
+
+
+
+
+              . , ..
+               ~ '
+
+
+
+
+tt \
+
+
+
+                                                      .\.
+                       . . .. ~
+                       ;.,
+                                  .....
+                             ! .• ,
+
+
+
+
+       ' I•
+                                 -Gates Learjet Corporation@
+                       main1Inan11I ■a1■al
+                     HF COMMUNICATION - MAINTENANCE PRACTICES
+
+1.        Inspection/Check
+          A.    Collins '118U-5M HF Communication
+                (l)   The following information contains possible malfunctions and checlts
+                      for the system.
+                      (a)       Tl1n1ng Fault. A tuning fault is indicated by a beeping sound on
+                               the headset approximately 8 seconds ~ r the tuning cycle is
+                           . · initiated. Initiate a new tune cycle either by tumiDg the Mode
+                                Selector to OFF· and back to the operating mode, or by nbanging
+                                any Frequency Selector away from and back to the operating fre-
+                                quency. Key the system and ~ tune tone shall be present for
+                               approximately S to 6 seconds and then disappear. If the beeping
+                              . sound recurs, try clear:lng procedure a second time. If the
+                               fault is stlll indica~, a unit failure is probable.
+                      (b)      Receive Check. To check the receive portion of the HF receiver/
+                                exciter, perform the following:
+                                1)     Rotate the SQL control fully CCW and tune the HF system
+                                       towwv. .·           .    .
+                                2)     Set Mode Select SWitch to USB.
+                               _S)     Set Frequency Select 8'1it.ches to 20. '1010 MHz. A 1-KHz
+                                       tone will be detected.
+                            · 4)     · Set Mode Select Switch to LSB.
+                               5)      Set Frequency Select Switches to 20. 6990 MHz. If a 1-KHz
+                                       tone is heard, the system is operational.
+                      (c)      RF Test Lamp Check. With power on system, set Mode Select
+                               SWit.ch to RF TEST. Do not key system. Cl>serve RF TEST
+                               lamp for following indications:
+                               l)      RF TEST lamp does not illnrninate.·- Tbis indicates the
+                                       lamp is defective or the receiver/exciter is faulty.
+                               2)      RF TEST lamp blinks for more than l minute. · This indi-
+                                       cates th~ receiver/exciter is faulty.
+                               3)      RF TEST lamp illuminates immediately or after an initial
+                                      period of J1Unking. This indicates the RF TEST lamp and
+                                      fault circuits are operational.
+                      (d)       Tune Check.                       _·
+                                l)      With power on system, set Mode Select SWitch to RF TEST.
+                                2)      Set Frequency Select Switches to a random frequency and
+                                        key system momentarily.
+
+
+
+
+E FFECTIVITY: OPTIONAL                                                                23-12-00
+                                                                                      Page 201
+1111-11
+                                                                                     Apr 80/82
+                          Gates Learjet Corporation@
+                ■ainlena■a·e -llla■ual
+                     NOTE: • Nominal tune time of power amplifier-coupler (pa-
+                             coupler) is approximately 5 seconds after system has
+                             been keyed.
+                           • RF TEST lamp indications in this te13t are only valid
+                             for approximately 5 seconds after system has been
+                             keyed.
+
+                     3)    ct>serve RF TEST lamp dllrlng tune cycle while tune tone
+                           is audible. N:omi'al tune time is 3 to 8 seconds.
+                    4)     If no tune..,tone is heal'd after system has been keyed, the
+                           fault is iJl either the MIC switch, receiver/exciter, or the
+                           exciter tune circ~t between the receiver/exciter and the· ·
+                           power amplifier coupler. ·
+                    5)     Should RF TE.ST lamp stay illuminated continuously, -the
+                           fault is in. the receiver/exciter.
+                     6)    Should RF TEST lamp blink on and off, the power amplifier.
+                           coupler is faulty •.
+                    7)     Sh.ould·systeµi ·rematnkeyed and tune tone does not stop
+                           after 15 seconds, determine which unit is faulty by.dis-
+                           connectlDg connector Jl f ~ the power amplifier coupler
+                           front panel. ·rt .tone drops and a beeping tone is heal'd, the
+                           power amplifier is faulty. If tune tone persists, the
+                          ·receiver/exciter or receiver/exciter-mount is faulty~ .
+                     8)    U test lamp is out, tune tone drops, and a beeping tone is
+                           heard at end of tuniiig cycle, the power amplifier coupler
+                           D'.I.OllJlt failed to tune antenna.
+                    9)     Should RF ·tEST lamp ·be extiDgUJshedt set Mode Select
+                           Switch to use, key and talk into MIC, and keep MIC keyed.
+                           U sidetone is not . heard, check interphone system before
+                           replacing receiver/exciter•
+
+                          .!Q'.!_.E:   Presence· of a sldetone indicates system ls
+                                ~      working.
+
+    B.   Sunair ASB 500 HF Communication
+         (1)   Apply power to HF communication eystem. The TUNE-FAULT light
+              on the HF control panel shall illuminate RED, indicating a fault.
+         (2)  Set Frequency Selectors on HF control panel to desired frequency and
+              depress the TUNE Switch. The TUNE-FAULT light shall extinguish
+               and the XMIT-READY light, shall iUnmtnate, indicating the HF system
+              is tuned and ready for operation.
+         (3)   Should the TUNE-FAULT light illuminate during operation, it indicates
+               the antenna has become untuned. Depress the TUNE Switch; the HF
+               system shall retune to selected frequency, and the XMIT-READY light
+               shall illuminate, indicating system ls ready for operation.
+
+EFFECTIVITY: OPTIONAL                                                           23-12-00
+                                                                                Page 202
+                                                                               Apr 30/82
+                          .    Gates Learjet Corporation@
+                     -ai■111■a■111 ■a■11-al
+         RECEIVER/EXCITER OR TRANSCEIVER - MAINTENANCE PRACTICES
+
+1.      Remoya1/Installation
+        A.  Remove Collins '118U-5M Receiver/Exciter {See figure 201.)
+            (1)   Remove electrical power from aircraft.
+            (2)   Remove necessary equipment to gain access to aft pressure bulkhead.
+            (3)   Disconnect electrical connectors from receiver/exciter.
+            (4)   Loosen attacliing parts and remove receiver/exciter from mount rack
+                  and aircraft.
+        B.  Install Collins '118U-5M Receiver/Exciter (See figure 201.)
+            (1)   Install receiver/exciter in mount rack and secure with attaching parts
+                  and safety wire.
+            (2)    Connect electrical connectors to receiver/exciter.
+            (3) Install previously removed equipment.
+            (4)   Restore electrical power to aircraft.
+        C.  Remove Sunair ASB500 Transceiver (See figure 201.)
+            (1)   Remove electrical power from aircraft.
+            (2)   Remove necessary equipment to gain access to aft pressure bulkhead.
+            (3)   Disconnect electrical and coax connectors from transceiver.
+            (4)    Cut safety wire and loosen hold-down nuts.
+            (5)   Remove transceiver from mounting rack and aircraft.
+        D.  Install SUnair ASB500 Transceiver (See figure 201.)
+            (1)   Install transceiver in'mounting rack and secure with attaching parts.
+            (2)   Connect electrical and coax connectors to transceiver.
+            (3)   Install previously removed equipment and secure with attaching parts
+                  and safety wire.
+            (4)   Restore electrical power to aircraft.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                           23-12-01
+--Ill
+                                                                                Page 201
+                                                                               Apr 30/82
+                                             ·
+                          Gates_ Learjet Corporation@
+             ■ai■l■n•••• ■an■al
+
+
+
+
+                                             ·   HF Antenna
+
+
+
+                   Receiver/Exciter
+
+
+
+
+                                             Antenna
+                                             -Coupler
+
+
+
+
+                                                              L~~s~e
+                                                              '.Bulkhead
+
+                                                                     \'
+                                                                       '
+                     .,       CoJµns '1~8U-5M Shown                       \
+                                  Detail A
+
+
+                 Receiver/Exciter Installation (Typical)
+10-SOB                          Figure 201
+
+
+EFFECTIVITY: OPTIONAL                                             23-12-01.:
+                                                                  Page 202
+1111-tS
+                                                                 Apr 30/82 ·
+                           . Gates Learjet Corporation@
+                  main11nan■1 ■anaal
+            POWER AMPLIFIER-COUPLER - MAINTENANCE PRACTICES
+
+1.    Removal/IDsWJ.atlon
+      A.  Remove Power Amplifier (Collins 718U-5M) (See figure 201.)
+
+           WARNING:      DO NOT TOUCH OUTPUT WIBE OR ANTENNA WHILE SYSTEM
+                         IS TRANSMITTING, AS PAINFUL RF BURNS OR DEATH
+                         COULD RESULT.
+
+           (1)   Remove electrical power from aircraft.
+           (2)   Remove equipment as required to gain access to aft pressure bulkhead.
+           (3)   Remove HF cover, located on aft pressure bulkhead in upper LH comer.·
+                  The cover is secured with Velcro pile tape.
+           (4)   Disconnect electrical connectors from power amplifier.
+           (5)    Loosen attaching parts and remove power amplifier from mounting
+                 rack and aircraft.
+      B.   Install Power Amplifier (Collins 718U-5M) (See figure 201.)
+           (1)   Install power amplifier in mounting rack and secure with attaching parts.
+           (2)    Connect electrical connectors to power amplifier.
+           (3)   Install HF cover, assuring that Velcro pile tape is firmly meshed.
+           (4)   Install all equipment that was removed to gain access to aft pressure
+                 bulkhead.
+           (5)   Restore electrical power to aircraft.
+      c.   Remove Antenna Coupler (Collins 718U-5M) (See figure 201.)
+           (1)   Remove power amplifier as stated in steps A (1) through A (5).
+           (2)   Remove screws attaching coupler to rack.
+           (3)   Loosen knurl ~ut on coupler and remove wire interconnecting coupler
+                 and antenna.
+           (4)   Remove attaching parts and antenna coupler from aircraft.
+      D.   Install Antenna Coupler (Colling 718U-5M) (See figure 201.)
+           (1)   Install antenna coupler on mounting rack and secure with attaching
+                 parts.
+           (2)   Install interconnecting wire between antenna and coupler into terminal
+                 post on coupler. Tighten knurl nut finger tight.
+           (3)   Install power amplifier as stated in steps B (1) through B (2) of this
+                 section.
+           (4)   Install HF cover, assuring that Velcro tape is firmly meshed.
+           (5)   Install all previously removed equipment.
+
+                 NOTE:    The electrical. components are to be bonded to aircraft
+                          structure with a maximum resistance of o. 0015 ohm.
+
+           (6)   Restore electrical power to aircraft.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                          23-12-02
+--n                                                                            Page 201
+                                                                              Apr 30/82
+                                 Gates Learjet Corporation@
+                       .■al■;1e■a■11. a-a■■al
+           E.   Remove Antenna Coupler (Sunair ACU150)                                            ~
+                (1)   Remove· electrical power from aircraft.
+                (2)    Remove equipment as required to gain access to aft pressure bulkhead.
+                (3)   Disconnect connector attaching antenna feed through to antenna coupler.
+                (4)    Disconnect electrical and coax connectors from a n ~ coupler.
+                (5) Remove antenna.coupler and attaching parts from mounting rack and
+                      aircraft.
+           F.   Install Antenna Coupler (SUnair ACU15O)
+                (1) · Install.antenna coupler 1n mounting rack and secure with attachiDg parts.
+                (2)   Connect elecr.ical and coax connectors t.o antenna coupler.·
+                (3)   Connect antenna feed t)irough -to -antenna coupler with· attaching parts.
+                (4)   Install previously removed equipment and secure with attaching parts.
+                (5)   Restore electrical p0wer to aircraft.
+
+
+
+
+                                   ecelver/Exciter
+
+
+
+
+                                                         Antenna
+                                                         Coupler
+                                                                    Power Amplifier·
+
+
+
+
+                                                                                  \
+                                                                                 4ft,
+                                                                                   Pressure
+                                                                                   Bulkhead
+                                                                                          \
+                                                                                          I
+                              Collins 718U-5M Power Amplifier                              I
+                                Coupler System Installation
+
+                                           Detail A                                           \
+                        Power Amplifler-Coupler Installation (Typical)
+10-60B                                   Figure 201         ·
+
+EFFECTMTY: OPTIONAL                                                                  23-12-02
+                                                                                     Page 202
+1111-119
+                                                                                    Apr 30/82
+                            Gates Learjet Corporation~
+                    mai■1ena■111 ■an■al
+                    HF ANTENNA - MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+     A.  Remove Antenna (See figure 201.)
+
+          WARNING:       DO NOT TOUCH THE ANTENNA WHILE SYSTEM IS TRANS-
+                         MITTING, AS RF BURNS AND DEATH COULD RESULT.
+
+          (1)   Remove all electrical power from aircraft.                     .
+          (2)   Using an aerostand or other suit.able equipment, gain access to leading
+                edge of vertical stabilizer where antenna is attached.
+          (3)   Remove tension on antenna by loosemng tension ring.
+          (4)   Support antenna and remove nut, bolt, solder lug, and spacer attaching
+                antenna to vertical stabilizer.
+          (5)   Lower loose end of antenna to ground.
+          (6)   Pull slack in antenna and, using emery paper between fingers, remove
+                insulator sleeve located on top of fuselage.
+          (7)   Remove antenna wire from jaws ln insulator body.
+          (8)   Retain insulator sleeve for reinstallation.
+     B.   Install Antenna (See figure 201.)
+
+          . NOTE:    Fay surface seal all interlacing surfaces of this installation with
+      ,
+                     Pro"'.'Seal 890.
+
+          (1)    Install insulator sleeve on antenna wire and insert stripped end of
+                 antenna wire in jaws embedded in insulator body.
+
+                 NOTE:     ~ssure that 3/8-inch length of bare conductor is firmly
+                           secured by the jaws.
+
+           (2)   Fill threaded cavity of insulator with Dow Corning DC-4 silicone grease.
+           (3)   Screw sleeve into insulator body, forcing grease into sleeve hole.
+           (4)   Unscrew sleeve and refill threaded cavity of insulator with DC-4.
+           (5)   Screw sleeve into insulator body finger tight. Emery paper may be
+                 used between fingers to assure maximum finger torque. Do not use
+                 pliers.
+
+                 NOTE:     Adequate quantity of packed DC-4 and a tight connection are
+                           of critical importance.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                             23-12-03
+                                                                                  Page 201
+                                                                                Apr 30/82
+                           Gates Learjet Corporation•
+                 ■ai■lll■■■IIII ■■·■■al
+         (6)    Using au ael'OStand or other suttable equipment, gain access to             ; ,~
+                antenna attachment point on IeacUng edge of vertical stabWzer.
+         ('1)   Attach antenna to vertical stabilizer using bolt, solder lug, spacer,
+                and nut.                  ·                                         ·
+         (8)    Apply 30 (:1:5) p ~ tension to ant.enna by tightening tension knurl nut.
+         (9)    Restore electrical power to aircraft.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                          as-12-oa.:
+                                                                               Page 202
+IDl-18
+                                                                              Apr 80/82
+                                   Gates Learjet Corporation~
+                             ■ain11nan11 ■an■al
+
+
+                                Antenna
+              Fillet Seal:
+             (Pro-Seal   ~\
+        Insulated Sleeve"" \       '-. **
+
+            Insulator~                *
+            Body        V
+Fay SUrface• Se        'J . /    Fuselage Skin
+All Interfacing
+SUrfaces                            Ground strap
+(Pro-Seal 890)
+
+                                 Insulated Antenna           Vertical             /       .
+                                  Base                          stabilizer~ /.......__
+                                 Antenna Feed Wire
+                                                          Nut               ,I
+                                                                ~                     /Screw
+                                                       Spacer-- "-..          /
+
+                Detail A
+
+                                            Antenna~                                  Solder Lug
+
+*~ARNING: DO NOT TOUCH ANTENNA
+            WHILE SYSTEM IS TRANSMITTING
+            AS RF BURNS AND DEATH
+            COULD RESULT.                                       · Detail B
+ * PA.CK CAVITY IN INSULATED
+   SLEEVE WITH DC4.
+
+
+
+
+                                 HF Antenna Installation (Typical)
+  10-MC                                      Figure 201        ·
+
+  EFFECTMTY: OPTIONAL                                                                   23-12-03
+  11111-N                                                                               Page 203
+                                                                                       Apr 30/82
+               ...-,·~ ,--.... ;
+                             ~
+
+
+
+
+         .,,
+
+.... ·
+
+
+
+
+                ...
+                                                 Gates Learjet Corporation®
+                                    ■ainllllil■II! ■illl■al
+l..                                HF CONTROL PANEL- MAINTENANCE PRACTICES
+
+      1.          Removal/Installation
+                  A.  Remove Control Panel (See figure 201.)
+                      (1). Remove electrical power from aircraft.
+                      (2)   Release quick-attach fasteners securing control panel to pedestal.
+                      (3)   Pull control panel out of pedestal sufficiently to disconnect electrical
+                            connectors from control panel.
+                      (4)   Remove control panel from aircraft.
+                  B.  Install Control Panel (See figure 201.)
+                      (1)    C~ect electrical connectors to control panel.
+                      (2)   Slide control panel into pedestal.
+                      (3)    Fasten quick-attach fasteners.
+                      (4)    Restore electrical power to aircraft.
+                         A                                r---4Qllnck-Attach
+                         B                                           Fastener
+
+                                                                     MODE                  MHZ   .
+                                                               Cf>    I I
+                                                                      u              t_
+                                                                                     LI•
+                                                                                           5L1nn
+                                                                                             7 UU                0.
+                                                                                                          o·
+                                                               Alt   8.U                                LOADO
+                                                                           Sri.
+                                                                           RFTEST    0
+                                                                           OPRCS5PGM ~
+                                                           .
+                                                               FF
+
+
+                                                                           @
+                                                                                                       (S). §0
+                                                                                     MAN~                ®
+
+                                                                      Collins 718U-5M HF Control Panel
+
+                                                                                     Detail A
+       eJ         ~
+                                   IC 3 Y 5.0
+                                         .___A                       H
+                                                                           0
+           H
+           F
+                                                                                  ---'=m1·1ck-Attach
+                                                                                      Fastener
+       0 0       QIIT    TUNE
+                           Q ~,. [I] 0 [l ·mu 0
+                                     5
+                                     1
+                                           II     g
+                                                  1
+                                                      N
+                                                           DIM
+                 111:ADT f.AU1.T
+
+
+
+                        Sunair SCU55 HF Control Panel
+
+                                   Detail B
+      16-30A                                          HF Control Panel
+      16-.29A                                            Figure 201
+
+      EFFECTMTY: OPTIONAL                                                                                     23-12-04
+      11111-11
+                                                                                                              Page 201
+                                                                                                             Apr 30/82
+     _. -·=
+
+                                                     ;
+                                                         ·,..
+                                      .. ,''
+
+
+
+
+                              r, ••
+
+
+
+
+.,_ .,.r
+
+
+
+
+                  ·;::,
+
+
+
+
+              '.r•···     •
+                 ,··
+
+
+                                               ',·
+                               Gates Learjet Corporation@          ·       ·
+                    main11nan11 manual
+                 HF AUDIO ADAPTER BOX - MAINTENANCE PRACTICES
+
+     RemoyaVInstallaU.on
+     A.  Remove HF Audio Adapter Box (See figure 201.)
+         (1)    Remove electrical. power from aircraft.
+          (2)   Gain access to audio adapter box, located between stringers llR and
+              · 12R at frame '1, adjacent to copilot's seat.
+         (3)    Remove attaching parts securing audio adapter box to support brackets.
+          (4)   Disconnect electrical. connector from adapter box.
+         (5)    Remove audio adapter box from aircraft.
+     B.  Install HF Audio Adapter Box (See figure 201.)
+          (1)   Install audio adapter box and secure to support brack~ts with attaching
+                parts.
+          (2)   Connect electrical. connector to audio adapter box.
+          (3)   Install any equipment that was removed to gain access to audio adapter
+                box.
+
+                   NOTE:     The HF audio adapter box is to be electrically bonded to
+                             support structure with a maximum resistance of O. 0015 ohm.
+
+                   Restore electrical. power to aircraft.
+                                                   __,......,..,r- Fuse!age
+           (4)
+                                             .
+
+
+
+
+                                                                       Stringer 12R
+
+                                                                   rAudio Adapter Box
+
+
+                                                                          ~~Electrical.
+                                                                               Connector
+
+
+
+
+                                         Detail A
+                              HF Audio Adapter Box Installation
+10-HB-1                                 Figure 201
+
+EFFECTIVITY: 25-205 AND SUBSEQUENT WHEN EQUIPPED                                       23-12-05
+             WITH COLLINS HF COMMUNICATION SYSTEM                                      Page 201
+                                                                                      Apr 30/82
+':·--
+
+
+
+
+            . 1.·
+
+
+
+
+        i
+
+
+
+
+                         ,,.-{
+
+
+
+
+                    .i
+                                           Gates Learjet Corporation®
+                                 ■ain1enan11a -a■ual
+l...                               FLITEFONE- DESCRIPTION AND OPERATION
+
+       1.         Description (See figures 1 and 2. )
+                  A.   The Flitefone provides for telephone communications between the aircraft
+                       and ground locations through the use of HF and UHF frequencies.
+                  B.   The Flitefone system consists of a transceiver, antenna, a control unit, an
+                       HF/Flitefone interface relay, Flitefone Sonalert, and handset/cradle.
+                       (l)   The Flitefone transceiver is locat.ed in the nose compartment.
+                       (2)   The blade antenna is located on the bottom of the fuselage between
+                             stringer 21L and stringer 21R. On Aircraft 25-061, 25-070 thru
+                             25-116, the antenna is located between frames 1 and 2. On Aircraft
+                             25-117 and Subsequent, the antenna is located between frames 15 and
+                                16.
+                        (S)     The cockpit control unit is located in the pedestal.
+                          (4)   The HF/Flitefone interface consists of a relay mounted on the HF
+                                receiver/exciter mounting rack.
+                          (5)   The Flitefone Sonalert is located on the cockpit wall, adjacent to the
+                                copilot's seat.
+                  C.    · Maintenance of the Flitefone communication system is ·limited to the replace-
+                          ment of plug-in modules and an inspection/check.
+                  D.      Overhaul of Flitefone communication system components may be accom-
+                         plished only by certified Flitefone mechanics.
+                  E.      Power requirements are 27.5 vdc, 0.45 ampere (12 watts) to receive, and
+                          2. 3 amperes (55 watts) to transmit.
+
+       2.         Operation (See figure 2.)
+
+                  NOTE:       Operator of the Flitefone must be licensed with the FCC.
+
+                  A..   To operate the Flitefone, proceed as follows:
+                        (1)  Assure that UHF circuit breaker is depressed •.
+                        (2)  Turn system.on and allow for one-minute warm-up.
+                        (3)  Remove handset from cradle.                                      .
+                        (4)  Select desired ground station by pressing channel number on control
+                             unit.
+                        (5)  Adjust volume control knob on control unit for desired voice or dial
+                             tone level.
+                        (6)  Call the operator by pushing "OPERATOR" black button on control unit
+                             or, if so equipped, the PUSH-TO-TALK button on the h&Ddset.
+                        (7)  Give operator required information to make call.
+                        (8) When call is complete, place handset in cradle.
+
+
+
+
+       EFFECTIVITY: OPTIONAL                                                                  23-13-00
+       lldl-lNI                                                                                Page 1
+                                                                                             Apr 80/82
+                               Gates Learjet Corporation@    .
+
+                .•in1ana■111 ·111a.■■:1.I ·.
+
+
+
+
+Cockpit Control Unit-•~
+(23-13-03)
+
+
+
+
+                                  Fiitefone Antenna
+                                  (23-13-02)
+
+                Flltefone Sonalert
+                (23-13-05) ·
+
+        Flitefone Transceiver
+        (23-13-01)
+
+
+
+
+                               Flttefone Equipment Locator
+                                          Figure 1
+
+EFFECTIVITY: OPTIONAL                                             23-13-00 I
+                                                                    Page 2
+                                                                 Apr 30/82
+                      Gates Learjet Corporation@
+            mai111e11a111e -a ■ual
+
+
+
+
+            Channel Selectors
+                                            ---- Intercom/Power On Light
+                                                 and Intercom Call Button
+
+
+
+                                                      Dimmer
+
+                Volume                          Transmit Light and
+                                                Operator Button
+
+
+
+
+              Flitefone Cockpit Control, Handset, and Cradle
+                                 Figure 2
+
+
+EFFECTMTY: OPTIONAL                                                   23-13-00
+                                                                        Page 3
+                                                                     Apr 30/82
+•. , ..
+  ..
+
+
+
+
+          ··:
+
+
+
+
+                     -1· ~
+                     -~~
+
+
+
+
+                'i
+                                 Gates·LearJet Corporation@
+                     -ai■11■a■111 ■anaa·I
+                   FLrrEFONE SYSTEM - MAINTENANCE PRACTICES
+
+1.     Inspection/Check
+       A.    Tools and Equipment
+
+             NOTE:    Equivalent substitutes may be used m lieu of the following:
+
+
+     NAME            · PART NUMBER              MANUFACTURER                 USE
+
+  Airborne Radio         TS-25                  Wulfsburg Electronics      To simulate
+· Telephone Test                                Inc.                       ground station.
+  Set
+
+ Thrullne Wattmeter . Model 43                  Bird Electronics           To measure
+ (with 200-500 MHz,                                                        transmission
+ 25 watt detector)                                                         power.
+
+
+       B.    Operational Check (Flitefone System)
+
+             NOTE:    The following procedure may be performed using either the cabin
+                      control 1.Qlit or .the cockpit control unit.
+
+             (1)   Position aircraft a minimum of 50 feet away from any metallic
+                   structures.
+             (2)   Set Batteey Swltch(es) to OFF and pull UHF circuit breaker.
+             (3)   Remove RH nose comparbnent access door· and disconnect antenna coax
+                   at transceiver.
+             (4)   Connect tbruline wattmeter in series with transceiver, antenna con-
+                   nector, and coax line to antenna. Assure that RG8/U coax cable ls
+                   used between transceiver and wattm.eter.
+             (5)   Connect a ground power cart to aircraft.
+             (6)   Set Batter,y SWitch(es) on and depress UHF circuit breaker.
+             (7)   Set Flitefone VOI/OFF Switch on and allow approximately 3 minutes
+                   warm-up.
+             (8)   Lift handset from cradle and press channel 1 button. Channel 1 button
+                   shall filumlnate.
+             (9)   Place handset to ear, rotate VOI/OFF Switch clockwise, and listen
+                   for receiver noise volume to vaey as the switch is turned.
+            (10)   Depress OPERATOR button (lebeled T) on control unit and monitor
+                   forward power indicated on wattmeter. Minimum forward power ls
+                   8 watts.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                            23-13-00
+
+ --·                                                                             Page 201
+                                                                                Apr30/82     .
+                                                                                             i-
+                           Gates Learjet Coqx>ration•
+                 ■aia111Ia.■Ie ·■a■■a·I
+         (11)   Monitor reflected power on wattmeter. Maximum reflected power ls
+                1 watt.
+         (12)   Signal wave ratio shall not emeed 1.4.
+         (13)   Repeat steps (8) through (12) for all rematniDg obumels.
+
+                NOTE:    When OPERATOR button is depressed, the transmit light
+                         shall illuminate and remain illuminateduntil
+                                                                  the hook switch
+                         ls depressed.
+
+         (14)   With handset off hook swit.ch, depress Intercom button. The Intercom
+                light shall illuminate, ~ signaling device shall sound.
+         (15)   Place handset back 1n cradle.
+         (16)   Turn unit off and pull UHF circuit breaker.
+         (17)   Disconnect wattmeter from aircraft and reconnect antenna coax to
+                transceiver.
+         (18)   Install RH nose compartment access door.
+         (19)   Place telephone test set near aircraft.
+         (20)   Depress UHF circuit breaker and tum Flitefone and test set on.
+         (21)   Select a common channel for test set and Flitefone to transmit .on.
+         (22)   Depress OPERATOR button in aircraft. Test set shall receive a sig-
+                nal· and two-way voice communication shall be possible. Check for
+                clarity of voice transmission•.
+         (23)   Depress hook switch.
+         (24)   Call aircraft from tpst set using aircraft telephone number. Aircraft
+                shall receive a signal and two-way voice communicaUon shall be poss-
+                ible. Check for clarity of voice transmission.
+         (25)   Place handset back in cradle and turn unit off.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                       23-13-00
+.,....                                                                      Page 202
+                                                                           Apr 30/82
+                              Gates Learjet Co'poration~
+                    ■ai■11nan■1 ■a■■al
+              FLITEFONE TRANSCEIVER - MAINTENANCE PRACTICES
+
+1.     RemoVal/Installation
+       A.  Remove Transceiver ·(See figure 201.)
+           (1)   Remove electrical power from aircraft.
+           (2)   Remove RH nose compartment access door and discc:mnect electrical
+                 connectors from transceiver.
+           (8)   Remove attaching parts and transceiver from aircraft.
+       B.  Install Transceiver (See figure 201.)
+           (1)   Install transceiver in RH avionics compai'b:nent and sec'!11"e with ..
+                 attaching parts.
+           (2)    Connect electrical connectors to transceiver and install nose compart-
+                 ment access door.
+           (8)   Restore electrical power to aircraft•
+
+
+
+
+                                           .
+                            Nose Wheel W
+                Electric              · ·· · · .
+                                                               ....
+
+                                                                       ....
+
+                                                                              .... .....
+
+
+Connector
+
+
+
+
+     T1'811Sceiwr   j
+
+
+                        Flltefone Transceiver Installation (Typical)
+                                         Figure 201
+
+
+EFFECTIVTl'Y: OPTIONAL                                                         28-13-01
+                                                                               Page 201
+                                                                              AprS0/82
+.
+                 FLITEFONE ANTENNA - MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+     A.  Remove Flitefone Antenna (See figure 201.)
+         (1)   Remove electrical power from aircraft.
+         (2)   Remove screws securing antenna to fuselage just off of frame 15.
+
+                 CAUTION: USE CARE NOT TO DAMAGE AIRCRAFT SKIN WHEN
+                          REMOVING SEALANT.
+
+           (3)    Using caution, break sealant bond between antenna and fuselage.
+            (4)   Pull antenna away from fuselage and disconnect coax connector from
+                  antenna. Ensure that coax cable does not slip back into hole in
+                  fuselage.
+            (5)   Remove antenna from aircraft area.
+     B.     Install Flltefone Antenna {See figure 201.)
+            (1)   Prepare antenna mounting surface and mounting area on fuselage
+                  for electrical bonding. {Refer to Chapter 20 of Wiring Manual.)
+            (2)   Connect coax connector to antenna.
+            (3)   Install antenna in fuselage and secure with screws.
+            (4)   Clean antenna base and fuselage mating area with a clean cloth and
+                  methyl-ethyl-ketone (MEK).
+            (5)   Apply fillet seal (Pro-Seal 890) around entire base of antenna •
+          . (6)   Restore electrical power to aircraft.
+
+                                                         /Stringer 21R
+                          Coax
+                          Connector                            r   Stringer 21L
+
+
+
+
+                                            ,
+                                          : .....___ _
+
+                                *         ,l         '\._Fram.el
+*Apply a fillet seal
+ of Pro-Seal 890 around    Screw
+ base of antenna after
+ installation.
+
+                                      Detail A
+                      Flltefone Antenna Installation (Typical)
+H-168B                                Figure 201
+
+EFFECTIVITY: OPTIONAL                                                          23-13-02
+                                                                               Page 201
+                                                                              Apr 30/82
+          -·. ·....
+
+
+
+
+                      ti
+
+
+
+
+                           •✓(•    I\
+
+
+·.••_•.
+
+
+
+
+                                  ..-•·
+
+
+
+
+                                          .•·   1·
+                                     Gates Learjet Corporation@
+                   ■ain11nan111 ■an11al -
+             FLITEFONE CONTROL UNIT - MAINTENANCE PRACTICES
+
+1.    Removal/Installation
+      A.   Remove Flitefone Control Unit (See figure 201.)
+            (1)  Remove electrical power from aircraft.
+            (2)  Release quick-attach fasteners and carefully slide control unit out of
+                 pedestal•
+          . (3)  Disconnect electrical connectors from control unit and remove control
+                 unit from aircraft.
+      B.   Install Flitefone Control Unit (See figure 201.)
+            (1)  Connect electrical connectors to control unit.
+            (2)  Slide control unit into pedestal and secure with quick-attach fasteners.
+            (3)  Restore electrical power to aircraft.
+
+
+
+
+     nttefone Control Unit
+
+                                     - -            .                ~Quick-Attach
+                                 Q 0 © © 0 © © @Q0 /                     Fasteners
+                             Ol'I'         0©©®@@©
+
+
+                                            Detail A
+
+
+                       Flitefone Control Unit Cockpit Installation
+                                            Figure 201
+
+EFFECTIVITY: OPTIONAL                                                           23-13-03
+                                                                                Page 201
+                                                                               Apr 30/82
+                                 Gates Learjet Corporation~
+                        ■al■ll!■a■II! ■il■■al
+             HF/FLITEFONE INTERFACE RELAY- MAINTENANCE PRACTICES
+
+ 1.        Remoyal/Installatlon
+           A.   Remove Interface Relay (See figure 201.)
+                (1)   Remove electrical power from aircraft.
+                (2)   Gain access to HF receiver/ exciter mounting rack.
+                (3)   Remove attaching parts securing relay to mounting rack.
+                (4)   Tag each wire attached to relay.
+                (5)   Unsolder wires from relay and remove relay from aircraft.
+           B.   Install Interface Relay (See figure 201.)
+                (1)   Solder wires to relay.
+               •(2) Remove tags from wires.
+                (3) Attach relay to mounting rack with attaching parts.
+                (4) Install parts removed in step A (2) above.
+                (5)   Restore electrical power to aircraft.
+
+
+
+
+  HF/Flitefone-,..._
+  Interface
+                                                                            ~tPressure
+  Relay
+                                                                             '\lkhead
+               Mountil·mr---1
+               Rack                                                               \   \
+                                                                                          \
+
+
+
+
+                                                                                              \
+                                                                                              I
+                                                                                              I
+
+
+
+                                           Detail A                                               \
+                       HF/Flltefone Interface Relay lnstallaUon (Typical)
+10-&0B                                      Figure 201
+
+Jt;FFECTIVITY: OPTIONAL                                                            23-13~04
+........                                                                           Page 201
+                                                                                  Apr 30/82
+                            Gates Learjet Corporation@
+                 main11.nan111 naanual
+               FLITEFONE SONALERT - MAINTENANCE PRACTICES
+
+1.   Removal/lnstallatlon
+     A.  Remove Sonalert (See figure 201.)
+         (1)   Remove electrical power from aircraft.
+         (2)   Remove upholstery as needed to gain access to Sonalert at frame 7 on
+               RH side of cockpit.
+         (3)    CUt and tag Sonalert wires.
+         (4)    Unscrew top of Sonalert to release it.
+     B.  Install Sonalert (See figure 201.)
+         (1)   Remove top from Sonalert.
+         (2)   Insert Sonalert through hole in upholstery and secure with Sonalert top.
+         (3)   Connect electrical wiring to Sonalert at splice.
+         (4)   Restore electrical power to aircraft.
+
+
+
+
+                                                                -Frame 7
+
+
+
+
+     Cock:pi~
+     Flitefone ~---.:,,,-.
+     Sonalert
+
+
+
+
+                                     Detail A
+                                 Sonalert Installation
+                                      Figure 201
+
+
+EFFECTMTY: OPTIONAL                                                           23-13-05
+                                                                              Page 201
+                                                                            Apr 30/82
+     \
+
+
+
+
+:,
+                             Gates Learjet Corporation~
+                   -ai111ena111e ■an■al
+     PASSENGER ADDRESS AND ENTERTAINMENT - DESCRIPTION AND OPERATION
+
+1.     Description
+       A.   The passenger address and entertalnment system consists of a cabin speaker
+            and a tone generator.
+       B.   Component Description
+            (1)    The cabin speaker is located in the cabin upper center panel and is
+                   controlled by switches on the audio control panels.
+            (2)    The tone generator is installed between frames 17 and 18 and stringers
+                   SL and 9L.
+
+2.     Operation
+       A.   The PASS SPKR VOL control regulates the volume level of the ADF audio to
+            the cabin speaker when the PASS ADF Switch.is set to PASS ADF. The
+             PASS SPKR VOL control also affects passenger speaker volume while ad-
+            dressing passengers when the Microphone Function Selector is in the PASS
+            SPKR position. Refer to 28-50-00 for further information on switch ftmctions.
+       B.   Additional passenger speaker audio is provided when the NO SMOKING
+            FASTEN SEAT BELT - OFF.:. FASTEN SEAT BELT Switch is set to either
+            the up or down position. In either position, a tone generator produces an
+            audible 800 cycle tone through the passenger speaker.
+
+
+
+
+EFFECTMTY: ALL                                                                  23-30-00
+                                                                                  Page 1
+                                                                               Apr 30/82
+                     ,. ... 1
+
+
+
+
+.;.•,-.,
+
+
+
+
+                                "":
+
+
+
+
+             ;;. ;
+
+
+
+
+       ;._
+
+                                      :;
+                            Gates Learjet Corporation~
+                  mainll!■il■II! nlil■llill
+               PASSENGER SPEAKER - MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+     A.  Remove Passenger Speaker (See figure 201.)
+         (1)   Carefully pry off speaker grill using extreme care not to damage grill
+               or surrounding area.
+         (2)   Remove screws which secure speaker to bracket.
+         (3)   Lower speaker and disconnect wiring. Tag wiring.
+         (4)   Remove speaker from aircraft.
+     B.  Install Passenger Speaker (See figure 201.)
+         (1)    Connect electrical wiring to speaker and install speaker in center panel.
+         (2)   Secure speaker to structure with screws.
+         (3)   Install speaker grill.
+
+
+
+
+                                affle       !
+
+
+
+
+                           Screw~f              ~~~         .      Seal
+
+                                                ~1/.I,
+
+
+                             Grill
+
+
+
+
+                                                Detail A
+                      Passenger Speaker Installation (Typical)
+                                    Figure 201
+
+EFFECTIVITY: ALL                                                              23-30-01
+                                                                              Page 201
+                                                                             Apr 30/82
+         j   ·i
+
+
+
+
+                  r
+
+
+
+
+.....,
+;   (
+
+
+
+
+                      ....
+                           Gates Learjet Corporation®
+                 ■ain1enan111 ■an■al
+                 TONE GENERATOR - MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+     A.  Remove Tone Generator (See figure 201.)
+         (1)   Remove upholstery as required to gain access to tone generator located
+               between stringers SL and 9L and frames 17 and 18.
+         (2)   on Aircraft 25-221 and Subsequent, disc~nnect electrical connector.
+               On Aircraft 25-061, 25-070 thru 25-220, locate electrical wiring spli-
+               ces and cut wiring at this point. Tag wiring.
+         (3)   Remove attaching parts and tone generator from aircraft.
+     B.  Install Tone Generator (See figure 201.)
+         (1)   Position tone generator on bracket and secure with attaching parts.
+         (2)   on Aircraft 25-221 and SUbsequent, connect electrical connector. On
+               Aircraft 25-061, 25-070 .thru 25-220, splice aircraft wiring to tone
+               generator using spllces of the same size and.type as those which were
+               o:rigfnslly installed. (Refer to Chapter 20 in the Wiring Manual for
+               splice sizes and installation instructions.)
+         (8)   Install previously removed upholstery.
+
+
+
+
+EFFECTIVITY: ALL                                                            28-30-02
+                                                                            Page 201
+                                                                           Apr 30/82
+                                   Gates Learjet Corporation@
+                         ■ai■le■a■■I! .. ■a:nual
+
+
+
+
+     stringer 8_
+
+
+                                                                 · ~ T o n e Generator ·
+                                                                         Assembly
+
+
+
+
+                   Printed Circuit Board                   Box
+                               (PCBl)
+
+
+
+
+                                       Grom.me
+
+
+
+
+      Aircraft 25-221 and SUbsequent
+                                            Detail B
+                                   Tone Generator Installation
+                                            Figure 201
+    ►188C
+
+
+
+    EFFECTIVITY: ALL                                                            23-30.;..02
+'   JOl-98.
+                                                                                Page 202
+                                                                               Apr 30/82
+                            Gates Learjet Corporation@>
+                  ■ain1ena■111 · ■a■■al
+              AUDIO INTEGRATING - DESCRIPTION AND OPERATION
+
+1.   Description (See figures l and 2. )
+     A.   ';['he audio control system is an integral part of the communicatlons and
+          navigational audio systems. Two independent, identical audio control panels
+          are installed, one in the pilot's subpanel and one in the copilot's subpanel.
+          Each audio control panel controls its respective cockpit speaker and head-
+          phone and both panels feed audio into the passenger speaker. The audio
+          control system provides a means of controlling communications and/or
+          navigation audio information being received or transmitted. The audio con-
+          trol system also controls communications within the aircraft.
+
+2.   Operation (See figures 1 and 2. )
+     A.   The audio control panel switches and their functions are as follows:
+          (1)   MASTER VOL. This control regulates the volume of all audio input
+                except for sidetone audio, the PASS-SPKR audio, aural warning signals,
+                and the microphone or headphone audio when the SPKR/PHONE-
+                 PHONE-EMERGENCY. Switch is set to EMERGENCY.
+           (2)   PASS SPKR VOL. This control regulates the volume l~vel of the ADF
+                in the cockpit speaker when the ADF Mixer Switch is in the center
+                 position and the PASS ADF Switch is in the OFF or center positron.
+                It also regulates the ADF volume in the. passenger speaker when the
+                 PASS ADF. Switch is set to PASS ADF•. This control also affec~
+               .passenger speaker volume while addressing passengers when the
+                 Microphone Fmictlon Selector is set to PASS SPKR. This control does
+                not affect the headphone, aural warning, or microphone audio when the
+                 microphone is being used in VHF 1, VHF 2; HF, or INPH positions.
+          (3)   SPKR/PHONE-PHONE-EMERGENCY
+                (a)    SPKR/PHONE. When the switch is in this position and any mixer
+                       switch is on, audio is fed to the headphones and cockpit speaker.
+                (b) PHONE. When the switch is in this position and any mixer
+                       switch is on, audio is fed to the headphones only.
+                (c)    EMERGENCY. When the switch is in this position and any mixer
+                       switch is on, audio ls fed directly to the h~adphones, bypassing
+                       all ampllfiers.
+          (4)   Ten Mb:er Switches across the top of the audio cont~l panel are
+               labeled and perform the following functions:
+                (a)    VHF 1, VHF 2.. When in the up position, these switches provide
+                       audio from the VHF l and VHF 2 transceivers respectively.         ·
+               (b)     NAV 1, NAV 2. When in the up p:>sition, these switches provide
+                       audio from the NAV l and NA V 2 receivers respectively.
+
+
+
+
+EFFECTMTY: ALL                                                                 23-50-00
+                                                                                 Pagel
+                                                                              Apr 30/82
+                              Gates Learjet Corporation@
+                    ■aiRII!■■■- ·-■ -■■al
+                  (c)    ADF 1, ADF 2. These are three-position type toggle switches.            ,✓
+                         Down is OFF. The center posiUon provides· audio t.o the passen-
+                         ger speaker when the PASS-ADF is In the up posiUon. The up ·
+                         position is the normal mixer posiUon and provides audio from
+                         ADF 1 and ADF 2 receivers respectively.
+                  (d)    DME. , When in the up position, this swit.ch provides audio ident-
+                         ification signals fr<>m-DME receiver.
+                  (e)    MKR. When In the up position, this switch provides malker audio
+                         from the marker beacon receiver.
+                  (f)    HF. When in the up posi~on, this switch provides audio from the
+                         HF transceiver...
+                  (g)    PASS-ADF. This is a three-position toggle switch and ls used
+                         only when the AD:E' ~er switch is in the. _center position, other-.
+                         wise it should be in.the OFFposiUon~ ·WhenJn the center posi-
+                         Uon, it allows only ADF audio ,to be heard ·1n the cockpit speaker .
+                         for the purpose of tuning and volume. adjustment and mutes any
+                         other mixer audio to·the cockpit_ speaker. When in the up position,
+                         it transfers ADF audio from the cockpit speaker to the passenger
+                         speaker and mutes any mixer audio to ~e cockpit speaker; how-
+                         ever,mixer    audio is provided to the headphones.
+            (5)   Microphone Function Selector. This is a five-position rotary switch
+                  labeled VHF 1, VHF 2, HF·, INPH, and PASS SPKR. This switch
+                  provides the proper Push-To-Talk and microphone audio inputs for the          ,·- . . ·•··',
+                  five functions.   ~
+                                                                                                     -...J
+                  (a)    VHF 1, VHF 2, and HF. When in m,y· of these posiUons; Mic
+                         Audio and Push-To:.-Talk capabillUes are provided for the respec-
+                        tive transceivers.
+                  (b)  INPH. This posiUon provides-interphone when one audio control.
+                       system panel is In INPH position. Audio will also be provided to
+                       the opposite speaker and headphones if the opposite panel Micro-
+                       phone Function Select.or is in the VHF 1, VHF 2, HF, or INPH po-
+                       sition and headphone audio only when'in the PASS SPKR position.
+                  (c)  PASS SPKR. When utilizing this position, the pilot or copilot
+                       can speak! t.o the passengers through the -passenger speaker. If
+                       ADF is being transmitted through the passengeJ.! speaker, it will
+                       automatically be disconnected when the Microphone Function Se-
+                       lector is in the PASS SPKR position. When the passenger speak-
+                        er is in use, aural warning is automaUcally transferred to the
+                        cockpit speaker and not transmitted to the passengers.
+       B.   Provisions have been made for adjustment of sidetone level and aural warning
+            volume. For further information on these adjustments, refer to Adjustment/
+            Test.
+
+
+
+
+EFFECTMTY: ALL                                                                    23-50-00
+                                                                                     Page2
+MIW8
+                                                                                 Apr S0/82
+                   Gates Learjet Corporation~
+            ■iiillll!ll■IIIII! ■an■al .
+
+
+
+
+                                                                            I
+                      Mixer Switches         - Quick-Attach Fastener
+
+
+
+
+                       Al.DO CONTROL
+
+                                                   Microphone
+                                                   Function
+                                                   Selector                 I
+
+                     · Audio Control Panel
+                            Figure 1
+
+EFFECTIVITY: ALL                                                 23-50-00
+.......                                                            Page3
+                                                                Apr 30/82
+                                          Gates Learjet Corporation®
+
+                            .■ai■le■a■ae ■a■11al
+
+                    ZSVDC~AUDl                                                AUD1~ 28 VDC
+ PILOTS AUDIO                                                                                             COPILOTS Aumo
+CONTROL PANEL       YmGH FREQUENCY (HF) IF INSTALLED                I                                     CONTROL PANEL
+
+                    T
+                    ==i            VHFl TRANSCEIVER        II   VHF2 TRANSCEIVER
+                                                                                       S7
+                    o---1         VHFl CONTROL HEAD        II   VHF2 CONTROL HEAD        l-4
+
+
+                    -ri
+                                 MARKER BEACON (REFER TO 34-30-00)        I
+                     ri         DME (REFER TO 34-52-00) J
+
+                    -r-l                                   II
+                     -
+                                ADFl (REFER TO 34-53-00)        ADF2 (IF INSTALLEO)
+                                                                                       f7
+                     ri                                                                  -       l
+
+                                IDC (REFER TO 34-15-00)    II     AURAL WARNING
+                                                                                       1-i..--A
+                    -
+                    y           NAVl (REFER TO 34:51-00) j   I NAV2 (REFER TO 34-51-00) ~
+
+                            I
+                            I       PANEL LIGHTING         II    PANEL LIGHTING
+                                                                                         I
+                                                                                         I           --
+                 -- L::oXY
+                    -   MICROPHONE
+                            MICROPHONE
+                                                                            MICROPHONE
+                                                                        OXY MICROPHONE
+                                                                            HEADPHONE        -
+                                                                                                 -
+                                                                                                     --
+                        ;. HEADPHONE
+
+                    r-l         TONE GENERATOR :                - ; p ASSENGER SPEAKER       I
+                        -
+                        -
+                            I
+                            I
+                                 PILOTS SPEAKER    I              I COPILOTS SPEAKER     I .:
+
+
+
+
+            !AURAL WARNING1-[              ----11 TRD/I-IN-MOTION (REFER TO CH. 27.)~
+                Aircraft 25-061, 25-0'10 thru 25-336, 25-338 thru 25-341 Modifl.ed for
+                Horizontal stabilizer and Autopilot lmpi;ovement and 25--:337, 25-342
+                and SUbsequent.
+
+                                                       Detail A
+                                   Audio Integrating System Block Diagram
+                                                   Figure 2
+
+    EFFECTIVITY: ALL                                                                                          28-50-00
+                                                                                                                   Page4
+     JDMI
+                                                                                                             Apr 30/82
+                                                                                                             t\:   :, t:1- :.
+                                         .... J   •
+
+
+
+
+                            Gates Learjet Corporation@
+                  ■ain111nan■1                        manual
+              AUDIO CONTROL PANEL - MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+
+     NOTE: Removal and installation procedures for pilot's and copilot's audio
+           control panels are identical.
+
+     A.    Remove Audio Control Panel (See figure 2 01. )
+           (1)   Remove electrical power from aircraft.
+           (2)   Release quick-attach fasteners on audio control panel.
+           (3)   Disconnect electrical connector on back of audio control panel.
+           (4)   Remove audio control panel from airc~aft.
+     B.    Install .Audio Control Panel (See figure 2 01 .. )
+           (1)   Connect electrical. connector to back of audio control panel.
+           (2)   Slide audio control panel in.to instrument panel and secure with quick-
+                 attach fasteners.
+           (3)   Restore electrical. power to aircraft.
+
+2.   Adjustment/Test
+     A.   A small hole is provided on the front of the audio panel for insertion of a
+          screwdriver for sidetone adjustment. - This adjustment should be made with
+          engines operating. Sidetone adjustment regulates audio level to the head-
+          phones and cockpit speaker when utilizing VHFl, VHF2, HF (if a separate
+          sidetone is provided for HF), or INPB. '.l.'he HF volume control and· the ·
+          MASTER VOL control will affect the HF sidetone level on most models
+          since the audio and sidetone use a common line from the· HF transceiver.
+          It is _suggested that sidetone level be adjusted using VHFl ·stdetone. This
+          will simultaneously adjust sidet.one for VHF2, HF (if applicable), and INPH.
+
+           NOTE: On Aircraft 25-061, 25-070 thru 25-336, 25-338 thru 25-341
+                 modified for Horizontal Stabilizer and Autopilot Improvement and
+                 25-337, 25-342 and Subsequent, 1he aural warning signal is routed
+                 through the trim-in-motion box. (Refer to Chapter 27. ) If the
+                 trim-in-motion box malfunctions, aural warning signal will not be
+                 present at audio control panels.
+
+     -B.   Two small holes are provided on the side of the audio control box for aural
+           warning adjustment.   The aft hole is for speaker aural warning adjustment.
+           The forward hole is for headphone aural warning adjustment. Since these
+           adjustments require sliding the audio control panel out of 1he instrument
+           panel, they should only be accomplished while 1he aircraft is on the ground.
+
+
+
+
+EFFECTIVITY: ALL                                                                23-50-01
+                                                                                Page201
+                                                                               Apr 30/82
+                            Gates Learjet Corporation@
+                    ■al■l■nan■■. -a■aal
+
+                                                                           -Audio
+                                                                             Control
+                                                                             Box
+
+
+
+
+                                                                       Headphone Aural
+                                                                       w ~ Adjustment
+                                                                     peak.er ·Aural
+                                                                    Warning Adjustment
+
+
+
+
+                                                  Detail B
+
+
+
+
+              VOL
+                        !IIERGENCY
+
+                                AlDO CONTROL
+
+ Bidet.one Adjustmen                 Detail A
+                                                                            Fastener
+
+                       Audio Control Panel Installation (Typical)
+                                      Figure 201
+
+
+EFFECTIVITY: ALL                                                                23-50-01'
+                                                                                Page202
+IIIN-H
+                                                                               Apr 30/82
+                                Gates Learjet Corporation.@>
+                      ■aiRIIRilRII .■an■al
+               MICROPHONE CONTROL PANEL - MAINTENANCE PRACTICES
+
+l.       Removal/Installation
+
+         NOTE:    Removal and installation procedures for pilot's and copilot's microphone
+                  control panels are identical.
+
+         A.    Remove Microphone Control Panel (See figure 201~)
+               (l)   Remove· .attaching parts and remove panel sufficiently to gain access
+                     to jack and switch Wiring.
+               (2)   DisCODI1ect and tag wiring.
+               (3)   Jf jack or switch replacement is required, remove defective compo-
+                     nent.
+         B..   Install Microphone Control Panel (See figure 201 .. )
+               (l)   Install and secure replacement component.
+               (2)   Connect wiring to jacks and switch..
+               (3)   Install panel and secure with attaching parts.
+
+
+
+
+                   Armrest
+
+
+
+
+                                       RH Panel Shown
+
+                                        Detail A
+                       Microphone Control Panel Instailation (Typical)
+9-128B                                 Figure 201
+
+EFFECTIVITY: ALL
+                                                                                  23-50-02
+                                                                                  Page 201
+                                                                                 Apr 30/82
+                         :      Gates Learjet Corporation~ -
+                      main11111a·11■11                 _a_n_aal.
+                     COCKPIT SPEAKER - MAINTENANCE PRACTICES
+
+.1.      Removal/Installation
+
+         NOTE:   Removal and installation procedures for pilot's and copilot's speakers
+                 are identical•
+
+        . A.   Remove Cockpit Speaker (See figure 201. )
+               (1)   Remove headliner to gam access to speaker :installation.
+               (2)   Remove attaching parts and remove speaker sufficiently to gain
+                     access to speaker Wiring. -
+               (3)   Disconnect electrical wiring from speaker. Tag wiring.
+               (4)   Remove speaker from aircraft.
+         B.    Install Cockpit Speaker (See figure 201.)
+               (1)    Connect wirillg to speaker.
+               (2) . Install speaker and secure with attaching parts.
+
+
+
+
+                                  LH Speaker Shown, RH Typical
+
+                                        Detail A
+                                Cockpit Speaker Installation
+                                        Figure 201 ·
+
+EFFECTIVITY: ALL                                                                 23-50-03
+MM-D8                                                                            Page 201
+                                                                                Apr 30/82
+        '   , ,_; .-.:. :         i   :
+
+                                            :•,•
+                                          .. :/~ .:
+
+                                                                (~
+                            .i.                                ~
+
+
+
+                                                      ._,,,.
+
+
+
+
+                                                               ri
+
+
+
+
+-'..,
+                           Gates Learjet Corporation~ ·
+                 ■aiale■a·■■I! .·■a■■·a1
+                STATIC DlSCHARGING - MAINTENANCE PRACTICES
+
+1.   Removal/Installation                         .
+     A.  Remove Static Discharging Wick (See figure 201. )
+
+          CAUTION:     WRENCH FLATS ARE PROVIDED ON THE WICK RETAINER
+                       (METAL PORTION OF THE WICK .ASSEMBLY) TO AID IN
+                       REMOVAL AND INSTALLATION OF THE WICK. UNDER NO
+                       ClltCUMSTANCES SHOULD LEVERAGE BE APPLIED TO THE
+                       PLASTIC PORTION OF THE WICK.
+
+          (1)   Using 1he wrenching flat on wick retainer, unscrew wick•.
+
+                NOTE: If wick has been broken off at the stud, application of heat at
+                      base of s1ud will melt retaining ,:,ompound and ease removal
+                      of broken s1nd. Use a high-wattage soldering gun to apply
+                      heat. Never use flame near the aircraft.
+
+          (2)    Inspect discharger base t.o assure that there is no damage t.o base
+                 prior to in~talUng new. wick.
+     B.   Install Static Discharging Wick (See figure 201. )
+          (l)    Apply one drop of Loctit.e to threads where they enter base.
+          (2)    Screw wick onto base and, using wrenching flat on wick, tighten wick.
+     c.   Remove Tip· Tank Fin Static Discharging Base (See figure 201.)
+          (1)    Drill out the four rivets attaching base to tip tank fin.
+          (2)    Using extreme care.not to damage tip tank fin skin, pry off discharger
+                 base.
+     D.   Inst.all Tip Tank Fin Static Discharging Base (See figure 201. )
+          (1)    Clean all tr:aces of old adhesive from tip tank fin and buff cleaned area
+                 with sandpaper.
+          (2)    Position new base on tip tank fin, align with fastener holes and mark
+                 around base. Remove base from fin.
+          (3)    Mix~ adhesive, E~2216 (3M Company), by adding 100 parts by
+                 weight of EC-2216-B to 140 parts by weight of EC-2215-A. Blend to a
+                 uniform medium gray color. Apply adhesive and position static dis-
+                 charger base on tip tank fin.
+          (4) · Secure static discharger.base to tlp tank fin using four CB.2249-4
+                 rivets.                                                   ·
+          (5)    Repamt surfaces. (Refer to Qiapter 20.)
+     E.    Remove Nav Light Fairing or Tailcone Stinger Static Discharger Base. (See
+           figure 2 01. )
+           (1)    Drill out the three rivets attaching dischat'ger base and remo~ base
+                  from aircraft.                                             ·
+
+
+
+
+EF.FECTIVITY: ALL                                                              . 23~60-00
+                                                                                 Page 201
+                                                                                Apr 30/82
+                            Gates Learjet Corporation@
+                  ■a1111e··na-n1e--· ■a.n·■al
+                                                                          Filaments
+                                              Wick Retaineri\_Wick--"\_.
+                                                                     _
+                                                 · Stud             . \
+                                        C        Base
+
+
+
+
+                                     C
+
+I                                                            /
+
+                                                      Detail A
+                                                                         Nav Light (Ref)
+
+
+
+
+                                                      Apply one drop of Loctite t.o
+                                                      the last few threads only.
+
+                        Discharger~
+                        Base
+                                       \o----
+                                      Detail D                             Filaments
+
+                                                                  Wick
+I                                                                Stud
+
+
+
+
+I           Detail B                                         Detail C-
+
+                            Static Discharger Installation
+                                      Figure 201 _
+
+    EFF'ECTIVITY: ALL                                                           23-60-00 -
+                                                                                page 20'J
+    MM-01                                                                      Apr 30/82
+                             Gates Learjet Corporation@
+                  ■iliRll!·Dil■III! . ■an■al
+     F.   Install Nav Light Fairing or Tallcone Stinger Static Discharger Base (See
+          figure 201. )
+          (1)   Position new discharger base on aircraft and align holes.
+          (2) Secure discharger base using CR2248-4-3, CR2248-4-5, and
+                CR2248-4-6 rivets (1 each). _
+          (3) Apply a bead of Pro-Seal 890 sealant around base of discharger.
+          (4) Repaint surface. (Refer t.o Chapter 20. )
+     G.   Remove Elevat.or Static Discharger Base (See figure 201.)
+          (1) Drill ·out the four rivets attaching discharger base t.o elevat.or.
+          (2) Using extreme care not t.o damage··elevat.or skin, pry off discharger
+                base.
+     H.   Install Elevat.or Static Discharger Base (See figure 201.)
+          (1)   Clean all traces of old adhesive from elevat.or skin and buff cleaned
+                area with sandpaper.
+          (2) Position new discharger base on elevat.or skin and align holes in base
+                wi1h holes in elevat.or skin. Mark a locating line around discharger
+                base on elevat.or skin.
+
+                  NOTE: When :im~talling •1her the center or inboard static discharger,
+                        the two holes must be located and drilled t.o match the rivet
+                        holes in the elevator trailing edge. These holes may be lo-
+                        cated from the old discharger base or from the actual holes
+                        in the elevator sldn. Drill two No. 30 (0.128) diameter holes
+                        in discharger base to match holes in elevator trailing edge.
+
+           (3)    Mix epoxy adhesive, EC-2216 (3M Company), by adding 100 parts by
+                  weight of EC-2216-B t.o 140 parts by weight of EC-2216-A. Blend to
+                  a uniform gray color. Apply adhesive and position static discharger
+                  base on elevator.
+           (4)    Secure discharger base to elevat.or. Use four CR2249AD4 rivets on
+                  outboard discharger base. On center and inboard dischargers, use
+                  two CR2249AD4 rivets on leading edge portion of discharger and two
+                  MS20470B4 rivets on trailing edge.
+           ( 5)   Fill 1he two unused holes m center and inboard discharger bases with
+                  EC-2216 epoxy. Sand flush.
+           (6)    Repaint surface. (Refer t.o Chapter 20.)
+
+2.   Ad,iustment/Test
+     A.    Perform Functional Test of Static Discharge Wick Installation
+           (1) Using a digital ohmmeter with pm tip test probes, touch one probe to
+                1he nearest bare metal on the a:ircraft skin and touch the other probe
+                t.o the wick retainer (metal portion of the Wick). Resistance shall be
+                less than o. 2 ohm for a newly installed base and o. 5 ohm maximum
+                for an existing installation.
+
+                  NOTE:   Do not use a bonding meter or high-current test set.
+
+EFFECTIVITY: ALL                                                                  23-60-00
+                                                                                  Page 203
+                                                                                 Apr 30/82
+                               Gates Learjet Corporation@
+                    ■ai■1enanI·■- -aa■■a-1 ·         ·
+            (2)    If resistance is higher than stated in step (1 ), proceed as follows.
+                   (a) Unscrew Wick from base and clean threads inside Wick retainer.
+                   (b)    Apply heat to siud to melt retaining compound. Unscrew siud
+                          from base.
+                   (c) Clean threads inside base.
+                   (d)    Screw s'bld into base until siud bottoms out.
+                   (e) Back siud out approximately two ihreads. App]y a very small
+                          amount of Nylok VC3 or equivalent rAtaining compound to one or
+                          two threads of the stud adjacent to base. Tighten s1ud into base.
+
+                         NOTE:    Use retaining compound sparingly because it is non-
+                                  conduciive. The base/siud/wick assembly must have
+                                  metal-to-metal contact through the threads.
+
+                   (f)   Screw Wick onto stud.
+                   (g)    Remeasure resistance. If resistance exceeds values in step (1 ),
+                          remove, clean, and reinstall base.
+            (3)    Again connect probes to aircraft skin and wick retainer. Apply alter-
+                   nate side loads t.o ihe discharge base while observing ohmmeter.
+                   Resistance shall not vary while applying load.
+            (4.)   If resistance varies while performing step (3), the base must be re-
+                   moved and reinstalled.
+            (5)    Set up megohmmeter to test wick installatiQn resistance at 500 volts
+                   as follows:
+
+                   NOTE:    The following procedure is for a General Radio Model 1863
+                            megohm.meter. Equivalent substi'bltes may be used.
+
+                   (a)   Set test voltage to 500.
+                   (b)   Set dial to l0M scale.
+                   (c)   Set switch to DISCHARGE.
+                   (d)   Touch negative probe to metal sleeve of static wick.
+                   (e)   Touch positive probe t.o the discharge wick filaments.
+
+                         NOTE:    Use a large, smooth probe to make connection to the
+                                  wick filaments. Use care not to push the wick filaments -
+                                  down into the wick.
+
+                   (f)   Set Power SWitch to ON.
+                   (g)   Set switch to CHARGE.
+
+
+
+
+EFFF.CTIVITY: ALL                                                                  23-60-00
+                                                                                   Page 204
+111111-98
+                                                                                  Apr 30/82
+                               Gates Learjet_Corporation~_
+                     ■ain111-■anI11 ■an■al
+                          CAUTION:     DO NOT TOUCH AIRCRAFT SKIN (OR METAL
+                                        SLEEVE OF WICK).AND WICK AT THE SAME
+                                        TIME DURING MEASUREMENT. ~ MANU-
+                                        FACTURER'S INSTRUCTIO~ FOR MEGOHM-
+                                      . METER OPERATION BEFpRE USING.
+
+              (6)   After the red ~ANGER light has i1h1minated, switch to MEASURE.
+                    The. resistance shall be 8 to 100 megohms. If resistance is greater
+                    than 50 megohms, set dial to 100 M scale.
+              (7)   If resistance is not within limits, replac~_wick.
+
+3. ·    Inspection/Check              .
+        A.    Inspect Static Discharge Wicks.
+              (1)  Inspect to assure that plastic wick is secure in metal wick retainer.
+                   Replace wick if loose.
+              (2) Inspect lightmng diverter strip (gray sfrjp along plastic wick) for
+                    cracks or peeling. Replace wick if strip is cracked or peeling. ·
+              (3)   Inspect plastic portion of wick for general condition.
+              (4) Inspect wick filaments. ~ents should be visible in the wick re-
+                    tainer cone. Replace wick 'if the total number of filaments is less than
+                    approximately 10% ·of a new wick.             . .             .
+              (5) Inspect each discharger ~ase.1;o· assure that the~ is no relative. move-
+                    ment between base· and aircraft skin. Base m~t be rem.stalled if
+                    movement is detected.
+
+
+
+
+EFFECTIVITY: ALL                                                                  23-6~00
+MM-88                                                                             Page 205
+                                                                                 Apr 30/82
+                     .      Gates Learjet Corporation~
+                  ■ai111111a11c1: ■a■■al.
+                VOICE RECORDER - DESCBIPTION AND OPERATION
+
+1.   Description (See figures 1 and 2)
+     A.   On 25 B/C Aircraft, the voice recorder is :installed on the LH side of the
+          baggage compartment between frames 19 and 21. On 25 D/F Aircraft, the
+          voice recorder is installed on the RH side of the tailcone between frames 27
+          and 28. The voice recorder cutout box is installed just aft of the voice re-
+          corder in both installations. The control panel is installed· in the center
+          pedestal.
+     B.   The voice reco~er porvides continuous recording of the last 30 mimlt.es . of
+          all flight crew conversations to aid m crash investigation;···The system-is
+          in operation whenever the aircraft is airbome. ·
+     C.   Operation of the voice recorder system can be divided into four modes: the
+          record mode, the monitor mode, the erase mode, and the self-test mode.
+          (1)      The record mode provides record capabilities from four separate
+                  flight stations; however, only three are used.
+          (2)      The monitor mode provides monitoring of recorded conversations
+                 . from each channel/track to ensure proper operation.
+          (3)      The erase mode enables the pilot to complet.e]y erase the last 30
+                   minutes of conversation on the tape. Erasure can only be accom-
+                  plished after the aircraft has landed and the parking brake has been
+                   set.
+           (4) The self-test mode provides ·for the generation of an internal 800 Hz
+                  test signal which is applied to the record heads and monitored auralq,
+                   or visually for each channel/track, either individual]y oi- sim.ulta-
+                  neous]y.
+
+2.   Operation (See figures. l and 2. )
+     A.   With the Battery Switch(es) on and the VOICE RCDR circuit break.er de-
+          pressed, the voice recorder is in operation. However, with the aircraft on
+          the ground and the parking brake set, the bulk erase mode is also operative.
+          The parking brake switch completes a 28 vdc circuit to the erase mode con-
+          trol reJ.a..y within the voice recorder cutout box while the squat switches
+          complet.e a ground circuit.
+     B.   The RH and LH engine low oil pressure switches are electrical]y connected
+          to a safety shutdown circuit within the voice recorder cutout box. If a crash
+          occurs wllerein power.sh,ould remain on the voice recorder, the voice re-
+          corder will continue to operate. The oil pressure switches apply a ground
+          to this safety shutdown circuit. The ground triggers a programmed uni-
+          junction transistor which shuts down the recorder approx:lmate]y 6 1p 10
+          minutes after the ground is applied and leaves the last 20 minutes of re-
+          cording.
+     C.   For fur1her information on the voice recorder, refer to Collins Maintenance
+          Manual Publication No. 523-075'1366-201114.
+
+
+
+EFFECTMTY: OPTIONAL                                                             23-70-00
+                                                                                 Pagel
+                                                                               Apr 30/82
+                           Gate$ Learjet Corpaatione         .
+                ■ai■1e■a■111. ■an■al
+
+
+
+
+                               Voice Recorder and
+                               Voice Recorder Cutout
+                               Box (25 D/F Aircraft)
+                               (23-70-01)
+
+
+
+
+                                                  ~..i:t,.,11-Voice Recorder and
+                                                             Voice Recorder Cutout
+                                                             Box (25 B/C Aircraft)
+                                                         (23-70-01)
+
+
+
+
+                   oice Recorder
+                  Control Panel
+                  (23-70-02)
+
+
+
+
+                      Voice Recorder Equipment Locator
+                                  Figure 1
+
+
+EFFP.;C'rlVITY: OPTIONAL                                                     23-70-00
+                                                                               Page2
+1111-is
+                                                                            Apr 30/82
+                                                   ~
+                  ■ai■1iiii1i-■lan■a1.
+
+
+
+                                  AR9          ...,_ _ PILOTS AUDIO
+                                  COCKPIT      .,.__ _ COPILOTS AUDIO
+                                  VOICE
+                                  RECORDER     ...,_ _ COCKPIT MIC
+
+
+
+
+                                               1--_,.-. AE 75
+                                                         CONTROL.
+                                                         UNIT
+
+
+
+
+     r
+    VOICE RCDR                    AE76
+                                  VOICE
+                                                                    I
+                                                                            • tp
+                                                                                                     I
+                                  RECORDER                                         L. ENGINE
+           28VDC                  CUTOUT                                           LOW OIL
+                                  BOX                                              PRESSURE SWITCH
+                                                                        •
+                                                                        I
+
+
+
+                                                                        8
+                                                                                   R. ENGINE
+PARKING                                                                            LOW OIL
+                                                                                   PRESSURE SWITCH
+BRAKE~                                                                  •
+                     II                                                 I
+SWlTCH           •
+                 L.:........:.J
+             32-43-00
+                                                                        8
+                                        --    ES
+                                              SQUAT
+                                              SWITCH
+                                              PANEL
+                                              39-40-00
+
+
+
+
+                                        Voice Recorder Block Diagram
+                                                   Figure 2
+
+
+EFFFECTIVITY: OPTIONAL                                                                    23-70-00
+                                                                                            Page 3
+                                                                                         Apr 30/82
+;;.1   ·•,
+
+
+
+
+             •.. ,,.... ,
+             I
+
+
+
+
+                            ,,:
+                           Gates Learjet Corporation@      ·      ·
+                  -ain11-nan11· -a■■:al.
+                  VOiCE RECORDER- MAINTENANCE PRACTICES
+
+1.   Removal/Installation
+     A.  Remove ·Voice Recorder (25 B/C .Aircraft)· (See figure 201.)
+         (1) Remove electrical power from aircraft.
+         (2)   Remove cover over voice recorder/flight recorder installation in
+               LH aft side of baggage compar~ent by lifting up on Velcro tabs with
+               fingers.                                       .
+         (3)   Disengage hold-down clamps on voice recorder rack.
+         ( 4)  Grasp handle of voice recorder and disengage voice recorder from
+               rack by pulling forward ..
+         (5) Remove voice recorder from aircraft.
+     B.  Install Voice Recorder (25 B/C Aircraft) (See figure 201.)
+
+           CAUTION:    CARE MUST BE TAKEN TO ALIGN PLUG IN VOICE RE-
+                       CORDER WITH PIN3 ON VOICE RECORDER RACK OR
+                       DAMAGE MAY RESULT.
+
+           (l}  Install voice recorder and tighten hold-down clamps.
+           (2)  Install cover by pressing down on Velcro tabs.
+           ( 3) Restore electrical power to aircraft.
+          (4)   Perform operational check of voice recorder system.
+     C.   Remove Voice Recorder (25D/F Aircraft) (See figure 201.)
+          (1) Remove electrical power from aircraft.
+          (2) Disengage hold-down clamps on voice recorder rack on BH side of
+                tailcone.
+          (3)   Grasp handle of voice recorder and disengage voice recorder from
+                rack by pulling forward.
+          (4)   Remove voice recorder from aircraft.
+     D.   Install Voice Recorder (25 D/F .Aircraft) (See figure 201.)
+
+           CAUTION:    CARE MUST BE TAKEN TO ALIGN PLUG IN VOICE RE-
+                       CORDER WITH PIN3 ON VOICE RECORDER RACK OR
+                       DAMAGE MAY RESULT.
+
+           (1)Install voice recorder and tighten hold-down clamps.
+           (2)Restore electrical power to aircraft.
+          (3) Perform operational check of voice recorder system.
+     E.   Remove Voice Recorder Cutout Box (See figure 201.)
+          (1) Remove electrical power from aircraft.
+          (2) Gain access to cutout box. (See paragraphs A and C. )
+          (3) Disconnect electrical connector from cutout box.
+          (4) Remove attaching parts and cutout box from mounting rack•
+
+
+
+
+. EFFECTMTY: OPTIONAL                                                      23-70-01
+                                                                           Page 201
+                                                                          Apr 30/82
+                                Gates Learjet Corporation@
+                      ■ainle■an■e ■anaal
+         F.   Install Voice Recorder Cutout Box (See figure 201.)
+              (l) Install cutout box on mountillg rack and secure with attaching parts.
+              (2)   Connect electrical connector to cutout box.
+              (3)   Install any parts removed in step E. (2).
+              (4)   Restore electrical power to aircraft.
+              (5)   Perform operational check of voice recorder system.
+
+2.       Inspection/Check
+         A. · Tools and Equipment
+
+              NOTE:     The following equipment or the equivalent is required to
+                        operationally check the voice recorder system.
+
+     NAME                 PART NO.             MANUFACTURER                  USE
+
+Noise Cancelling        Model TEL-66T          Telex Acoustic
+ Microphone                                     Prod. Co.
+
+Headphones              Type P-23 600 ohm      William J. Murdock
+
+Headset Ext.ension        50 foot              Commercially Available
+
+
+
+         B.   Operationally Check Voice Recorder System.
+
+              NOTE:     The following operational check is applicable to both the Collins
+                        AVR-101 and the Fairchild A-100 voice recorder systems.
+
+              (1)   Connect external electrical power source t.o aircraft.
+              (2)   Set Battery Switch(es) on and monitor aircraft de voltmeter for 28 vdc.
+              (3)   Monitor the ''ON" (green) and ''TRIP" (red) indicator lights on the
+                    cutout box.
+              (4)   Within 3 to 10 minutes after Battery Switch(es_) are set on, the "ON"
+                    (green) light shall extinguish and the ''TRIP" (red) light shall illumi-
+                    nate. This :indicates the voice recorder is operational.
+              (5)   Set Battery Switch(es) off. Wait approximately 10 seconds; then set
+                    Battecy Switch(es) on.
+              (6)   Connect headphone to copilot's audio panel.
+              (7)   Depress channel 2 button or rotate select.or switch to channel 2 on
+                    voice recorder.
+              (8)   Speak into microphone. Playback will occur approximat.ely 1 second
+                    after an aural input.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                               23-70-01
+                                                                                    Page 202
+MM-98.
+                                                                                   Apr 30/82.
+                   .      Gates Learjet Corporation@             ·
+
+                 -ili■ll■il■II ■il·■■ill
+         (9)    Depress TEST button on control panel for approximately 1 second and
+                note 800 Hz tone.
+        (1 O)   Disconnect microphone from copilot• s audio panel and connect t.o .
+                pilot's audio panel.
+        (11)    Depress channel 3 button or rotate select.or switch t.o channel 3 on
+                voice recorder.
+        (12)    Depress TEST button on control panel and speak int.o microphone.
+                Playback will occur approximately 1 second after an aural input.
+        (13)    Disconnect headphone jack from voice recorder and microphone from
+                pilot's audio panel.
+        (14)    Connect headphone jack t.o control panel headphone plug.
+        (15)    Depress ALL button or rotate select.or switch t.o ALL on voice
+                recorder.
+        (16)    Speak int.o microphone located on control panel. Playback will occur
+                approximately 1 second after an aural input.
+        (17)    Playback should be loud and clear on all channels with very little
+                background noise.
+
+                NOTE:    Channel 1 is not utilized.
+
+        (18)    Ensure that parking brake is set.
+        (19)    Depress ERASE button on control panel. Hold for at least 7 seconds.
+                This will ensure complete tape erasure.
+
+
+
+
+EFFECTIVITY: OPTIONAL                                                       23-70-01
+MM-98                                                                       Page 203
+                                                                           Apr 30/82
+                          Gates Learjet Corporation®>
+                mainlenanae ■an■al
+
+
+
+                                                                 Voice Recorder
+                                                                   tout Box
+
+
+
+
+Flight Recorder--""
+(Ref)                                                            1·
+                                                                 f
+
+
+
+
+                                             @                        ~e21
+
+
+
+
+                                25 B/C Aircraft         /
+                                                            ,~
+                                                                 ,~
+                      Voice Recorder/Cutout Box Installation
+10-54B-2 .                   Figure 201 (Sheet l of 3)
+
+EFFECTIVITY: OPTIONAL                                                  23-70-01   ·
+                                                                       Page 204
+MM-911                                                                Apr 30/82
+                            Gates Learjet Corporation®>
+                ■iliDIIDilDII ■anaal
+
+
+
+
+        Voice Recorder
+                                                                  r   Voice Recorder
+                                                                      Cutout Box
+
+
+
+
+ ALL Button·
+
+
+
+
+Stringer 13
+
+
+
+
+                                    25 D/F Aircraft
+
+                                     Detail B
+
+                         Voice Recorder/Cutout Box Jnstallation
+                                Figure 201 (Sheet 2 of 3)
+
+EFFECTIVITY: OPTIONAL                                                          23-70-01
+MM-98                                                                          Page 205
+                                                                              .Apr 30/82
+                      Gates Learjet Corporation@
+             -ainlenanae . -a■11al
+
+
+
+
+Electrical
+
+
+
+
+                                                          Printed Circuit Board
+                                                          (PCBl)
+
+
+
+
+                        Voice Recorder Cutout Box
+
+                              Detail C
+
+
+                Voice Recorder/Cu.tout Box Installation
+10-&4B-2
+                       Figure 2 01 (Sheet 3 of 3)
+
+
+EFFECTMTY: OPTIONAL                                                     23-'10-01
+                                                                        Page 206
+                                                                       Apr 30/82
+                               Gates Learjet Corporation®
+                    naainlenanae ■a1111al
+           VOICE RECORDER CONTROL PANEL - MAINTENANCE PRACTICES
+
+1.      Removal/Installation
+        A.  Remove Voice Recorder Control Panel (See figure 201.)
+            (1)   Remove electrical power from aircraft.
+            (2)   Disconnect quick-attach fasteners from pedestal.
+            (3)   Disconnect electrical connector from control panel.
+            (4)   Remove control panel from aircraft.
+        B.  Install Voice Recorder Control Panel (See figure 201. )
+            (1)    Connect electrical connector to c9ntrol panel.
+            (2)   Install control panel and fasten quick-attach fasteners.
+            (3)   Restore electrical power to aircraft.
+
+
+
+
+                                                                Press-To-Test
+           Microphone        Erase Button
+                                                                Switch
+
+
+                                          0
+                                         ERASE
+
+Fasteners                                              0
+
+                                                            Headphone Jack
+
+
+                                         Detail A
+
+
+                         Voice Recorder Control Panel Installation
+10-&4B-2                               Figure 201
+
+EFFECTIVITY: OPTIONAL                                                            23-70-02
+MM-98
+                                                                                 Page 201
+                                                                                Apr 30/82
+
