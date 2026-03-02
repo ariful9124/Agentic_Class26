@@ -1,0 +1,765 @@
+Exercise 4: Effect of Top-K Retrieval Count — Results
+Generated  : 2026-03-02 10:53:35
+Corpus     : Model T Manual
+Chunk size : 512  |  Overlap: 128
+K values   : [1, 3, 5, 10, 20]
+
+
+================================================================================
+  K = 1
+================================================================================
+
+  Q1: How do I adjust the carburetor on a Model T?
+  Elapsed  : 18.04s
+  Retrieved: 1 chunks
+  Scores   : [0.6404]
+  Sources  : ['ModelT-11-20-ocr.pdf']
+  Answer:
+    To adjust the carburetor on a Model T, you should follow these steps:
+    1. **Identify the Correct Cut**: Locate and identify the correct cut
+    number for adjusting the carburetor. In this case, it is Cut No. 7.  2.
+    **Remove the Air Filter**: Carefully remove the air filter from the
+    engine compartment. This step ensures that debris and dirt do not
+    interfere with the adjustment process.  3. **Access the Carburetor**:
+    Once the air filter is removed, access the carburetor by opening the
+    hood or removing any necessary panels. The exact method may vary
+    depending on the model year and condition of the car.  4. **Locate the
+    Adjustment Screw**: Find the adjustment screw for the float bowl. This
+    screw controls the amount of fuel entering the carburetor based on the
+    position of the float inside the bowl.  5. **Adjust the Float
+    Position**: Use a wrench to turn the adjustment screw clockwise (towards
+    the engine) to increase fuel flow, or counterclockwise (away from the
+    engine) to decrease fuel flow. Adjust until the desired mixture is
+    achieved.  6. **Reassemble the Engine**: After making adjustments,
+    reattach the air filter and secure all other components back into place.
+    7. **Test the Mixture**: Start the engine and test the mixture by
+    observing how the engine runs under various conditions. Make further
+    adjustments as needed.  8. **Verify Proper Operation**: Ensure that the
+    engine operates smoothly without stalling or misfiring after completing
+    the adjustments.  By following these steps, you can effectively adjust
+    the carburetor on a Model T, ensuring optimal performance and
+    efficiency. Remember to always work safely and consult relevant manuals
+    if unsure about any part of the procedure. [End of Procedure]  Note: The
+    above instructions assume familiarity with basic automotive mechanics
+    and tools. For more complex models or situations, additional resources
+    such as detailed repair guides or professional assistance might be
+    required. [End of Note]
+
+
+  Q2: What is the correct spark plug gap for a Model T Ford?
+  Elapsed  : 6.81s
+  Retrieved: 1 chunks
+  Scores   : [0.5378]
+  Sources  : ['Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    The correct spark plug gap for a Model T Ford is approximately 7/16 inch
+    (about the thickness of a smooth dime). This can be determined by
+    referring to the text which states "The distance between the sparking
+    points should be 74", which corresponds to 7/16 inch when converted to
+    decimal form. Additionally, it mentions that dirty plugs often occur due
+    to an excess of oil in the crankcase or using low-quality oil.   This
+    information directly supports the given answer without any external
+    sources. The context explicitly provides the spark plug gap measurement
+    needed to correctly assemble the plug on a Model T Ford engine.
+    Therefore, based solely on this source material, the correct spark plug
+    gap for a Model T Ford is indeed 7/16 inch.
+
+
+  Q3: How do I fix a slipping transmission band?
+  Elapsed  : 22.54s
+  Retrieved: 1 chunks
+  Scores   : [0.5783]
+  Sources  : ['Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    To fix a slipping transmission band, you should loosen the lock nut on
+    the opposite side of the transmission cover and turn the adjusting screw
+    until the band is snug against the housing. This will ensure that the
+    band is properly tensioned and prevent slippage. The text also mentions
+    that the slow-speed band may be tightened by loosening the lock nut at
+    the tight side of the transmission cover and turning the adjusting screw
+    as shown in Cut No. 12. However, this method is only applicable for
+    tightening the slow-speed band; for other bands like the high-speed
+    band, you would need to follow the instructions specifically given for
+    that type of band.   To summarize, the key steps are: 1. Loosen the lock
+    nut on the opposite side. 2. Turn the adjusting screw until the band is
+    snug against the housing. 3. For the slow-speed band, use the method
+    described above. 4. For other bands, refer to their specific
+    instructions.   This approach ensures that the transmission remains
+    properly tensioned and prevents slippage, which can lead to issues such
+    as gear shifting problems or increased wear on components. It's
+    important to note that improper adjustment could result in further
+    damage to the transmission system. Always consult the manufacturer’s
+    manual for detailed instructions specific to your vehicle model.   The
+    provided text does not explicitly state how to adjust the high-speed
+    band, but based on the context, it suggests that there might be
+    different methods depending on the specific design of the transmission.
+    Therefore, additional research or consultation with an expert might be
+    necessary to determine the correct procedure for high-speed bands.   In
+    conclusion, while the text provides general guidance on adjusting
+    transmission bands, it emphasizes the importance of consulting the
+    owner's manual or seeking professional advice when dealing with complex
+    mechanical systems like transmissions. The context indicates that proper
+    maintenance and understanding of the specific procedures outlined in the
+    manual are crucial for avoiding potential failures and ensuring safe
+    operation of the vehicle.   It's worth noting that the original text
+    contains errors, particularly regarding the placement of items in the
+    transmission case and the mention of "small" tola, which appears to be a
+    typographical error for "tool." These inaccuracies highlight the need
+    for careful reading and verification of technical documents before
+    implementing any repair or modification work.   Therefore, the final
+    answer is:  To fix a slipping transmission band, you should loosen the
+    lock nut on the opposite side of the transmission cover and turn the
+    adjusting screw until the band is snug against the housing. For the
+    slow-speed band, use the method described above. For other bands,
+
+
+  Q4: What oil should I use in a Model T engine?
+  Elapsed  : 12.09s
+  Retrieved: 1 chunks
+  Scores   : [0.3973]
+  Sources  : ['Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    The text suggests that you should use oil from the Model T itself for
+    lubrication purposes. It states "All other parts of the car are properly
+    oiled when it leaves the factory." This implies that the oil used during
+    production would be suitable for subsequent uses on the vehicle.
+    However, it also warns against allowing the oil to accumulate in the
+    lower cock, which could lead to contamination. Therefore, while the
+    original oil may suffice for initial use, it's advisable to replace it
+    with new oil after some time to maintain optimal performance.   The key
+    points supporting this answer are:  1. The phrase "when it leaves the
+    factory" indicates that the original oil was intended for initial use.
+    2. There's an explicit recommendation against leaving the oil in the
+    lower cock, suggesting potential contamination risk. 3. While the text
+    doesn't explicitly state what type of oil to use, the context strongly
+    implies that the same oil used in the factory would be appropriate for
+    subsequent use.   This reasoning leads to the conclusion that the
+    correct answer is that you should use the oil originally contained
+    within the Model T engine for lubrication purposes. However, it's
+    important to note that this advice assumes the oil hasn't been
+    contaminated and that it's still safe to use. If there's any doubt about
+    the condition of the oil, it might be wise to replace it with fresh oil.
+
+
+  Q5: How do I start a Model T Ford?
+  Elapsed  : 14.18s
+  Retrieved: 1 chunks
+  Scores   : [0.5565]
+  Sources  : ['Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    Before starting the car, you need to fill the radiator with clean, fresh
+    water. This is because the instruction manual states that "Before trying
+    to start the car, fill the radiator (by removing the cap at the top)
+    with clean, fresh water." This step ensures that the engine has
+    sufficient coolant for proper operation when it's time to start the
+    vehicle. The context also mentions that these parts are being made and
+    sold as "Ford Parts," indicating that they are part of the official
+    product line and can be used legally within the framework of owning and
+    maintaining a Ford automobile. However, it's important to note that
+    while these parts may be available for purchase from authorized
+    dealerships, they should only be used under the guidance of an
+    experienced mechanic or someone familiar with the workings of a Model T
+    Ford. Unauthorized modifications could void warranties and potentially
+    lead to safety issues. Therefore, while these parts might be useful for
+    certain repairs or upgrades, they cannot replace the original equipment
+    unless specifically approved by Ford.   To summarize, according to the
+    given text, the correct procedure to start a Model T Ford involves
+    filling the radiator with clean, fresh water before attempting to turn
+    on the engine. Any other actions without this initial step would likely
+    result in failure to start the vehicle due to insufficient cooling
+    system fluid. Additionally, it's crucial to exercise caution when
+    working with any aftermarket components related to a classic car like
+    the Model T Ford, as unauthorized modifications can pose risks to both
+    the vehicle and its owner. The context suggests that such parts are
+    indeed available but should always be handled with care and knowledge of
+    the vehicle's specifications.
+
+
+================================================================================
+  K = 3
+================================================================================
+
+  Q1: How do I adjust the carburetor on a Model T?
+  Elapsed  : 10.83s
+  Retrieved: 3 chunks
+  Scores   : [0.6404, 0.5775, 0.5775]
+  Sources  : ['ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    To adjust the carburetor on a Model T, you should refer to the
+    instructions provided with the car or consult the manual for guidance.
+    Additionally, it's important to ensure that the fuel supply is adequate
+    and that the air filter is clean and free from debris. For more detailed
+    adjustments, such as changing the needle valve or float level, follow
+    the specific steps outlined in the manual or seek assistance from an
+    experienced mechanic if necessary. It's also recommended to test the
+    engine after making any changes to ensure proper performance.   The
+    context provides information about how the carburetor works and its
+    importance in controlling the flow of gasoline and air mixture into the
+    engine. However, it does not explicitly state how to physically adjust
+    the carburetor itself. Therefore, while the context gives insight into
+    the function of the carburetor, it does not directly address the method
+    of adjusting it. Instead, it suggests consulting manuals or seeking help
+    from mechanics when needed. This implies that direct instruction on
+    physical adjustment methods would be found elsewhere in additional
+    resources like manuals or professional advice. Thus, based solely on the
+    given text, we cannot provide a clear step-by-step guide on how to
+    adjust the carburetor without referring to external sources.
+
+
+  Q2: What is the correct spark plug gap for a Model T Ford?
+  Elapsed  : 6.49s
+  Retrieved: 3 chunks
+  Scores   : [0.5378, 0.5226, 0.5004]
+  Sources  : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    The correct spark plug gap for a Model T Ford is 7/16 inch (about the
+    thickness of a smooth dime). This can be found on page 5 of the source
+    material mentioned in the context. Specifically, it states "The distance
+    between the sparking points should be 74", which translates to
+    approximately 7/16 inch. Additionally, the text mentions that dirty
+    plugs usually result from an excess of oil being carried in the crank
+    case or from using oil of poor quality. It's important to note that
+    these instructions were given during the production of the Model T Ford
+    cars in 1919. To ensure proper operation of the engine, it's crucial to
+    follow these guidelines carefully.
+
+
+  Q3: How do I fix a slipping transmission band?
+  Elapsed  : 11.0s
+  Retrieved: 3 chunks
+  Scores   : [0.5783, 0.5783, 0.5144]
+  Sources  : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    Loosen the lock nut at the tight side of the transmission cover, then
+    adjust the adjusting screw until the band engages properly with the
+    drum. Ensure there's no excess tension and check for proper alignment
+    before reattaching the cover.  This answer is based solely on the
+    information provided in the given sources, which state that you should
+    loosen the lock nut at the tight side of the transmission cover and
+    adjust the adjusting screw until the band engages properly with the
+    drum. It also mentions checking for proper alignment after making
+    adjustments. The source notes that this method can help prevent
+    overheating of the motor due to excessive tension. However, it does not
+    provide detailed instructions on how to tighten the brakes and reverse
+    bands. Therefore, while this approach addresses one aspect of fixing a
+    slipping transmission band, more comprehensive guidance would be needed
+    for complete repair.   To summarize, the key steps to fix a slipping
+    transmission band according to the provided sources are:  1. Loosen the
+    lock nut at the tight side of the transmission cover. 2. Adjust the
+    adjusting screw until the band engages properly with the drum. 3. Check
+    for proper alignment before reattaching the cover.  Additional details
+    about tightening the brakes and reversing bands may require further
+    research beyond the given sources.
+
+
+  Q4: What oil should I use in a Model T engine?
+  Elapsed  : 13.09s
+  Retrieved: 3 chunks
+  Scores   : [0.3973, 0.3973, 0.3618]
+  Sources  : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    Use the oil specified for the model year you have. For example, if you
+    have a 1919 Model T, use the oil recommended for 1919 Model T engines.
+    Always check the manufacturer's recommendations for the correct type and
+    grade of oil for your specific vehicle.  To determine what oil to use in
+    a Model T engine, follow these steps:  1. Identify the specific model
+    year of your Model T. 2. Refer to the manufacturer's guidelines or
+    specifications for that particular model year. 3. Follow any additional
+    instructions provided by the manufacturer regarding oil usage.  For
+    instance, as shown in the given sources, the Ford Model T was designed
+    with a specific oiling system that required careful management of the
+    oil levels within the engine and transmission. It is crucial to ensure
+    that the oil remains at the appropriate level throughout the operation
+    of the vehicle to maintain optimal performance and prevent damage.
+    Therefore, based on the information provided, the correct oil to use in
+    a Model T engine would be the one specifically designated for the model
+    year in question. Always consult the manufacturer's manual or contact
+    customer service for detailed guidance tailored to your specific
+    vehicle.   Note: The exact specification for the oil used in Model T
+    engines can vary slightly depending on the specific model and year, but
+    generally, it involves maintaining proper oil levels and ensuring the
+    oil meets certain quality standards set by the manufacturer. Regular
+    maintenance checks and timely replacement of worn components are also
+    essential for keeping the engine functioning efficiently.
+
+
+  Q5: How do I start a Model T Ford?
+  Elapsed  : 13.0s
+  Retrieved: 3 chunks
+  Scores   : [0.5565, 0.5565, 0.5388]
+  Sources  : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf']
+  Answer:
+    Before starting the car, you should first ensure that the radiator is
+    filled with clean, fresh water. This step is crucial for proper
+    operation of the engine and cooling system. The instruction also
+    mentions that it's important to check if any unauthorized parts are
+    being used; these parts might have different specifications than genuine
+    Ford parts, which could affect the performance and safety of the
+    vehicle. To avoid potential issues, it's recommended to deal with
+    authorized Ford dealerships when purchasing replacement parts.
+    Additionally, installing a carburetor correctly is essential for optimal
+    fuel delivery and combustion efficiency. Based on this information,
+    here’s how to start a Model T Ford:  1. Fill the radiator with clean,
+    fresh water. 2. Check with an authorized Ford dealership for any
+    unauthorized parts. 3. Ensure all components are installed correctly,
+    including the carburetor. 4. Start the car after completing these steps.
+    Please note that while the above instructions provide general guidance,
+    actual procedures may vary depending on local regulations and specific
+    model year requirements. Always refer to the owner manual or consult a
+    professional mechanic for detailed guidance tailored to your particular
+    vehicle.   To summarize, the key points from the given sources regarding
+    starting a Model T Ford include filling the radiator with clean, fresh
+    water, checking for unauthorized parts, ensuring correct installation of
+    all components, and following manufacturer guidelines for best results.
+    These steps help maintain the integrity of the vehicle and its
+    components, ensuring safe and efficient operation. [END OF ANSWER]
+
+
+================================================================================
+  K = 5
+================================================================================
+
+  Q1: How do I adjust the carburetor on a Model T?
+  Elapsed  : 21.65s
+  Retrieved: 5 chunks
+  Scores   : [0.6404, 0.5775, 0.5775, 0.5672, 0.5672]
+  Sources  : ['ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    To adjust the carburetor on a Model T, you should refer to the
+    instructions provided with the vehicle or consult the owner's manual for
+    detailed guidance. Additionally, if you encounter any issues during the
+    adjustment process, such as difficulty starting the engine due to
+    insufficient fuel supply, you may need to make adjustments according to
+    the advice given in the context, which suggests that turning the
+    carburetor adjustment to the right quarter-turn might help improve
+    performance in colder conditions. However, always ensure that you have
+    the correct tools and spare parts before making any adjustments to avoid
+    potential damage to the carburetor or other components. It's also
+    important to note that the specific steps for adjusting the carburetor
+    can vary depending on the model year and condition of the car, so
+    consulting reliable resources like manufacturer manuals or professional
+    mechanics would be advisable. Based solely on the information provided,
+    there isn't explicit mention of how to physically adjust the carburetor
+    itself; however, understanding the principles behind its operation and
+    knowing when to make adjustments based on the context mentioned could
+    guide you effectively.   The answer provided above incorporates insights
+    from multiple sources including the ModelT-11-20-ocr.pdf,
+    ModelT-21-30-ocr.pdf, Ford-Model-T-Man-1919-ocr.pdf, and Ford-Model-T-
+    Man-1919-ocr.pdf documents. These sources collectively provide essential
+    details about the carburetor's function, its control over fuel flow, and
+    the reasons why certain adjustments might be made, such as turning the
+    adjustment to the right quarter-turn for better performance in colder
+    climates. While these explanations don't directly address how to
+    physically adjust the carburetor, they offer valuable context for
+    understanding the importance of this task and the factors influencing
+    its necessity. This approach allows us to infer that the physical act of
+    adjusting the carburetor involves manipulating the settings or positions
+    of various components within the carburetor assembly, possibly through
+    turning knobs, levers, or adjusting screws, depending on the specific
+    design of the carburetor used in the Model T. By following the
+    guidelines outlined in the context—such as ensuring proper tool use,
+    maintaining safety precautions, and considering seasonal variations—the
+    user can safely and effectively perform the required adjustments.
+    Ultimately, while direct instruction on how to physically adjust the
+    carburetor isn't explicitly stated, the overall narrative provides
+    crucial information that enables an informed decision-making process
+    regarding its maintenance and tuning.
+
+
+  Q2: What is the correct spark plug gap for a Model T Ford?
+  Elapsed  : 7.65s
+  Retrieved: 5 chunks
+  Scores   : [0.5378, 0.5226, 0.5004, 0.5004, 0.4906]
+  Sources  : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    According to the given sources, the correct spark plug gap for a Model T
+    Ford engine is approximately 7/16 inch (about 11 mm). This can be seen
+    in the text on page 5 of the "Ford-Model-T-Man-1919" document, where it
+    states: "The distance between the sparking points should be 74", about
+    the thickness of a smooth dime." Additionally, this information is
+    repeated in the "ModelT-11-20" and "ModelT-21-30" documents. It's
+    important to note that these specifications may vary slightly depending
+    on the specific model year or edition of the vehicle, but generally, the
+    recommended gap remains consistent across most early Model T models. The
+    gap size helps ensure proper ignition timing and combustion efficiency
+    within the engine cylinder.
+
+
+  Q3: How do I fix a slipping transmission band?
+  Elapsed  : 9.74s
+  Retrieved: 5 chunks
+  Scores   : [0.5783, 0.5783, 0.5144, 0.5144, 0.4601]
+  Sources  : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    The given sources provide instructions for tightening the brake and
+    reverse bands. Specifically, they state:  "To tighten the brake and
+    reverse bands remove the transmission cover doof and turn the adjusting
+    nuts on the shafts to the right."  Additionally, the text mentions:
+    "See that the bands do :not drag the drums when disengaged, as they
+    exert 2 brake effect, and tend to overheat the motor."  These steps
+    involve removing the transmission cover to access the adjusting nuts,
+    which can then be turned to tighten the bands. This action helps prevent
+    the transmission from slipping due to dragging on the drums during
+    disengagement. However, it's important to ensure that the adjustment
+    screws are properly aligned and evenly compressed to avoid overheating
+    the motor.   To summarize, the key points are: 1. Remove the
+    transmission cover. 2. Turn the adjusting nuts to tighten the bands. 3.
+    Ensure proper alignment and even compression of the adjusting screws.
+    This approach addresses the issue of slipping transmission bands by
+    providing a clear method for tightening the bands while also considering
+    safety precautions like avoiding excessive heat buildup.
+
+
+  Q4: What oil should I use in a Model T engine?
+  Elapsed  : 14.45s
+  Retrieved: 5 chunks
+  Scores   : [0.3973, 0.3973, 0.3618, 0.3615, 0.359]
+  Sources  : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    For the Model T engine, you should use the Ford splash system for
+    lubrication. Additionally, there's a small oil cup located at the end of
+    the generator housing, where a few drops of oil should be applied
+    periodically during repairs. However, it's important to note that the
+    oil should never come into contact with any metal surfaces as this can
+    cause corrosion. Also, ensure that all other parts of the car are
+    properly oiled before leaving the factory. To achieve optimal results
+    after the engine becomes limbered up, it's recommended to keep the oil
+    level midway between the two cocks but avoid allowing it to accumulate
+    anywhere else.   Based on the given sources, the correct answer appears
+    to be:  For the Model T engine, you should use the Ford splash system
+    for lubrication. Additionally, there's a small oil cup located at the
+    end of the generator housing, where a few drops of oil should be applied
+    periodically during repairs. However, it's important to note that the
+    oil should never come into contact with any metal surfaces as this can
+    cause corrosion. Also, ensure that all other parts of the car are
+    properly oiled before leaving the factory. To achieve optimal results
+    after the engine becomes limbered up, it's recommended to keep the oil
+    level midway between the two cocks but avoid allowing it to accumulate
+    anywhere else.   This answer aligns with the information provided in the
+    sources, specifically mentioning the Ford splash system for lubrication
+    and the importance of proper oil management throughout the vehicle's
+    operation. It also addresses the need for periodic maintenance of the
+    oil cups and the general guidelines for maintaining the engine's oil
+    levels.
+
+
+  Q5: How do I start a Model T Ford?
+  Elapsed  : 7.68s
+  Retrieved: 5 chunks
+  Scores   : [0.5565, 0.5565, 0.5388, 0.5088, 0.5086]
+  Sources  : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    Before starting the car, you need to fill the radiator with clean fresh
+    water. This step ensures that the cooling system is properly filled and
+    ready for operation. Additionally, if there's a problem with the starter
+    or generator, it's recommended to contact an authorized Ford dealer
+    immediately rather than attempting to repair or adjust them yourself.
+    The manual also mentions that when removing the starter to transmission
+    bands, or for any other reason, you should first remove the engine pan
+    on the left-hand side of the engine and then proceed with the removal
+    process using a screwdriver.   To summarize:  1. Fill the radiator with
+    clean fresh water. 2. Contact an authorized Ford dealer if there's a
+    problem with the starter or generator. 3. Remove the engine pan on the
+    left-hand side of the engine before proceeding with the starter removal.
+    Use a screwdriver for this task.
+
+
+================================================================================
+  K = 10
+================================================================================
+
+  Q1: How do I adjust the carburetor on a Model T?
+  Elapsed  : 11.59s
+  Retrieved: 10 chunks
+  Scores   : [0.6404, 0.5775, 0.5775, 0.5672, 0.5672, 0.5376, 0.5343, 0.5343, 0.5146, 0.5037]
+  Sources  : ['ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    To adjust the carburetor on a Model T, you need to follow these steps:
+    1. **Check for Proper Mixture**: Ensure that the mixture is correct by
+    observing the color and smell of the exhaust smoke. Proper mixture
+    should result in very little smoke or odor.  2. **Adjust the Needle
+    Valve**: Use the needle valve to regulate the amount of gasoline
+    entering the mixture. Turn the needle valve counterclockwise to increase
+    fuel flow and clockwise to decrease it.  3. **Observe Engine
+    Performance**: After making adjustments, check the performance of the
+    engine. Adjust the needle valve further if needed to achieve optimal
+    operation.  4. **Turn Dash Adjustment One Quarter Turn Left**: For the
+    convenience of the driver, turn the carburetor adjustment one-quarter
+    turn to the left when starting a cold engine. This helps in reducing the
+    amount of gasoline in the mixture, making it more economical during cold
+    starts.  5. **Work Carbine in Thoroughly**: Allow the car to become
+    thoroughly worked before making any significant adjustments to ensure
+    accuracy.  By following these steps, you can effectively adjust the
+    carburetor on a Model T to optimize its performance and efficiency.
+    Remember, the goal is to maintain a proper balance between air and fuel
+    to minimize smoke and improve overall engine health.
+
+
+  Q2: What is the correct spark plug gap for a Model T Ford?
+  Elapsed  : 9.34s
+  Retrieved: 10 chunks
+  Scores   : [0.5378, 0.5226, 0.5004, 0.5004, 0.4906, 0.4906, 0.4647, 0.4615, 0.4511, 0.4418]
+  Sources  : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    The correct spark plug gap for a Model T Ford is 7/8 inch (about the
+    thickness of a smooth dime). This can be determined from the text "The
+    distance between' the sparking points should be 74", about the thickness
+    of a smooth dime." Additionally, it's mentioned that "There is nothing
+    to be gained by experimenting with different makes of plugs.." implying
+    that the standard gap is optimal. To ensure proper operation, the spark
+    plugs must be installed according to this specification.   Note: The
+    given context contains multiple sources but only provides relevant
+    information from two pages - Page 5 and Page 15. These pages discuss
+    assembly instructions for the Ford engine and mention the recommended
+    gap size for spark plugs. However, the exact source of these details
+    isn't specified in the query. Therefore, while we have some supporting
+    evidence from the provided text, there might be additional sources
+    needed to confirm the precise recommendation. Nonetheless, based on the
+    available information, the gap size is stated as 7/8 inch.
+
+
+  Q3: How do I fix a slipping transmission band?
+  Elapsed  : 12.3s
+  Retrieved: 10 chunks
+  Scores   : [0.5783, 0.5783, 0.5144, 0.5144, 0.4601, 0.4601, 0.4343, 0.4343, 0.4332, 0.4332]
+  Sources  : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    You can fix a slipping transmission band by loosening the lock nut at
+    the tight side of the transmission cover, and then turning the adjusting
+    screw (see Cut No. 12) to the right. This will help you tighten the
+    brake and reverse bands. Additionally, you need to ensure that the bands
+    do not drag the drums when disengaged, as they exert 2 brake effect and
+    tend to overheat the motor. For tightening the clutch spring, you should
+    use the adjusting studs within an area of two or two and one-sixteenth
+    inches to prevent the clutch from slipping. The process involves
+    pressing the spring into place, inserting the pin through the holes in
+    the side of the spring support, and ensuring even compression of the
+    spring. Finally, to adjust the tension of the clutch finger, you can use
+    the adjusting studs within this same space to avoid slipping.   This
+    answer is based on the information provided in the sources, including
+    the instructions given for fixing a slipping transmission band in both
+    the Model T-31-40 and Ford Model T manuals. It covers steps such as
+    loosening the lock nut, turning the adjusting screw, ensuring proper
+    placement of the set screw, compressing the clutch spring, and adjusting
+    the tension of the clutch finger. However, there might be additional
+    details or variations depending on the specific model or manufacturer's
+    guidelines.
+
+
+  Q4: What oil should I use in a Model T engine?
+  Elapsed  : 10.94s
+  Retrieved: 10 chunks
+  Scores   : [0.3973, 0.3973, 0.3618, 0.3615, 0.359, 0.359, 0.352, 0.352, 0.3383, 0.3383]
+  Sources  : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    For the Model T engine, you should use either the Ford splash system or
+    the Ford starter system. Additionally, there's a suggestion for
+    repairing the ignition system, but this part isn't mentioned as needing
+    oil specifically. When dealing with repairs related to the ignition, the
+    answer is "No."   Based on the given sources, the primary oils
+    recommended for the Model T engine include:  1. The Ford splash system
+    used for both the engine and transmission. 2. A splash of oil from the
+    time gears for the generator. 3. An oil cup located at the end of the
+    generator housing, which should be periodically refilled with a few
+    drops of oil.  These recommendations suggest that while the engine
+    itself doesn't require separate oiling, the components connected to it
+    might benefit from regular maintenance through these methods. However,
+    without more detailed instructions on how often to refill or replace
+    these items, it would be prudent to follow the manufacturer's guidelines
+    for proper care and maintenance.   It's important to note that the
+    specific details regarding oil usage can vary slightly depending on the
+    exact model year and condition of the vehicle. Always refer to the
+    owner's manual or consult with a professional mechanic if unsure about
+    any particular steps or procedures.
+
+
+  Q5: How do I start a Model T Ford?
+  Elapsed  : 13.01s
+  Retrieved: 10 chunks
+  Scores   : [0.5565, 0.5565, 0.5388, 0.5088, 0.5086, 0.4991, 0.4975, 0.4774, 0.4774, 0.4653]
+  Sources  : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-61-62-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf']
+  Answer:
+    Before attempting to start the car, you need to ensure that the radiator
+    is filled with clean, fresh water. Additionally, it is recommended to
+    have a thorough understanding of Ford construction to avoid difficulties
+    in maintaining and repairing the vehicle. Furthermore, it is crucial to
+    obtain genuine Ford-made materials or "parts" for repairs or
+    replacements, as unauthorized parts could compromise the integrity of
+    the vehicle. Lastly, if the starter or generator fails to function
+    properly, immediate consultation with an authorized Ford dealer is
+    advised rather than attempting to repair or adjust them yourself. To
+    disconnect the adjustments, refer to the Ford Manual, specifically page
+    57 under section 'How is the Starter removed?' where step 128 instructs
+    to first remove the engine pan on the left-hand side of the engine and
+    then with a screwdriver.   Based on this analysis, the correct sequence
+    of steps to start a Model T Ford involves filling the radiator with
+    clean, fresh water, ensuring a thorough knowledge of Ford construction,
+    consulting an authorized Ford dealer if necessary, and following the
+    instructions in the Ford Manual regarding how to safely remove the
+    starter from the transmission bands. However, without access to the
+    specific pages mentioned in the sources, these details cannot be
+    verified directly from the given text alone. The provided information
+    outlines general guidelines but does not include all detailed procedures
+    found in official manuals or guides. Therefore, while the core advice
+    remains accurate, some specifics might differ slightly depending on the
+    exact manual used.
+
+
+================================================================================
+  K = 20
+================================================================================
+
+  Q1: How do I adjust the carburetor on a Model T?
+  Elapsed  : 12.79s
+  Retrieved: 20 chunks
+  Scores   : [0.6404, 0.5775, 0.5775, 0.5672, 0.5672, 0.5376, 0.5343, 0.5343, 0.5146, 0.5037, 0.5037, 0.4981, 0.4864, 0.4861, 0.4788, 0.4788, 0.4747, 0.4747, 0.4706, 0.4706]
+  Sources  : ['ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    To adjust the carburetor on a Model T, you need to follow several steps:
+    1. **Check for Proper Mixture**: Ensure the mixture is neither too lean
+    nor too rich. A lean mixture can lead to excessive smoke and odor, while
+    a rich mixture might not provide sufficient power.  2. **Adjust Needle
+    Valve**: Use the adjustment knob located on the dashboard to control the
+    amount of fuel entering the carburetor. Turn the knob slightly to the
+    right to increase fuel flow and vice versa.  3. **Monitor Engine
+    Performance**: Observe the performance of the engine after making
+    adjustments. Adjustments should be made based on what provides optimal
+    performance, such as smooth operation and minimal smoke/noise.  4.
+    **Consider Weather Conditions**: In colder temperatures, consider
+    reducing the amount of fuel in the mixture to avoid premature engine
+    shutdown due to vaporization issues.  5. **Consult Manufacturer's
+    Guidelines**: Refer to the manufacturer’s manual for detailed
+    instructions and troubleshooting tips specific to your model year and
+    make.  By following these steps, you can effectively adjust the
+    carburetor to optimize the performance of your Model T vehicle.
+    Remember, regular maintenance and tuning are crucial for maintaining
+    optimal engine health and efficiency.   **Note:** This summary assumes
+    familiarity with basic automotive mechanics and the Model T-specific
+    procedures mentioned in the given sources. Always consult official
+    manuals or professional advice if unsure about any step.
+
+
+  Q2: What is the correct spark plug gap for a Model T Ford?
+  Elapsed  : 11.51s
+  Retrieved: 20 chunks
+  Scores   : [0.5378, 0.5226, 0.5004, 0.5004, 0.4906, 0.4906, 0.4647, 0.4615, 0.4511, 0.4418, 0.4397, 0.4255, 0.4242, 0.4242, 0.4238, 0.3715, 0.3713, 0.3697, 0.3697, 0.3681]
+  Sources  : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf']
+  Answer:
+    The correct spark plug gap for a Model T Ford is 7/16 inch,
+    approximately the thickness of a smooth dime. This can be verified from
+    the text where it states "The distance between the sparking points
+    should be 74", which translates to 7/16 inch. Additionally, the passage
+    mentions that this value is about the thickness of a smooth dime,
+    further supporting this measurement.   To provide additional context,
+    the Model T Ford was introduced in 1908 and used a single-cylinder
+    engine with a water-cooled aluminum block. It featured a simple design
+    with no overhead camshafts or fuel injection systems. The ignition
+    system consisted of a magneto and a distributor, both housed inside the
+    dashboard. The spark plugs were typically made of iron and had a ceramic
+    insulator. They were installed directly into the engine's combustion
+    chamber without any protective covers. Regular maintenance included
+    checking the spark plugs' gaps, cleaning them periodically, and
+    replacing them if necessary. The text also notes that dirt and carbon
+    buildup could affect the performance of the spark plugs, leading to
+    issues like weak exhaust valve springs or rough operation. Overall, the
+    maintenance requirements for the Model T Ford involved regular
+    inspections and adjustments to ensure optimal engine performance.
+
+
+  Q3: How do I fix a slipping transmission band?
+  Elapsed  : 17.69s
+  Retrieved: 20 chunks
+  Scores   : [0.5783, 0.5783, 0.5144, 0.5144, 0.4601, 0.4601, 0.4343, 0.4343, 0.4332, 0.4332, 0.4321, 0.4321, 0.4282, 0.4282, 0.4255, 0.4255, 0.4071, 0.4071, 0.3724, 0.3724]
+  Sources  : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    Fixing a slipping transmission band involves several steps:  1. **Loosen
+    the Lock Nut**: First, loosen the lock nut at the tight side of the
+    transmission cover. This allows easier access to adjust the bands.  2.
+    **Adjust the Bands**: Turn the adjusting screw to tighten or loosen the
+    bands according to the need. For instance, tightening the slow-speed
+    band can help improve performance.  3. **Check Alignment**: Ensure that
+    the bands don't drag the drums when disengaged. Proper alignment
+    prevents overheating of the motor due to excessive braking force.  4.
+    **Compress the Spring**: Use the adjusting screws to compress the clutch
+    spring appropriately. Make sure there's even compression around the
+    spring to avoid slipping.  5. **Install Clutch Release Ring**: Place the
+    clutch release ring in the correct groove of the clutch shift. This
+    ensures smooth engagement and disengagement of the clutch.  By following
+    these steps, you can effectively address issues related to slipping
+    transmission bands. Remember to always refer to the manufacturer’s
+    instructions for precise guidance.   **Note:** The given text mentions
+    "bands" but doesn’t specify whether it refers to the transmission bands
+    or something else. Therefore, this solution assumes the context pertains
+    to fixing slipping transmission bands. If the issue is about another
+    type of band, additional details from the source material might be
+    needed.   This approach aligns well with the provided sources, which
+    emphasize proper assembly and adjustment techniques for ensuring
+    reliable transmission function. It also addresses common maintenance
+    tasks mentioned in the context, such as checking band alignment and
+    securing components like the clutch release ring.   In summary,
+    addressing slipping transmission bands requires careful adjustments to
+    ensure proper tension, alignment, and secure installation of critical
+    components within the transmission system. Following these steps helps
+    maintain optimal performance and longevity of the vehicle's mechanical
+    systems.   Please note that actual procedures may vary slightly
+    depending on the specific model and year of the car, so consulting the
+    owner manual or professional advice remains crucial.
+
+
+  Q4: What oil should I use in a Model T engine?
+  Elapsed  : 10.13s
+  Retrieved: 20 chunks
+  Scores   : [0.3973, 0.3973, 0.3618, 0.3615, 0.359, 0.359, 0.352, 0.352, 0.3383, 0.3383, 0.3262, 0.3244, 0.322, 0.3164, 0.3164, 0.3161, 0.3161, 0.3109, 0.3109, 0.3013]
+  Sources  : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf']
+  Answer:
+    For the Model T engine, you should use Mobil Oil or White Motors' Wart
+    Gear Protectant. These oils are specifically designed for engines like
+    the Model T and provide the necessary protection against wear and
+    corrosion. Additionally, it's important to ensure that the oil is
+    changed regularly to maintain optimal performance and longevity of the
+    engine. Regular maintenance, including changing the oil and filter,
+    checking for leaks, and keeping the engine clean, can help extend the
+    life of your Model T vehicle. Always refer to the manufacturer's
+    recommendations for proper oil changes and maintenance procedures.
+    This answer is based on the information provided in the context, which
+    states that Mobil Oil and White Motors' Wart Gear Protectant are
+    recommended for Model T engines due to their suitability for similar
+    vehicles and their ability to protect against wear and corrosion.
+    However, it's worth noting that while these brands may be appropriate
+    for Model T engines, there could potentially be other options available
+    depending on local regulations and availability. Always consult with a
+    professional mechanic or follow the specific instructions provided by
+    the manufacturer for the most accurate guidance.
+
+
+  Q5: How do I start a Model T Ford?
+  Elapsed  : 7.8s
+  Retrieved: 20 chunks
+  Scores   : [0.5565, 0.5565, 0.5388, 0.5088, 0.5086, 0.4991, 0.4975, 0.4774, 0.4774, 0.4653, 0.4653, 0.4647, 0.4647, 0.4584, 0.4584, 0.4566, 0.4556, 0.4453, 0.4435, 0.4428]
+  Sources  : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-61-62-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    Before attempting to start the car, ensure that the radiator has been
+    filled with clean, fresh water. This step is crucial to prevent damage
+    to the cooling system. Additionally, if the starter or generator fails
+    to provide adequate service, it is recommended to seek assistance from
+    an authorized Ford dealer rather than attempting to repair or adjust
+    these components yourself. Always prioritize safety and professional
+    guidance when handling such critical systems.   EXPLANATION: Based on
+    the given sources, the correct procedure for starting a Model T Ford
+    involves filling the radiator with clean, fresh water before attempting
+    to start the car. The text also advises against attempting to repair or
+    adjust the starter and generator mechanisms yourself due to potential
+    risks associated with doing so. These precautions align with best
+    practices outlined in the Ford manual regarding the maintenance and safe
+    operation of the vehicle.
+
+================================================================================
+  LATENCY SUMMARY (seconds per query)
+================================================================================
+  K           Q1      Q2      Q3      Q4      Q5      Avg
+  --------------------------------------------------
+  1        18.04    6.81   22.54   12.09   14.18    14.73
+  3        10.83    6.49   11.00   13.09   13.00    10.88
+  5        21.65    7.65    9.74   14.45    7.68    12.23
+  10       11.59    9.34   12.30   10.94   13.01    11.44
+  20       12.79   11.51   17.69   10.13    7.80    11.98

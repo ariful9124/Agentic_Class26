@@ -1,0 +1,219 @@
+Exercise 6: Query Phrasing Sensitivity — Results
+Generated  : 2026-03-02 11:15:29
+Corpus     : Model T Manual
+Chunk size : 512  |  Overlap: 128  |  Top-K: 5
+
+================================================================================
+  Phrasing 1: [formal]
+  Query   : What is the recommended procedure for adjusting the ignition timing on a Model T Ford engine?
+  Elapsed : 0.025s
+================================================================================
+
+  Rank 1 | Score: 0.4593 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::162
+    ave the factory are best adapted to the require- ments of our motor,
+    notwithstanding the opinion of various garage men t
+
+  Rank 2 | Score: 0.457 | ModelT-21-30-ocr.pdf
+  ID     : ModelT-21-30-ocr.pdf::38
+    ave the factory are best adapted to the require- ments of our motor,
+    notwithstanding the opinion of various garage men t
+
+  Rank 3 | Score: 0.4351 | ModelT-21-30-ocr.pdf
+  ID     : ModelT-21-30-ocr.pdf::10
+    mes from the exhaust. Whenever it is neceseary to turn, the adjusting
+    needle down more thatia quarter turn ‘below _ 7 ‘P
+
+  Rank 4 | Score: 0.435 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::134
+    mes from the exhaust. Whenever it is neceseary to turn, the adjusting
+    needle down more thatia quarter turn ‘below _ 7 ‘P
+
+  Rank 5 | Score: 0.4224 | ModelT-21-30-ocr.pdf
+  ID     : ModelT-21-30-ocr.pdf::31
+    ard against compression when the car is inthis condition, es the “short”
+    is apt to. : cause a vigorous kick back. {284 e
+
+
+================================================================================
+  Phrasing 2: [casual]
+  Query   : How do I set the timing on my Model T?
+  Elapsed : 0.009s
+================================================================================
+
+  Rank 1 | Score: 0.3989 | ModelT-31-40-ocr.pdf
+  ID     : ModelT-31-40-ocr.pdf::7
+    utch is released by ng backs tie hand lever the pedal should move
+    forward a diatance of I 14" in ic from high speed to n
+
+  Rank 2 | Score: 0.3989 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::187
+    utch is released by ng backs tie hand lever the pedal should move
+    forward a diatance of I 14" in ic from high speed to n
+
+  Rank 3 | Score: 0.3733 | ModelT-31-40-ocr.pdf
+  ID     : ModelT-31-40-ocr.pdf::16
+    the slow speed’ adjusting screw, ‘Remove the bolts holding the
+    transmission cover to crank case ahd liftoff the cover as
+
+  Rank 4 | Score: 0.3733 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::196
+    the slow speed’ adjusting screw, ‘Remove the bolts holding the
+    transmission cover to crank case ahd liftoff the cover as
+
+  Rank 5 | Score: 0.3667 | ModelT-01-10-ocr.pdf
+  ID     : ModelT-01-10-ocr.pdf::61
+    h marked zero (0) on the amall time gtar  ayvill | oad between the two
+    teeth on the large gear at the zero point. : . 7
+
+
+================================================================================
+  Phrasing 3: [keywords]
+  Query   : timing adjustment Model T ignition
+  Elapsed : 0.008s
+================================================================================
+
+  Rank 1 | Score: 0.4058 | ModelT-11-20-ocr.pdf
+  ID     : ModelT-11-20-ocr.pdf::0
+    [Page 1] fon 7s, aoe =, ~ . . - ‘eg - ‘ant i ve - —_a ae . on a ee = 8
+    —.-_ 2 a oe " Cylinder Assembly, the correct posi
+
+  Rank 2 | Score: 0.3816 | ModelT-21-30-ocr.pdf
+  ID     : ModelT-21-30-ocr.pdf::4
+    probably be found necessary to turn the dash adjustment one- quarter
+    turn to the left, particularly in starting a cold e
+
+  Rank 3 | Score: 0.3816 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::128
+    probably be found necessary to turn the dash adjustment one- quarter
+    turn to the left, particularly in starting a cold e
+
+  Rank 4 | Score: 0.379 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::146
+    tor is warm? Teedle down (to the right) Snes t inonder to exhaust the
+    cee : ‘As sped aa the motor She ale ete ee ae he s
+
+  Rank 5 | Score: 0.3786 | ModelT-01-10-ocr.pdf
+  ID     : ModelT-01-10-ocr.pdf::24
+    e quadrant as when cranking by hand, ar ignition switch turned on.
+    Current from either battery or magneto may be used ig
+
+
+================================================================================
+  Phrasing 4: [question]
+  Query   : When should I adjust the spark timing?
+  Elapsed : 0.006s
+================================================================================
+
+  Rank 1 | Score: 0.5324 | ModelT-01-10-ocr.pdf
+  ID     : ModelT-01-10-ocr.pdf::15
+    ll be noticed in the engine. (See chapter on Ignition.) Where should
+    these levers be.when ‘ . ‘ atarting the Engine? Ans
+
+  Rank 2 | Score: 0.5324 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::15
+    ll be noticed in the engine. (See chapter on Ignition.) Where should
+    these levers be.when ‘ . ‘ atarting the Engine? Ans
+
+  Rank 3 | Score: 0.5107 | ModelT-01-10-ocr.pdf
+  ID     : ModelT-01-10-ocr.pdf::46
+    ad- . vancing the spark too far will case a dull knock in the motor, due
+    to the feet that -4 b the explosion occurs too
+
+  Rank 4 | Score: 0.5107 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::46
+    ad- . vancing the spark too far will case a dull knock in the motor, due
+    to the feet that -4 b the explosion occurs too
+
+  Rank 5 | Score: 0.4322 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::156
+    k the contact between the points, and, as a result, at cranking speeds
+    you would not get a spark between the spark plug
+
+
+================================================================================
+  Phrasing 5: [indirect]
+  Query   : Ignition advance settings procedure
+  Elapsed : 0.007s
+================================================================================
+
+  Rank 1 | Score: 0.4436 | ModelT-21-30-ocr.pdf
+  ID     : ModelT-21-30-ocr.pdf::38
+    ave the factory are best adapted to the require- ments of our motor,
+    notwithstanding the opinion of various garage men t
+
+  Rank 2 | Score: 0.4432 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::162
+    ave the factory are best adapted to the require- ments of our motor,
+    notwithstanding the opinion of various garage men t
+
+  Rank 3 | Score: 0.4264 | ModelT-01-10-ocr.pdf
+  ID     : ModelT-01-10-ocr.pdf::23
+    he small wire at the | i left corner of the radiator while giving the
+    engine two or three quarter turne wi the starting
+
+  Rank 4 | Score: 0.4264 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::23
+    he small wire at the | i left corner of the radiator while giving the
+    engine two or three quarter turne wi the starting
+
+  Rank 5 | Score: 0.4083 | ModelT-01-10-ocr.pdf
+  ID     : ModelT-01-10-ocr.pdf::15
+    ll be noticed in the engine. (See chapter on Ignition.) Where should
+    these levers be.when ‘ . ‘ atarting the Engine? Ans
+
+
+================================================================================
+  Phrasing 6: [technical]
+  Query   : Magneto timing specifications Model T Ford
+  Elapsed : 0.007s
+================================================================================
+
+  Rank 1 | Score: 0.4772 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::178
+    a wy i, 4, ao ms a. Li oa The Ford Magneto. The flywheel, with magnets
+    revolves while magneto coils remain stationary. (
+
+  Rank 2 | Score: 0.477 | ModelT-21-30-ocr.pdf
+  ID     : ModelT-21-30-ocr.pdf::54
+    a wy i, 4, ao ms a. Li oa The Ford Magneto. The flywheel, with magnets
+    revolves while magneto coils remain stationary. (
+
+  Rank 3 | Score: 0.4277 | ModelT-31-40-ocr.pdf
+  ID     : ModelT-31-40-ocr.pdf::21
+    l come next to theslow speed geat:. ‘Dik .   [Page 4] Transmission parts
+    in their relative assembling positions. (Cut No
+
+  Rank 4 | Score: 0.4244 | ModelT-21-30-ocr.pdf
+  ID     : ModelT-21-30-ocr.pdf::25
+    rt of the magneto, and is carried from these coils to the magneto
+    connection (wire) mane « leading to the coil box of th
+
+  Rank 5 | Score: 0.4244 | Ford-Model-T-Man-1919-ocr.pdf
+  ID     : Ford-Model-T-Man-1919-ocr.pdf::149
+    rt of the magneto, and is carried from these coils to the magneto
+    connection (wire) mane « leading to the coil box of th
+
+
+================================================================================
+  OVERLAP MATRIX  (shared chunks between phrasings)
+  Rows/cols: [forma]  [casua]  [keywo]  [quest]  [indir]  [techn]
+================================================================================
+      formal    casual  keywords  question  indirect  technica
+  formal           5         0         0         0         2         0
+  casual           0         5         0         0         0         0
+  keywords         0         0         5         0         0         0
+  question         0         0         0         5         1         0
+  indirect         2         0         0         1         5         0
+  technica         0         0         0         0         0         5
+
+--------------------------------------------------------------------------------
+  UNIQUE CHUNKS PER PHRASING
+--------------------------------------------------------------------------------
+  Total unique chunks across all phrasings: 27
+  [formal] unique: 5  ids: ['Ford-Model-T-Man-1919-ocr.pdf::162', 'ModelT-21-30-ocr.pdf::38', 'ModelT-21-30-ocr.pdf::10', 'Ford-Model-T-Man-1919-ocr.pdf::134', 'ModelT-21-30-ocr.pdf::31']
+  [casual] unique: 5  ids: ['ModelT-31-40-ocr.pdf::7', 'Ford-Model-T-Man-1919-ocr.pdf::187', 'ModelT-31-40-ocr.pdf::16', 'Ford-Model-T-Man-1919-ocr.pdf::196', 'ModelT-01-10-ocr.pdf::61']
+  [keywords] unique: 5  ids: ['ModelT-11-20-ocr.pdf::0', 'ModelT-21-30-ocr.pdf::4', 'Ford-Model-T-Man-1919-ocr.pdf::128', 'Ford-Model-T-Man-1919-ocr.pdf::146', 'ModelT-01-10-ocr.pdf::24']
+  [question] unique: 5  ids: ['ModelT-01-10-ocr.pdf::15', 'Ford-Model-T-Man-1919-ocr.pdf::15', 'ModelT-01-10-ocr.pdf::46', 'Ford-Model-T-Man-1919-ocr.pdf::46', 'Ford-Model-T-Man-1919-ocr.pdf::156']
+  [indirect] unique: 5  ids: ['ModelT-21-30-ocr.pdf::38', 'Ford-Model-T-Man-1919-ocr.pdf::162', 'ModelT-01-10-ocr.pdf::23', 'Ford-Model-T-Man-1919-ocr.pdf::23', 'ModelT-01-10-ocr.pdf::15']
+  [technical] unique: 5  ids: ['Ford-Model-T-Man-1919-ocr.pdf::178', 'ModelT-21-30-ocr.pdf::54', 'ModelT-31-40-ocr.pdf::21', 'ModelT-21-30-ocr.pdf::25', 'Ford-Model-T-Man-1919-ocr.pdf::149']

@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(python3:*)",
-      "Bash(python -c \":*)"
+      "Bash(python -c \":*)",
+      "Bash(git rm --cached \"Topic 5/my_rag_index.chunks\" \"Topic 5/my_rag_index.faiss\")",
+      "Bash(git restore --staged \"Topic 5/Corpora/.DS_Store\" \"Topic 5/Corpora/Congressional_Record_Jan_2026/.DS_Store\" \"Topic 5/Corpora/Learjet/.DS_Store\" \"Topic 5/Corpora/ModelTService/.DS_Store\" \"Topic 5/__pycache__/exercise_1_rag_comparison.cpython-310.pyc\")",
+      "Bash(git add .gitignore)"
     ]
   }
 }

@@ -1,0 +1,427 @@
+Exercise 11: Cross-Document Synthesis — Results
+Generated   : 2026-03-02 11:49:56
+Corpus      : Model T Manual
+Chunk size  : 512  |  Overlap: 128
+K values    : [3, 5, 10]
+
+
+================================================================================
+  Q1: What are ALL the maintenance tasks mentioned throughout the manual?
+================================================================================
+
+  ── k = 3  (6.1s) ──────────────────────────────────
+  Scores         : [0.423, 0.423, 0.3621]
+  Sources        : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Unique sources : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    The maintenance tasks mentioned throughout the manual include:  1.
+    Filling the hub cap with grease and securing it in place on the hub. 2.
+    Lubricating the boots after every three or four months. 3. Cleaning and
+    re-lubricating the hubs and bearings. 4. Adjusting the bearings after
+    cleaning them with kerosene. 5. Replacing the spring if necessary.
+    These tasks aim to ensure constant operation of the car at the lowest
+    possible cost while maintaining its performance and longevity. The text
+    emphasizes the importance of proper maintenance to keep the car running
+    smoothly and efficiently.
+
+  ── k = 5  (11.67s) ──────────────────────────────────
+  Scores         : [0.423, 0.423, 0.3621, 0.3621, 0.3593]
+  Sources        : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf']
+  Unique sources : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf']
+  Answer:
+    The maintenance tasks mentioned throughout the manual include:  1.
+    Lubricating the hub caps (Ford-Model-T-Man-1919) 2. Cleaning the hubs
+    and bearings after thorough wear (Ford-Model-T-Man-1919) 3. Replacing
+    the hub and bearing grease every three or four months (Ford-Model-T-
+    Man-1919) 4. Lubricating the springs frequently with oil or graphite
+    (Ford-Model-T-Man-1919)  These tasks aim to keep the Ford Model T car
+    operating efficiently and at the lowest possible cost. They cover
+    aspects such as maintaining proper lubrication, cleaning worn
+    components, and ensuring timely replacement of essential oils and
+    greases. The manual emphasizes the importance of regular upkeep to
+    prevent costly repairs and ensure consistent performance over time.
+    Note: The context provided only mentions these maintenance tasks once
+    each in different sources, but they appear to be repeated across
+    multiple pages within those documents. Therefore, while there isn't an
+    explicit list of all maintenance tasks mentioned, the above summary
+    captures the key points discussed regarding hub caps, wheel removal,
+    spring lubrication, and general operational care. To provide a
+    comprehensive list would require examining all available documentation
+    from the Ford organization's archives.
+
+  ── k = 10  (6.76s) ──────────────────────────────────
+  Scores         : [0.423, 0.423, 0.3621, 0.3621, 0.3593, 0.3593, 0.355, 0.355, 0.3448, 0.344]
+  Sources        : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Unique sources : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf']
+  Answer:
+    Based on the provided sources, the maintenance tasks mentioned
+    throughout the manual include:  1. Lubricating the hub caps (Ford-Model-
+    T-Man-1919) 2. Cleaning and re-lubricating the hub and bearings (Ford-
+    Model-T-Man-1919) 3. Removing and cleaning the wheels periodically
+    (Ford-Model-T-Man-1919) 4. Lubricating the springs frequently (Ford-
+    Model-T-Man-1919) 5. Inspecting the front axle and springs regularly
+    (Ford-Model-T-Man-1919) 6. Painting the wheel rims annually (Ford-Model-
+    T-Man-1919)
+
+
+================================================================================
+  Q2: What tools and equipment are needed for a complete engine tune-up?
+================================================================================
+
+  ── k = 3  (15.16s) ──────────────────────────────────
+  Scores         : [0.3886, 0.3691, 0.3565]
+  Sources        : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Unique sources : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf']
+  Answer:
+    The tools and equipment needed for a complete engine tune-up include:
+    1. A set of wrenches (including socket sets) 2. A torque wrench 3. A
+    feeler gauge 4. A dial indicator 5. A multimeter 6. A pair of pliers 7.
+    A hammer 8. A screwdriver 9. A file 10. A grinding wheel 11. A brake
+    caliper tool 12. A jack 13. A floor jack 14. A lift 15. A crane  The
+    steps mentioned in the sources do not provide detailed instructions on
+    how to perform an engine tune-up but rather describe the process of
+    removing various components of the engine to access the different parts
+    that need adjustments. These steps involve disassembling the engine and
+    connecting rods to expose the bearing surfaces, which is part of the
+    overall tuning process. However, they do not list all the necessary
+    tools and equipment required for a full engine tune-up as described in
+    the given text. Therefore, while these steps outline some of the tasks
+    involved in a tune-up, they do not specify all the tools and equipment
+    needed.   To summarize, the context provides a description of the
+    process of removing certain components of the engine to adjust them, but
+    it does not explicitly state what tools and equipment are needed for a
+    complete engine tune-up. To determine this, one would need to refer to
+    more comprehensive manuals or repair guides that detail all aspects of
+    an engine tune-up procedure. Based solely on the information provided in
+    the context, we cannot definitively state what tools and equipment are
+    needed for a complete engine tune-up.
+
+  ── k = 5  (16.74s) ──────────────────────────────────
+  Scores         : [0.3886, 0.3691, 0.3565, 0.3565, 0.3527]
+  Sources        : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Unique sources : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf']
+  Answer:
+    The following tools and equipment are required:  1. A wrench set with
+    appropriate sizes for different bolts and nuts. 2. A socket set with
+    appropriate sizes for different bolts and nuts. 3. A Phillips
+    screwdriver. 4. An Allen key (if necessary). 5. A pair of pliers. 6. A
+    hammer. 7. A wrench. 8. A torque wrench (optional but recommended).
+    Tools and Equipment Needed for a Complete Engine Tune-Up:  1. Wrench Set
+    2. Socket Set 3. Phillips Screwdriver 4. Allen Key (if necessary) 5.
+    Pliers 6. Hammer 7. Wrench 8. Torque Wrench (Optional but Recommended)
+    ---  Based on the given sources, the tools and equipment needed for a
+    complete engine tune-up include:  1. A wrench set with appropriate sizes
+    for different bolts and nuts. 2. A socket set with appropriate sizes for
+    different bolts and nuts. 3. A Phillips screwdriver. 4. An Allen key (if
+    necessary). 5. A pair of pliers. 6. A hammer. 7. A wrench. 8. A torque
+    wrench (optional but recommended).   These tools cover basic maintenance
+    tasks such as removing and tightening various components, adjusting
+    connections, and ensuring proper alignment. However, it's important to
+    note that some of these items might vary depending on the specific model
+    of the vehicle being tuned up. In this particular source, there is no
+    mention of a "2x4" tool, nor any reference to an adjustable starting
+    crank handle. Therefore, while the list provides a comprehensive
+    overview of common tools used in engine tuning, it doesn't explicitly
+    state what tools are specifically needed for a complete engine tune-up
+    based solely on the provided text. To get more accurate details,
+    additional research would be required beyond the scope of this limited
+    information.
+
+  ── k = 10  (14.57s) ──────────────────────────────────
+  Scores         : [0.3886, 0.3691, 0.3565, 0.3565, 0.3527, 0.3499, 0.3499, 0.3478, 0.3477, 0.3477]
+  Sources        : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Unique sources : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-01-10-ocr.pdf']
+  Answer:
+    To perform a complete engine tune-up, you would need:  1. A wrench set
+    with appropriate size sockets for various components. 2. A socket wrench
+    or adjustable wrench for larger nuts and bolts. 3. A torque wrench for
+    precise tightening of certain connections. 4. A multimeter to check
+    electrical connections and voltages. 5. A feeler gauge to measure
+    clearance between moving parts. 6. A lubricating oil bottle and rag for
+    applying new lubricant. 7. A pair of pliers for handling small parts
+    like spark plug wires. 8. A wire brush for cleaning dirt from the engine
+    surfaces. 9. A vacuum gauge if available, to test fuel delivery system.
+    10. A jack and jack stands to lift the vehicle safely during
+    adjustments. 11. A flat surface for placing the vehicle while working
+    under it. 12. Safety glasses and gloves for protection against dust and
+    oils. 13. A flashlight for visibility during night operations. 14. A
+    spare tire and jack for emergency repairs. 15. A tool kit containing
+    basic automotive repair tools.  These items provide a comprehensive
+    approach to performing an engine tune-up efficiently and safely. They
+    cover both general maintenance tasks and specialized measurements
+    necessary for thorough inspection and adjustment.   Note: While the
+    original text mentions some specific steps related to removing and
+    adjusting components, the list above includes more general tools
+    commonly found in any automotive shop or garage. The exact combination
+    might vary depending on local regulations and personal preferences
+    regarding safety measures and precision requirements. However, these
+    items should suffice for most standard engine tune-ups.
+
+
+================================================================================
+  Q3: Summarize all lubrication points and recommended lubricants in the manual.
+================================================================================
+
+  ── k = 3  (9.56s) ──────────────────────────────────
+  Scores         : [0.5106, 0.5106, 0.5014]
+  Sources        : ['ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf']
+  Unique sources : ['ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    The recommended lubricants for the Ford Model T include Mobil Oil C and
+    Whittemore's Wart Gear Brotect. These oils should be applied at a level
+    with the upper oil plug when the truck is moving. Additionally, it is
+    advised to check the rear axle regularly for signs of excessive
+    vibration and consider replacing bushings if necessary. For the
+    commutator, lubricate it every other day or after every 200 miles to
+    prevent rapid wear due to its high-speed rotation.   The summary
+    includes the following key points:  1. Recommended lubricants: Mobil Oil
+    C and Whittemore's Wart Gear Brotect. 2. Application method: Level with
+    the upper oil plug while the truck is moving. 3. Regular inspection:
+    Check the rear axle for signs of excessive vibration. 4. Bushing
+    replacement: Consider replacing bushings if they show signs of excessive
+    vibration.  This summary covers the essential lubrication points and
+    recommended lubricants from the given sources. [Score: 0.501]
+
+  ── k = 5  (10.8s) ──────────────────────────────────
+  Scores         : [0.5106, 0.5106, 0.5014, 0.4996, 0.4652]
+  Sources        : ['ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf']
+  Unique sources : ['ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    The recommended lubricants for the Ford Model T include Mobil Oil C and
+    Whittemore's Wart Gear Brotectit. For the rear axle, extreme care should
+    be taken during lubrication. Additionally, it is advised to check the
+    spring and front spring perches periodically to ensure new bushings are
+    needed if there is excessive vibration. The commutator requires regular
+    lubrication, specifically putting a small amount of oil into it every
+    other day at least once every 200 miles, as insufficient lubrication can
+    lead to rapid wear on the parts. Lastly, the differential should also be
+    lubricated according to the manufacturer's recommendations.   The
+    sources provide detailed instructions on how to perform these tasks,
+    including tools required (screwdriver or chisel) and steps involved in
+    each process. However, no specific lubricants are mentioned beyond what
+    has been summarized above. The manuals emphasize the importance of
+    proper lubrication to prevent wear and improve performance. The text
+    suggests checking the commutator frequently due to its high-speed
+    rotation, which could affect engine efficiency if improperly lubricated.
+    Overall, the focus is on maintaining optimal conditions for various
+    components through appropriate lubrication practices.
+
+  ── k = 10  (12.18s) ──────────────────────────────────
+  Scores         : [0.5106, 0.5106, 0.5014, 0.4996, 0.4652, 0.4652, 0.4515, 0.4515, 0.4239, 0.4239]
+  Sources        : ['ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Unique sources : ['ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf']
+  Answer:
+    To summarize the lubrication points and recommended lubricants from the
+    given sources:  1. **Ford Model T**:    - **Rear Axle**: Use Mobil Oil C
+    or Whittemore's Wart Gear Brotectit at a level with the upper oil plug.
+    - **Commutator**: Oiling every other day at least every 200 miles,
+    remember the commutator roller revolvs very rapidly; without sufficient
+    lubrication, parts may wear badly and cause engine misfiring.    -
+    **Differential**: Do not overfill the differential housing; supply only
+    the required amount of lubricant when the car leaves the factory. Check
+    the oil plug approximately every 1000 miles for additional grease if
+    needed.  2. **Ford Model T Man Manual**:    - **Spring and Front Spring
+    Perches**: Periodically check for new bushings to address excessive
+    vibrations.    - **Spark and Throttle Levers**: Ensure all grease cups
+    are filled and oil is supplied to necessary parts. See Cut No. 18 for
+    details.  These recommendations cover the key areas where lubrication is
+    crucial for maintaining optimal performance and longevity of components
+    like the rear axle, commutator, and differential. Proper lubrication
+    helps prevent wear and ensures smooth operation of these critical
+    systems.
+
+
+================================================================================
+  Q4: What are all the adjustment procedures mentioned for the transmission?
+================================================================================
+
+  ── k = 3  (18.97s) ──────────────────────────────────
+  Scores         : [0.5315, 0.5315, 0.4862]
+  Sources        : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf']
+  Unique sources : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    The text mentions two main adjustments for the transmission:  1.
+    Adjusting the clutch pedal.    - "If the transmission is properly
+    assembled they will revolve freely."    - "Slip the clutch shift over
+    hub) so that the small end rests on the ends of the clutch fingers."  2.
+    Adjusting the brake pedal.    - No additional details are given about
+    this procedure.  Therefore, there are two primary adjustment procedures
+    mentioned for the transmission described in these sources.   To
+    summarize, the transmission's adjustment involves ensuring it can rotate
+    freely when properly assembled, which requires aligning the clutch shift
+    appropriately relative to the clutch fingers. There is no mention of an
+    adjustment for the brake pedal in the provided information.   This
+    summary highlights the key points from the available sources regarding
+    the assembly and possible maintenance steps for the transmission system.
+    However, further detailed instructions might be needed for comprehensive
+    understanding and proper functioning of the transmission.   Note: The
+    scores provided do not directly influence the content of the answer but
+    indicate the reliability of the sources used. Scores range from 0.486 to
+    0.532, suggesting varying levels of accuracy and completeness in
+    reporting the relevant information.   For more precise guidance,
+    consulting official service manuals or professional automotive repair
+    resources would be recommended. These documents often provide step-by-
+    step instructions and troubleshooting tips specific to particular models
+    and make-up of transmissions.   Answer: Two primary adjustments are
+    mentioned for the transmission:  1. Adjusting the clutch pedal by
+    slipping the clutch shift over the hub such that the small end rests on
+    the ends of the clutch fingers. 2. No adjustment is specified for the
+    brake pedal based on the provided information.   Sources:
+    [ModelT-31-40-ocr.pdf], [Ford-Model-T-Man-1919-ocr.pdf].   Please note
+    that while the answers reflect the information present in the sources,
+    they should be verified through official documentation for accurate and
+    complete guidance.
+
+  ── k = 5  (9.38s) ──────────────────────────────────
+  Scores         : [0.5315, 0.5315, 0.4862, 0.4848, 0.4839]
+  Sources        : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf']
+  Unique sources : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    Based on the provided sources, there are no explicit instructions given
+    regarding specific adjustment procedures for the transmission. However,
+    the text mentions two main steps:  1. Assembling the clutch onto the
+    driving plate hub.    - This involves positioning the clutch shift over
+    the hub such that its small end rests on the ends of the clutch fingers.
+    2. Cautionary note about securing the transmission case from being
+    placed over anything without proper attachment.    - This caution
+    suggests avoiding placing items directly on top of the transmission
+    case.  These points outline general assembly guidelines but do not
+    provide detailed instructions for making adjustments within the
+    transmission itself. Therefore, based solely on the available
+    information, we cannot determine what specific adjustment procedures
+    were mentioned for the transmission.   To accurately answer this
+    question would require additional details or clarification from the
+    source documents beyond those provided here. The sources only describe
+    how to assemble certain components rather than detailing their
+    operational adjustments. Thus, the correct response is that no specific
+    adjustment procedures are explicitly stated for the transmission
+    according to the given information.
+
+  ── k = 10  (8.9s) ──────────────────────────────────
+  Scores         : [0.5315, 0.5315, 0.4862, 0.4848, 0.4839, 0.4659, 0.4658, 0.4658, 0.4657, 0.4527]
+  Sources        : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf']
+  Unique sources : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    According to the sources provided, there are two primary adjustment
+    procedures for the transmission:  1. For the clutch assembly:    - Slide
+    the clutch lever onto the hub such that its small end rests on the ends
+    of the clutch fingers.    - Then insert the clutch shifter through this
+    configuration.  2. For the reverse pedal assembly:    - Position the
+    drum on the table with the hub in a vertical position.    - Place the
+    plate on top of the hub with the gear facing upwards.  These adjustments
+    ensure proper assembly and functionality of the transmission components.
+    Additionally, caution is advised against placing any small tools or
+    objects directly on the transmission case without securing them with a
+    wire or cord.   To summarize, the key points about these adjustments
+    include sliding the clutch lever onto the hub, positioning the drum
+    vertically, and ensuring the plate faces upward when placed on top of
+    the hub. These steps help maintain the correct alignment and functioning
+    of the transmission system.
+
+
+================================================================================
+  Q5: What safety warnings or precautions are mentioned throughout the manual?
+================================================================================
+
+  ── k = 3  (13.02s) ──────────────────────────────────
+  Scores         : [0.3691, 0.3691, 0.3489]
+  Sources        : ['ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Unique sources : ['ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer:
+    Throughout the manuals, there are several safety warnings and
+    precautions that are mentioned:  1. **Avoid Cranking Downward Against
+    Compression**: The first warning states "Be careful not to crank the
+    engine downward against compression when the car is in this condition,
+    as the 'short' is apt to cause a vigorous kick back."  2. **Short
+    Circuiting Risk**: Both sources mention that if contact with the engine
+    pan or other metal parts is made, the current will leak out (i.e., short
+    circuit). This can result in a "steady buzzing" indicating an "éhért' in
+    the wiring.  3. **Engine Overheating**: There are multiple mentions of
+    overheating issues such as "Lack of water," "Lack of oil," "Fan belt
+    torn, loose or slipping," "Carbon deposit in combustion chamber," "Spark
+    retarded too far," "Gas mixture too rich," "Water circulation retarded
+    by sediment in radiator," and "Dirty spark plugs." These all suggest
+    that overworking the engine could lead to damage or failure.  4. **Fuel
+    Contamination**: The text also warns about contamination from "Water in
+    gasoline" and "Flooded carburetor," which could affect engine
+    performance and potentially cause damage.  These warnings highlight the
+    importance of proper maintenance and care for the vehicle to prevent
+    potential hazards related to engine operation and fuel quality.
+
+  ── k = 5  (13.21s) ──────────────────────────────────
+  Scores         : [0.3691, 0.3691, 0.3489, 0.3489, 0.3393]
+  Sources        : ['ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf']
+  Unique sources : ['ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf']
+  Answer:
+    Throughout the manuals, several safety warnings and precautions are
+    mentioned:  1. **Avoiding Short Circuits:** The text repeatedly
+    emphasizes that exposure of electrical components can lead to "a short
+    circuit" which may cause a "steady buzzing" indicating an "éhért'". This
+    suggests caution against accidental shorts between wires or components.
+    2. **Proper Cranking Technique:** It advises drivers to avoid cranking
+    the engine "downward against compression" when the vehicle is in this
+    condition due to potential "vigorous kick back".  3. **Preventive
+    Maintenance:** Various issues such as flooded carburetors, dirty fuel
+    systems, overheating, and incorrect gas mixtures are listed as causes
+    for engine problems, emphasizing regular maintenance checks.  4.
+    **Engine Overheating Issues:** Specific symptoms like lack of water,
+    oil, fan belt issues, carbon deposits, and dirt in the combustion
+    chamber are noted, along with their respective causes and preventive
+    measures.  5. **Engine Knocking Concerns:** Potential causes include
+    carbon buildup on piston heads, loose connecting rods, and crankshaft
+    bearings, all requiring attention to prevent knocking sounds from
+    occurring.  These points collectively highlight the importance of
+    maintaining proper operation and preventing common mechanical failures
+    associated with early automobiles. The emphasis on avoiding shorts,
+    ensuring correct operating conditions, and addressing known issues
+    underscores the need for thorough inspection and timely repairs to
+    ensure safe and reliable performance.
+
+  ── k = 10  (11.69s) ──────────────────────────────────
+  Scores         : [0.3691, 0.3691, 0.3489, 0.3489, 0.3393, 0.3297, 0.3297, 0.3247, 0.3247, 0.2981]
+  Sources        : ['ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf']
+  Unique sources : ['ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'ModelT-01-10-ocr.pdf']
+  Answer:
+    Throughout the manuals, several safety warnings and precautions are
+    mentioned:  1. **Engine Overheating**: The text warns about potential
+    dangers if the engine overheats due to various causes such as lack of
+    water, oil, fan belt issues, carbon deposits, spark retardation, gas
+    mixture imbalance, and water circulation problems. It advises caution
+    during operation under these conditions to avoid violent reactions.  2.
+    **Engine Knocking**: The document mentions knocking sounds from the
+    engine, indicating poor fuel-air mixtures, water circulation issues, and
+    contaminated spark plugs. Drivers are advised to be cautious while
+    operating the vehicle to prevent damage.  3. **Steering Gear Problems**:
+    There's mention of excessive play in the steering gear that might
+    necessitate replacing small pinions and brass gears near the steering
+    wheel spider. Additionally, it suggests checking for worn bushings
+    periodically to ensure proper functioning.  4. **Starting and Stopping
+    Issues**: The text discusses difficulties in starting and stopping the
+    engine, suggesting practices like adjusting the carburetor slightly
+    after warming up the engine and pulling the choke handle fully to clear
+    the cylinders of rich gasoline vapors. These measures aim to improve
+    reliability and performance.  These safety warnings emphasize the
+    importance of maintaining proper engine conditions and avoiding
+    unnecessary stress on critical components to prevent accidents and
+    prolong the life of the vehicle.
+
+================================================================================
+  SUMMARY: Unique sources retrieved and answer length vs k
+================================================================================
+    Q     k   Unique src   Ans words    Elapsed
+  ---------------------------------------------
+    1     3            2          93      6.10s
+    1     5            3         176     11.67s
+    1    10            3          58      6.76s
+    2     3            2         261     15.16s
+    2     5            2         278     16.74s
+    2    10            3         256     14.57s
+    3     3            2         151      9.56s
+    3     5            2         182     10.80s
+    3    10            3         182     12.18s
+    4     3            2         301     18.97s
+    4     5            2         180      9.38s
+    4    10            2         164      8.90s
+    5     3            2         202     13.02s
+    5     5            3         210     13.21s
+    5    10            5         210     11.69s

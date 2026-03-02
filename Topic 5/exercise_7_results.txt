@@ -1,0 +1,346 @@
+Exercise 7: Chunk Overlap Experiment — Results
+Generated   : 2026-03-02 11:23:23
+Corpus      : Model T Manual
+Chunk size  : 512 (fixed)
+Overlaps    : [0, 64, 128, 256]
+Top-K       : 5
+
+
+================================================================================
+  OVERLAP = 0
+  Total chunks : 439
+  Index vectors: 439
+  Chunk time   : 0.0s  |  Index time: 0.5s
+================================================================================
+
+  Q1: How do I adjust the carburetor on a Model T?
+  Elapsed : 9.83s
+  Scores  : [0.6096, 0.6096, 0.56, 0.56, 0.5546]
+  Sources : ['ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf']
+  Answer  :
+    To adjust the carburetor on a Model T, you need to follow these steps:
+    1. Start the motor and advance the throttle lever to the sixth notch. 2.
+    Retard the spark about four notches. 3. Cut off the gasoline flow by
+    rotating the needle valve to the right until the engine starts to
+    misfire. 4. Gradually increase the gasoline feed by opening the needle
+    valve until the motor pickup reaches its maximum speed and there's no
+    trace of black smoke coming out of the exhaust.  This process allows for
+    precise control over the amount of fuel entering the engine based on the
+    driver's needs, ensuring optimal performance under various conditions.
+    The carburetor adjustment is placed on the dashboard for easy access
+    during driving, making it convenient for drivers to make adjustments as
+    needed. Additionally, after the vehicle has been driven extensively,
+    observing the angle of the carburetor adjusting rod can help determine
+    if further adjustments are required to maintain satisfactory engine
+    operation. Turning the adjustment slightly to the left may also be
+    necessary in colder weather to ensure proper combustion efficiency.
+
+
+  Q2: What oil should I use in a Model T engine?
+  Elapsed : 8.13s
+  Scores  : [0.382, 0.382, 0.3683, 0.3683, 0.36]
+  Sources : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf']
+  Answer  :
+    According to the sources provided, there is no direct mention of what
+    type of oil should be used in a Model T engine. However, based on the
+    context given, it seems that the oil reservoir contains an unspecified
+    amount of oil that needs to be drained before servicing the engine. The
+    text also mentions that after the engine becomes "thoroughly limbered
+    up," the oil level should be adjusted to a mid-level between the two
+    cock valves. Therefore, while the exact type of oil may not be
+    specified, it appears that the Model T engine requires regular
+    maintenance involving draining and refilling with appropriate
+    lubrication. To provide more accurate guidance, one would need to
+    consult technical manuals or seek professional advice regarding the
+    specific requirements for maintaining a Model T engine.   This
+    conclusion is drawn from the available information, but further details
+    about the recommended types of oil and their application would require
+    additional research beyond the scope of the provided sources.
+
+
+  Q3: How do I fix a slipping transmission band?
+  Elapsed : 12.04s
+  Scores  : [0.5123, 0.5123, 0.4956, 0.4948, 0.4498]
+  Sources : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer  :
+    The slow.speed band may be tightened by loosening the lock nut at the
+    tight side of the transmission cover, and turning the adjusting screw
+    (see Cut No. 12) to the right. To tighten the brake and reverse bands,
+    remove the transmission cover, and turn the adjusting nuts on the shafts
+    to the right. Ensure that the bands do not drag the drums when
+    disengaged, as they exert two brake effects, and tend to overheat the
+    motor.  To fix a slipping differential gear, you need to follow these
+    steps:  1. Remove the cotter-pin and washer from the worm wheel. 2. Use
+    a socket wrench to loosen the bolts securing the differential gears to
+    the shaft. 3. Once the bolts are loose, carefully lift out the
+    differential gears. 4. Check for any damage or wear on the gears and
+    replace them if necessary. 5. Reassemble the differential gears onto the
+    shaft, making sure they align properly. 6. Tighten the bolts securely
+    but avoid overtightening, as this can cause further damage. 7. Replace
+    any missing or damaged components such as the spring-loaded fingers or
+    the locking washers.  By following these detailed instructions, you will
+    effectively address both the slipping transmission band and the slipping
+    differential gear issues. Remember to take care during the process to
+    ensure proper alignment and secure installation of all components.
+
+
+================================================================================
+  OVERLAP = 64
+  Total chunks : 527
+  Index vectors: 527
+  Chunk time   : 0.02s  |  Index time: 0.4s
+================================================================================
+
+  Q1: How do I adjust the carburetor on a Model T?
+  Elapsed : 9.76s
+  Scores  : [0.6005, 0.6005, 0.5802, 0.5802, 0.5633]
+  Sources : ['ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf']
+  Answer  :
+    To adjust the carburetor on a Model T, you need to follow these steps:
+    1. Start the motor and advance the throttle lever to the sixth notch
+    while retarding the spark about the fourth notch. 2. Cut off the flow of
+    gasoline by slightly lowering the needle valve until the engine starts
+    to misfire, then gradually increase the fuel supply.  This process
+    allows for proper regulation of the carburetor based on the vehicle's
+    operating conditions, such as temperature and load. Adjustments may also
+    be needed depending on the climate and initial performance of the car.
+    For colder weather, turning the dash adjustment one-quarter turn to the
+    left might be necessary. Additionally, reducing the amount of gasoline
+    in the mixture can help when driving in warmer weather.   Please note
+    that this information comes from multiple sources but appears to be
+    consistent across them regarding basic carburetor adjustments for the
+    Model T. However, the exact details and nuances could vary slightly
+    between different models or manufacturers. Always refer to the owner's
+    manual for precise instructions tailored to your specific vehicle model.
+
+
+  Q2: What oil should I use in a Model T engine?
+  Elapsed : 10.27s
+  Scores  : [0.4135, 0.4135, 0.3973, 0.3973, 0.3682]
+  Sources : ['ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf']
+  Answer  :
+    You should use a mixture of 25% kerosene with commutator lubricating oil
+    for thinning purposes to prevent congealing or freezing.  This can be
+    found directly stated in both sources [Context] and [Ford-Model-T-
+    Man-1919], where they recommend a blend of 25% kerosene with commutator
+    lubricating oil to maintain the oil's fluidity and prevent it from
+    becoming solid due to cold temperatures. This recommendation aims to
+    address issues related to rust on contact points and ensure smooth
+    operation of the electrical components within the engine.   To
+    summarize, based on the given information, the recommended oil mix for a
+    Model T engine includes:  - **Kerosene**: A petroleum distillate used
+    primarily as fuel but also has some lubrication properties. -
+    **Commutator Lubricating Oil**: An oil specifically designed for
+    commutators, which are critical components in electric motors like those
+    found in early automobiles.  Both oils play different roles in
+    maintaining the functionality of the Model T engine, particularly
+    concerning its electrical systems and overall operational efficiency.
+
+
+  Q3: How do I fix a slipping transmission band?
+  Elapsed : 6.32s
+  Scores  : [0.5964, 0.5964, 0.479, 0.479, 0.4529]
+  Sources : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer  :
+    The correct procedure involves loosening the lock nut at the tight side
+    of the transmission cover, then turning the adjusting screw until the
+    band is properly aligned. This ensures that the band does not slip off
+    the drum during operation. Additionally, for tightening purposes, loosen
+    the set screw securing the Bendix drive shaft, rotate the shaft
+    counterclockwise to align the end of the shaft with the top position,
+    and secure the set screw again after positioning it correctly. These
+    steps help prevent slippage and ensure smooth operation of the
+    transmission system. [Sources: ModelT-31-40-ocr.pdf, Ford-Model-T-
+    Man-1919-ocr.pdf]
+
+
+================================================================================
+  OVERLAP = 128
+  Total chunks : 632
+  Index vectors: 632
+  Chunk time   : 0.0s  |  Index time: 0.47s
+================================================================================
+
+  Q1: How do I adjust the carburetor on a Model T?
+  Elapsed : 10.94s
+  Scores  : [0.6404, 0.5775, 0.5775, 0.5672, 0.5672]
+  Sources : ['ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer  :
+    To adjust the carburetor on a Model T, you should follow these steps:
+    1. Locate the adjustment dial on the dashboard. 2. Turn the dial to the
+    left slightly if the engine is cold. 3. Adjust the throttle to increase
+    fuel flow if needed. 4. Check for proper operation by listening for a
+    smooth idle and observing the vehicle's performance.  The context
+    provides detailed explanations about how the carburetor works and why
+    adjustments are made, but it doesn't explicitly state the exact method
+    for adjusting the carburetor on a Model T. However, based on the given
+    sources, the general procedure involves turning the adjustment dial to
+    the left when the engine is cold, increasing fuel flow with the
+    throttle, and checking for proper operation. These instructions align
+    with common practices described in automotive manuals and repair guides
+    for similar vehicles from that era. Therefore, while the precise details
+    may vary between different models and manufacturers, this summary
+    captures the essential steps involved in adjusting the carburetor on a
+    Model T.   Note: This answer relies on the provided text and other
+    commonly available resources related to early automobile mechanics.
+    Specific procedures might differ depending on the particular model year
+    and make of the car being discussed.
+
+
+  Q2: What oil should I use in a Model T engine?
+  Elapsed : 9.61s
+  Scores  : [0.3973, 0.3973, 0.3618, 0.3615, 0.359]
+  Sources : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer  :
+    For the Model T engine, you should use the Ford splash system, which
+    includes oil for the engine and transmission, as well as a splash of oil
+    from the time gears. Additionally, there is an oil cup located at the
+    end of the generator housing, and occasional drops of oil should be
+    applied. However, it's important to note that the oil should never come
+    into contact with the carburetor or any other part where it could cause
+    damage. To ensure proper lubrication, it's recommended to fill all
+    grease cups and supply oil as necessary.   This answer is based on the
+    information provided in the context, specifically the sections
+    discussing the lubrication of the Ford Model T engine. It mentions the
+    Ford splash system used for both the engine and transmission, as well as
+    the application of oil from the time gears. The text also notes the
+    presence of an oil cup near the generator and advises against applying
+    oil directly to the carburetor area. Finally, it emphasizes the
+    importance of filling grease cups and supplying oil as needed to
+    maintain proper lubrication.
+
+
+  Q3: How do I fix a slipping transmission band?
+  Elapsed : 13.5s
+  Scores  : [0.5783, 0.5783, 0.5144, 0.5144, 0.4601]
+  Sources : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer  :
+    The given sources provide instructions for tightening the transmission
+    bands. According to the text, you can loosen the lock nut at the tight
+    side of the transmission cover, then turn the adjusting screw (see Cut
+    No. 12) to the right. This will help tighten the brake and reverse
+    bands. Additionally, the source mentions that to prevent overheating of
+    the motor, ensure that the bands do not drag the drums when disengaged,
+    as they exert 2 brake effect and tend to overheat the motor.   To
+    summarize, the steps to fix a slipping transmission band include:  1.
+    Loosen the lock nut at the tight side of the transmission cover. 2. Turn
+    the adjusting screw (see Cut No. 12) to the right to tighten the brake
+    and reverse bands. 3. Ensure that the bands do not drag the drums when
+    disengaged to avoid overheating the motor.   These actions should help
+    resolve the issue with the slipping transmission band. However, please
+    note that this solution assumes that the problem lies within the
+    adjustment of the transmission bands. If the slipping is due to other
+    factors such as worn components or improper installation, further
+    diagnostic work may be necessary. Always refer to the manufacturer's
+    manual for more detailed guidance.   Sources used: 1. [Ford-Model-T-
+    Man-1919-ocr.pdf](https://example.com/source) 2.
+    [ModelT-31-40-ocr.pdf](https://example.com/source)
+
+
+================================================================================
+  OVERLAP = 256
+  Total chunks : 999
+  Index vectors: 999
+  Chunk time   : 0.0s  |  Index time: 0.78s
+================================================================================
+
+  Q1: How do I adjust the carburetor on a Model T?
+  Elapsed : 20.58s
+  Scores  : [0.6404, 0.6051, 0.6051, 0.5688, 0.5688]
+  Sources : ['ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer  :
+    To adjust the carburetor on a Model T, you should first consult the
+    instructions provided with the vehicle or refer to the relevant manual
+    for guidance. Typically, this involves observing the angle of the
+    carburetor adjusting rod at which the engine runs most satisfactorily.
+    For colder weather conditions, you may need to turn the adjustment
+    slightly to the left, especially when starting a cold engine.
+    Additionally, if gasoline vaporizes easily in warmer weather, you can
+    reduce the quantity of gasoline in the mixture by turning the carburetor
+    adjustment to the right as far as possible without affecting the
+    engine's speed. It is also important to note that the carburetor
+    adjustment is usually placed on the dashboard for easy access by the
+    driver during operation. Once the car has been thoroughly worked in, the
+    driver should check the angle of the carburetor adjusting rod again to
+    ensure optimal performance. This process ensures that the carburetor
+    operates efficiently under various driving conditions. [Sources:
+    ModelT-11-20-ocr.pdf; ModelT-21-30-ocr.pdf; Ford-Model-T-
+    Man-1919-ocr.pdf] Based on the sources provided, the steps to adjust the
+    carburetor on a Model T include:  1. Refer to the instructions or manual
+    for guidance. 2. Observe the angle of the carburetor adjusting rod where
+    the engine runs most satisfactorily. 3. Adjust the carburetor for colder
+    weather by turning the adjustment slightly to the left, especially when
+    starting a cold engine. 4. Reduce the amount of gasoline in the mixture
+    if gasoline vaporizes easily in warmer weather by turning the carburetor
+    adjustment to the right as far as possible without affecting the
+    engine's speed. 5. Place the carburetor adjustment on the dashboard for
+    easy access by the driver during operation. 6. Check the angle of the
+    carburetor adjusting rod after the car has been thoroughly worked in to
+    ensure optimal performance.   These adjustments help ensure efficient
+    fuel delivery and proper engine operation across different weather
+    conditions. [Sources: ModelT-11-20-ocr.pdf; ModelT-21-30-ocr.pdf; Ford-
+    Model-T-Man-1919-ocr.pdf]
+
+
+  Q2: What oil should I use in a Model T engine?
+  Elapsed : 11.27s
+  Scores  : [0.4499, 0.4124, 0.4124, 0.3992, 0.389]
+  Sources : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Answer  :
+    Based on the given sources, it seems that Mobil Oil C or Whittemore's
+    Wart Gear Brotectit should be used for the Model T engine. However,
+    there is no mention of whether this oil needs to be changed frequently
+    or how much should be used. The text only states that these oils should
+    be used and carried at a level with the upper oil plug, but does not
+    specify how often they need to be replaced or what quantity should be
+    used. Therefore, while we can identify which brands of oil may be
+    suitable, we cannot determine the frequency or quantity requirements
+    without additional information.   To summarize:  Mobil Oil C or
+    Whittemore's Wart Gear Brotectit should be used for the Model T engine
+    based on the available information. However, further details regarding
+    replacement frequency and usage quantity would be needed to provide a
+    definitive recommendation.   Sources: 1. [Ford-Model-T-
+    Man-1919-ocr.pdf](https://example.com/source1) 2.
+    [ModelT-01-10-ocr.pdf](https://example.com/source2) 3. [Ford-Model-T-
+    Man-1919-ocr.pdf](https://example.com/source3)
+
+
+  Q3: How do I fix a slipping transmission band?
+  Elapsed : 15.9s
+  Scores  : [0.5783, 0.5783, 0.5347, 0.5347, 0.4958]
+  Sources : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf']
+  Answer  :
+    Tighten the bands by loosening the lock nut at the tight side of the
+    transmission cover and turning the adjusting screw (see Cut No. 12) to
+    the right. This will help prevent slipping and make recovery easier.
+    Additionally, ensure that the bands do not drag the drums when
+    disengaged, as this can cause overheating of the motor. The brakes
+    should also be checked for proper engagement and alignment with the
+    drums. Remember to take care when handling the transmission components
+    to avoid damage. [Source: ModelT-31-40-ocr.pdf] Based on the provided
+    sources, here's how to fix a slipping transmission band:  1. **Loosen
+    the Lock Nut**: First, loosen the lock nut at the tight side of the
+    transmission cover.     2. **Adjust the Bands**: Next, turn the
+    adjusting screw (referenced as "Cut No. 12") to the right to tighten the
+    bands.   3. **Ensure Proper Engagement**: Make sure the bands do not
+    drag the drums when disengaged because this could lead to overheating of
+    the motor.  4. **Check Brakes**: Also, check the brakes for proper
+    engagement and alignment with the drums.  5. **Handle Carefully**:
+    Finally, handle the transmission components carefully to avoid damaging
+    them during installation or adjustment.   These steps aim to prevent
+    slipping and facilitate easy recovery of the transmission components.
+    The sources mention that placing items like small tools or objects
+    inside the transmission case without securing them properly can
+    complicate recovery efforts significantly. Therefore, always secure
+    loose items before attempting repairs. [Sources: ModelT-31-40-ocr.pdf;
+    Ford-Model-T-Man-1919-ocr.pdf]
+
+================================================================================
+  SUMMARY TABLE
+================================================================================
+   Overlap   N Chunks   Avg Latency
+  -----------------------------------
+         0        439        10.00s
+        64        527         8.78s
+       128        632        11.35s
+       256        999        15.92s

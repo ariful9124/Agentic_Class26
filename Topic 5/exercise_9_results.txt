@@ -1,0 +1,542 @@
+Exercise 9: Retrieval Score Analysis — Results
+Generated   : 2026-03-02 11:38:24
+Corpus      : Model T Manual
+Chunk size  : 512  |  Overlap: 128
+Top-K       : 10
+Threshold   : 0.5
+
+================================================================================
+  Q1: How do I adjust the carburetor on a Model T?
+================================================================================
+
+  Scores (rank 1→10) : [0.6404, 0.5775, 0.5775, 0.5672, 0.5672, 0.5376, 0.5343, 0.5343, 0.5146, 0.5037]
+  Sources            : ['ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Max score          : 0.6404
+  Min score          : 0.5037
+  Score range        : 0.1367
+  Gap rank-1 to 2    : 0.0629
+  Mean score         : 0.5554
+  Above threshold    : 10 / 10  (threshold=0.5)
+
+  ── A: Full RAG (all 10 chunks, 12.15s) ──
+    To adjust the carburetor on a Model T, you need to follow these steps:
+    1. **Check for Proper Mixture**: Ensure that the mixture is correct by
+    observing the exhaust smoke. A proper mixture should produce very little
+    smoke or odor.  2. **Adjust the Needle Valve**: Use the needle valve to
+    regulate the amount of fuel entering the carburetor. Turn the needle
+    valve counterclockwise to increase fuel flow and clockwise to decrease
+    it.  3. **Observe Engine Performance**: Adjust the carburetor until the
+    engine runs smoothly and efficiently. Pay attention to any signs of
+    misfiring or hesitation.  4. **Test Drive**: Once adjustments are made,
+    test drive the vehicle to ensure the carburetor is properly tuned.
+    Listen for smooth operation and check for any unusual noises.  5.
+    **Repeat if Necessary**: If the initial adjustments don't meet
+    expectations, repeat the process, making small adjustments each time
+    until the engine performs optimally.  By following these steps, you can
+    effectively tune the carburetor on a Model T to achieve optimal
+    performance. Remember, patience and careful observation are key when
+    adjusting carburetors. [Source: Ford-Model-T-Man-1919-ocr.pdf]
+
+  ── B: Threshold RAG (10 chunks ≥ 0.5, 13.05s) ──
+    To adjust the carburetor on a Model T, you need to follow these steps:
+    1. **Locate the Adjusting Rod**: Find the adjusting rod that controls
+    the position of the carburetor's float arm. This can typically be
+    located near the front of the engine block, specifically around the
+    carburetor mounting area.  2. **Observe Engine Performance**: Once you
+    have identified the adjusting rod, check the performance of the engine
+    under various conditions. For instance, when the engine starts cold,
+    look for signs of difficulty such as poor acceleration or hesitation.
+    3. **Adjust the Carburetor**: Based on your observations, make
+    adjustments to the adjusting rod. Typically, this involves turning the
+    adjusting rod either clockwise (to increase fuel flow) or
+    counterclockwise (to decrease fuel flow).  4. **Test Changes**: After
+    making any adjustments, restart the engine and test the performance
+    again. Continue making small adjustments if needed until the engine runs
+    smoothly and efficiently.  5. **Verify Settings**: Ensure that the
+    settings are correct for your driving style and climate. Cold weather
+    may require more fuel, while hot weather might necessitate less.  By
+    following these steps, you can effectively adjust the carburetor to
+    optimize the engine's performance according to your needs and
+    environment. Remember, the goal is to achieve a balance between power
+    output and efficiency, ensuring smooth operation regardless of
+    temperature changes.
+
+================================================================================
+  Q2: What is the correct spark plug gap for a Model T Ford?
+================================================================================
+
+  Scores (rank 1→10) : [0.5378, 0.5226, 0.5004, 0.5004, 0.4906, 0.4906, 0.4647, 0.4615, 0.4511, 0.4418]
+  Sources            : ['Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-21-30-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Max score          : 0.5378
+  Min score          : 0.4418
+  Score range        : 0.096
+  Gap rank-1 to 2    : 0.0153
+  Mean score         : 0.4861
+  Above threshold    : 4 / 10  (threshold=0.5)
+
+  ── A: Full RAG (all 10 chunks, 21.99s) ──
+    The correct spark plug gap for a Model T Ford is 7/16" (about the
+    thickness of a smooth dime). This can be found in the context under "The
+    FORD ENGINE is In assembling the plug care should be taken to see that
+    the pack nut ia net tight-nected too much so as to crack the porcelain,
+    and the distance between' the sparking points should be 74", about the
+    thickness of a smooth dime." Additionally, it's mentioned that the make
+    of plugs with which Ford engines are equipped when they leave the
+    factory are best adapted to the requirements of our motor,
+    notwithstanding the opinion of various garage men to the contrary.
+    However, this statement doesn't directly provide the exact gap size but
+    implies that the standard gap size is 7/16".   To clarify further, based
+    on the given sources, there isn't explicit mention of the exact gap size
+    for the Model T Ford spark plugs. The closest approximation is 7/16",
+    which is approximately equal to 1.0625 inches. However, without more
+    detailed specifications, we cannot pinpoint the precise measurement used
+    in the assembly process. The context suggests that the recommended gap
+    size is around 7/16" due to its similarity to the thickness of a smooth
+    dime coin, but it does not specify exactly what constitutes "a smooth
+    dime." Therefore, while 7/16" is likely the intended value, it would be
+    prudent to consult official documentation or technical manuals for the
+    most accurate specification.   It's important to note that the context
+    also mentions that carbonization should be avoided during cleaning, and
+    that the porcelain and other parts should finally be washed in gasoline
+    and wiped dry with a cloth. These instructions suggest proper
+    maintenance practices rather than providing specific gap sizes for spark
+    plugs. Thus, although 7/16" might be the intended gap size, it's crucial
+    to verify this information through reliable references before applying
+    it to actual engine components.   Given the available information, the
+    safest approach is to use the approximate value of 7/16" (approximately
+    1.0625 inches) for the spark plug gap when assembling a Model T Ford
+    engine according to the guidelines provided in the context. Always
+    ensure that any adjustments made follow established procedures and
+    standards to avoid potential damage to the engine or safety hazards.
+
+  ── B: Threshold RAG (4 chunks ≥ 0.5, 13.64s) ──
+    The correct spark plug gap for a Model T Ford is 7/16 inch (about the
+    thickness of a smooth dime). This can be determined from the text "The
+    distance between' the sparking points should be 74", which translates to
+    approximately 7/16 inch. Additionally, it's mentioned that dirty plugs
+    usually result from an excess of oil being carried in the crank case or
+    from using oil of poor quality. However, the passage doesn't provide any
+    additional details on how to adjust or replace the spark plugs once they
+    become worn out. To ensure proper operation, it's recommended to use the
+    factory-installed plugs when purchasing new ones. Therefore, while there
+    isn't explicit guidance on replacement procedures, the key point is that
+    these factory-installed plugs are optimal for the vehicle's needs.   To
+    summarize, based solely on the given information, the correct spark plug
+    gap for a Model T Ford is 7/16 inch, but no further instructions on
+    replacing or adjusting the plugs are provided. The context suggests that
+    the factory-installed plugs are suitable unless otherwise specified. The
+    passage emphasizes the importance of maintaining the original
+    specifications rather than experimenting with alternative brands. Thus,
+    the most accurate statement regarding the spark plug gap without
+    additional context would be: "The spark plug gap for a Model T Ford is
+    typically 7/16 inch." However, this assumes that the context provides
+    sufficient detail to determine the exact value; otherwise, the precise
+    measurement might vary slightly depending on local standards or
+    variations in manufacturing processes.
+
+================================================================================
+  Q3: How do I fix a slipping transmission band?
+================================================================================
+
+  Scores (rank 1→10) : [0.5783, 0.5783, 0.5144, 0.5144, 0.4601, 0.4601, 0.4343, 0.4343, 0.4332, 0.4332]
+  Sources            : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Max score          : 0.5783
+  Min score          : 0.4332
+  Score range        : 0.145
+  Gap rank-1 to 2    : 0.0
+  Mean score         : 0.4841
+  Above threshold    : 4 / 10  (threshold=0.5)
+
+  ── A: Full RAG (all 10 chunks, 14.95s) ──
+    To fix a slipping transmission band, you need to loosen the lock nut at
+    the tight side of the transmission cover, then turn the adjusting screw
+    to the right. This will allow you to adjust the tension of the band.
+    Additionally, ensure that the screws in the fingers are properly
+    adjusted so that the spring is compressed evenly around the spring
+    support. Finally, use the adjusting studs to further compress the
+    spring, ensuring that the pins fit snugly into the lug on the bottom of
+    the housing. The process involves pressing the spring into place through
+    the holes in the side of the spring support, and then turning the clutch
+    spring support until the pin fits into the lugs on the bottom of the
+    housing. This ensures that the clutch finger is compressed sufficiently
+    to insert the pin. It's important to note that this method can only be
+    used within an area of two or two and one-sixteenth inches to prevent
+    the clutch from slipping.   To summarize, the steps to fix a slipping
+    transmission band include:  1. Loosen the lock nut at the tight side of
+    the transmission cover. 2. Turn the adjusting screw to the right to
+    adjust the tension of the band. 3. Ensure proper adjustment of the
+    screws in the fingers. 4. Use the adjusting studs to compress the
+    spring. 5. Insert the pin through the holes in the side of the spring
+    support. 6. Turn the clutch spring support until the pin fits into the
+    lugs on the bottom of the housing.  By following these steps, you can
+    effectively fix a slipping transmission band. However, it's crucial to
+    exercise caution during the process to avoid damaging the components.
+    Always refer to the manufacturer's instructions for detailed guidance
+    and safety precautions.
+
+  ── B: Threshold RAG (4 chunks ≥ 0.5, 19.65s) ──
+    The instructions suggest loosening the lock nut at the tight side of the
+    transmission cover and then turning the adjusting screw (refer to Cut
+    No. 12) to the right to tighten the brake and reverse bands.
+    Additionally, to ensure proper operation, you should check that the
+    bands do not drag the drums when disengaged, as this can cause
+    overheating of the motor. It's important to note that these adjustments
+    must be made with care to avoid damaging the transmission components.
+    [Source: ModelT-31-40-ocr.pdf | Score: 0.514; Ford-Model-T-
+    Man-1919-ocr.pdf | Score: 0.514]   Based on the given sources, the steps
+    to fix a slipping transmission band include:  1. Loosen the lock nut at
+    the tight side of the transmission cover. 2. Turn the adjusting screw
+    (refer to Cut No. 12) to the right to tighten the brake and reverse
+    bands. 3. Ensure that the bands do not drag the drums when disengaged,
+    which could lead to overheating of the motor.  These instructions
+    provide guidance on how to adjust the transmission bands for optimal
+    performance and safety. However, further clarification might be needed
+    regarding the exact location of Cut No. 12 mentioned in the sources.
+    [Sources: ModelT-31-40-ocr.pdf | Score: 0.514; Ford-Model-T-
+    Man-1919-ocr.pdf | Score: 0.514]  The final answer is: Loosen the lock
+    nut at the tight side of the transmission cover and turn the adjusting
+    screw (refer to Cut No. 12) to the right to tighten the brake and
+    reverse bands. Ensure that the bands do not drag the drums when
+    disengaged, as this can cause overheating of the motor. Follow these
+    steps carefully to prevent damage to the transmission components.
+    [Sources: ModelT-31-40-ocr.pdf | Score: 0.514; Ford-Model-T-
+    Man-1919-ocr.pdf | Score: 0.514]
+
+================================================================================
+  Q4: What oil should I use in a Model T engine?
+================================================================================
+
+  Scores (rank 1→10) : [0.3973, 0.3973, 0.3618, 0.3615, 0.359, 0.359, 0.352, 0.352, 0.3383, 0.3383]
+  Sources            : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Max score          : 0.3973
+  Min score          : 0.3383
+  Score range        : 0.0589
+  Gap rank-1 to 2    : 0.0
+  Mean score         : 0.3617
+  Above threshold    : 0 / 10  (threshold=0.5)
+
+  ── A: Full RAG (all 10 chunks, 10.8s) ──
+    For the Model T engine, you should use either the Ford splash system or
+    the Ford's recommended oil for the engine and transmission.
+    Additionally, there is an oil cup located at the end of the generator
+    housing that should be filled with a few drops of oil periodically.
+    However, if repairing the ignition, do not follow any instructions given
+    in the previous sources as they may not apply to this specific repair
+    scenario. When troubleshooting issues such as weak exhaust valve
+    springs, air leaks in the intake manifold, or poor compression, refer to
+    the additional points mentioned in the text.   Based on the provided
+    information, the correct answer is:  For the Model T engine, you should
+    use either the Ford splash system or the Ford's recommended oil for the
+    engine and transmission. Additionally, there is an oil cup located at
+    the end of the generator housing that should be filled with a few drops
+    of oil periodically. However, if repairing the ignition, do not follow
+    any instructions given in the previous sources as they may not apply to
+    this specific repair scenario. When troubleshooting issues such as weak
+    exhaust valve springs, air leaks in the intake manifold, or poor
+    compression, refer to the additional points mentioned in the text.
+
+  ── B: Threshold RAG (0 chunks ≥ 0.5, 0.0s) ──
+    [No chunks above threshold — no answer generated]
+
+================================================================================
+  Q5: How do I start a Model T Ford?
+================================================================================
+
+  Scores (rank 1→10) : [0.5565, 0.5565, 0.5388, 0.5088, 0.5086, 0.4991, 0.4975, 0.4774, 0.4774, 0.4653]
+  Sources            : ['ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-61-62-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf']
+  Max score          : 0.5565
+  Min score          : 0.4653
+  Score range        : 0.0912
+  Gap rank-1 to 2    : 0.0
+  Mean score         : 0.5086
+  Above threshold    : 5 / 10  (threshold=0.5)
+
+  ── A: Full RAG (all 10 chunks, 11.76s) ──
+    Before attempting to start the car, ensure that the radiator is filled
+    with clean, fresh water. Additionally, if you encounter issues with the
+    starter or generator, it is recommended to seek assistance from an
+    authorized Ford dealer rather than attempting to fix them yourself.  To
+    summarize:  1. Fill the radiator with clean, fresh water. 2. Consult an
+    authorized Ford dealer if problems arise with the starter or generator.
+    3. Ensure proper operation of the ignition system. To disconnect
+    adjustments, refer to the manual under "How to Disconnect."   Please
+    note that this summary includes only the relevant information from the
+    sources provided, omitting extraneous details such as page numbers and
+    additional text within each source. The core instructions remain
+    consistent across all sources. The context emphasizes the importance of
+    obtaining genuine Ford parts and seeking professional help for
+    maintenance and repairs. The Model T Ford was designed to be simple and
+    straightforward, emphasizing its simplicity over complexity. However,
+    the instruction about checking the spark lever indicates some level of
+    sophistication in the design, suggesting potential risks associated with
+    improper operation. The manual also mentions keeping the car in proper
+    adjustment and repair, indicating ongoing maintenance requirements
+    despite its basic nature. Overall, while the Model T Ford was intended
+    to be user-friendly, users were advised to have knowledge of Ford
+    construction and to purchase genuine parts to avoid complications.
+
+  ── B: Threshold RAG (5 chunks ≥ 0.5, 8.53s) ──
+    Before starting the car, you need to fill the radiator with clean, fresh
+    water. This step ensures that the cooling system is properly filled and
+    ready for operation. Additionally, it's important to check if there are
+    any issues with the starter or generator; owners should consult an
+    authorized Ford dealer rather than attempting repairs themselves. The
+    manual also mentions installing a new carburetor if necessary. These
+    steps collectively ensure that the vehicle is prepared for safe
+    operation.   Explanation: The given sources provide detailed
+    instructions on how to prepare a Model T Ford for starting. They
+    emphasize filling the radiator with clean, fresh water as a crucial
+    initial step. Furthermore, they advise consulting an authorized Ford
+    dealer for any issues related to the starter or generator, indicating
+    professional assistance over DIY attempts. Lastly, the mention of
+    installing a new carburetor suggests routine maintenance but doesn't
+    directly address starting procedures. However, these points collectively
+    outline the preparatory steps required before attempting to start the
+    car.
+
+================================================================================
+  Q6: How do I adjust the valve clearances on a Model T?
+================================================================================
+
+  Scores (rank 1→10) : [0.5694, 0.5694, 0.5498, 0.5498, 0.4654, 0.4654, 0.4593, 0.4593, 0.4573, 0.4567]
+  Sources            : ['ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Max score          : 0.5694
+  Min score          : 0.4567
+  Score range        : 0.1127
+  Gap rank-1 to 2    : 0.0
+  Mean score         : 0.5002
+  Above threshold    : 4 / 10  (threshold=0.5)
+
+  ── A: Full RAG (all 10 chunks, 6.77s) ──
+    To adjust the valve clearances on a Model T, you need to ensure that the
+    clearance between the push rod and the valve stem is neither too tight
+    nor too loose. This clearance should always be within the range of 1-32
+    inches and 1-64 inches, with the ideal measurement being halfway between
+    these two values. When adjusting the valve clearances, it's important to
+    measure them while the push rod is positioned at the heel of the cam.
+    Additionally, if you're experiencing issues such as delayed valve
+    opening or premature closing, or even partial valve closure, consider
+    replacing the push rods with new ones. These adjustments can help
+    improve the overall performance and reliability of the engine by
+    ensuring proper operation of the valves.
+
+  ── B: Threshold RAG (4 chunks ≥ 0.5, 9.37s) ──
+    To adjust the valve clearances on a Model T, you need to ensure that the
+    clearance between the pushrod and valve stem is within the specified
+    range of 1-32 inches and 1-64 inches. This can be done by measuring the
+    gap when the pushrod is at the heel of the cam. Additionally, it's
+    important to check if the valves are properly aligned with the cutout
+    positions shown in Cut No. 3. In case one of the valves is open while
+    others are closed, make sure they are correctly positioned according to
+    the instructions given for each cylinder. It's also crucial to verify
+    that the exhaust valve opens at the appropriate point during the engine
+    cycle based on the piston's position relative to the cylinder casting.
+    This process involves precise measurement and alignment to maintain
+    optimal performance and efficiency of the engine components. Regular
+    maintenance checks will help prevent issues related to improper valve
+    clearance adjustments over time. Based on the provided sources,
+    adjusting valve clearances on a Model T requires careful attention to
+    detail and adherence to manufacturer guidelines.
+
+================================================================================
+  Q7: What is the cooling system capacity of the Model T?
+================================================================================
+
+  Scores (rank 1→10) : [0.4317, 0.4314, 0.427, 0.406, 0.3429, 0.3429, 0.3408, 0.3408, 0.3318, 0.3312]
+  Sources            : ['ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf']
+  Max score          : 0.4317
+  Min score          : 0.3312
+  Score range        : 0.1005
+  Gap rank-1 to 2    : 0.0003
+  Mean score         : 0.3726
+  Above threshold    : 0 / 10  (threshold=0.5)
+
+  ── A: Full RAG (all 10 chunks, 10.75s) ──
+    The cooling system capacity of the Model T is approximately 1 gallon. It
+    is important that the car should not be run under own power unless the
+    water circulating system has been filled. Pour in the water until you
+    are sure that both radiator and cylinder water jackets are full. Water
+    will run out of the overflow pipe onto the ground when the system has
+    been properly filled. During the first few days that the car is being
+    driven, it is a good plan to examine the radiator frequently and keep it
+    properly filled. The water supply should be replenished as needed. To
+    remedy any problems with an overheated radiator, no trouble can result
+    from the filling of a system if the water system is not entirely empty.
+    The motor should be allowed to cool before the cold water is introduced.
+    Based on the information provided in the sources, the cooling system
+    capacity of the Model T is approximately 1 gallon. This was determined
+    by analyzing the relevant sections of the documents where the capacity
+    is mentioned directly or indirectly. The text also provides instructions
+    for checking and refilling the water system, indicating that this is
+    indeed the amount used for cooling purposes. Therefore, the cooling
+    system capacity of the Model T is 1 gallon.
+
+  ── B: Threshold RAG (0 chunks ≥ 0.5, 0.0s) ──
+    [No chunks above threshold — no answer generated]
+
+================================================================================
+  Q8: How do I remove the cylinder head on a Model T?
+================================================================================
+
+  Scores (rank 1→10) : [0.5507, 0.5507, 0.5157, 0.4744, 0.452, 0.447, 0.447, 0.4426, 0.4382, 0.4291]
+  Sources            : ['ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-11-20-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Max score          : 0.5507
+  Min score          : 0.4291
+  Score range        : 0.1216
+  Gap rank-1 to 2    : 0.0
+  Mean score         : 0.4747
+  Above threshold    : 3 / 10  (threshold=0.5)
+
+  ── A: Full RAG (all 10 chunks, 12.17s) ──
+    To remove the cylinder head on a Model T, you need to follow these
+    steps:  1. Disconnect the wires at the top of the motor and also the
+    radiator connection attached to the radiator. 2. Remove the 15 cap
+    screws which hold the cylinder head in place. 3. Take off the cylinder
+    head and, with a putty knife or a crew-driver, scrape, the carbonized
+    matter from the cylinder head and top of pistons, being careful to
+    prevent the specks of carbon from getting into the cylinders or bolt
+    holes. 4. Turn the motor over 30 degrees to align No. 1 and No. 4
+    pistons at the top center. 5. Place the gasket in position over the
+    pistons and then put the cylinder head in place. 6. Draw the cylinder
+    head bolts evenly down (give each bolt a few turns at a time), do not
+    tighten them on one end before drawing them up at the other.   The
+    process involves removing the cylinder head screws, scraping away any
+    carbon buildup, turning the engine over, installing the gasket, and
+    ensuring even tightening of the bolts. This ensures proper alignment and
+    sealing of the cylinder head. [Sources: ModelT-11-20-ocr.pdf, Ford-
+    Model-T-Man-1919-ocr.pdf]
+
+  ── B: Threshold RAG (3 chunks ≥ 0.5, 9.47s) ──
+    To remove the cylinder head on a Model T, you need to follow these
+    steps:  1. Disconnect the wires at the top of the motor and the radiator
+    connection attached to the radiator. 2. Remove the 15 cap screws that
+    hold the cylinder head in place. 3. Take off the cylinder head and use a
+    putty knife or a crew-driver to scrape away any carbonized matter from
+    the cylinder head and top of pistons, ensuring not to let the specks get
+    into the cylinders or bolt holes. 4. Turn the motor over 30 degrees to
+    align No. 1 and No. 2.   The process involves disassembling various
+    components such as the radiator, motor, and cylinder head itself before
+    removing it entirely. This detailed procedure ensures thorough cleaning
+    and proper removal of debris without compromising the integrity of
+    critical engine parts. The manual provides step-by-step instructions for
+    each component's removal, emphasizing safety precautions like avoiding
+    carbon specks entering the engine. It is crucial to follow these
+    guidelines carefully to prevent damage during the disassembly process.
+
+================================================================================
+  Q9: What are the tire specifications for a Model T Ford?
+================================================================================
+
+  Scores (rank 1→10) : [0.4414, 0.427, 0.427, 0.4268, 0.4265, 0.426, 0.4112, 0.4112, 0.4033, 0.4033]
+  Sources            : ['ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-51-60-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-41-50-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Max score          : 0.4414
+  Min score          : 0.4033
+  Score range        : 0.0381
+  Gap rank-1 to 2    : 0.0144
+  Mean score         : 0.4204
+  Above threshold    : 0 / 10  (threshold=0.5)
+
+  ── A: Full RAG (all 10 chunks, 22.9s) ──
+    The tire specifications for a Model T Ford include the following:  -
+    Tire size: 20 x 4" - Rim diameter: 30 inches - Rim width: 3.5 inches -
+    Load capacity: 10 pounds per square inch (psi) - Speed rating: Limited
+    to 10 mph - Tread depth: Approximately 1/16 inch - Sidewall height: 1/8
+    inch - Rim spacing: 2.5 inches apart - Rim thickness: 1.5 inches - Rim
+    material: Cast iron - Rim finish: Black paint - Rim color: White - Rim
+    texture: Smooth - Rim shape: Round - Rim diameter: 30 inches - Rim
+    width: 3.5 inches - Rim spacing: 2.5 inches apart - Rim thickness: 1.5
+    inches - Rim material: Cast iron - Rim finish: Black paint - Rim color:
+    White - Rim texture: Smooth - Rim shape: Round - Rim diameter: 30 inches
+    - Rim width: 3.5 inches - Rim spacing: 2.5 inches apart - Rim thickness:
+    1.5 inches - Rim material: Cast iron - Rim finish: Black paint - Rim
+    color: White - Rim texture: Smooth - Rim shape: Round - Rim diameter: 30
+    inches - Rim width: 3.5 inches - Rim spacing: 2.5 inches apart - Rim
+    thickness: 1.5 inches - Rim material: Cast iron - Rim finish: Black
+    paint - Rim color: White - Rim texture: Smooth - Rim shape: Round - Rim
+    diameter: 30 inches - Rim width: 3.5 inches - Rim spacing: 2.5 inches
+    apart - Rim thickness: 1.5 inches - Rim material: Cast iron - Rim
+    finish: Black paint - Rim color: White - Rim texture: Smooth - Rim
+    shape: Round - Rim diameter: 30 inches - Rim width: 3.5 inches - Rim
+    spacing: 2.5 inches apart - Rim thickness: 1.5 inches - Rim material:
+    Cast iron - Rim finish: Black paint - Rim color: White - Rim texture:
+    Smooth - Rim shape: Round - Rim diameter: 30
+
+  ── B: Threshold RAG (0 chunks ≥ 0.5, 0.0s) ──
+    [No chunks above threshold — no answer generated]
+
+================================================================================
+  Q10: How do I adjust the brakes on a Model T?
+================================================================================
+
+  Scores (rank 1→10) : [0.5384, 0.5384, 0.4323, 0.4323, 0.4315, 0.4315, 0.4164, 0.4164, 0.4098, 0.4098]
+  Sources            : ['ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-01-10-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf', 'ModelT-31-40-ocr.pdf', 'Ford-Model-T-Man-1919-ocr.pdf']
+  Max score          : 0.5384
+  Min score          : 0.4098
+  Score range        : 0.1286
+  Gap rank-1 to 2    : 0.0
+  Mean score         : 0.4457
+  Above threshold    : 2 / 10  (threshold=0.5)
+
+  ── A: Full RAG (all 10 chunks, 22.81s) ──
+    To adjust the brakes on a Model T, loosen the lock nut at the tight side
+    of the transmission cover, and turn the adjusting screw to the right. To
+    tighten the brake and reverse bands, remove the transmission cover and
+    turn the adjusting nuts on the shafts to the right. Ensure that the
+    bands do not drag the drums when disengaged, as they exert 2 brake
+    effect, and tend to overheat the motor.   This can be found in multiple
+    sources including [ModelT-31-40-ocr.pdf], [Ford-Model-T-
+    Man-1919-ocr.pdf], [ModelT-31-40-ocr.pdf], [Ford-Model-T-
+    Man-1919-ocr.pdf], [ModelT-01-10-ocr.pdf], [Ford-Model-T-
+    Man-1919-ocr.pdf], [ModelT-31-40-ocr.pdf], [Ford-Model-T-
+    Man-1919-ocr.pdf]. The instructions vary slightly between sources but
+    all mention loosening the lock nut, turning the adjusting screw to the
+    right, removing the transmission cover, and adjusting the nuts on the
+    shafts to the right. They also emphasize ensuring the bands do not drag
+    the drums during disengagement to prevent overheating the motor. The
+    process involves loosening the lock nut, turning the adjusting screw to
+    the right, removing the transmission cover, and adjusting the nuts on
+    the shafts to the right. It's important to ensure the bands do not drag
+    the drums during disengagement to avoid overheating the motor. The exact
+    steps may differ slightly among sources, but the general procedure
+    remains consistent across them.   To summarize, the key points for
+    adjusting the brakes on a Model T include:  1. Loosen the lock nut at
+    the tight side of the transmission cover. 2. Turn the adjusting screw to
+    the right. 3. Remove the transmission cover. 4. Adjust the adjusting
+    nuts on the shafts to the right. 5. Ensure the bands do not drag the
+    drums when disengaged to prevent overheating the motor.   These steps
+    are mentioned in various sources such as [ModelT-31-40-ocr.pdf], [Ford-
+    Model-T-Man-1919-ocr.pdf], [ModelT-31-40-ocr.pdf], [Ford-Model-T-
+    Man-1919-ocr.pdf], [ModelT-01-10-ocr.pdf], [Ford-Model
+
+  ── B: Threshold RAG (2 chunks ≥ 0.5, 8.92s) ──
+    To adjust the brakes on a Model T, you need to loosen the lock nut at
+    the tight side of the transmission cover. Then, you should turn the
+    adjusting screw to the right until the brake and reverse bands are
+    tightened. Additionally, it is important to ensure that the bands do not
+    drag the drums when disengaged, as this can cause overheating of the
+    motor. The text also mentions that if the bands are too loose, they may
+    slip off the drum, which could lead to poor braking performance.
+    Therefore, proper adjustment of the brake bands is crucial for safe
+    operation of the vehicle.   This answer is based directly on the
+    relevant sections from both sources, providing clear instructions on how
+    to adjust the brakes on a Model T. It includes steps such as loosening
+    the lock nut, turning the adjusting screw, ensuring the bands don't drag
+    the drums, and addressing potential issues with loose bands. The answer
+    covers all aspects mentioned in the context regarding brake adjustments
+    on a Model T.
+
+================================================================================
+  SCORE DISTRIBUTION SUMMARY (across all 10 queries)
+================================================================================
+    Q      Max    Gap1-2     Mean    Range   Above thr
+  --------------------------------------------------
+    1   0.6404    0.0629   0.5554   0.1367          10
+    2   0.5378    0.0153   0.4861    0.096           4
+    3   0.5783       0.0   0.4841    0.145           4
+    4   0.3973       0.0   0.3617   0.0589           0
+    5   0.5565       0.0   0.5086   0.0912           5
+    6   0.5694       0.0   0.5002   0.1127           4
+    7   0.4317    0.0003   0.3726   0.1005           0
+    8   0.5507       0.0   0.4747   0.1216           3
+    9   0.4414    0.0144   0.4204   0.0381           0
+   10   0.5384       0.0   0.4457   0.1286           2
