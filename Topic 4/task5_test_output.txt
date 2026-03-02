@@ -1,0 +1,137 @@
+Script started on 2026-02-07 20:28:47+00:00 [TERM="xterm-color" TTY="/dev/pts/0" COLUMNS="-1" LINES="-1"]
+================================================================================
+HOUR 1: Testing Weather Tool in Isolation
+================================================================================
+
+✅ API key found. Testing tool...
+
+Test 1: Valid request (Paris, 3-day trip)
+------------------------------------------------------------
+Weather Forecast for Paris, FR
+Travel Dates: 2026-02-08 to 2026-02-10
+============================================================
+
+📅 2026-02-08:
+  Temperature: 6.3°C to 12.2°C
+  Feels like: 8.1°C
+  Conditions: broken clouds
+  Humidity: 74%
+  Wind: 1.4 m/s
+  Rain probability: 0%
+
+📅 2026-02-09:
+  Temperature: 6.7°C to 11.6°C
+  Feels like: 8.1°C
+  Conditions: overcast clouds
+  Humidity: 74%
+  Wind: 2.0 m/s
+  Rain probability: 0%
+
+📅 2026-02-10:
+  Temperature: 7.6°C to 11.2°C
+  Feels like: 7.5°C
+  Conditions: overcast clouds
+  Humidity: 85%
+  Wind: 4.0 m/s
+  Rain probability: 100%
+
+
+
+================================================================================
+Test 2: Imperial units (New York)
+------------------------------------------------------------
+Weather Forecast for New York, US
+Travel Dates: 2026-02-08 to 2026-02-10
+============================================================
+
+📅 2026-02-08:
+  Temperature: 2.4°F to 15.5°F
+  Feels like: -4.7°F
+  Conditions: overcast clouds
+  Humidity: 72%
+  Wind: 18.9 mph
+  Rain probability: 0%
+
+📅 2026-02-09:
+  Temperature: 5.6°F to 28.2°F
+  Feels like: 3.2°F
+  Conditions: scattered clouds
+  Humidity: 80%
+  Wind: 9.1 mph
+  Rain probability: 0%
+
+📅 2026-02-10:
+  Temperature: 14.9°F to 32.5°F
+  Feels like: 18.2°F
+  Conditions: broken clouds
+  Humidity: 86%
+  Wind: 4.2 mph
+  Rain probability: 0%
+
+
+
+================================================================================
+Test 3: Error handling (invalid city)
+------------------------------------------------------------
+ERROR: City 'InvalidCityXYZ123' not found. Check spelling or try a major city nearby.
+
+================================================================================
+Test 4: Error handling (end before start)
+------------------------------------------------------------
+ERROR: end_date must be after start_date
+
+================================================================================
+Test 5: Long trip (7 days - should warn but show available data)
+------------------------------------------------------------
+Weather Forecast for Rome, US
+Travel Dates: 2026-02-08 to 2026-02-14
+⚠️  NOTE: OpenWeatherMap free tier provides 5-day forecast. Showing available data for first 5 days.
+============================================================
+
+📅 2026-02-08:
+  Temperature: -3.2°C to 11.4°C
+  Feels like: 3.2°C
+  Conditions: clear sky
+  Humidity: 45%
+  Wind: 1.6 m/s
+  Rain probability: 0%
+
+📅 2026-02-09:
+  Temperature: 2.7°C to 17.9°C
+  Feels like: 8.1°C
+  Conditions: overcast clouds
+  Humidity: 57%
+  Wind: 1.4 m/s
+  Rain probability: 0%
+
+📅 2026-02-10:
+  Temperature: 8.3°C to 17.9°C
+  Feels like: 11.7°C
+  Conditions: clear sky
+  Humidity: 86%
+  Wind: 2.0 m/s
+  Rain probability: 0%
+
+📅 2026-02-11:
+  Temperature: 9.5°C to 16.0°C
+  Feels like: 12.8°C
+  Conditions: overcast clouds
+  Humidity: 92%
+  Wind: 3.0 m/s
+  Rain probability: 100%
+
+📅 2026-02-12:
+  Temperature: 3.2°C to 15.6°C
+  Feels like: 6.8°C
+  Conditions: light rain
+  Humidity: 82%
+  Wind: 1.5 m/s
+  Rain probability: 100%
+
+
+
+================================================================================
+✅ Tool testing complete! Ready for agent integration.
+================================================================================
+
+Script done on 2026-02-07 20:28:54+00:00 [COMMAND_EXIT_CODE="0"]
