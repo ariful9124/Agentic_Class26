@@ -29,7 +29,7 @@ However:
 Therefore, the behavior is due to the LLM’s generative nature, not a looping or routing error in the graph logic.
 ---
 
-## Task 2: Event though I give empty input, I am getting output. Example: 
+## Task 2: Even though I give empty input, I am getting output. Example: 
 --------------------------------------------------
 LLM Response:
 --------------------------------------------------
