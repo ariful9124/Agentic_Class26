@@ -1,0 +1,117 @@
+=================================================================
+DRILL 1 — search_papers_by_relevance
+Query: "large language model agents" | Top 5 results
+=================================================================
+
+1. InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents
+   Year: 2024
+   Authors: Qiusi Zhan, Zhixiang Liang, Zifan Ying et al.
+
+2. Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning
+   Year: 2025
+   Authors: Sikuan Yan, Xiufeng Yang, Zuchao Huang et al.
+
+3. A Survey of Large Language Model Agents for Question Answering
+   Year: 2025
+   Authors: Murong Yue
+
+4. TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents
+   Year: 2025
+   Authors: Geon Lee, Wenchao Yu, Kijung Shin et al.
+
+5. Large language model agents can use tools to perform clinical calculations
+   Year: 2025
+   Authors: Alex J. Goodell, Simon N. Chu, D. Rouholiman et al.
+
+=================================================================
+DRILL 2 — get_citations
+Paper: BERT (ARXIV:1810.04805) | Citations from 2023 onward
+=================================================================
+
+Total citation records returned: 10
+First 5 citing papers:
+
+  1. Perplexity and pseudo-perplexity as objective measures of linguistic deficits in schizophrenia: Evidence from a Korean-Speaking cohort (2026)
+  2. NeuralMetric: An accurate and efficient real-time safety metric for automated driving systems (2026)
+  3. Leveraging semantic fusion and generative reasoning using large language models for context-aware and explainable sexism detection (2026)
+  4. Mispronunciation detection and diagnosis based on large language models (2026)
+  5. Advanced technology-driven few-shot relation extraction: Challenges, opportunities, and future outlook (2026)
+
+=================================================================
+DRILL 3 — get_paper (fields=references)
+Paper: BERT (ARXIV:1810.04805) | References sorted by year
+Note: Exercise specified ReAct (ARXIV:2210.03629) but that paper
+      is not indexed in this Asta corpus; BERT used as substitute.
+=================================================================
+
+Paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+Total references: 63
+(Note: the Asta API returns only paperId + title for nested
+ reference entries; individual years require a separate lookup.)
+References listed in order returned by API:
+
+    1. Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering
+    2. U-Net: Machine Reading Comprehension with Unanswerable Questions
+    3. Semi-Supervised Sequence Modeling with Cross-View Training
+    4. Dissecting Contextual Word Embeddings: Architecture and Representation
+    5. SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference
+    6. Character-Level Language Modeling with Deeper Self-Attention
+    7. Contextual String Embeddings for Sequence Labeling
+    8. Neural Network Acceptability Judgments
+    9. GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding
+   10. Deep Contextualized Word Representations
+   11. An efficient framework for learning sentence representations
+   12. QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension
+   13. MaskGAN: Better Text Generation via Filling in the ______
+   14. Universal Language Model Fine-tuning for Text Classification
+   15. Simple and Effective Multi-Paragraph Reading Comprehension
+   16. Learned in Translation: Contextualized Word Vectors
+   17. SemEval-2017 Task 1: Semantic Textual Similarity Multilingual and Crosslingual Focused Evaluation
+   18. Attention is All you Need
+   19. Reinforced Mnemonic Reader for Machine Reading Comprehension
+   20. Supervised Learning of Universal Sentence Representations from Natural Language Inference Data
+   21. TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension
+   22. Discourse-Based Objectives for Fast Unsupervised Sentence Representation Learning
+   23. A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference
+   24. Semi-supervised sequence tagging with bidirectional language models
+   25. Bidirectional Attention Flow for Machine Comprehension
+   26. Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
+   27. context2vec: Learning Generic Context Embedding with Bidirectional LSTM
+   28. Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units
+   29. SQuAD: 100,000+ Questions for Machine Comprehension of Text
+   30. A Decomposable Attention Model for Natural Language Inference
+   31. Learning Distributed Representations of Sentences from Unlabelled Data
+   32. Semi-supervised Sequence Learning
+   33. A large annotated corpus for learning natural language inference
+   34. Skip-Thought Vectors
+   35. Aligning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books
+   36. How transferable are features in deep neural networks?
+   37. GloVe: Global Vectors for Word Representation
+   38. Distributed Representations of Sentences and Documents
+   39. One billion word benchmark for measuring progress in statistical language modeling
+   40. Distributed Representations of Words and Phrases and their Compositionality
+   41. Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank
+   42. The Winograd Schema Challenge
+   43. Word Representations: A Simple and General Method for Semi-Supervised Learning
+   44. Natural Language Understanding
+   45. ImageNet: A large-scale hierarchical image database
+   46. A Scalable Hierarchical Distributed Language Model
+   47. A unified architecture for natural language processing: deep neural networks with multitask learning
+   48. Extracting and composing robust features with denoising autoencoders
+   49. Domain Adaptation with Structural Correspondence Learning
+   50. A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data
+   51. Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition
+   52. Class-Based n-gram Models of Natural Language
+   53. âCloze Procedureâ: A New Tool for Measuring Readability
+   54. Improving language understanding with unsupervised learning
+   55. Corpus of linguistic acceptability
+   56. Quora Question Pairs
+   57. 2016) rather than the standard relu, following OpenAI GPT. The training loss is the sum of the mean masked LM likelihood and the mean next sentence prediction likelihood
+   58. The Seventh PASCAL Recognizing Textual Entailment Challenge
+   59. The Sixth PASCAL Recognizing Textual Entailment Challenge
+   60. The Fourth PASCAL Recognizing Textual Entailment Challenge
+   61. Automatically Constructing a Corpus of Sentential Paraphrases
+   62. The PASCAL Recognising Textual Entailment Challenge
+   63. We provide examples of the pre-training tasks in the following
+
+=================================================================

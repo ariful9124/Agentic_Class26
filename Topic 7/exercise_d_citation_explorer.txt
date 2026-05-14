@@ -1,0 +1,32 @@
+# Citation Neighborhood Report: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+
+## Summary
+The paper "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" by Jacob Devlin et al. (2019), presents a new language representation model called BERT which stands for Bidirectional Encoder Representations from Transformers. This model pre-trains deep bidirectional representations from unlabeled text by conditioning on both left and right context, enabling it to achieve state-of-the-art results across various natural language processing tasks without requiring significant architectural modifications.
+
+## Foundational Works
+1. **Attention is All you Need** (2017) - This paper introduces the Transformer architecture, which relies solely on attention mechanisms, enhancing model performance and training efficiency in sequence transduction tasks.
+2. **ImageNet: A large-scale hierarchical image database** (2009) - A significant contribution to image recognition, providing a vast dataset that has become a benchmark for state-of-the-art performance in computer vision tasks.
+3. **Distributed Representations of Words and Phrases and their Compositionality** (2013) - This work presents the Skip-gram model for learning distributed vector representations of words, essential for various natural language tasks, and emphasizes the importance of context in understanding word meanings.
+4. **GloVe: Global Vectors for Word Representation** (2014) - This paper proposes a new model for vector space representations of words that effectively captures semantic relationships using global statistical information of word co-occurrences.
+5. **Deep Contextualized Word Representations** (2018) - This study introduces a method to model word representations based on the internal states of bidirectional language models, significantly advancing techniques in natural language processing.
+
+## Recent Developments
+1. **Perplexity and pseudo-perplexity as objective measures of linguistic deficits in schizophrenia: Evidence from a Korean-Speaking cohort** (2026, Seung-Hyung Ryu) - This paper investigates linguistic deficits in schizophrenia through novel objective measures.
+2. **NeuralMetric: An accurate and efficient real-time safety metric for automated driving systems** (2026, Xintao Yan) - This research presents a new safety metric designed for automated driving systems to enhance operational efficiency.
+3. **Leveraging semantic fusion and generative reasoning using large language models for context-aware and explainable sexism detection** (2026, Aakash Gupta) - This work discusses methods for detecting sexism in text using advanced language models, focusing on explainability.
+4. **Rumor detection based on the synergy of multi-scale spectral representation and cross-modal graph convolutional reasoning** (2026, Leibin Song) - This paper introduces techniques for detecting rumors by integrating multiple representational modalities.
+5. **Efficient spectral-temporal reconstruction of long-term satellite time series via temporal segments and mask-informed embedding** (2026, Jie Yang) - This study explores methods for reconstructing satellite time series data efficiently, highlighting advancements in data processing techniques.
+
+## Author Profiles
+
+### Jacob Devlin
+- **PaLM: Scaling Language Modeling with Pathways** (2022, 7960 citations)
+
+### Ming-Wei Chang
+- **Natural Questions: A Benchmark for Question Answering Research** (2019, 4610 citations)
+
+### Kenton Lee
+- **Deep Contextualized Word Representations** (2018, 12136 citations)
+
+### Kristina Toutanova
+- **Natural Questions: A Benchmark for Question Answering Research** (2019, 4610 citations)

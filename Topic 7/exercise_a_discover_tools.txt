@@ -1,0 +1,70 @@
+Found 8 tool(s) on the Asta MCP server:
+
+============================================================
+
+Tool: get_paper
+  Description: Get details about a paper by its id.
+  Required parameters:
+    - paper_id (string)
+
+Tool: get_paper_batch
+  Description: Get details about a list of papers by their ids.
+  Required parameters:
+    - ids (array)
+
+Tool: get_citations
+  Description: Get details about the papers that cite this paper (i.e. papers in whose bibliography this paper appears)
+  Required parameters:
+    - paper_id (string)
+
+Tool: search_authors_by_name
+  Description: Search for authors by name.
+  Required parameters:
+    - name (string)
+
+Tool: get_author_papers
+  Description: Get papers written by this author.
+  Required parameters:
+    - author_id (string)
+
+Tool: search_papers_by_relevance
+  Description: Search for papers by keyword relevance.
+  Required parameters:
+    - keyword (string)
+
+Tool: search_paper_by_title
+  Description: Search for papers by title.
+  Required parameters:
+    - title (string)
+
+Tool: snippet_search
+  Description: Search for text snippets that most closely match the query.
+  Required parameters:
+    - query (string)
+
+============================================================
+
+Q&A
+============================================================
+
+Q1: Which tool would you use to find all papers about
+    "transformer attention mechanisms"?
+
+A:  search_papers_by_relevance
+    This tool is designed for broad topic/keyword searches across
+    the corpus. Passing keyword="transformer attention mechanisms"
+    will rank and return papers by relevance to that topic -
+    exactly what I need when exploring a research area rather
+    than looking up a specific title.
+
+Q2: Which tool would you use to find who else published in the
+    same area as a specific author?
+
+A:  Two-step approach:
+    1. get_author_papers (author_id) - retrieve the target
+       author's papers to identify the topics they work on.
+    2. search_papers_by_relevance (keyword) - search with
+       keywords from those papers to surface other researchers
+       publishing in the same area.
+
+============================================================
