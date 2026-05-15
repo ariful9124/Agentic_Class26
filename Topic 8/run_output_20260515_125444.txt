@@ -1,0 +1,247 @@
+Output also saved to: C:\Users\afsha\OneDrive\Desktop\Agentic_Classmaterials\Topic 8\run_output_20260515_125444.txt
+
+============================================================
+STEP 1: Load and Explore the Data
+============================================================
+
+Loading dataset...
+Total examples: 78577
+
+Skimming 5 random examples:
+
+--- Example 1 ---
+  Question : Which pick was from Lamar High School?
+  Schema   : CREATE TABLE table_name_15 (pick VARCHAR, school VARCHAR)
+  Answer   : SELECT pick FROM table_name_15 WHERE school = "lamar high school"
+
+--- Example 2 ---
+  Question : Find the name of amenity that is most common in all dorms.
+  Schema   : CREATE TABLE dorm_amenity (amenity_name VARCHAR, amenid VARCHAR); CREATE TABLE has_amenity (amenid V...
+  Answer   : SELECT T1.amenity_name FROM dorm_amenity AS T1 JOIN has_amenity AS T2 ON T1.amenid = T2.amenid GROUP BY T2.amenid ORDER BY COUNT(*) DESC LIMIT 1
+
+--- Example 3 ---
+  Question : How many people had high rebounds during the game with a record of 34-32?
+  Schema   : CREATE TABLE table_23248940_10 (high_rebounds VARCHAR, record VARCHAR)
+  Answer   : SELECT COUNT(high_rebounds) FROM table_23248940_10 WHERE record = "34-32"
+
+--- Example 4 ---
+  Question : Who made highest assists when high rebounds was Al Horford (17)
+  Schema   : CREATE TABLE table_17311759_4 (high_assists VARCHAR, high_rebounds VARCHAR)
+  Answer   : SELECT high_assists FROM table_17311759_4 WHERE high_rebounds = "Al Horford (17)"
+
+--- Example 5 ---
+  Question : Who's the incumbent of Indiana 4 district?
+  Schema   : CREATE TABLE table_1341843_15 (incumbent VARCHAR, district VARCHAR)
+  Answer   : SELECT incumbent FROM table_1341843_15 WHERE district = "Indiana 4"
+
+Creating train/test split (200 held-out test, rest for training)...
+Training examples: 78377
+Test examples:     200
+
+============================================================
+STEP 2: Prompt Format
+============================================================
+
+Template: Table schema / Question / SQL:
+
+PROMPT:
+Table schema:
+CREATE TABLE table_name_75 (year VARCHAR, rank VARCHAR)
+Question: What year did the rank of 31 happen in?
+SQL: 
+
+COMPLETION (what the model must predict):
+SELECT year FROM table_name_75 WHERE rank = "31"
+
+============================================================
+STEP 3: Evaluate the Base Model
+============================================================
+
+Creating Tinker LoRA training client...
+Tokenizer loaded.
+
+Inspecting weight mask (prompt=0, completion=1)...
+Prompt token count:      33
+Completion token count:  13
+Total token count:       46
+Shifted sequence length: 45
+
+First few shifted training positions:
+
+000 | input='<|begin_of_text|>'  -> target='Table'              | weight=0.0
+001 | input='Table'              -> target=' schema'            | weight=0.0
+002 | input=' schema'            -> target=':\n'                | weight=0.0
+003 | input=':\n'                -> target='CREATE'             | weight=0.0
+004 | input='CREATE'             -> target=' TABLE'             | weight=0.0
+005 | input=' TABLE'             -> target=' table'             | weight=0.0
+006 | input=' table'             -> target='_name'              | weight=0.0
+007 | input='_name'              -> target='_'                  | weight=0.0
+008 | input='_'                  -> target='75'                 | weight=0.0
+009 | input='75'                 -> target=' ('                 | weight=0.0
+010 | input=' ('                 -> target='year'               | weight=0.0
+011 | input='year'               -> target=' VARCHAR'           | weight=0.0
+012 | input=' VARCHAR'           -> target=','                  | weight=0.0
+013 | input=','                  -> target=' rank'              | weight=0.0
+014 | input=' rank'              -> target=' VARCHAR'           | weight=0.0
+015 | input=' VARCHAR'           -> target=')\n'                | weight=0.0
+016 | input=')\n'                -> target='Question'           | weight=0.0
+017 | input='Question'           -> target=':'                  | weight=0.0
+018 | input=':'                  -> target=' What'              | weight=0.0
+019 | input=' What'              -> target=' year'              | weight=0.0
+020 | input=' year'              -> target=' did'               | weight=0.0
+021 | input=' did'               -> target=' the'               | weight=0.0
+022 | input=' the'               -> target=' rank'              | weight=0.0
+023 | input=' rank'              -> target=' of'                | weight=0.0
+024 | input=' of'                -> target=' '                  | weight=0.0
+025 | input=' '                  -> target='31'                 | weight=0.0
+026 | input='31'                 -> target=' happen'            | weight=0.0
+027 | input=' happen'            -> target=' in'                | weight=0.0
+028 | input=' in'                -> target='?\n'                | weight=0.0
+029 | input='?\n'                -> target='SQL'                | weight=0.0
+030 | input='SQL'                -> target=':'                  | weight=0.0
+031 | input=':'                  -> target=' '                  | weight=0.0
+032 | input=' '                  -> target=' SELECT'            | weight=1.0
+033 | input=' SELECT'            -> target=' year'              | weight=1.0
+034 | input=' year'              -> target=' FROM'              | weight=1.0
+035 | input=' FROM'              -> target=' table'             | weight=1.0
+036 | input=' table'             -> target='_name'              | weight=1.0
+037 | input='_name'              -> target='_'                  | weight=1.0
+038 | input='_'                  -> target='75'                 | weight=1.0
+039 | input='75'                 -> target=' WHERE'             | weight=1.0
+040 | input=' WHERE'             -> target=' rank'              | weight=1.0
+041 | input=' rank'              -> target=' ='                 | weight=1.0
+042 | input=' ='                 -> target=' "'                 | weight=1.0
+043 | input=' "'                 -> target='31'                 | weight=1.0
+044 | input='31'                 -> target='"\n\n'              | weight=1.0
+
+Evaluating base model on 200 test questions...
+Evaluated 25/200 examples... current accuracy=20.00%
+Evaluated 50/200 examples... current accuracy=34.00%
+Evaluated 75/200 examples... current accuracy=33.33%
+Evaluated 100/200 examples... current accuracy=36.00%
+Evaluated 125/200 examples... current accuracy=35.20%
+Evaluated 150/200 examples... current accuracy=36.67%
+Evaluated 175/200 examples... current accuracy=37.14%
+Evaluated 200/200 examples... current accuracy=38.50%
+
+Base model accuracy: 38.50% (77/200)
+
+============================================================
+STEP 4: Prepare Training Data
+============================================================
+
+Tokenizing examples and applying weight masks...
+Prepared and shuffled 78377 training examples.
+
+============================================================
+STEP 5: Train (1 epoch, batch size 256, lr 5e-4)
+============================================================
+
+=== Epoch 1/1 ===
+Batch 10/307 processed.
+Batch 20/307 processed.
+Batch 30/307 processed.
+Batch 40/307 processed.
+Batch 50/307 processed.
+Batch 60/307 processed.
+Batch 70/307 processed.
+Batch 80/307 processed.
+Batch 90/307 processed.
+Batch 100/307 processed.
+Batch 110/307 processed.
+Batch 120/307 processed.
+Batch 130/307 processed.
+Batch 140/307 processed.
+Batch 150/307 processed.
+Batch 160/307 processed.
+Batch 170/307 processed.
+Batch 180/307 processed.
+Batch 190/307 processed.
+Batch 200/307 processed.
+Batch 210/307 processed.
+Batch 220/307 processed.
+Batch 230/307 processed.
+Batch 240/307 processed.
+Batch 250/307 processed.
+Batch 260/307 processed.
+Batch 270/307 processed.
+Batch 280/307 processed.
+Batch 290/307 processed.
+Batch 300/307 processed.
+Batch 307/307 processed.
+
+============================================================
+STEP 6: Evaluate the Fine-Tuned Model
+============================================================
+
+Saving fine-tuned weights and creating sampling client...
+Evaluated 25/200 examples... current accuracy=88.00%
+Evaluated 50/200 examples... current accuracy=90.00%
+Evaluated 75/200 examples... current accuracy=89.33%
+Evaluated 100/200 examples... current accuracy=88.00%
+Evaluated 125/200 examples... current accuracy=87.20%
+Evaluated 150/200 examples... current accuracy=88.00%
+Evaluated 175/200 examples... current accuracy=88.57%
+Evaluated 200/200 examples... current accuracy=88.50%
+
+Fine-tuned model accuracy: 88.50% (177/200)
+Improvement over base:     50.00% (38.50% -> 88.50%)
+
+============================================================
+STEP 7: Novel Schema Tests (out-of-distribution)
+============================================================
+
+[1] Difficulty : Easy
+    Question  : What are the names of employees in the engineering department?
+    Generated : SELECT id, name FROM employees WHERE department = 'Engineering'
+    Expected  : SELECT name FROM employees WHERE department = 'engineering'
+    Match     : FAIL
+
+[2] Difficulty : Easy
+    Question  : How many products cost more than 50 dollars?
+    Generated : SELECT COUNT(*) FROM products WHERE price > 50 AND category = 'electronics'
+    Expected  : SELECT COUNT(*) FROM products WHERE price > 50
+    Match     : FAIL
+
+[3] Difficulty : Medium
+    Question  : What is the highest score in the science class?
+    Generated : SELECT MAX(score) FROM students WHERE class = 'Science'
+    Expected  : SELECT MAX(score) FROM students WHERE class = 'science'
+    Match     : PASS
+
+[4] Difficulty : Medium
+    Question  : List the top 3 customers by total order amount.
+    Generated : SELECT customer, SUM(amount) FROM orders GROUP BY customer ORDER BY SUM(amount) DESC LIMIT 3
+    Expected  : SELECT customer, SUM(amount) FROM orders GROUP BY customer ORDER BY SUM(amount) DESC LIMIT 3
+    Match     : PASS
+
+[5] Difficulty : Hard
+    Question  : How many students are enrolled in each department?
+    Generated : SELECT T1.id, T1.name, T1.department, COUNT(*) FROM courses AS T1 JOIN enrollments AS T2 ON T1.id = T2.course_id JOIN enrollments AS T3 ON T2.student_id = T3.student_id GROUP BY T1.department
+    Expected  : SELECT courses.department, COUNT(DISTINCT enrollments.student_id) FROM courses JOIN enrollments ON courses.id = enrollments.course_id GROUP BY courses.department
+    Match     : PASS
+
+============================================================
+STEP 8: Discussion Prompts
+============================================================
+
+Reflect on these questions after reviewing the results:
+
+1. ACCURACY GAINS
+   - What was the base model accuracy vs fine-tuned accuracy?
+   - Which types of SQL queries improved most (SELECT, WHERE, GROUP BY, JOIN)?
+
+2. FINE-TUNING vs RAG
+   - Why is fine-tuning better suited than RAG for learning SQL syntax?
+   - When might RAG outperform fine-tuning (e.g., new schema not in training)?
+
+3. ERROR ANALYSIS — categorize any failures into:
+   - Wrong column/table names
+   - Syntax errors (malformed SQL)
+   - Logic errors (correct syntax, wrong semantics)
+
+4. NOVEL SCHEMAS (Step 7 results)
+   - Did accuracy drop for out-of-distribution schemas?
+   - Which difficulty level failed first — Easy, Medium, or Hard?
+
+Done.
